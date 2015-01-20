@@ -1,0 +1,6 @@
+<map id="django.http.response.HttpResponseRedirectBase" name="django.http.response.HttpResponseRedirectBase">
+<area shape="rect" id="node5" href="$d5/d38/classdjango_1_1http_1_1response_1_1_http_response_permanent_redirect.html" title="django.http.response.Http\lResponsePermanentRedirect" alt="" coords="772,5,963,47"/>
+<area shape="rect" id="node6" href="$db/d05/classdjango_1_1http_1_1response_1_1_http_response_redirect.html" title="django.http.response.Http\lResponseRedirect" alt="" coords="782,71,953,112"/>
+<area shape="rect" id="node2" href="$d9/d55/classdjango_1_1http_1_1response_1_1_http_response.html" title="django.http.response.Http\lResponse" alt="" coords="335,39,505,80"/>
+<area shape="rect" id="node3" href="$dd/db4/classdjango_1_1http_1_1response_1_1_http_response_base.html" title="django.http.response.Http\lResponseBase" alt="" coords="116,39,287,80"/>
+</map>

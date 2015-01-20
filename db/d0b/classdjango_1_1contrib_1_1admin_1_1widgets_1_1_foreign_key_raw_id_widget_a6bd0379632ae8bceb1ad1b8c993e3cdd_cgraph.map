@@ -1,0 +1,9 @@
+<map id="django.contrib.admin.widgets.ForeignKeyRawIdWidget.render" name="django.contrib.admin.widgets.ForeignKeyRawIdWidget.render">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1000,76,1211,103"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1259,20,1471,47"/>
+<area shape="rect" id="node4" href="$db/d0b/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_foreign_key_raw_id_widget.html#a8c5deb0465bc5f4b69b6a00f3c75b4c8" title="django.contrib.admin.widgets.\lForeignKeyRawIdWidget.label\l_for_value" alt="" coords="501,173,695,229"/>
+<area shape="rect" id="node6" href="$db/d0b/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_foreign_key_raw_id_widget.html#a0a6f026df1114039f229fc147c9d7911" title="django.contrib.admin.widgets.\lForeignKeyRawIdWidget.url\l_parameters" alt="" coords="257,93,452,149"/>
+<area shape="rect" id="node5" href="$d9/ddf/namespacedjango_1_1contrib_1_1webdesign_1_1lorem__ipsum.html#a3915d881225642f51bb37ea8ed4f4648" title="django.contrib.webdesign.lorem\l_ipsum.words" alt="" coords="746,173,950,214"/>
+<area shape="rect" id="node7" href="$db/d0b/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_foreign_key_raw_id_widget.html#acdedad6d091d9b0cae16fcd2db23296c" title="django.contrib.admin.widgets.\lForeignKeyRawIdWidget.base\l_url_parameters" alt="" coords="500,93,696,149"/>
+<area shape="rect" id="node8" href="$d4/dec/namespacedjango_1_1contrib_1_1admin_1_1widgets.html#aa99daa950f5ab57637ccca6d1dfe0b9c" title="django.contrib.admin.widgets.url\l_params_from_lookup_dict" alt="" coords="744,97,952,138"/>
+</map>

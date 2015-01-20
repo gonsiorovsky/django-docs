@@ -1,0 +1,8 @@
+<map id="django.db.models.loading.AppCache.__init__" name="django.db.models.loading.AppCache.__init__">
+<area shape="rect" id="node2" href="$dd/d68/classdjango_1_1db_1_1models_1_1loading_1_1_app_cache.html#ac87d2f859e8eb0d06afc2095c4a9a11c" title="django.db.models.loading.\lAppCache.load_app" alt="" coords="227,77,400,119"/>
+<area shape="rect" id="node3" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="448,5,629,47"/>
+<area shape="rect" id="node4" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#ad941fe81e259e2d21ebf4af7244c1cdb" title="django.utils.module\l_loading.module_has\l_submodule" alt="" coords="467,70,611,126"/>
+<area shape="rect" id="node7" href="$dd/d68/classdjango_1_1db_1_1models_1_1loading_1_1_app_cache.html#a9ede9e6f13b3d907825e15046cc04546" title="django.db.models.loading.\lAppCache._label_for" alt="" coords="452,149,625,191"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="677,85,888,111"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="936,85,1148,111"/>
+</map>

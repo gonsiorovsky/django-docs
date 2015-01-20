@@ -1,0 +1,6 @@
+<map id="django.db.backends.BaseDatabaseFeatures" name="django.db.backends.BaseDatabaseFeatures">
+<area shape="rect" id="node3" href="$d9/d31/classdjango_1_1db_1_1backends_1_1mysql_1_1base_1_1_database_features.html" title="django.db.backends.mysql.base.\lDatabaseFeatures" alt="" coords="392,5,605,47"/>
+<area shape="rect" id="node4" href="$d2/d65/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_features.html" title="django.db.backends.oracle.base.\lDatabaseFeatures" alt="" coords="392,71,605,112"/>
+<area shape="rect" id="node5" href="$d2/d42/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1base_1_1_database_features.html" title="django.db.backends.postgresql\l_psycopg2.base.DatabaseFeatures" alt="" coords="385,136,612,177"/>
+<area shape="rect" id="node6" href="$d7/df6/classdjango_1_1db_1_1backends_1_1sqlite3_1_1base_1_1_database_features.html" title="django.db.backends.sqlite3.base.\lDatabaseFeatures" alt="" coords="391,201,607,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.contrib.messages.api.set_level" name="django.contrib.messages.api.set_level">
+<area shape="rect" id="node2" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#afaacedd5167e02e92e6214dffa9ae30e" title="django.contrib.messages.tests.base.\lBaseTests.test_high_level" alt="" coords="264,5,500,47"/>
+<area shape="rect" id="node3" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#ad389c571dc19176a985238aa6b31490c" title="django.contrib.messages.tests.base.\lBaseTests.test_low_level" alt="" coords="264,71,500,112"/>
+</map>

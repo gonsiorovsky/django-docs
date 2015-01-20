@@ -1,0 +1,4 @@
+<map id="django.contrib.comments.moderation.Moderator.connect" name="django.contrib.comments.moderation.Moderator.connect">
+<area shape="rect" id="node2" href="$dc/d10/classdjango_1_1contrib_1_1comments_1_1moderation_1_1_moderator.html#aaa5accdadacf616cbe0f53b874300624" title="django.contrib.comments.moderation.\lModerator.post_save_moderation" alt="" coords="293,5,533,47"/>
+<area shape="rect" id="node3" href="$dc/d10/classdjango_1_1contrib_1_1comments_1_1moderation_1_1_moderator.html#a9a2794035ab31f2a94934c6eb244dea5" title="django.contrib.comments.moderation.\lModerator.pre_save_moderation" alt="" coords="293,71,533,112"/>
+</map>

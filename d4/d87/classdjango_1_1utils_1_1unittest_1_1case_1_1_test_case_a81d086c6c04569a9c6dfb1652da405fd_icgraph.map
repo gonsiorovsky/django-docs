@@ -1,0 +1,8 @@
+<map id="django.utils.unittest.case.TestCase.assertIsNone" name="django.utils.unittest.case.TestCase.assertIsNone">
+<area shape="rect" id="node2" href="$d0/d31/classdjango_1_1contrib_1_1gis_1_1geos_1_1tests_1_1test__geos_1_1_g_e_o_s_test.html#a9d6c45179469019f604f37e8d9df8971" title="django.contrib.gis.geos.tests.test\l_geos.GEOSTest.test_custom_srid" alt="" coords="237,5,465,47"/>
+<area shape="rect" id="node3" href="$d0/d31/classdjango_1_1contrib_1_1gis_1_1geos_1_1tests_1_1test__geos_1_1_g_e_o_s_test.html#a982a1048f8b3a9ce866365d2228af679" title="django.contrib.gis.geos.tests.test\l_geos.GEOSTest.test_gdal" alt="" coords="244,71,459,112"/>
+<area shape="rect" id="node4" href="$dc/d0e/classdjango_1_1contrib_1_1contenttypes_1_1tests_1_1_content_types_tests.html#aec1fdc3ca17fc97ebe5eba21f91b0937" title="django.contrib.contenttypes.tests.\lContentTypesTests.test_missing_model" alt="" coords="224,136,479,177"/>
+<area shape="rect" id="node5" href="$d8/dec/classdjango_1_1contrib_1_1gis_1_1tests_1_1test__geoforms_1_1_geometry_field_test.html#aaab6316ea9e3d1d24b20b870904c9375" title="django.contrib.gis.tests.test\l_geoforms.GeometryFieldTest.test_null" alt="" coords="227,201,476,243"/>
+<area shape="rect" id="node6" href="$dc/d51/classdjango_1_1contrib_1_1gis_1_1tests_1_1geoapp_1_1tests_1_1_geo_query_set_test.html#abab09ef4dd7123d2087a631ce74d382f" title="django.contrib.gis.tests.geoapp.tests.\lGeoQuerySetTest.test_num_geom" alt="" coords="231,267,471,308"/>
+<area shape="rect" id="node7" href="$d0/d31/classdjango_1_1contrib_1_1gis_1_1geos_1_1tests_1_1test__geos_1_1_g_e_o_s_test.html#a30d8af2756ec2201ae19a134bfea04e4" title="django.contrib.gis.geos.tests.test\l_geos.GEOSTest.test_transform_3d" alt="" coords="235,332,467,373"/>
+</map>

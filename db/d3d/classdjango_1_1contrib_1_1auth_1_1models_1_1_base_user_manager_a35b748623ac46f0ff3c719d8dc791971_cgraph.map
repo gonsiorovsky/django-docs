@@ -1,0 +1,6 @@
+<map id="django.contrib.auth.models.BaseUserManager.normalize_email" name="django.contrib.auth.models.BaseUserManager.normalize_email">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="741,10,952,37"/>
+<area shape="rect" id="node4" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a8b53681e1efddbd9e424b0dac8aa0597" title="django.contrib.auth.models.\lBaseUserManager.make_random\l_password" alt="" coords="280,30,495,86"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1000,10,1212,37"/>
+<area shape="rect" id="node5" href="$d2/d11/namespacedjango_1_1utils_1_1crypto.html#a82515747357a01a91587631754140d6f" title="django.utils.crypto.get\l_random_string" alt="" coords="543,33,693,75"/>
+</map>

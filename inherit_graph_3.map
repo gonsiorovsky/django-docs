@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d2/d3c/classdjango_1_1contrib_1_1admin_1_1templatetags_1_1admin__list_1_1_result_list.html" title="django.contrib.admin.templatetags.admin\l_list.ResultList" alt="" coords="92,5,352,47"/>
+<area shape="rect" id="node3" href="$d6/d4b/classdjango_1_1forms_1_1util_1_1_error_list.html" title="django.forms.util.ErrorList" alt="" coords="137,71,307,98"/>
+<area shape="rect" id="node5" href="$d9/d1a/classdjango_1_1template_1_1base_1_1_node_list.html" title="django.template.base.NodeList" alt="" coords="121,122,323,149"/>
+<area shape="rect" id="node7" href="$d6/d8c/classdjango_1_1test_1_1utils_1_1_context_list.html" title="django.test.utils.ContextList" alt="" coords="130,173,314,199"/>
+<area shape="rect" id="node8" href="$d4/da7/classdjango_1_1utils_1_1dictconfig_1_1_converting_list.html" title="django.utils.dictconfig.\lConvertingList" alt="" coords="147,224,297,265"/>
+<area shape="rect" id="node9" href="$d6/d07/classdjango_1_1utils_1_1regex__helper_1_1_choice.html" title="django.utils.regex\l_helper.Choice" alt="" coords="160,289,284,331"/>
+<area shape="rect" id="node10" href="$db/da0/classdjango_1_1utils_1_1regex__helper_1_1_group.html" title="django.utils.regex\l_helper.Group" alt="" coords="160,355,284,396"/>
+<area shape="rect" id="node11" href="$d1/ddd/classdjango_1_1utils_1_1regex__helper_1_1_non_capture.html" title="django.utils.regex\l_helper.NonCapture" alt="" coords="154,420,290,461"/>
+<area shape="rect" id="node4" href="$da/d25/classdjango_1_1contrib_1_1admin_1_1helpers_1_1_admin_error_list.html" title="django.contrib.admin.helpers.\lAdminErrorList" alt="" coords="401,57,593,99"/>
+<area shape="rect" id="node6" href="$da/da8/classdjango_1_1template_1_1debug_1_1_debug_node_list.html" title="django.template.debug.Debug\lNodeList" alt="" coords="400,123,595,164"/>
+</map>

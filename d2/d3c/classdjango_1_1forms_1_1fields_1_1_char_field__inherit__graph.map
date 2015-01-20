@@ -1,0 +1,9 @@
+<map id="django.forms.fields.CharField" name="django.forms.fields.CharField">
+<area shape="rect" id="node4" href="$de/db2/classdjango_1_1forms_1_1fields_1_1_email_field.html" title="django.forms.fields.Email\lField" alt="" coords="545,5,711,47"/>
+<area shape="rect" id="node5" href="$d2/dc4/classdjango_1_1forms_1_1fields_1_1_generic_i_p_address_field.html" title="django.forms.fields.Generic\lIPAddressField" alt="" coords="539,71,717,112"/>
+<area shape="rect" id="node6" href="$dc/dba/classdjango_1_1forms_1_1fields_1_1_i_p_address_field.html" title="django.forms.fields.IPAddress\lField" alt="" coords="531,136,725,177"/>
+<area shape="rect" id="node7" href="$d4/d8c/classdjango_1_1forms_1_1fields_1_1_regex_field.html" title="django.forms.fields.Regex\lField" alt="" coords="543,201,713,243"/>
+<area shape="rect" id="node8" href="$d9/dee/classdjango_1_1forms_1_1fields_1_1_slug_field.html" title="django.forms.fields.Slug\lField" alt="" coords="548,267,708,308"/>
+<area shape="rect" id="node9" href="$dc/dbb/classdjango_1_1forms_1_1fields_1_1_u_r_l_field.html" title="django.forms.fields.URLField" alt="" coords="535,333,721,359"/>
+<area shape="rect" id="node2" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html" title="django.forms.fields.Field" alt="" coords="111,177,273,203"/>
+</map>

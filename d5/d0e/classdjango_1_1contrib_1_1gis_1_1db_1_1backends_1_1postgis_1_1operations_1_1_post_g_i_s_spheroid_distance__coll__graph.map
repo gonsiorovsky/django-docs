@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.db.backends.postgis.operations.PostGISSpheroidDistance" name="django.contrib.gis.db.backends.postgis.operations.PostGISSpheroidDistance">
+<area shape="rect" id="node2" href="$dd/de2/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_function.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISFunction" alt="" coords="148,276,464,317"/>
+<area shape="rect" id="node3" href="$de/db0/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_function.html" title="django.contrib.gis.db.backends.util.\lSpatialFunction" alt="" coords="205,185,431,227"/>
+<area shape="rect" id="node4" href="$d7/d0e/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_operation.html" title="django.contrib.gis.db.backends.util.\lSpatialOperation" alt="" coords="270,95,497,136"/>
+</map>

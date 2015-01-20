@@ -1,0 +1,14 @@
+<map id="django.http.request.HttpRequest.build_absolute_uri" name="django.http.request.HttpRequest.build_absolute_uri">
+<area shape="rect" id="node2" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a1026269088aafe8c0192fefcfef65235" title="django.http.request.Http\lRequest.get_full_path" alt="" coords="232,30,393,71"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#adedd59fca095fd910d91ba3317749c7a" title="django.utils.encoding.iri\l_to_uri" alt="" coords="468,51,627,93"/>
+<area shape="rect" id="node8" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a56ad7b34ecb1bd66671da0170d02b980" title="django.http.request.Http\lRequest.get_host" alt="" coords="232,201,393,242"/>
+<area shape="rect" id="node9" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#ab46ef3069eb0cb553e324b14411cdce0" title="django.http.request.Http\lRequest.is_secure" alt="" coords="467,137,628,178"/>
+<area shape="rect" id="node4" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#aa6ea7c1ad8c36a98e14e6745750bc77f" title="django.contrib.admin.util.quote" alt="" coords="701,5,900,32"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="713,57,889,98"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="948,35,1159,61"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1207,35,1419,61"/>
+<area shape="rect" id="node12" href="$d6/dde/namespacedjango_1_1http_1_1request.html#ad968ff6ba7a0868147271108e793a4a2" title="django.http.request.split\l_domain_port" alt="" coords="467,202,628,243"/>
+<area shape="rect" id="node13" href="$d6/dde/namespacedjango_1_1http_1_1request.html#ab54836bc44e7b89ef58a7b204a47ceda" title="django.http.request.validate_host" alt="" coords="441,268,653,295"/>
+<area shape="rect" id="node10" href="$de/db1/classdjango_1_1core_1_1handlers_1_1wsgi_1_1_w_s_g_i_request.html#aa602f97e386654271dca861451549790" title="django.core.handlers.wsgi.\lWSGIRequest._is_secure" alt="" coords="713,131,889,173"/>
+<area shape="rect" id="node11" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a391b9f09f3cdbb6eeaf2ba230bfee69c" title="django.http.request.Http\lRequest._is_secure" alt="" coords="720,197,881,238"/>
+</map>

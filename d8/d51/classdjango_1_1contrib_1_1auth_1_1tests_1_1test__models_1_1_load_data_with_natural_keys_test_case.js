@@ -1,0 +1,4 @@
+var classdjango_1_1contrib_1_1auth_1_1tests_1_1test__models_1_1_load_data_with_natural_keys_test_case =
+[
+    [ "test_user_is_created_and_added_to_group", "d8/d51/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__models_1_1_load_data_with_natural_keys_test_case.html#af6963fff0dcd8e3a6c46756ee7772040", null ]
+];

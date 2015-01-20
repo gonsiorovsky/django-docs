@@ -1,0 +1,4 @@
+<map id="django.db.models.sql.query.is_reverse_o2o" name="django.db.models.sql.query.is_reverse_o2o">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ab2098a40f9f46d437cb6193c26824a4a" title="django.db.models.sql.query.\lQuery.deferred_to_data" alt="" coords="248,5,433,47"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#af29f6518d55fd713e616d84aedfd9564" title="django.db.models.sql.query.\lQuery.get_loaded_field_names" alt="" coords="481,5,681,47"/>
+</map>

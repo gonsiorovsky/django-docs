@@ -1,0 +1,10 @@
+<map id="django.test.testcases._AssertTemplateUsedContext.__exit__" name="django.test.testcases._AssertTemplateUsedContext.__exit__">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="554,11,765,37"/>
+<area shape="rect" id="node4" href="$d7/d6f/classdjango_1_1test_1_1testcases_1_1___assert_template_used_context.html#a6d60b984bccd8f00866f3feb4cc97eea" title="django.test.testcases.\l_AssertTemplateUsedContext.message" alt="" coords="252,45,504,86"/>
+<area shape="rect" id="node5" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#a89fadd40a1ef377bb291e4b231c72665" title="django.core.mail.message.\lEmailMessage.message" alt="" coords="289,110,467,151"/>
+<area shape="rect" id="node8" href="$d7/d6f/classdjango_1_1test_1_1testcases_1_1___assert_template_used_context.html#a0b0f64a6946e6fba7b55fded8de97090" title="django.test.testcases.\l_AssertTemplateUsedContext.on\l_template_render" alt="" coords="271,175,485,231"/>
+<area shape="rect" id="node9" href="$d7/d6f/classdjango_1_1test_1_1testcases_1_1___assert_template_used_context.html#a23684a23719fb8216701250e0fe1e062" title="django.test.testcases.\l_AssertTemplateUsedContext.test" alt="" coords="267,254,489,295"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="815,11,1027,37"/>
+<area shape="rect" id="node6" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#ae58eb8e301fba160858dce72e12ffbf8" title="django.core.mail.message.\lEmailMessage._create_message" alt="" coords="552,94,767,135"/>
+<area shape="rect" id="node7" href="$d7/d1d/namespacedjango_1_1core_1_1mail_1_1message.html#a1f87e869c32c7d061293f2240e6ab7fe" title="django.core.mail.message.make\l_msgid" alt="" coords="554,159,765,201"/>
+</map>

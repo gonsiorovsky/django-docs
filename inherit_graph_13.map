@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d8/d97/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_permissions_user.html" title="django.contrib.auth.tests.custom\l_user.CustomPermissionsUser" alt="" coords="205,5,417,47"/>
+<area shape="rect" id="node3" href="$d0/d05/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user.html" title="django.contrib.auth.tests.custom\l_user.CustomUser" alt="" coords="205,71,417,112"/>
+<area shape="rect" id="node4" href="$d3/d06/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_bad_required_fields.html" title="django.contrib.auth.tests.custom\l_user.CustomUserBadRequiredFields" alt="" coords="192,136,431,177"/>
+<area shape="rect" id="node5" href="$d1/d9d/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_non_list_required_fields.html" title="django.contrib.auth.tests.custom\l_user.CustomUserNonListRequiredFields" alt="" coords="181,201,441,243"/>
+<area shape="rect" id="node6" href="$df/d66/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_non_unique_username.html" title="django.contrib.auth.tests.custom\l_user.CustomUserNonUniqueUsername" alt="" coords="185,267,437,308"/>
+<area shape="rect" id="node7" href="$d9/de7/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_is_active_test_user1.html" title="django.contrib.auth.tests.custom\l_user.IsActiveTestUser1" alt="" coords="205,332,417,373"/>
+</map>

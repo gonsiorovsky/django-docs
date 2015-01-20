@@ -1,0 +1,7 @@
+<map id="django.db.models.fields.related.ForeignObject.get_reverse_path_info" name="django.db.models.fields.related.ForeignObject.get_reverse_path_info">
+<area shape="rect" id="node2" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#aafd640708c40f7de5d3d559df6845092" title="django.db.models.fields.related.\lForeignObject.get_lookup_constraint" alt="" coords="259,39,493,80"/>
+<area shape="rect" id="node6" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#a170b00d414752033de579bae4380d4f9" title="django.db.models.fields.\lField.unique" alt="" coords="295,104,457,145"/>
+<area shape="rect" id="node3" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#a65a57a6457812da5370427378d8df45b" title="django.db.models.fields.related.\lForeignObject.related_fields" alt="" coords="541,39,747,80"/>
+<area shape="rect" id="node4" href="$de/dad/classdjango_1_1contrib_1_1contenttypes_1_1generic_1_1_generic_relation.html#afb1012e13dbda09b179819e34988cd5a" title="django.contrib.contenttypes.generic.\lGenericRelation.resolve_related_fields" alt="" coords="795,5,1036,47"/>
+<area shape="rect" id="node5" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#a4b6d8636268fab6e7a9639dc454caec3" title="django.db.models.fields.related.\lForeignObject.resolve_related_fields" alt="" coords="800,71,1031,112"/>
+</map>

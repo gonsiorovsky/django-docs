@@ -1,0 +1,5 @@
+<map id="django.db.models.sql.query.Query.count_active_tables" name="django.db.models.sql.query.Query.count_active_tables">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a68c2a392498b3411df3fd32340f452be" title="django.db.models.sql.query.\lQuery.join" alt="" coords="239,39,424,80"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a4ecd4aaf9f04827e5c953aa385c07c44" title="django.db.models.sql.query.\lQuery.ref_alias" alt="" coords="472,5,657,47"/>
+<area shape="rect" id="node4" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a979a7df7ff643c3233143a5b1940f17d" title="django.db.models.sql.query.\lQuery.table_alias" alt="" coords="472,71,657,112"/>
+</map>

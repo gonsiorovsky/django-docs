@@ -1,0 +1,8 @@
+<map id="django.template.base.Parser.skip_past" name="django.template.base.Parser.skip_past">
+<area shape="rect" id="node2" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a6d98e5ee47f5636c1d99f2fae644cda8" title="django.template.base.Parser.next\l_token" alt="" coords="315,5,532,47"/>
+<area shape="rect" id="node3" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a934456576d3d8d39b116e26fbf458927" title="django.template.base.Parser.unclosed\l_block_tag" alt="" coords="301,71,545,112"/>
+<area shape="rect" id="node4" href="$d0/df3/classdjango_1_1core_1_1management_1_1_lax_option_parser.html#a66956b32699c3f4a4c87cfc9231273ae" title="django.core.management.Lax\lOptionParser.error" alt="" coords="606,12,799,53"/>
+<area shape="rect" id="node5" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#ad3fe9f2107c92584e4cda2af6b139fef" title="django.template.base.Parser.error" alt="" coords="593,78,812,105"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="597,129,808,155"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="860,129,1072,155"/>
+</map>

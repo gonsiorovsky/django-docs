@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.db.models.sql.aggregates.GeoAggregate" name="django.contrib.gis.db.models.sql.aggregates.GeoAggregate">
+<area shape="rect" id="node4" href="$dd/d93/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1aggregates_1_1_collect.html" title="django.contrib.gis.db.models.sql.aggregates.\lCollect" alt="" coords="705,5,987,47"/>
+<area shape="rect" id="node5" href="$df/d3e/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1aggregates_1_1_extent.html" title="django.contrib.gis.db.models.sql.aggregates.\lExtent" alt="" coords="705,71,987,112"/>
+<area shape="rect" id="node6" href="$d9/dbf/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1aggregates_1_1_extent3_d.html" title="django.contrib.gis.db.models.sql.aggregates.\lExtent3D" alt="" coords="705,136,987,177"/>
+<area shape="rect" id="node7" href="$d9/dac/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1aggregates_1_1_make_line.html" title="django.contrib.gis.db.models.sql.aggregates.\lMakeLine" alt="" coords="705,201,987,243"/>
+<area shape="rect" id="node8" href="$d3/d77/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1aggregates_1_1_union.html" title="django.contrib.gis.db.models.sql.aggregates.\lUnion" alt="" coords="705,267,987,308"/>
+<area shape="rect" id="node2" href="$d7/d8d/classdjango_1_1db_1_1models_1_1sql_1_1aggregates_1_1_aggregate.html" title="django.db.models.sql.aggregates.\lAggregate" alt="" coords="111,136,328,177"/>
+</map>

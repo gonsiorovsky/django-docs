@@ -1,0 +1,7 @@
+<map id="django.template.base.generic_tag_compiler" name="django.template.base.generic_tag_compiler">
+<area shape="rect" id="node2" href="$d1/d17/namespacedjango_1_1template_1_1base.html#a83ed8509720d7e9011832c10e558a2e0" title="django.template.base.parse_bits" alt="" coords="245,71,456,98"/>
+<area shape="rect" id="node3" href="$d1/d17/namespacedjango_1_1template_1_1base.html#ab38762d14aa06b31641c2070a2dcb1cf" title="django.template.base.token\l_kwargs" alt="" coords="504,64,687,105"/>
+<area shape="rect" id="node4" href="$d0/d6e/namespacedjango_1_1templatetags_1_1i18n.html#a7d05c992dbd18036d015d2de207244ef" title="django.templatetags.i18n.do\l_block_translate" alt="" coords="757,5,942,47"/>
+<area shape="rect" id="node5" href="$da/da3/namespacedjango_1_1template_1_1defaulttags.html#a91288097571442fb9345697220265b61" title="django.template.defaulttags.do_with" alt="" coords="735,71,964,98"/>
+<area shape="rect" id="node6" href="$dd/d39/namespacedjango_1_1template_1_1loader__tags.html#a8ccf2f3ebb60605475970f4dc2ce14f8" title="django.template.loader\l_tags.do_include" alt="" coords="773,123,926,164"/>
+</map>

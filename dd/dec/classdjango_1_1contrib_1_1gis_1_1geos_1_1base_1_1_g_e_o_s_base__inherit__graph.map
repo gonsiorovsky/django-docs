@@ -1,0 +1,20 @@
+<map id="django.contrib.gis.geos.base.GEOSBase" name="django.contrib.gis.geos.base.GEOSBase">
+<area shape="rect" id="node3" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq" alt="" coords="361,184,579,225"/>
+<area shape="rect" id="node4" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html" title="django.contrib.gis.geos.geometry.\lGEOSGeometry" alt="" coords="361,249,579,291"/>
+<area shape="rect" id="node13" href="$d2/d3c/classdjango_1_1contrib_1_1gis_1_1geos_1_1prepared_1_1_prepared_geometry.html" title="django.contrib.gis.geos.prepared.\lPreparedGeometry" alt="" coords="363,315,577,356"/>
+<area shape="rect" id="node14" href="$d8/ddd/classdjango_1_1contrib_1_1gis_1_1geos_1_1prototypes_1_1io_1_1_i_o_base.html" title="Base I/O Class ###. " alt="" coords="351,445,589,487"/>
+<area shape="rect" id="node5" href="$dc/d82/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_geometry_collection.html" title="django.contrib.gis.geos.collections.\lGeometryCollection" alt="" coords="643,87,870,128"/>
+<area shape="rect" id="node9" href="$df/dfa/classdjango_1_1contrib_1_1gis_1_1geos_1_1linestring_1_1_line_string.html" title="django.contrib.gis.geos.linestring.\lLineString" alt="" coords="649,184,865,225"/>
+<area shape="rect" id="node11" href="$d2/d93/classdjango_1_1contrib_1_1gis_1_1geos_1_1point_1_1_point.html" title="django.contrib.gis.geos.point.\lPoint" alt="" coords="661,249,853,291"/>
+<area shape="rect" id="node12" href="$db/d1d/classdjango_1_1contrib_1_1gis_1_1geos_1_1polygon_1_1_polygon.html" title="django.contrib.gis.geos.polygon.\lPolygon" alt="" coords="652,315,861,356"/>
+<area shape="rect" id="node6" href="$df/d24/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_multi_line_string.html" title="django.contrib.gis.geos.collections.\lMultiLineString" alt="" coords="924,5,1151,47"/>
+<area shape="rect" id="node7" href="$d1/d29/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_multi_point.html" title="django.contrib.gis.geos.collections.\lMultiPoint" alt="" coords="924,71,1151,112"/>
+<area shape="rect" id="node8" href="$d0/d75/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_multi_polygon.html" title="django.contrib.gis.geos.collections.\lMultiPolygon" alt="" coords="924,136,1151,177"/>
+<area shape="rect" id="node10" href="$d5/dfd/classdjango_1_1contrib_1_1gis_1_1geos_1_1linestring_1_1_linear_ring.html" title="django.contrib.gis.geos.linestring.\lLinearRing" alt="" coords="929,201,1145,243"/>
+<area shape="rect" id="node15" href="$de/daa/classdjango_1_1contrib_1_1gis_1_1geos_1_1prototypes_1_1io_1_1___w_k_b_reader.html" title="django.contrib.gis.geos.prototypes.io.\l_WKBReader" alt="" coords="637,380,876,421"/>
+<area shape="rect" id="node17" href="$d0/d1a/classdjango_1_1contrib_1_1gis_1_1geos_1_1prototypes_1_1io_1_1___w_k_t_reader.html" title="django.contrib.gis.geos.prototypes.io.\l_WKTReader" alt="" coords="637,445,876,487"/>
+<area shape="rect" id="node19" href="$d9/db5/classdjango_1_1contrib_1_1gis_1_1geos_1_1prototypes_1_1io_1_1_w_k_b_writer.html" title="django.contrib.gis.geos.prototypes.io.\lWKBWriter" alt="" coords="637,511,876,552"/>
+<area shape="rect" id="node20" href="$d8/dd7/classdjango_1_1contrib_1_1gis_1_1geos_1_1prototypes_1_1io_1_1_w_k_t_writer.html" title="django.contrib.gis.geos.prototypes.io.\lWKTWriter" alt="" coords="637,576,876,617"/>
+<area shape="rect" id="node16" href="$db/d90/classdjango_1_1contrib_1_1gis_1_1geos_1_1io_1_1_w_k_b_reader.html" title="django.contrib.gis.geos.io.\lWKBReader" alt="" coords="950,380,1125,421"/>
+<area shape="rect" id="node18" href="$d8/d91/classdjango_1_1contrib_1_1gis_1_1geos_1_1io_1_1_w_k_t_reader.html" title="django.contrib.gis.geos.io.\lWKTReader" alt="" coords="950,445,1125,487"/>
+</map>

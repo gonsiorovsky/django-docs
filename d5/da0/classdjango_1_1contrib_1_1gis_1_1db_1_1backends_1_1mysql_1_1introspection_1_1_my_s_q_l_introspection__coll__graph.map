@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.db.backends.mysql.introspection.MySQLIntrospection" name="django.contrib.gis.db.backends.mysql.introspection.MySQLIntrospection">
+<area shape="rect" id="node2" href="$da/dba/classdjango_1_1db_1_1backends_1_1mysql_1_1introspection_1_1_database_introspection.html" title="django.db.backends.mysql.introspection.\lDatabaseIntrospection" alt="" coords="37,169,296,211"/>
+<area shape="rect" id="node3" href="$d6/d2a/classdjango_1_1db_1_1backends_1_1_base_database_introspection.html" title="django.db.backends.BaseDatabase\lIntrospection" alt="" coords="53,80,280,121"/>
+</map>

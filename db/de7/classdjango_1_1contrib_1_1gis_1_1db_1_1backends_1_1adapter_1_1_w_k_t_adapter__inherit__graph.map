@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.db.backends.adapter.WKTAdapter" name="django.contrib.gis.db.backends.adapter.WKTAdapter">
+<area shape="rect" id="node3" href="$d0/d20/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1adapter_1_1_oracle_spatial_adapter.html" title="django.contrib.gis.db.backends.oracle.adapter.\lOracleSpatialAdapter" alt="" coords="421,5,713,47"/>
+<area shape="rect" id="node4" href="$dd/d7f/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1adapter_1_1_spatia_lite_adapter.html" title="django.contrib.gis.db.backends.spatialite.adapter.\lSpatiaLiteAdapter" alt="" coords="412,71,721,112"/>
+</map>

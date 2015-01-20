@@ -1,0 +1,5 @@
+<map id="django.views.generic.dates.DayMixin.get_day_format" name="django.views.generic.dates.DayMixin.get_day_format">
+<area shape="rect" id="node2" href="$de/de2/classdjango_1_1views_1_1generic_1_1dates_1_1_base_day_archive_view.html#a7fcb6d97397e195869cfd5a3ca5baa4e" title="django.views.generic.dates.\lBaseDayArchiveView.get_dated_items" alt="" coords="235,5,480,47"/>
+<area shape="rect" id="node3" href="$d7/da7/classdjango_1_1views_1_1generic_1_1dates_1_1_base_date_detail_view.html#a46cd8b333a8bb7ee217687c1e6143da8" title="django.views.generic.dates.\lBaseDateDetailView.get_object" alt="" coords="255,71,459,112"/>
+<area shape="rect" id="node4" href="$dc/d05/classdjango_1_1views_1_1generic_1_1edit_1_1_base_update_view.html#a67b871ee9d2272e15ad95b4c59ca5487" title="django.views.generic.edit.\lBaseUpdateView.post" alt="" coords="528,71,699,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.forms.forms.get_declared_fields" name="django.forms.forms.get_declared_fields">
+<area shape="rect" id="node2" href="$d2/d95/classdjango_1_1forms_1_1forms_1_1_declarative_fields_metaclass.html#a5b4bfb108d0bff5474b3e477c1e10393" title="django.forms.forms.Declarative\lFieldsMetaclass.__new__" alt="" coords="208,5,407,47"/>
+<area shape="rect" id="node3" href="$d9/d76/classdjango_1_1forms_1_1models_1_1_model_form_metaclass.html#a91bbdf2a860febc74a550ca6f3ef8e75" title="django.forms.models.Model\lFormMetaclass.__new__" alt="" coords="217,71,398,112"/>
+</map>

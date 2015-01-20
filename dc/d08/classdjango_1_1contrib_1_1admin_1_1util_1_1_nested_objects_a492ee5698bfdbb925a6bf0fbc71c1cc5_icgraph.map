@@ -1,0 +1,4 @@
+<map id="django.contrib.admin.util.NestedObjects.related_objects" name="django.contrib.admin.util.NestedObjects.related_objects">
+<area shape="rect" id="node2" href="$d8/dc4/classdjango_1_1db_1_1models_1_1deletion_1_1_collector.html#aa833242b8a2ad3d97c7d4f4dc05cb683" title="django.db.models.deletion.\lCollector.collect" alt="" coords="253,29,431,71"/>
+<area shape="rect" id="node3" href="$d8/dc4/classdjango_1_1db_1_1models_1_1deletion_1_1_collector.html#ab4dbf8db9780fdf1f3d68fede8116f33" title="django.db.models.deletion.\lCollector.can_fast_delete" alt="" coords="479,29,656,71"/>
+</map>

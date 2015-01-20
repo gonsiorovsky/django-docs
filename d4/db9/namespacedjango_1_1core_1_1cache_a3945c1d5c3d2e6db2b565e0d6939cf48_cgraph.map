@@ -1,0 +1,6 @@
+<map id="django.core.cache.get_cache" name="django.core.cache.get_cache">
+<area shape="rect" id="node2" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="416,5,579,47"/>
+<area shape="rect" id="node4" href="$d4/db9/namespacedjango_1_1core_1_1cache.html#a01cbd8933723c09ca944345736fe7a94" title="django.core.cache.parse\l_backend_conf" alt="" coords="204,35,368,76"/>
+<area shape="rect" id="node5" href="$d4/db9/namespacedjango_1_1core_1_1cache.html#a45359eb0dcf3272f7cff358e0b02dba2" title="django.core.cache.parse\l_backend_uri" alt="" coords="204,100,368,141"/>
+<area shape="rect" id="node3" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="627,5,808,47"/>
+</map>

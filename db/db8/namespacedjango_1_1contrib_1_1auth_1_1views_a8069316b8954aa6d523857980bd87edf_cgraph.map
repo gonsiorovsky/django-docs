@@ -1,0 +1,6 @@
+<map id="django.contrib.auth.views.password_reset_complete" name="django.contrib.auth.views.password_reset_complete">
+<area shape="rect" id="node2" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#a0f59e98f3360e90a7b1d581ad134be18" title="django.contrib.auth.views.password\l_change" alt="" coords="293,5,520,47"/>
+<area shape="rect" id="node4" href="$db/d8c/namespacedjango_1_1shortcuts.html#a05715aed50be12c240df8205fd6ed76b" title="django.shortcuts.resolve_url" alt="" coords="603,71,786,98"/>
+<area shape="rect" id="node5" href="$d3/d2b/namespacedjango_1_1views_1_1decorators_1_1debug.html#a6811b59767dbb2a8b631bceb4d951d4f" title="django.views.decorators.debug.sensitive\l_post_parameters" alt="" coords="280,123,533,164"/>
+<area shape="rect" id="node3" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#aed0e6b208c004ce26b75fc14d0f25bf9" title="django.contrib.auth.views.password\l_change_done" alt="" coords="581,5,808,47"/>
+</map>

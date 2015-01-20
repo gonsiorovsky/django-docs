@@ -1,0 +1,4 @@
+<map id="django.db.models.fields.Field.get_choices_default" name="django.db.models.fields.Field.get_choices_default">
+<area shape="rect" id="node2" href="$d8/dbf/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_key.html#aaa06e8f8e56a47fb1480c4a02d4383f8" title="django.db.models.fields.related.\lForeignKey.value_to_string" alt="" coords="229,5,435,47"/>
+<area shape="rect" id="node3" href="$d0/df7/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_many_to_many_field.html#a156da96c4415aa4aef727a026b3d702f" title="django.db.models.fields.related.\lManyToManyField.value_to_string" alt="" coords="223,71,441,112"/>
+</map>

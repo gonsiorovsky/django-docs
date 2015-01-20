@@ -1,0 +1,12 @@
+<map id="django.contrib.admin.util.label_for_field" name="django.contrib.admin.util.label_for_field">
+<area shape="rect" id="node2" href="$d6/d8c/classdjango_1_1contrib_1_1admin_1_1helpers_1_1_admin_readonly_field.html#a027d970fcf689c64f2d60bc684e18223" title="django.contrib.admin.helpers.\lAdminReadonlyField.__init__" alt="" coords="282,92,474,133"/>
+<area shape="rect" id="node3" href="$db/d43/classdjango_1_1contrib_1_1admin_1_1helpers_1_1_inline_admin_form_set.html#a05da4b8d8905c6773882ad9d9219e56f" title="django.contrib.admin.helpers.\lInlineAdminFormSet.fields" alt="" coords="282,157,474,199"/>
+<area shape="rect" id="node10" href="$d6/d86/namespacedjango_1_1contrib_1_1admin_1_1templatetags_1_1admin__list.html#ae6b4d0d542c51c9c20e474d496b0bc55" title="django.contrib.admin.templatetags.admin\l_list.result_headers" alt="" coords="248,261,508,303"/>
+<area shape="rect" id="node4" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#adbe6cf58472cd91d15d0fd67da26cc55" title="django.db.models.options.\lOptions.add_field" alt="" coords="864,29,1039,71"/>
+<area shape="rect" id="node5" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#a67aefc94fe6d8fd7e27f9f143798162d" title="django.db.models.options.\lOptions.concrete_fields" alt="" coords="599,59,773,100"/>
+<area shape="rect" id="node6" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#a8bf4ba68dbb5cec640d5bd608abb9682" title="django.db.models.options.\lOptions.get_field" alt="" coords="599,124,773,165"/>
+<area shape="rect" id="node8" href="$d9/d84/classdjango_1_1contrib_1_1gis_1_1gdal_1_1layer_1_1_layer.html#ad617209f98d8a14de1f74a1f18a1d1ae" title="Layer Methods ####. " alt="" coords="592,189,780,231"/>
+<area shape="rect" id="node9" href="$dc/d5d/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__forms_1_1_user_change_form_test.html#a22509de4b3216bcd589b543ee17dc2c9" title="django.contrib.auth.tests.test\l_forms.UserChangeFormTest.test\l_bug_14242" alt="" coords="577,254,795,310"/>
+<area shape="rect" id="node7" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#adcc0b95d823b7586690aa7e8a6875b0c" title="django.db.models.options.\lOptions.module_name" alt="" coords="864,124,1039,165"/>
+<area shape="rect" id="node11" href="$d6/d86/namespacedjango_1_1contrib_1_1admin_1_1templatetags_1_1admin__list.html#a5dd6b39d6d13902f7078dc60811ca5f1" title="django.contrib.admin.templatetags.admin\l_list.result_list" alt="" coords="556,333,816,375"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.http.request.HttpRequest.is_secure" name="django.http.request.HttpRequest.is_secure">
+<area shape="rect" id="node2" href="$de/db1/classdjango_1_1core_1_1handlers_1_1wsgi_1_1_w_s_g_i_request.html#aa602f97e386654271dca861451549790" title="django.core.handlers.wsgi.\lWSGIRequest._is_secure" alt="" coords="215,5,391,47"/>
+<area shape="rect" id="node3" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a391b9f09f3cdbb6eeaf2ba230bfee69c" title="django.http.request.Http\lRequest._is_secure" alt="" coords="222,71,383,112"/>
+</map>

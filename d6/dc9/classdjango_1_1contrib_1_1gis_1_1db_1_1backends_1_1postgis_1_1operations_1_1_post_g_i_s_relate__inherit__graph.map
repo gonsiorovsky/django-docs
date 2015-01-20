@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.db.backends.postgis.operations.PostGISRelate" name="django.contrib.gis.db.backends.postgis.operations.PostGISRelate">
+<area shape="rect" id="node2" href="$d8/de1/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_function_param.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISFunctionParam" alt="" coords="5,348,321,389"/>
+<area shape="rect" id="node3" href="$dd/de2/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_function.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISFunction" alt="" coords="5,259,321,300"/>
+<area shape="rect" id="node4" href="$de/db0/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_function.html" title="django.contrib.gis.db.backends.util.\lSpatialFunction" alt="" coords="50,169,277,211"/>
+<area shape="rect" id="node5" href="$d7/d0e/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_operation.html" title="django.contrib.gis.db.backends.util.\lSpatialOperation" alt="" coords="50,80,277,121"/>
+</map>

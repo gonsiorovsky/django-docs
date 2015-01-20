@@ -1,0 +1,12 @@
+<map id="django.contrib.gis.geos.coordseq.GEOSCoordSeq.clone" name="django.contrib.gis.geos.coordseq.GEOSCoordSeq.clone">
+<area shape="rect" id="node2" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a1f10ca516e0c558c8ea0f7708312a34f" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.__copy__" alt="" coords="271,5,489,47"/>
+<area shape="rect" id="node5" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a18408b792a3d95bcf936386cd668ef60" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.__deepcopy__" alt="" coords="271,71,489,112"/>
+<area shape="rect" id="node7" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a47d0b39c5cf5d7f03c4ce7f394792e9e" title="django.db.models.sql.query.\lQuery.__deepcopy__" alt="" coords="287,136,473,177"/>
+<area shape="rect" id="node8" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aaad89f08acaf20db55f5ff9abb64017e" title="django.db.models.sql.query.\lQuery.get_aggregation" alt="" coords="287,201,473,243"/>
+<area shape="rect" id="node9" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ac79609ff8cae523450ee522120f71f02" title="django.db.models.sql.query.\lQuery.get_count" alt="" coords="287,267,473,308"/>
+<area shape="rect" id="node10" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a21494e4c235f7fe535ede4df5da6ad07" title="django.db.models.sql.query.\lQuery.has_results" alt="" coords="287,332,473,373"/>
+<area shape="rect" id="node11" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a4dc14d3577a5e665a70bb88cab417ba9" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.transform" alt="" coords="271,397,489,439"/>
+<area shape="rect" id="node3" href="$d2/dbc/classdjango_1_1utils_1_1datastructures_1_1_merge_dict.html#a693496d11902f65c449da86b91e64cee" title="django.utils.datastructures.\lMergeDict.copy" alt="" coords="537,5,716,47"/>
+<area shape="rect" id="node4" href="$d7/d5e/classdjango_1_1utils_1_1datastructures_1_1_sorted_dict.html#aad5c29aa2af987dc59cb0f877ffc6892" title="django.utils.datastructures.\lSortedDict.__copy__" alt="" coords="764,39,943,80"/>
+<area shape="rect" id="node6" href="$d3/dd6/classdjango_1_1http_1_1request_1_1_query_dict.html#ae0e3cea351ea34f0e9139f73870da81e" title="django.http.request.Query\lDict.copy" alt="" coords="541,71,713,112"/>
+</map>

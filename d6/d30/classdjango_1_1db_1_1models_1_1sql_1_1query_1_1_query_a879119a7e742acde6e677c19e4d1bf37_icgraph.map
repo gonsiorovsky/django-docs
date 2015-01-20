@@ -1,0 +1,5 @@
+<map id="django.db.models.sql.query.Query.set_extra_mask" name="django.db.models.sql.query.Query.set_extra_mask">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a1bbec9e119f63595610d04aa38da01e9" title="django.db.models.sql.query.\lQuery.clear_select_clause" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node4" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a50a03bf37b5fa6ab588c001184387170" title="django.db.models.sql.query.\lQuery.combine" alt="" coords="239,71,424,112"/>
+<area shape="rect" id="node3" href="$da/d26/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_date_query.html#a04bdcb0917e763304bb2122a225fdce2" title="django.db.models.sql.subqueries.\lDateQuery.add_select" alt="" coords="472,5,688,47"/>
+</map>

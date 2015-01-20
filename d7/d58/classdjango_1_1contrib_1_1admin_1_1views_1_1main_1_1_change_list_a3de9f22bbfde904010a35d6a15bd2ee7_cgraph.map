@@ -1,0 +1,4 @@
+<map id="django.contrib.admin.views.main.ChangeList.get_ordering" name="django.contrib.admin.views.main.ChangeList.get_ordering">
+<area shape="rect" id="node2" href="$d7/d58/classdjango_1_1contrib_1_1admin_1_1views_1_1main_1_1_change_list.html#a3ac002860664f8a9316a7c36dc98e1fb" title="django.contrib.admin.views.main.\lChangeList._get_default_ordering" alt="" coords="267,5,481,47"/>
+<area shape="rect" id="node3" href="$d7/d58/classdjango_1_1contrib_1_1admin_1_1views_1_1main_1_1_change_list.html#ac19178d091fbcc66889d708a82dfdf96" title="django.contrib.admin.views.main.\lChangeList.get_ordering_field" alt="" coords="267,71,481,112"/>
+</map>

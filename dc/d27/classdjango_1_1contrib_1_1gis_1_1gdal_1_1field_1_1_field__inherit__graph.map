@@ -1,0 +1,15 @@
+<map id="django.contrib.gis.gdal.field.Field" name="django.contrib.gis.gdal.field.Field">
+<area shape="rect" id="node4" href="$dd/d7d/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_binary.html" title="django.contrib.gis.gdal.field.\lOFTBinary" alt="" coords="577,5,760,47"/>
+<area shape="rect" id="node5" href="$db/dd9/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_date.html" title="django.contrib.gis.gdal.field.\lOFTDate" alt="" coords="577,71,760,112"/>
+<area shape="rect" id="node6" href="$d7/dca/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_date_time.html" title="django.contrib.gis.gdal.field.\lOFTDateTime" alt="" coords="577,136,760,177"/>
+<area shape="rect" id="node7" href="$d9/d05/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_integer.html" title="django.contrib.gis.gdal.field.\lOFTInteger" alt="" coords="577,201,760,243"/>
+<area shape="rect" id="node8" href="$da/d2f/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_integer_list.html" title="django.contrib.gis.gdal.field.\lOFTIntegerList" alt="" coords="577,267,760,308"/>
+<area shape="rect" id="node9" href="$d8/d01/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_real.html" title="django.contrib.gis.gdal.field.\lOFTReal" alt="" coords="577,332,760,373"/>
+<area shape="rect" id="node10" href="$d5/dee/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_real_list.html" title="django.contrib.gis.gdal.field.\lOFTRealList" alt="" coords="577,397,760,439"/>
+<area shape="rect" id="node11" href="$d3/dfb/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_string.html" title="django.contrib.gis.gdal.field.\lOFTString" alt="" coords="577,463,760,504"/>
+<area shape="rect" id="node12" href="$d1/dde/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_string_list.html" title="django.contrib.gis.gdal.field.\lOFTStringList" alt="" coords="577,528,760,569"/>
+<area shape="rect" id="node13" href="$df/d6a/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_time.html" title="django.contrib.gis.gdal.field.\lOFTTime" alt="" coords="577,593,760,635"/>
+<area shape="rect" id="node14" href="$d4/d91/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_wide_string.html" title="django.contrib.gis.gdal.field.\lOFTWideString" alt="" coords="577,659,760,700"/>
+<area shape="rect" id="node15" href="$d3/dd4/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_wide_string_list.html" title="django.contrib.gis.gdal.field.\lOFTWideStringList" alt="" coords="577,724,760,765"/>
+<area shape="rect" id="node2" href="$d3/d35/classdjango_1_1contrib_1_1gis_1_1gdal_1_1base_1_1_g_d_a_l_base.html" title="django.contrib.gis.gdal.base.\lGDALBase" alt="" coords="111,365,299,407"/>
+</map>

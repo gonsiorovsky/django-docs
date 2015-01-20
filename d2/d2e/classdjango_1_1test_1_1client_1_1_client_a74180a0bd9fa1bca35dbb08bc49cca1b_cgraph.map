@@ -1,0 +1,6 @@
+<map id="django.test.client.Client.request" name="django.test.client.Client.request">
+<area shape="rect" id="node2" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#abe9db2826a1171f3a7b3699d80e2aa00" title="django.test.client.Request\lFactory._base_environ" alt="" coords="267,5,441,47"/>
+<area shape="rect" id="node3" href="$d3/ddf/namespacedjango_1_1utils_1_1functional.html#a4bb40f13d3d91cc5f3489d152532410e" title="django.utils.functional.curry" alt="" coords="264,71,444,98"/>
+<area shape="rect" id="node4" href="$d2/d2e/classdjango_1_1test_1_1client_1_1_client.html#af52310b60adde7d924e971a956de9ab3" title="django.test.client.Client.store\l_exc_info" alt="" coords="259,123,449,164"/>
+<area shape="rect" id="node5" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="497,123,679,164"/>
+</map>

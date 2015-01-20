@@ -1,0 +1,6 @@
+<map id="django.template.loader.BaseLoader" name="django.template.loader.BaseLoader">
+<area shape="rect" id="node3" href="$d4/d19/classdjango_1_1template_1_1loaders_1_1app__directories_1_1_loader.html" title="django.template.loaders.app\l_directories.Loader" alt="" coords="366,5,551,47"/>
+<area shape="rect" id="node4" href="$de/d52/classdjango_1_1template_1_1loaders_1_1cached_1_1_loader.html" title="django.template.loaders.cached.\lLoader" alt="" coords="353,71,564,112"/>
+<area shape="rect" id="node5" href="$d1/d4d/classdjango_1_1template_1_1loaders_1_1eggs_1_1_loader.html" title="django.template.loaders.eggs.\lLoader" alt="" coords="361,136,557,177"/>
+<area shape="rect" id="node6" href="$d6/dca/classdjango_1_1template_1_1loaders_1_1filesystem_1_1_loader.html" title="django.template.loaders.filesystem.\lLoader" alt="" coords="345,201,572,243"/>
+</map>

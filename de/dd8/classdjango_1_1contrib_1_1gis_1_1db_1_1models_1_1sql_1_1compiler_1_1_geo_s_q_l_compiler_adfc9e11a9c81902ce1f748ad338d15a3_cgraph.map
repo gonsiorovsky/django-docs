@@ -1,0 +1,10 @@
+<map id="django.contrib.gis.db.models.sql.compiler.GeoSQLCompiler.resolve_columns" name="django.contrib.gis.db.models.sql.compiler.GeoSQLCompiler.resolve_columns">
+<area shape="rect" id="node2" href="$d9/d6a/classdjango_1_1utils_1_1log_1_1_admin_email_handler.html#a07baeac3b7b8c28175cfd3a4a55ba9b5" title="django.utils.log.AdminEmail\lHandler.connection" alt="" coords="320,64,503,105"/>
+<area shape="rect" id="node3" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#af23a6c3b0b237e8d2dddebeacf1e3280" title="django.core.mail.get\l_connection" alt="" coords="551,64,689,105"/>
+<area shape="rect" id="node4" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="746,5,909,47"/>
+<area shape="rect" id="node6" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a9a59581344fb9f831eb84538e72b5859" title="django.core.mail.send_mail" alt="" coords="737,71,917,98"/>
+<area shape="rect" id="node5" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="965,5,1147,47"/>
+<area shape="rect" id="node7" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#ac138868345f5743295cee7f3da2dd9cc" title="django.core.mail.send\l_mass_mail" alt="" coords="981,92,1131,133"/>
+<area shape="rect" id="node8" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a0629c7138bf20a934f55e3b9d0c71091" title="django.core.mail.mail\l_admins" alt="" coords="1195,92,1340,133"/>
+<area shape="rect" id="node9" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a8cb94df3622dea39f0800eee58a3eab1" title="django.core.mail.mail\l_managers" alt="" coords="1388,92,1533,133"/>
+</map>

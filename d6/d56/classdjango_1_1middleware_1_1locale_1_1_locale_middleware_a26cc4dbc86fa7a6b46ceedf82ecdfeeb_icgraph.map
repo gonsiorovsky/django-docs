@@ -1,0 +1,5 @@
+<map id="django.middleware.locale.LocaleMiddleware.is_language_prefix_patterns_used" name="django.middleware.locale.LocaleMiddleware.is_language_prefix_patterns_used">
+<area shape="rect" id="node2" href="$d6/d56/classdjango_1_1middleware_1_1locale_1_1_locale_middleware.html#ad71509611d6a9a5def41555920e542d3" title="django.middleware.locale.\lLocaleMiddleware.process\l_request" alt="" coords="252,5,427,61"/>
+<area shape="rect" id="node4" href="$d6/d56/classdjango_1_1middleware_1_1locale_1_1_locale_middleware.html#aa1ed35b89fb37d4be9742297012a9531" title="django.middleware.locale.\lLocaleMiddleware.process\l_response" alt="" coords="252,85,427,141"/>
+<area shape="rect" id="node3" href="$dd/dd0/classdjango_1_1test_1_1testcases_1_1_stoppable_w_s_g_i_server.html#a96aa55dd4abcfae07a2236883186ca4e" title="django.test.testcases.Stoppable\lWSGIServer.handle_request" alt="" coords="475,13,684,54"/>
+</map>

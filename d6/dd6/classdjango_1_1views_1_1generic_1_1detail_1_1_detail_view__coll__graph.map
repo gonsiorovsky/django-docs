@@ -1,0 +1,8 @@
+<map id="django.views.generic.detail.DetailView" name="django.views.generic.detail.DetailView">
+<area shape="rect" id="node2" href="$dc/dca/classdjango_1_1views_1_1generic_1_1detail_1_1_single_object_template_response_mixin.html" title="django.views.generic.detail.\lSingleObjectTemplateResponseMixin" alt="" coords="543,37,781,79"/>
+<area shape="rect" id="node3" href="$d8/d0b/classdjango_1_1views_1_1generic_1_1base_1_1_template_response_mixin.html" title="django.views.generic.base.\lTemplateResponseMixin" alt="" coords="112,5,289,47"/>
+<area shape="rect" id="node8" href="$d1/d6a/classdjango_1_1views_1_1generic_1_1base_1_1_context_mixin.html" title="django.views.generic.base.\lContextMixin" alt="" coords="112,131,289,172"/>
+<area shape="rect" id="node9" href="$d0/ddc/classdjango_1_1views_1_1generic_1_1base_1_1_view.html" title="django.views.generic.base.View" alt="" coords="313,197,519,223"/>
+<area shape="rect" id="node7" href="$d2/d8d/classdjango_1_1views_1_1generic_1_1detail_1_1_single_object_mixin.html" title="django.views.generic.detail.\lSingleObjectMixin" alt="" coords="572,117,752,159"/>
+<area shape="rect" id="node6" href="$da/d19/classdjango_1_1views_1_1generic_1_1detail_1_1_base_detail_view.html" title="django.views.generic.detail.\lBaseDetailView" alt="" coords="831,117,1011,159"/>
+</map>

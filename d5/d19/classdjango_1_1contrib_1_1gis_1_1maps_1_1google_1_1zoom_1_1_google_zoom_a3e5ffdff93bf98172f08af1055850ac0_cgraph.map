@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.maps.google.zoom.GoogleZoom.tile" name="django.contrib.gis.maps.google.zoom.GoogleZoom.tile">
+<area shape="rect" id="node2" href="$d5/d19/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1zoom_1_1_google_zoom.html#abd194fd25ad0bec162694f15aad338f9" title="django.contrib.gis.maps.google.zoom.\lGoogleZoom.lonlat_to_pixel" alt="" coords="296,5,539,47"/>
+<area shape="rect" id="node4" href="$d5/d19/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1zoom_1_1_google_zoom.html#a1d06cb8342a006822ac6108ab37992ee" title="django.contrib.gis.maps.google.zoom.\lGoogleZoom.pixel_to_lonlat" alt="" coords="296,71,539,112"/>
+<area shape="rect" id="node3" href="$d5/d19/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1zoom_1_1_google_zoom.html#a30cdb171743048e6fd1cb64213553d60" title="django.contrib.gis.maps.google.zoom.\lGoogleZoom.get_lon_lat" alt="" coords="587,5,829,47"/>
+</map>

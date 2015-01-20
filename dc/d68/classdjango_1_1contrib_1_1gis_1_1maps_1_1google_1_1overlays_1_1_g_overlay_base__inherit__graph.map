@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.maps.google.overlays.GOverlayBase" name="django.contrib.gis.maps.google.overlays.GOverlayBase">
+<area shape="rect" id="node3" href="$d6/d59/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1overlays_1_1_g_marker.html" title="django.contrib.gis.maps.google.overlays.\lGMarker" alt="" coords="416,5,673,47"/>
+<area shape="rect" id="node4" href="$d5/d78/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1overlays_1_1_g_polygon.html" title="django.contrib.gis.maps.google.overlays.\lGPolygon" alt="" coords="416,71,673,112"/>
+<area shape="rect" id="node5" href="$d2/de4/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1overlays_1_1_g_polyline.html" title="django.contrib.gis.maps.google.overlays.\lGPolyline" alt="" coords="416,136,673,177"/>
+</map>

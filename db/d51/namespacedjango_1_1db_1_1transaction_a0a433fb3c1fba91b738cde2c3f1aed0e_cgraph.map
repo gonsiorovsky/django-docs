@@ -1,0 +1,8 @@
+<map id="django.db.transaction.commit_on_success" name="django.db.transaction.commit_on_success">
+<area shape="rect" id="node2" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a58014798ebf9842d5ca3c6dbb19b9a38" title="django.db.transaction.commit" alt="" coords="247,5,441,32"/>
+<area shape="rect" id="node4" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#ab76687bf52117a085f54fb42b45baa9e" title="django.db.transaction.enter\l_transaction_management" alt="" coords="255,57,433,98"/>
+<area shape="rect" id="node5" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a4e858360371f7dbe3552e9e30dba0ebb" title="django.db.transaction.is\l_dirty" alt="" coords="264,122,424,163"/>
+<area shape="rect" id="node6" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a0c090e95e5d18c573867ffdbcdd2c20a" title="django.db.transaction.leave\l_transaction_management" alt="" coords="255,187,433,229"/>
+<area shape="rect" id="node7" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a222a39343315dea0c2afa259f8c30b31" title="django.db.transaction.rollback" alt="" coords="247,253,441,280"/>
+<area shape="rect" id="node3" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a134d8335fa0c68b810a8980004736e98" title="django.db.transaction.get\l_connection" alt="" coords="489,122,657,163"/>
+</map>

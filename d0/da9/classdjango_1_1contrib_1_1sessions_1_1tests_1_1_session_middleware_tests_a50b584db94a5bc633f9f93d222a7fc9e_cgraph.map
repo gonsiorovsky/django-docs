@@ -1,0 +1,7 @@
+<map id="django.contrib.sessions.tests.SessionMiddlewareTests.test_no_httponly_session_cookie" name="django.contrib.sessions.tests.SessionMiddlewareTests.test_no_httponly_session_cookie">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a4813996549d13361e21a4e40fa07c2c9" title="django.utils.unittest.case.\lTestCase.assertFalse" alt="" coords="249,5,420,47"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a310cb2995bbbb2e0d3d5a41df4dea980" title="django.utils.unittest.case.\lTestCase.assertNotIn" alt="" coords="249,71,420,112"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="486,64,663,105"/>
+<area shape="rect" id="node4" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="468,13,681,39"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="489,129,660,171"/>
+</map>

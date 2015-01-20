@@ -1,0 +1,4 @@
+<map id="django.db.models.fields.related.ForeignObject.reverse_related_fields" name="django.db.models.fields.related.ForeignObject.reverse_related_fields">
+<area shape="rect" id="node2" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#aa0a7d8a6f983966ddead84b048b4f74f" title="django.db.models.fields.related.\lForeignObject.get_joining_columns" alt="" coords="284,13,509,54"/>
+<area shape="rect" id="node3" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#ab23323a48e29fe7e355d58c3f00e34dd" title="django.db.models.fields.related.\lForeignObject.get_reverse\l_joining_columns" alt="" coords="557,5,763,61"/>
+</map>

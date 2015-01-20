@@ -1,0 +1,9 @@
+<map id="django.forms.models.ModelMultipleChoiceField.clean" name="django.forms.models.ModelMultipleChoiceField.clean">
+<area shape="rect" id="node2" href="$d3/d8a/classdjango_1_1forms_1_1models_1_1_model_multiple_choice_field.html#a43e92c7f75cfc12967d005d925879be8" title="django.forms.models.Model\lMultipleChoiceField._check_values" alt="" coords="235,5,459,47"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="244,71,449,98"/>
+<area shape="rect" id="node7" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html#afbc87f508d37f8beeb500a5aab305fc3" title="django.forms.fields.Field.run\l_validators" alt="" coords="255,123,439,164"/>
+<area shape="rect" id="node8" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#ab4581708e92e7d7a620ab93a11df8059" title="django.db.models.fields.\lField.run_validators" alt="" coords="265,188,428,229"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="533,35,691,76"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="507,101,717,127"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="765,101,977,127"/>
+</map>

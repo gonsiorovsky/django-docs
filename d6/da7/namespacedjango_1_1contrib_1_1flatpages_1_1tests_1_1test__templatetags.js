@@ -1,0 +1,4 @@
+var namespacedjango_1_1contrib_1_1flatpages_1_1tests_1_1test__templatetags =
+[
+    [ "FlatpageTemplateTagTests", "de/de7/classdjango_1_1contrib_1_1flatpages_1_1tests_1_1test__templatetags_1_1_flatpage_template_tag_tests.html", "de/de7/classdjango_1_1contrib_1_1flatpages_1_1tests_1_1test__templatetags_1_1_flatpage_template_tag_tests" ]
+];

@@ -1,0 +1,12 @@
+<map id="django.contrib.admin.sites.AdminSite.admin_view" name="django.contrib.admin.sites.AdminSite.admin_view">
+<area shape="rect" id="node2" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a819e45e7b85134938b9062037ad0e5cb" title="django.contrib.admin.sites.\lAdminSite.has_permission" alt="" coords="259,5,438,47"/>
+<area shape="rect" id="node3" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#ad4b94f04dd7db17c38654747b43455c8" title="django.contrib.admin.sites.\lAdminSite.login" alt="" coords="259,71,438,112"/>
+<area shape="rect" id="node4" href="$d3/dd1/namespacedjango_1_1views_1_1decorators_1_1cache.html#a2a9743955dfc26fb0941b1d7fbdac399" title="django.views.decorators.cache.never\l_cache" alt="" coords="232,136,465,177"/>
+<area shape="rect" id="node5" href="$d4/d1c/namespacedjango_1_1utils_1_1decorators.html#ae90dfd7c95270537755cf77acc0bafc1" title="django.utils.decorators.available\l_attrs" alt="" coords="513,103,720,144"/>
+<area shape="rect" id="node6" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#ac17d29d39f1befb618c1376ef62506ab" title="django.utils.cache.add\l_never_cache_headers" alt="" coords="539,168,694,209"/>
+<area shape="rect" id="node7" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a5a70263b348f3627fcd5e44b6f95b1eb" title="django.utils.cache.patch\l_response_headers" alt="" coords="768,168,931,209"/>
+<area shape="rect" id="node8" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a6a8c1400a31e4335caa0a53ce3155327" title="django.utils.cache.patch\l_cache_control" alt="" coords="979,168,1141,209"/>
+<area shape="rect" id="node9" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaaefde7859fe1bf353ac71952c024eb9" title="django.template.defaultfilters.lower" alt="" coords="1189,150,1411,177"/>
+<area shape="rect" id="node10" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1195,201,1405,227"/>
+<area shape="rect" id="node11" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1459,201,1671,227"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.tests.geoapp.test_sitemaps.GeoSitemapTest.test_geositemap_georss" name="django.contrib.gis.tests.geoapp.test_sitemaps.GeoSitemapTest.test_geositemap_georss">
+<area shape="rect" id="node2" href="$dd/dd9/classdjango_1_1contrib_1_1gis_1_1tests_1_1geoapp_1_1test__feeds_1_1_geo_feed_test.html#abbfd304e2a2318de82283a781b5fcac2" title="django.contrib.gis.tests.geoapp.test\l_feeds.GeoFeedTest.assertChildNodes" alt="" coords="303,5,551,47"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="620,64,791,105"/>
+<area shape="rect" id="node5" href="$d8/d68/classdjango_1_1contrib_1_1gis_1_1tests_1_1geoapp_1_1test__sitemaps_1_1_geo_sitemap_test.html#a89ebe51d29b21792010d43e16beaca4b" title="django.contrib.gis.tests.geoapp.test\l_sitemaps.GeoSitemapTest.assertChildNodes" alt="" coords="283,123,572,164"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="839,64,1059,105"/>
+</map>

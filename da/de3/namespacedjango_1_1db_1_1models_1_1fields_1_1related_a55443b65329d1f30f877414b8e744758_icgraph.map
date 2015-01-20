@@ -1,0 +1,5 @@
+<map id="django.db.models.fields.related.add_lazy_relation" name="django.db.models.fields.related.add_lazy_relation">
+<area shape="rect" id="node2" href="$d7/d92/classdjango_1_1db_1_1models_1_1base_1_1_model_base.html#a8b9a8a33a0a70c39d64abc087d53a41c" title="django.db.models.base.Model\lBase.add_to_class" alt="" coords="303,5,498,47"/>
+<area shape="rect" id="node3" href="$da/de3/namespacedjango_1_1db_1_1models_1_1fields_1_1related.html#aeead3ce23e7fe4ce451ad00a2169499b" title="django.db.models.fields.related.create\l_many_to_many_intermediary_model" alt="" coords="280,71,521,112"/>
+<area shape="rect" id="node4" href="$d0/df7/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_many_to_many_field.html#a5b5cbb516a9aee3c504ce7839c42e0d8" title="django.db.models.fields.related.\lManyToManyField.contribute\l_to_class" alt="" coords="569,63,775,119"/>
+</map>

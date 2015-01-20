@@ -1,0 +1,9 @@
+<map id="django.contrib.gis.gdal.feature.Feature.__getitem__" name="django.contrib.gis.gdal.feature.Feature.__getitem__">
+<area shape="rect" id="node2" href="$df/d63/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_steps_helper.html#a88c001054dda1fa77f63680ed0ff1b07" title="django.contrib.formtools.wizard.views.\lStepsHelper.index" alt="" coords="252,5,492,47"/>
+<area shape="rect" id="node3" href="$db/d34/classdjango_1_1contrib_1_1gis_1_1gdal_1_1feature_1_1_feature.html#a128ae0b6147fb55a5c5bc777caa15d50" title="django.contrib.gis.gdal.feature.\lFeature.index" alt="" coords="273,71,471,112"/>
+<area shape="rect" id="node7" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a261dfcc32353d4aee3d6aced6fc1ce87" title="django.contrib.admin.sites.\lAdminSite.index" alt="" coords="283,136,461,177"/>
+<area shape="rect" id="node8" href="$db/d34/classdjango_1_1contrib_1_1gis_1_1gdal_1_1feature_1_1_feature.html#aa20b731576b9ff788c6bca88aace9acc" title="django.contrib.gis.gdal.feature.\lFeature.num_fields" alt="" coords="273,201,471,243"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="540,71,716,112"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="764,78,975,105"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1023,78,1235,105"/>
+</map>

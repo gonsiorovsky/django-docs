@@ -1,0 +1,7 @@
+<map id="django.test.testcases.TransactionTestCase.assertNumQueries" name="django.test.testcases.TransactionTestCase.assertNumQueries">
+<area shape="rect" id="node2" href="$d5/dec/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_cache_d_b_session_tests.html#a55b3cc7d16be929b571419fe5cfce1db" title="django.contrib.sessions.tests.\lCacheDBSessionTests.test\l_exists_searches_cache_first" alt="" coords="297,5,493,61"/>
+<area shape="rect" id="node3" href="$dc/d0e/classdjango_1_1contrib_1_1contenttypes_1_1tests_1_1_content_types_tests.html#ada7daacfcdfccaf3aaca8d05a0325886" title="django.contrib.contenttypes.tests.\lContentTypesTests.test_get\l_for_models_empty_cache" alt="" coords="286,85,505,141"/>
+<area shape="rect" id="node4" href="$dc/d0e/classdjango_1_1contrib_1_1contenttypes_1_1tests_1_1_content_types_tests.html#a4f013f920e662d37d10fbbdb6652d4e9" title="django.contrib.contenttypes.tests.\lContentTypesTests.test_get\l_for_models_full_cache" alt="" coords="286,165,505,221"/>
+<area shape="rect" id="node5" href="$dc/d0e/classdjango_1_1contrib_1_1contenttypes_1_1tests_1_1_content_types_tests.html#ad33410b5abd85019b64206de06de4a6a" title="django.contrib.contenttypes.tests.\lContentTypesTests.test_get\l_for_models_partial_cache" alt="" coords="286,245,505,301"/>
+<area shape="rect" id="node6" href="$dc/d0e/classdjango_1_1contrib_1_1contenttypes_1_1tests_1_1_content_types_tests.html#a767959d1d4e2ee11d9ca7a3a04745ac2" title="django.contrib.contenttypes.tests.\lContentTypesTests.test_lookup_cache" alt="" coords="272,325,519,366"/>
+</map>

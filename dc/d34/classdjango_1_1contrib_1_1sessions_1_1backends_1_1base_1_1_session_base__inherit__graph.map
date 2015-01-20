@@ -1,0 +1,6 @@
+<map id="django.contrib.sessions.backends.base.SessionBase" name="django.contrib.sessions.backends.base.SessionBase">
+<area shape="rect" id="node3" href="$df/d0f/classdjango_1_1contrib_1_1sessions_1_1backends_1_1cache_1_1_session_store.html" title="django.contrib.sessions.backends.cache.\lSessionStore" alt="" coords="413,5,676,47"/>
+<area shape="rect" id="node4" href="$d2/d1a/classdjango_1_1contrib_1_1sessions_1_1backends_1_1db_1_1_session_store.html" title="django.contrib.sessions.backends.db.\lSessionStore" alt="" coords="424,71,665,112"/>
+<area shape="rect" id="node5" href="$dc/dba/classdjango_1_1contrib_1_1sessions_1_1backends_1_1file_1_1_session_store.html" title="django.contrib.sessions.backends.file.\lSessionStore" alt="" coords="423,136,666,177"/>
+<area shape="rect" id="node6" href="$d4/da0/classdjango_1_1contrib_1_1sessions_1_1backends_1_1signed__cookies_1_1_session_store.html" title="django.contrib.sessions.backends.signed\l_cookies.SessionStore" alt="" coords="414,201,675,243"/>
+</map>

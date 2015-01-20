@@ -1,0 +1,6 @@
+<map id="django.forms.fields.BaseTemporalField" name="django.forms.fields.BaseTemporalField">
+<area shape="rect" id="node4" href="$df/d16/classdjango_1_1forms_1_1fields_1_1_date_field.html" title="django.forms.fields.Date\lField" alt="" coords="534,5,695,47"/>
+<area shape="rect" id="node5" href="$d8/db3/classdjango_1_1forms_1_1fields_1_1_date_time_field.html" title="django.forms.fields.Date\lTimeField" alt="" coords="534,71,695,112"/>
+<area shape="rect" id="node6" href="$dc/db7/classdjango_1_1forms_1_1fields_1_1_time_field.html" title="django.forms.fields.Time\lField" alt="" coords="533,136,696,177"/>
+<area shape="rect" id="node2" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html" title="django.forms.fields.Field" alt="" coords="111,78,273,105"/>
+</map>

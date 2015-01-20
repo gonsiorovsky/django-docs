@@ -1,0 +1,7 @@
+<map id="django.contrib.auth.forms.AuthenticationForm" name="django.contrib.auth.forms.AuthenticationForm">
+<area shape="rect" id="node8" href="$db/db7/classdjango_1_1contrib_1_1admin_1_1forms_1_1_admin_authentication_form.html" title="django.contrib.admin.forms.\lAdminAuthenticationForm" alt="" coords="815,23,997,65"/>
+<area shape="rect" id="node9" href="$d3/d88/classdjango_1_1contrib_1_1auth_1_1tests_1_1urls_1_1_custom_request_authentication_form.html" title="django.contrib.auth.tests.urls.\lCustomRequestAuthenticationForm" alt="" coords="792,89,1020,130"/>
+<area shape="rect" id="node2" href="$d9/dfd/classdjango_1_1forms_1_1forms_1_1_form.html" title="django.forms.forms.Form" alt="" coords="357,64,524,91"/>
+<area shape="rect" id="node4" href="$d2/d95/classdjango_1_1forms_1_1forms_1_1_declarative_fields_metaclass.html" title="django.forms.forms.Declarative\lFieldsMetaclass" alt="" coords="111,57,309,98"/>
+<area shape="rect" id="node6" href="$d8/d44/classdjango_1_1forms_1_1forms_1_1_base_form.html" title="django.forms.forms.BaseForm" alt="" coords="112,123,308,149"/>
+</map>

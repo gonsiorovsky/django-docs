@@ -1,0 +1,5 @@
+<map id="django.db.backends.BaseDatabaseOperations.sequence_reset_by_name_sql" name="django.db.backends.BaseDatabaseOperations.sequence_reset_by_name_sql">
+<area shape="rect" id="node2" href="$d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a642a978d053156dae200fde3f0cc06f4" title="django.db.backends.postgresql\l_psycopg2.operations.DatabaseOperations.sql_flush" alt="" coords="280,5,607,47"/>
+<area shape="rect" id="node3" href="$d0/d5e/classdjango_1_1db_1_1backends_1_1mysql_1_1base_1_1_database_operations.html#a32cf0454bc029640c2b5f9ffebe16b08" title="django.db.backends.mysql.base.\lDatabaseOperations.sql_flush" alt="" coords="337,71,550,112"/>
+<area shape="rect" id="node4" href="$d9/d74/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_operations.html#a9e5f961c2841265801c00e56321a7813" title="django.db.backends.oracle.base.\lDatabaseOperations.sql_flush" alt="" coords="337,136,550,177"/>
+</map>

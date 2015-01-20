@@ -1,0 +1,4 @@
+<map id="django.middleware.cache.CacheMiddleware" name="django.middleware.cache.CacheMiddleware">
+<area shape="rect" id="node2" href="$d5/da8/classdjango_1_1middleware_1_1cache_1_1_update_cache_middleware.html" title="django.middleware.cache.\lUpdateCacheMiddleware" alt="" coords="118,5,290,47"/>
+<area shape="rect" id="node4" href="$da/d66/classdjango_1_1middleware_1_1cache_1_1_fetch_from_cache_middleware.html" title="django.middleware.cache.\lFetchFromCacheMiddleware" alt="" coords="111,71,297,112"/>
+</map>

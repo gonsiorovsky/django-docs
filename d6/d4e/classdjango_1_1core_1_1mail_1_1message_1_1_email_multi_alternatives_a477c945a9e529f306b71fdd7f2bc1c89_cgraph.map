@@ -1,0 +1,5 @@
+<map id="django.core.mail.message.EmailMultiAlternatives.attach_alternative" name="django.core.mail.message.EmailMultiAlternatives.attach_alternative">
+<area shape="rect" id="node2" href="$d6/d4e/classdjango_1_1core_1_1mail_1_1message_1_1_email_multi_alternatives.html#a2305cac9fbdcac27bce5989a9828c0ee" title="django.core.mail.message.\lEmailMultiAlternatives.\l_create_alternatives" alt="" coords="272,5,451,61"/>
+<area shape="rect" id="node3" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#a66e75329e56243bd391f7f065be450b1" title="django.core.mail.message.\lEmailMessage._create_attachments" alt="" coords="244,85,479,126"/>
+<area shape="rect" id="node4" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#abeef522d0baba8589df563770cc98bad" title="django.core.mail.message.\lEmailMessage._create_mime\l_attachment" alt="" coords="264,149,459,205"/>
+</map>

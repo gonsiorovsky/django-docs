@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.db.models.manager.GeoManager.difference" name="django.contrib.gis.db.models.manager.GeoManager.difference">
+<area shape="rect" id="node2" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#adbdb58795a2eea1a8cc0dbbb34bd2707" title="django.contrib.gis.gdal.geometries.\lOGRGeometry.__sub__" alt="" coords="300,5,524,47"/>
+<area shape="rect" id="node3" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a74ec64f32a579ccbbe93d85c218f4e19" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.__sub__" alt="" coords="303,71,521,112"/>
+</map>

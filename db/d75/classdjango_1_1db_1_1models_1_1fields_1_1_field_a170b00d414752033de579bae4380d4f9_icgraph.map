@@ -1,0 +1,4 @@
+<map id="django.db.models.fields.Field.unique" name="django.db.models.fields.Field.unique">
+<area shape="rect" id="node2" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#a28e22cd563b8f3480f33ebcbed9feb9d" title="django.db.models.fields.related.\lForeignObject.get_reverse\l_path_info" alt="" coords="222,5,427,61"/>
+<area shape="rect" id="node3" href="$d8/dbf/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_key.html#a58a0ad7c3acfcb5517a9d1891f69924a" title="django.db.models.fields.related.\lForeignKey.get_reverse_path_info" alt="" coords="216,85,433,126"/>
+</map>

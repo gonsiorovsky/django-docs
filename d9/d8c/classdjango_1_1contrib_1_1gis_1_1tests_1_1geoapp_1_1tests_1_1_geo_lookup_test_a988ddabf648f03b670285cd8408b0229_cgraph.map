@@ -1,0 +1,7 @@
+<map id="django.contrib.gis.tests.geoapp.tests.GeoLookupTest.test_left_right_lookups" name="django.contrib.gis.tests.geoapp.tests.GeoLookupTest.test_left_right_lookups">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="356,5,527,47"/>
+<area shape="rect" id="node4" href="$dd/d52/namespacedjango_1_1contrib_1_1gis_1_1tests_1_1geoapp_1_1tests.html#a3453fcc7624c80ae65cc95f9cc33eea4" title="django.contrib.gis.tests.geoapp.tests.postgis\l_bug_version" alt="" coords="300,71,583,112"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="631,5,851,47"/>
+<area shape="rect" id="node5" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#ac3f15fbae74f2de4b84110a900d8450b" title="django.utils.unittest.case.skip\lUnless" alt="" coords="643,71,838,112"/>
+<area shape="rect" id="node6" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#a9784d0588d609fcbf2fbb53c13008841" title="django.utils.unittest.case.skip" alt="" coords="899,78,1093,105"/>
+</map>

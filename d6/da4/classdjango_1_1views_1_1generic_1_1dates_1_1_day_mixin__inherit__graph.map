@@ -1,0 +1,8 @@
+<map id="django.views.generic.dates.DayMixin" name="django.views.generic.dates.DayMixin">
+<area shape="rect" id="node3" href="$d7/da7/classdjango_1_1views_1_1generic_1_1dates_1_1_base_date_detail_view.html" title="django.views.generic.dates.\lBaseDateDetailView" alt="" coords="340,5,521,47"/>
+<area shape="rect" id="node5" href="$de/de2/classdjango_1_1views_1_1generic_1_1dates_1_1_base_day_archive_view.html" title="django.views.generic.dates.\lBaseDayArchiveView" alt="" coords="340,71,521,112"/>
+<area shape="rect" id="node4" href="$d6/dc3/classdjango_1_1views_1_1generic_1_1dates_1_1_date_detail_view.html" title="django.views.generic.dates.\lDateDetailView" alt="" coords="569,5,751,47"/>
+<area shape="rect" id="node6" href="$d8/dd3/classdjango_1_1views_1_1generic_1_1dates_1_1_base_today_archive_view.html" title="django.views.generic.dates.\lBaseTodayArchiveView" alt="" coords="569,71,751,112"/>
+<area shape="rect" id="node8" href="$d6/dfc/classdjango_1_1views_1_1generic_1_1dates_1_1_day_archive_view.html" title="django.views.generic.dates.\lDayArchiveView" alt="" coords="569,136,751,177"/>
+<area shape="rect" id="node7" href="$df/db1/classdjango_1_1views_1_1generic_1_1dates_1_1_today_archive_view.html" title="django.views.generic.dates.\lTodayArchiveView" alt="" coords="799,71,980,112"/>
+</map>

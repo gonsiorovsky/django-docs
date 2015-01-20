@@ -1,0 +1,7 @@
+<map id="django.contrib.formtools.wizard.views.WizardView.get_form" name="django.contrib.formtools.wizard.views.WizardView.get_form">
+<area shape="rect" id="node2" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html#aa7894c3324b8154a39806fa8704b0c33" title="django.contrib.formtools.wizard.views.\lWizardView.get_form_initial" alt="" coords="303,5,543,47"/>
+<area shape="rect" id="node3" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html#ace73cbfe2d32162ab7cbbca446838028" title="django.contrib.formtools.wizard.views.\lWizardView.get_form_instance" alt="" coords="303,71,543,112"/>
+<area shape="rect" id="node4" href="$da/d93/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__forms_1_1_test_wizard.html#a29041f9514098291128e67e2f27963fd" title="django.contrib.formtools.tests.wizard.test\l_forms.TestWizard.get_form_kwargs" alt="" coords="293,136,553,177"/>
+<area shape="rect" id="node5" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html#a73155937784e0081f5aa579d8aec3c92" title="django.contrib.formtools.wizard.views.\lWizardView.get_form_kwargs" alt="" coords="303,201,543,243"/>
+<area shape="rect" id="node6" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html#a43bb79ed96c544e19fbffffc3f2df11c" title="django.contrib.formtools.wizard.views.\lWizardView.get_form_prefix" alt="" coords="303,267,543,308"/>
+</map>

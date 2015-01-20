@@ -1,0 +1,4 @@
+var classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1namedwizardtests_1_1tests_1_1_named_form_tests =
+[
+    [ "test_revalidation", "d5/d09/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1namedwizardtests_1_1tests_1_1_named_form_tests.html#a00534ce6fc9d3eb33c368d24265bc164", null ]
+];

@@ -1,0 +1,18 @@
+<map id="django.contrib.auth.management.commands.createsuperuser.Command.handle" name="django.contrib.auth.management.commands.createsuperuser.Command.handle">
+<area shape="rect" id="node2" href="$d9/dd8/namespacedjango_1_1contrib_1_1auth_1_1management.html#a524b5e13535f3455f5378aa41a8bb784" title="django.contrib.auth.management.create\l_superuser" alt="" coords="433,219,684,260"/>
+<area shape="rect" id="node13" href="$d9/dd8/namespacedjango_1_1contrib_1_1auth_1_1management.html#ae2f61a47af2cff0112647306979415d4" title="django.contrib.auth.management.get\l_default_username" alt="" coords="442,296,675,337"/>
+<area shape="rect" id="node16" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="453,387,664,414"/>
+<area shape="rect" id="node3" href="$df/d84/namespacedjango_1_1core_1_1management.html#ae9b927e6db432c148451681e4403a06e" title="django.core.management.call\l_command" alt="" coords="753,107,945,148"/>
+<area shape="rect" id="node9" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a5fd6967d8d2e7b45ce2fd930730ac412" title="django.contrib.comments.get\l_model" alt="" coords="1016,224,1207,265"/>
+<area shape="rect" id="node12" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ad11b72f71e98c7df642a60b4fd267680" title="django.contrib.auth.get\l_user_model" alt="" coords="771,224,926,265"/>
+<area shape="rect" id="node4" href="$df/d84/namespacedjango_1_1core_1_1management.html#ab5a14a010a9f46ae47bc2f410855ceff" title="django.core.management.get\l_commands" alt="" coords="1016,67,1207,108"/>
+<area shape="rect" id="node7" href="$df/d84/namespacedjango_1_1core_1_1management.html#aa6f6fdef4465909ab9625c02f94073fb" title="django.core.management.load\l_command_class" alt="" coords="1013,132,1209,173"/>
+<area shape="rect" id="node5" href="$df/d84/namespacedjango_1_1core_1_1management.html#aa7ee13f846168d9e5787446f0829578a" title="django.core.management.find\l_commands" alt="" coords="1257,5,1449,47"/>
+<area shape="rect" id="node6" href="$df/d84/namespacedjango_1_1core_1_1management.html#a9103fb55d6f74937943c1b6949e8ddce" title="django.core.management.find\l_management_module" alt="" coords="1257,71,1449,112"/>
+<area shape="rect" id="node8" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1502,145,1683,187"/>
+<area shape="rect" id="node10" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a60881c6f7b8b1d51a2b28d9961b4233c" title="django.contrib.comments.get\l_comment_app_name" alt="" coords="1497,224,1688,265"/>
+<area shape="rect" id="node11" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a2a0159dc7a5e9946976f1161dd085850" title="django.contrib.comments.get\l_comment_app" alt="" coords="1258,191,1449,232"/>
+<area shape="rect" id="node14" href="$d9/dd8/namespacedjango_1_1contrib_1_1auth_1_1management.html#aada845bc6eed9154c36549c10b357c28" title="django.contrib.auth.management.get\l_system_username" alt="" coords="732,289,965,331"/>
+<area shape="rect" id="node15" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaaefde7859fe1bf353ac71952c024eb9" title="django.template.defaultfilters.lower" alt="" coords="738,355,959,382"/>
+<area shape="rect" id="node17" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="743,406,955,433"/>
+</map>

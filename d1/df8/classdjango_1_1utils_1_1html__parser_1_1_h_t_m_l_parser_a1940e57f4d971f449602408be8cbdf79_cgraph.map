@@ -1,0 +1,11 @@
+<map id="django.utils.html_parser.HTMLParser.parse_endtag" name="django.utils.html_parser.HTMLParser.parse_endtag">
+<area shape="rect" id="node2" href="$d1/df8/classdjango_1_1utils_1_1html__parser_1_1_h_t_m_l_parser.html#ab5358af13fe8e01e6cb3126d52d0ec28" title="django.utils.html_parser.\lHTMLParser.clear_cdata_mode" alt="" coords="243,5,447,47"/>
+<area shape="rect" id="node3" href="$dc/da3/classdjango_1_1template_1_1debug_1_1_debug_parser.html#a4d24299e03418ac07db17b7c5aa3aa17" title="django.template.debug.Debug\lParser.error" alt="" coords="520,56,715,97"/>
+<area shape="rect" id="node5" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#ad5bc38bd6dccb70353068114cc818ed9" title="django.test.html.Parser.error" alt="" coords="524,122,711,149"/>
+<area shape="rect" id="node6" href="$d0/df3/classdjango_1_1core_1_1management_1_1_lax_option_parser.html#a66956b32699c3f4a4c87cfc9231273ae" title="django.core.management.Lax\lOptionParser.error" alt="" coords="521,239,714,280"/>
+<area shape="rect" id="node7" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#ad3fe9f2107c92584e4cda2af6b139fef" title="django.template.base.Parser.error" alt="" coords="508,305,727,331"/>
+<area shape="rect" id="node8" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#a86c687470bfb0eccfaef6f617a0c83f8" title="django.test.html.Parser.handle_data" alt="" coords="229,341,460,367"/>
+<area shape="rect" id="node9" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#aa8c3c692185c2ffd38f7e7ec5200bb90" title="django.test.html.Parser.handle\l_endtag" alt="" coords="245,173,444,215"/>
+<area shape="rect" id="node4" href="$dc/da3/classdjango_1_1template_1_1debug_1_1_debug_parser.html#a9c454f761b0de3bb59247b216ad072f0" title="django.template.debug.Debug\lParser.source_error" alt="" coords="775,56,969,97"/>
+<area shape="rect" id="node10" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#aa6e83a83accea65a4a530edc8b6030f2" title="django.test.html.Parser.format\l_position" alt="" coords="519,173,716,215"/>
+</map>

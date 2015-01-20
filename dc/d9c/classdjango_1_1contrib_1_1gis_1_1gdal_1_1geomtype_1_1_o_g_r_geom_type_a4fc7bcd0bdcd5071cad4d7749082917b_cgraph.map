@@ -1,0 +1,9 @@
+<map id="django.contrib.gis.gdal.geomtype.OGRGeomType.__str__" name="django.contrib.gis.gdal.geomtype.OGRGeomType.__str__">
+<area shape="rect" id="node2" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html#a52ccad95ad1a0fae1ef80beb9a6c838b" title="Field Properties ####. " alt="" coords="291,5,474,47"/>
+<area shape="rect" id="node7" href="$dc/d9c/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geomtype_1_1_o_g_r_geom_type.html#a80a6f16d4e7014ca3adac92432f148b2" title="django.contrib.gis.gdal.geomtype.\lOGRGeomType.name" alt="" coords="274,71,491,112"/>
+<area shape="rect" id="node8" href="$db/d7b/classdjango_1_1contrib_1_1gis_1_1gdal_1_1datasource_1_1_data_source.html#af2cbfd1f4ceeb82b6f7c29a705555d8e" title="django.contrib.gis.gdal.datasource.\lDataSource.name" alt="" coords="271,136,495,177"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="543,78,748,105"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="822,41,981,83"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="796,107,1007,134"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1055,107,1267,134"/>
+</map>

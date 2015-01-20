@@ -1,0 +1,10 @@
+<map id="django.contrib.gis.forms.widgets.BaseGeometryWidget.deserialize" name="django.contrib.gis.forms.widgets.BaseGeometryWidget.deserialize">
+<area shape="rect" id="node2" href="$df/d02/classdjango_1_1contrib_1_1gis_1_1forms_1_1widgets_1_1_base_geometry_widget.html#a21d7f0e03184e91e4a589e12b8b0d78f" title="django.contrib.gis.forms.widgets.\lBaseGeometryWidget.render" alt="" coords="269,193,481,235"/>
+<area shape="rect" id="node3" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="561,29,740,71"/>
+<area shape="rect" id="node4" href="$d8/d46/classdjango_1_1forms_1_1widgets_1_1_media.html#a0e4a19dea13251e926d6e295c1c0f8c3" title="django.forms.widgets.Media.\l__str__" alt="" coords="557,95,744,136"/>
+<area shape="rect" id="node5" href="$d1/d2a/classdjango_1_1forms_1_1widgets_1_1_choice_input.html#aec772adb8aeaa64fe0cb02769154f8a5" title="django.forms.widgets.Choice\lInput.__str__" alt="" coords="557,160,745,201"/>
+<area shape="rect" id="node6" href="$d7/d97/classdjango_1_1forms_1_1widgets_1_1_choice_field_renderer.html#aeaa481910bbfed17e545ee9b9a55922d" title="django.forms.widgets.Choice\lFieldRenderer.__str__" alt="" coords="557,225,745,267"/>
+<area shape="rect" id="node7" href="$d7/d17/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map.html#a747b0e81bfe2ea9ae993ce2cb7a0fe64" title="django.contrib.gis.maps.google.gmap.\lGoogleMap.js" alt="" coords="529,291,772,332"/>
+<area shape="rect" id="node9" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="572,356,729,397"/>
+<area shape="rect" id="node8" href="$d7/d17/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map.html#a412ec1b7d8216629b14ce6a5f37c131c" title="django.contrib.gis.maps.google.gmap.\lGoogleMap.scripts" alt="" coords="820,291,1063,332"/>
+</map>

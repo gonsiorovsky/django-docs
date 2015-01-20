@@ -1,0 +1,8 @@
+<map id="django.views.generic.list.ListView" name="django.views.generic.list.ListView">
+<area shape="rect" id="node2" href="$d0/d64/classdjango_1_1views_1_1generic_1_1list_1_1_multiple_object_template_response_mixin.html" title="django.views.generic.list.\lMultipleObjectTemplateResponseMixin" alt="" coords="589,5,836,47"/>
+<area shape="rect" id="node3" href="$d8/d0b/classdjango_1_1views_1_1generic_1_1base_1_1_template_response_mixin.html" title="django.views.generic.base.\lTemplateResponseMixin" alt="" coords="364,5,541,47"/>
+<area shape="rect" id="node7" href="$d1/d6a/classdjango_1_1views_1_1generic_1_1base_1_1_context_mixin.html" title="django.views.generic.base.\lContextMixin" alt="" coords="125,71,302,112"/>
+<area shape="rect" id="node8" href="$d0/ddc/classdjango_1_1views_1_1generic_1_1base_1_1_view.html" title="django.views.generic.base.View" alt="" coords="111,137,316,163"/>
+<area shape="rect" id="node5" href="$d0/d9a/classdjango_1_1views_1_1generic_1_1list_1_1_base_list_view.html" title="django.views.generic.list.\lBaseListView" alt="" coords="629,71,796,112"/>
+<area shape="rect" id="node6" href="$dc/db8/classdjango_1_1views_1_1generic_1_1list_1_1_multiple_object_mixin.html" title="django.views.generic.list.\lMultipleObjectMixin" alt="" coords="369,71,536,112"/>
+</map>

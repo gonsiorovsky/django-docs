@@ -1,0 +1,5 @@
+var classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1wizardtests_1_1tests_1_1_wizard_test_generic_view_interface =
+[
+    [ "test_get_context_data_inheritance", "da/d83/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1wizardtests_1_1tests_1_1_wizard_test_generic_view_interface.html#ab2af6e07681231884e3cc846e716ae58", null ],
+    [ "test_get_context_data_with_mixin", "da/d83/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1wizardtests_1_1tests_1_1_wizard_test_generic_view_interface.html#acf297fe6b7a10bd3ff1050073b19b727", null ]
+];

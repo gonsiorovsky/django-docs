@@ -1,0 +1,5 @@
+<map id="django.forms.models.ModelMultipleChoiceField" name="django.forms.models.ModelMultipleChoiceField">
+<area shape="rect" id="node2" href="$d9/d46/classdjango_1_1forms_1_1models_1_1_model_choice_field.html" title="django.forms.models.Model\lChoiceField" alt="" coords="5,244,187,285"/>
+<area shape="rect" id="node3" href="$de/d1b/classdjango_1_1forms_1_1fields_1_1_choice_field.html" title="django.forms.fields.Choice\lField" alt="" coords="9,155,183,196"/>
+<area shape="rect" id="node4" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html" title="django.forms.fields.Field" alt="" coords="15,80,177,107"/>
+</map>

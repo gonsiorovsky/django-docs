@@ -1,0 +1,7 @@
+<map id="django.forms.models.save_instance" name="django.forms.models.save_instance">
+<area shape="rect" id="node2" href="$d3/d88/namespacedjango_1_1forms_1_1models.html#a9c7ab2cc6d933564a276b2ce8caa2a3d" title="django.forms.models.construct\l_instance" alt="" coords="244,5,444,47"/>
+<area shape="rect" id="node4" href="$d8/dd8/classdjango_1_1forms_1_1models_1_1_base_model_form.html#af7d664f4cf6c20270ab6f47a9d3c23d8" title="django.forms.models.Base\lModelForm.save" alt="" coords="256,71,432,112"/>
+<area shape="rect" id="node6" href="$d4/dd0/classdjango_1_1contrib_1_1contenttypes_1_1generic_1_1_base_generic_inline_form_set.html#a4650a399121f9febfd7c60b4aa38d731" title="django.contrib.contenttypes.generic.\lBaseGenericInlineFormSet.save_new" alt="" coords="225,136,463,177"/>
+<area shape="rect" id="node3" href="$d8/dd8/classdjango_1_1forms_1_1models_1_1_base_model_form.html#abbcddac6d29c87ce3f49fba983f5df0a" title="django.forms.models.Base\lModelForm.clean" alt="" coords="537,5,713,47"/>
+<area shape="rect" id="node5" href="$de/d45/classdjango_1_1contrib_1_1auth_1_1models_1_1_abstract_base_user.html#a5362b1faad280af834f94f3ea0da48b3" title="django.contrib.auth.models.\lAbstractBaseUser.check_password" alt="" coords="511,71,740,112"/>
+</map>

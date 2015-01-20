@@ -1,0 +1,6 @@
+<map id="django.forms.widgets.RendererMixin.get_renderer" name="django.forms.widgets.RendererMixin.get_renderer">
+<area shape="rect" id="node2" href="$da/d22/classdjango_1_1forms_1_1widgets_1_1_renderer_mixin.html#af0d5c6ada2df090e25844e0000b030f0" title="django.forms.widgets.Renderer\lMixin.render" alt="" coords="253,61,453,103"/>
+<area shape="rect" id="node5" href="$da/d22/classdjango_1_1forms_1_1widgets_1_1_renderer_mixin.html#a5084e41a11ec102cc729d31852915d29" title="django.forms.widgets.Renderer\lMixin.subwidgets" alt="" coords="253,127,453,168"/>
+<area shape="rect" id="node3" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="501,29,680,71"/>
+<area shape="rect" id="node4" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="512,95,669,136"/>
+</map>

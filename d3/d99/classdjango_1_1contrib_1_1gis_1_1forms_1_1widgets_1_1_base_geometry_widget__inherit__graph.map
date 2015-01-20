@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.forms.widgets.BaseGeometryWidget" name="django.contrib.gis.forms.widgets.BaseGeometryWidget">
+<area shape="rect" id="node6" href="$d7/d6f/classdjango_1_1contrib_1_1gis_1_1forms_1_1widgets_1_1_open_layers_widget.html" title="django.contrib.gis.forms.widgets.\lOpenLayersWidget" alt="" coords="828,5,1040,47"/>
+<area shape="rect" id="node7" href="$d6/de5/classdjango_1_1contrib_1_1gis_1_1forms_1_1widgets_1_1_o_s_m_widget.html" title="django.contrib.gis.forms.widgets.\lOSMWidget" alt="" coords="828,71,1040,112"/>
+<area shape="rect" id="node2" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html" title="django.forms.widgets.Widget" alt="" coords="331,46,520,73"/>
+<area shape="rect" id="node4" href="$de/d5f/classdjango_1_1forms_1_1widgets_1_1_media_defining_class.html" title="django.forms.widgets.Media\lDefiningClass" alt="" coords="100,68,283,109"/>
+</map>

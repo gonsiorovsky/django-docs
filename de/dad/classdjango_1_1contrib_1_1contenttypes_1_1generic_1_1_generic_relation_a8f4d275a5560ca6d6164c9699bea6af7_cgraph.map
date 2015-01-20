@@ -1,0 +1,8 @@
+<map id="django.contrib.contenttypes.generic.GenericRelation.get_choices_default" name="django.contrib.contenttypes.generic.GenericRelation.get_choices_default">
+<area shape="rect" id="node2" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#a4f5bed149f0bd7be1f1e51c8acc149e1" title="django.db.models.fields.\lField.get_choices" alt="" coords="287,35,449,76"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="497,42,708,69"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="756,42,961,69"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1035,5,1194,47"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1009,71,1220,98"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1268,71,1480,98"/>
+</map>

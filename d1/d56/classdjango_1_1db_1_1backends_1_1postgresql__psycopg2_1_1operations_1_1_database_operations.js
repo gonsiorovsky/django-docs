@@ -1,0 +1,26 @@
+var classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations =
+[
+    [ "__init__", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a547106bed4770ccd39fcca3d27271ade", null ],
+    [ "bulk_insert_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a9ab70622090f0e8649f9bce513d47806", null ],
+    [ "date_extract_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a6e96d9d28b70f4db275684f8eb4aa3c8", null ],
+    [ "date_interval_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a7f9c484cf39b31727692dcb69a97e830", null ],
+    [ "date_trunc_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a485d9cc89aa943a7761442cfd1a46991", null ],
+    [ "datetime_extract_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a3868e26b2d263aa422e304a22fbd1b5a", null ],
+    [ "datetime_trunc_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a6632273b76eb910617f20b4814ad9a81", null ],
+    [ "deferrable_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a6de79ce043f3fe18f035226c972edfc0", null ],
+    [ "distinct_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#abc4c74012d414362b7326c970fadf983", null ],
+    [ "field_cast_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a7eaf37a41bf3c6a36120198e5175b5ef", null ],
+    [ "last_executed_query", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#af44fdfb5b92a6ac1aa10eefa24aa990b", null ],
+    [ "last_insert_id", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#aed9cee16cea101818964eccda18323c5", null ],
+    [ "lookup_cast", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#af73f77332d19d8653be26f6262198231", null ],
+    [ "max_name_length", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#adc6072812ff87798c7be1eaf5b33c060", null ],
+    [ "no_limit_value", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a307cf9633c03399e9de294e5c6866bde", null ],
+    [ "prep_for_iexact_query", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a1f5b09871ce9314e37f78c9774cdbd55", null ],
+    [ "quote_name", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a9de529c24a6e04630d1391a1273e09e6", null ],
+    [ "return_insert_id", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#ab90125cb264a0ede395dde930650fa2a", null ],
+    [ "sequence_reset_by_name_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a7e8377817e4732b812db4904c57075fa", null ],
+    [ "sequence_reset_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#ab82fd49b221ba850f416e4e54a09a675", null ],
+    [ "set_time_zone_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a7200845d30f97d1fa5835b8f3c0579c9", null ],
+    [ "sql_flush", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a642a978d053156dae200fde3f0cc06f4", null ],
+    [ "tablespace_sql", "d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a360981574b9cfb7683397c993199bb12", null ]
+];

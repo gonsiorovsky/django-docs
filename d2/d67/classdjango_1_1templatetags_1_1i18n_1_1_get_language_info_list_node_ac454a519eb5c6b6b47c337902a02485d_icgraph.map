@@ -1,0 +1,4 @@
+<map id="django.templatetags.i18n.GetLanguageInfoListNode.get_language_info" name="django.templatetags.i18n.GetLanguageInfoListNode.get_language_info">
+<area shape="rect" id="node2" href="$d2/d67/classdjango_1_1templatetags_1_1i18n_1_1_get_language_info_list_node.html#a61dc2f539072366cc7e69a452b90d982" title="django.templatetags.i18n.\lGetLanguageInfoListNode.render" alt="" coords="245,29,456,71"/>
+<area shape="rect" id="node3" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="504,29,683,71"/>
+</map>

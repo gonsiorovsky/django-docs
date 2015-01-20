@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.gdal.prototypes.generation.geom_output" name="django.contrib.gis.gdal.prototypes.generation.geom_output">
+<area shape="rect" id="node2" href="$d6/d64/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1errcheck.html#a64cc865cda739282789d6fc678e6ba93" title="django.contrib.gis.gdal.prototypes.errcheck.check\l_geom_offset" alt="" coords="371,49,681,90"/>
+<area shape="rect" id="node3" href="$d8/d96/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1error.html#a36fdcad2a8f3ecafb144b30b9eae9424" title="django.contrib.gis.gdal.error.check_err" alt="" coords="783,5,1025,32"/>
+<area shape="rect" id="node4" href="$d6/d64/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1errcheck.html#ade2114e86912394953cebe6bef05d127" title="Geometry error&#45;checking routines ###. " alt="" coords="729,56,1079,83"/>
+<area shape="rect" id="node5" href="$d6/d64/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1errcheck.html#a95f78b184f48b5c887f94bf77124b076" title="django.contrib.gis.gdal.prototypes.errcheck.ptr\l_byref" alt="" coords="759,107,1049,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.contrib.messages.tests.base.BaseTests" name="django.contrib.messages.tests.base.BaseTests">
+<area shape="rect" id="node3" href="$d0/de5/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__cookie_1_1_cookie_test.html" title="django.contrib.messages.tests.test\l_cookie.CookieTest" alt="" coords="395,5,621,47"/>
+<area shape="rect" id="node4" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html" title="django.contrib.messages.tests.test\l_fallback.FallbackTest" alt="" coords="395,71,621,112"/>
+<area shape="rect" id="node5" href="$dd/daf/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__session_1_1_session_test.html" title="django.contrib.messages.tests.test\l_session.SessionTest" alt="" coords="395,136,621,177"/>
+</map>

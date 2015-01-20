@@ -1,0 +1,8 @@
+<map id="django.template.base.Parser.next_token" name="django.template.base.Parser.next_token">
+<area shape="rect" id="node2" href="$db/dbe/classdjango_1_1template_1_1smartif_1_1_if_parser.html#a4a3169167f8f4358fcfd61652a0687d8" title="django.template.smartif.\lIfParser.expression" alt="" coords="314,5,475,47"/>
+<area shape="rect" id="node6" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a47ebe77a4944cbf69a205899ace08290" title="django.template.base.Parser.parse" alt="" coords="567,71,791,98"/>
+<area shape="rect" id="node7" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#abc3d979c23962ddd854f9e7a6e1cdf5d" title="django.template.base.Parser.skip_past" alt="" coords="271,122,519,149"/>
+<area shape="rect" id="node3" href="$db/dbe/classdjango_1_1template_1_1smartif_1_1_if_parser.html#a783126fdfc6d267b9f29aceddf18f02b" title="django.template.smartif.\lIfParser.parse" alt="" coords="598,5,759,47"/>
+<area shape="rect" id="node4" href="$dd/d04/classdjango_1_1test_1_1__doctest_1_1_doc_test_parser.html#a7bd02125fbcf94ab75c9ab7d403f3f6c" title="django.test._doctest.Doc\lTestParser.get_examples" alt="" coords="839,35,1009,76"/>
+<area shape="rect" id="node5" href="$dd/d04/classdjango_1_1test_1_1__doctest_1_1_doc_test_parser.html#a1eb977400bf7fd3211c8ae142f171745" title="django.test._doctest.Doc\lTestParser.get_doctest" alt="" coords="1057,35,1224,76"/>
+</map>

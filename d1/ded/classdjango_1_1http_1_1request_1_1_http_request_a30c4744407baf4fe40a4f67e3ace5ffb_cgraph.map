@@ -1,0 +1,7 @@
+<map id="django.http.request.HttpRequest.encoding" name="django.http.request.HttpRequest.encoding">
+<area shape="rect" id="node2" href="$d4/dcf/classdjango_1_1contrib_1_1messages_1_1storage_1_1fallback_1_1_fallback_storage.html#a3309deaf5ac5db850234c708e8684414" title="django.contrib.messages.storage.fallback.\lFallbackStorage._get" alt="" coords="215,5,481,47"/>
+<area shape="rect" id="node3" href="$db/d1e/classdjango_1_1contrib_1_1messages_1_1storage_1_1session_1_1_session_storage.html#a9cbab0b9488dfcfcd53fafe8e66bf6c6" title="django.contrib.messages.storage.session.\lSessionStorage._get" alt="" coords="215,71,481,112"/>
+<area shape="rect" id="node4" href="$d2/dd6/classdjango_1_1contrib_1_1messages_1_1storage_1_1cookie_1_1_cookie_storage.html#a0c49917191a95261723dc70a2d66b963" title="django.contrib.messages.storage.cookie.\lCookieStorage._get" alt="" coords="218,136,478,177"/>
+<area shape="rect" id="node5" href="$dc/dc3/classdjango_1_1contrib_1_1messages_1_1storage_1_1base_1_1_base_storage.html#a3ee730e61a92f2ede242079e3b69c52a" title="django.contrib.messages.storage.base.\lBaseStorage._get" alt="" coords="223,201,473,243"/>
+<area shape="rect" id="node6" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#ab66d47cc5f3c5fcab37138b6c54dba07" title="django.http.request.Http\lRequest.encoding" alt="" coords="267,267,429,308"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="django.contrib.flatpages.models.FlatPage.get_absolute_url" name="django.contrib.flatpages.models.FlatPage.get_absolute_url">
+<area shape="rect" id="node2" href="$d1/d1a/namespacedjango_1_1core_1_1urlresolvers.html#af1bbab2c3a3b9f0b0131398cd7755bae" title="django.core.urlresolvers.get\l_script_prefix" alt="" coords="263,5,443,47"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#adedd59fca095fd910d91ba3317749c7a" title="django.utils.encoding.iri\l_to_uri" alt="" coords="273,71,432,112"/>
+<area shape="rect" id="node4" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#aa6ea7c1ad8c36a98e14e6745750bc77f" title="django.contrib.admin.util.quote" alt="" coords="491,49,689,75"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="502,100,678,141"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="737,78,948,105"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="996,78,1208,105"/>
+</map>

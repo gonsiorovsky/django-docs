@@ -1,0 +1,10 @@
+<map id="django.forms.widgets.Select" name="django.forms.widgets.Select">
+<area shape="rect" id="node6" href="$db/d9d/classdjango_1_1forms_1_1widgets_1_1_null_boolean_select.html" title="django.forms.widgets.Null\lBooleanSelect" alt="" coords="809,5,979,47"/>
+<area shape="rect" id="node7" href="$d9/dfe/classdjango_1_1forms_1_1widgets_1_1_radio_select.html" title="django.forms.widgets.Radio\lSelect" alt="" coords="803,71,985,112"/>
+<area shape="rect" id="node9" href="$da/d7f/classdjango_1_1forms_1_1widgets_1_1_select_multiple.html" title="django.forms.widgets.Select\lMultiple" alt="" coords="801,136,987,177"/>
+<area shape="rect" id="node2" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html" title="django.forms.widgets.Widget" alt="" coords="331,78,520,105"/>
+<area shape="rect" id="node4" href="$de/d5f/classdjango_1_1forms_1_1widgets_1_1_media_defining_class.html" title="django.forms.widgets.Media\lDefiningClass" alt="" coords="100,100,283,141"/>
+<area shape="rect" id="node8" href="$d6/d29/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_radio_select.html" title="django.contrib.admin.widgets.\lAdminRadioSelect" alt="" coords="1041,71,1235,112"/>
+<area shape="rect" id="node10" href="$d2/da3/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_filtered_select_multiple.html" title="django.contrib.admin.widgets.\lFilteredSelectMultiple" alt="" coords="1041,136,1235,177"/>
+<area shape="rect" id="node11" href="$d9/dfa/classdjango_1_1forms_1_1widgets_1_1_checkbox_select_multiple.html" title="django.forms.widgets.Checkbox\lSelectMultiple" alt="" coords="1035,201,1241,243"/>
+</map>

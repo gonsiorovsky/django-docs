@@ -1,0 +1,8 @@
+<map id="django.utils.text.Truncator.chars" name="django.utils.text.Truncator.chars">
+<area shape="rect" id="node2" href="$de/d5c/classdjango_1_1utils_1_1text_1_1_truncator.html#ad2465bed835d801c24d830e9db118984" title="django.utils.text.Truncator.add\l_truncation_text" alt="" coords="261,60,459,101"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="507,42,712,69"/>
+<area shape="rect" id="node7" href="$d4/dd9/namespacedjango_1_1utils_1_1translation.html#a37cf2c7e80215e9e366a5be5a6d8dfb6" title="django.utils.translation.pgettext" alt="" coords="508,93,711,119"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="786,5,945,47"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="760,71,971,98"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1019,71,1231,98"/>
+</map>

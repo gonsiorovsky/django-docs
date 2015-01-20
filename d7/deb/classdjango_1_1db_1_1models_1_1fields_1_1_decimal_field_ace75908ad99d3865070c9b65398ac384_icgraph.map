@@ -1,0 +1,18 @@
+<map id="django.db.models.fields.DecimalField.format_number" name="django.db.models.fields.DecimalField.format_number">
+<area shape="rect" id="node2" href="$d7/deb/classdjango_1_1db_1_1models_1_1fields_1_1_decimal_field.html#ab4c6f75488c0b7567bb045bf65e72c11" title="django.db.models.fields.\lDecimalField.to_python" alt="" coords="240,151,403,192"/>
+<area shape="rect" id="node3" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html#ac067d0195ef0f3a2c37b00ec6118c25a" title="django.forms.fields.Field.clean" alt="" coords="463,217,661,243"/>
+<area shape="rect" id="node14" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html#a67e3285df52f428a6a66c60d973863da" title="django.forms.fields.Field.widget\l_attrs" alt="" coords="461,268,663,309"/>
+<area shape="rect" id="node15" href="$de/db2/classdjango_1_1forms_1_1fields_1_1_email_field.html#af7bec9ea0296d7830f1a04bf6ced8b42" title="django.forms.fields.Email\lField.clean" alt="" coords="479,33,645,75"/>
+<area shape="rect" id="node16" href="$dc/dbb/classdjango_1_1forms_1_1fields_1_1_u_r_l_field.html#a7d0d20bedcbfcb233db8c5e5830c8a26" title="django.forms.fields.URLField.clean" alt="" coords="451,99,673,126"/>
+<area shape="rect" id="node17" href="$d9/dee/classdjango_1_1forms_1_1fields_1_1_slug_field.html#a9b0cb62ba8d488779027684d9410c3d2" title="django.forms.fields.Slug\lField.clean" alt="" coords="482,151,642,192"/>
+<area shape="rect" id="node4" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#ab85a836f8efaf3f794e9c34d427967f7" title="django.forms.formsets.Base\lFormSet.full_clean" alt="" coords="721,121,905,163"/>
+<area shape="rect" id="node5" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#a1d05547548a4662138e11e22e4795f52" title="django.forms.formsets.Base\lFormSet.non_form_errors" alt="" coords="953,121,1137,163"/>
+<area shape="rect" id="node13" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#a3beee57c0d0f934ac19a621dfa83193c" title="django.forms.formsets.Base\lFormSet.errors" alt="" coords="953,56,1137,97"/>
+<area shape="rect" id="node6" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#aa8768f079003eb89dac27d2580c01935" title="django.forms.formsets.Base\lFormSet.total_error_count" alt="" coords="1185,121,1369,163"/>
+<area shape="rect" id="node7" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#ac556f386c1300678a3d58cbe8e9c7bef" title="django.forms.formsets.Base\lFormSet.is_valid" alt="" coords="1185,56,1369,97"/>
+<area shape="rect" id="node8" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#aa38b8e30dcee162b6d31447ab61d43fc" title="django.forms.formsets.Base\lFormSet.cleaned_data" alt="" coords="1417,71,1601,112"/>
+<area shape="rect" id="node9" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#a83a631f99dd905ea879d33b0675bc55a" title="django.forms.formsets.Base\lFormSet.deleted_forms" alt="" coords="1417,151,1601,192"/>
+<area shape="rect" id="node12" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#a91c44cf8c2c33e9317d96b70ada86fc1" title="django.forms.formsets.Base\lFormSet.ordered_forms" alt="" coords="1417,5,1601,47"/>
+<area shape="rect" id="node10" href="$d5/d31/classdjango_1_1forms_1_1models_1_1_base_model_form_set.html#ab8aa4301bd31f76df1921428493b006b" title="django.forms.models.Base\lModelFormSet.validate\l_unique" alt="" coords="1649,143,1825,199"/>
+<area shape="rect" id="node11" href="$d5/d31/classdjango_1_1forms_1_1models_1_1_base_model_form_set.html#aeb5f8ac417ef44d2a90e7502ccf90482" title="django.forms.models.Base\lModelFormSet.clean" alt="" coords="1873,151,2049,192"/>
+</map>

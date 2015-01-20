@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d8/dc9/classdjango_1_1core_1_1mail_1_1message_1_1_bad_header_error.html" title="django.core.mail.message.\lBadHeaderError" alt="" coords="152,5,331,47"/>
+<area shape="rect" id="node3" href="$d0/d86/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_defused_xml_exception.html" title="django.core.serializers.xml\l_serializer.DefusedXmlException" alt="" coords="136,71,347,112"/>
+<area shape="rect" id="node7" href="$d8/dda/classdjango_1_1http_1_1response_1_1_bad_header_error.html" title="django.http.response.Bad\lHeaderError" alt="" coords="156,136,327,177"/>
+<area shape="rect" id="node4" href="$d0/d00/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_d_t_d_forbidden.html" title="django.core.serializers.xml\l_serializer.DTDForbidden" alt="" coords="430,5,607,47"/>
+<area shape="rect" id="node5" href="$d5/dc9/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_entities_forbidden.html" title="django.core.serializers.xml\l_serializer.EntitiesForbidden" alt="" coords="425,71,612,112"/>
+<area shape="rect" id="node6" href="$db/d76/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_external_reference_forbidden.html" title="django.core.serializers.xml\l_serializer.ExternalReferenceForbidden" alt="" coords="395,136,643,177"/>
+</map>

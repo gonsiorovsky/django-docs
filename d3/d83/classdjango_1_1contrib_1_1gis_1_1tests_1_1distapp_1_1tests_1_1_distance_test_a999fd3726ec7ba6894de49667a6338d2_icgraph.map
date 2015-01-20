@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.tests.distapp.tests.DistanceTest.get_names" name="django.contrib.gis.tests.distapp.tests.DistanceTest.get_names">
+<area shape="rect" id="node2" href="$d3/d83/classdjango_1_1contrib_1_1gis_1_1tests_1_1distapp_1_1tests_1_1_distance_test.html#a1a528c7b94cda312dc2d17606dbe9e32" title="django.contrib.gis.tests.distapp.tests.\lDistanceTest.test02_dwithin" alt="" coords="325,5,565,47"/>
+<area shape="rect" id="node3" href="$d3/d83/classdjango_1_1contrib_1_1gis_1_1tests_1_1distapp_1_1tests_1_1_distance_test.html#a0185bc56bc9e82c00af12d854578d1b5" title="django.contrib.gis.tests.distapp.tests.\lDistanceTest.test03c_distance_method" alt="" coords="319,71,570,112"/>
+<area shape="rect" id="node4" href="$d3/d83/classdjango_1_1contrib_1_1gis_1_1tests_1_1distapp_1_1tests_1_1_distance_test.html#a55f33b83174d5849116603dd08ad2cf8" title="django.contrib.gis.tests.distapp.tests.\lDistanceTest.test04_distance_lookups" alt="" coords="321,136,568,177"/>
+<area shape="rect" id="node5" href="$d3/d83/classdjango_1_1contrib_1_1gis_1_1tests_1_1distapp_1_1tests_1_1_distance_test.html#a3cc11ace73931e53363c37fb18aa8323" title="django.contrib.gis.tests.distapp.tests.\lDistanceTest.test05_geodetic_distance_lookups" alt="" coords="293,201,596,243"/>
+</map>

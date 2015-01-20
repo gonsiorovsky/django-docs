@@ -1,0 +1,9 @@
+<map id="django.db.utils.DatabaseError" name="django.db.utils.DatabaseError">
+<area shape="rect" id="node8" href="$de/d6e/classdjango_1_1db_1_1utils_1_1_data_error.html" title="django.db.utils.DataError" alt="" coords="568,5,733,32"/>
+<area shape="rect" id="node9" href="$d4/d07/classdjango_1_1db_1_1utils_1_1_integrity_error.html" title="django.db.utils.Integrity\lError" alt="" coords="573,57,729,98"/>
+<area shape="rect" id="node10" href="$db/d9f/classdjango_1_1db_1_1utils_1_1_internal_error.html" title="django.db.utils.Internal\lError" alt="" coords="575,122,727,163"/>
+<area shape="rect" id="node11" href="$d3/d64/classdjango_1_1db_1_1utils_1_1_not_supported_error.html" title="django.db.utils.NotSupported\lError" alt="" coords="556,187,745,229"/>
+<area shape="rect" id="node12" href="$da/dd3/classdjango_1_1db_1_1utils_1_1_operational_error.html" title="django.db.utils.Operational\lError" alt="" coords="563,253,739,294"/>
+<area shape="rect" id="node13" href="$da/d89/classdjango_1_1db_1_1utils_1_1_programming_error.html" title="django.db.utils.Programming\lError" alt="" coords="557,318,744,359"/>
+<area shape="rect" id="node2" href="$dc/d6d/classdjango_1_1db_1_1utils_1_1_error.html" title="django.db.utils.Error" alt="" coords="156,163,295,189"/>
+</map>

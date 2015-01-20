@@ -1,0 +1,12 @@
+<map id="django.contrib.gis.gdal.layer.Layer.geom_type" name="django.contrib.gis.gdal.layer.Layer.geom_type">
+<area shape="rect" id="node2" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a97b3334c705fac6fb5899908cf7acae1" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.__repr__" alt="" coords="241,39,460,80"/>
+<area shape="rect" id="node3" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#ac76a2623a0b54ea1befd11ad19484c86" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.kml" alt="" coords="241,104,460,145"/>
+<area shape="rect" id="node4" href="$d8/dc3/classdjango_1_1contrib_1_1gis_1_1admin_1_1widgets_1_1_open_layers_widget.html#a5bc03831f5bceda564c1a3858d4599e5" title="django.contrib.gis.admin.widgets.\lOpenLayersWidget.render" alt="" coords="243,169,458,211"/>
+<area shape="rect" id="node5" href="$d8/d46/classdjango_1_1forms_1_1widgets_1_1_media.html#a0e4a19dea13251e926d6e295c1c0f8c3" title="django.forms.widgets.Media.\l__str__" alt="" coords="536,5,723,47"/>
+<area shape="rect" id="node6" href="$d1/d2a/classdjango_1_1forms_1_1widgets_1_1_choice_input.html#aec772adb8aeaa64fe0cb02769154f8a5" title="django.forms.widgets.Choice\lInput.__str__" alt="" coords="535,71,723,112"/>
+<area shape="rect" id="node7" href="$d7/d97/classdjango_1_1forms_1_1widgets_1_1_choice_field_renderer.html#aeaa481910bbfed17e545ee9b9a55922d" title="django.forms.widgets.Choice\lFieldRenderer.__str__" alt="" coords="535,136,723,177"/>
+<area shape="rect" id="node8" href="$d7/d17/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map.html#a747b0e81bfe2ea9ae993ce2cb7a0fe64" title="django.contrib.gis.maps.google.gmap.\lGoogleMap.js" alt="" coords="508,201,751,243"/>
+<area shape="rect" id="node10" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="540,291,719,332"/>
+<area shape="rect" id="node11" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="551,356,708,397"/>
+<area shape="rect" id="node9" href="$d7/d17/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map.html#a412ec1b7d8216629b14ce6a5f37c131c" title="django.contrib.gis.maps.google.gmap.\lGoogleMap.scripts" alt="" coords="799,201,1041,243"/>
+</map>

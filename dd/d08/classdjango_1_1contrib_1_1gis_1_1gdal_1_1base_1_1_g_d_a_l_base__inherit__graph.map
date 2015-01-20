@@ -1,0 +1,30 @@
+<map id="django.contrib.gis.gdal.base.GDALBase" name="django.contrib.gis.gdal.base.GDALBase">
+<area shape="rect" id="node3" href="$db/d7b/classdjango_1_1contrib_1_1gis_1_1gdal_1_1datasource_1_1_data_source.html" title="django.contrib.gis.gdal.datasource.\lDataSource" alt="" coords="347,300,571,341"/>
+<area shape="rect" id="node4" href="$d5/df2/classdjango_1_1contrib_1_1gis_1_1gdal_1_1driver_1_1_driver.html" title="django.contrib.gis.gdal.driver.\lDriver" alt="" coords="363,365,554,407"/>
+<area shape="rect" id="node5" href="$db/d34/classdjango_1_1contrib_1_1gis_1_1gdal_1_1feature_1_1_feature.html" title="django.contrib.gis.gdal.feature.\lFeature" alt="" coords="359,431,558,472"/>
+<area shape="rect" id="node6" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html" title="django.contrib.gis.gdal.field.\lField" alt="" coords="367,496,550,537"/>
+<area shape="rect" id="node19" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html" title="OGRGeometry Class ####. " alt="" coords="347,659,571,700"/>
+<area shape="rect" id="node28" href="$d9/d84/classdjango_1_1contrib_1_1gis_1_1gdal_1_1layer_1_1_layer.html" title="django.contrib.gis.gdal.layer.\lLayer" alt="" coords="365,724,553,765"/>
+<area shape="rect" id="node29" href="$d6/d7b/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_coord_transform.html" title="django.contrib.gis.gdal.srs.\lCoordTransform" alt="" coords="369,789,548,831"/>
+<area shape="rect" id="node30" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html" title="Spatial Reference class. " alt="" coords="369,855,548,896"/>
+<area shape="rect" id="node7" href="$dd/d7d/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_binary.html" title="django.contrib.gis.gdal.field.\lOFTBinary" alt="" coords="639,5,822,47"/>
+<area shape="rect" id="node8" href="$db/dd9/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_date.html" title="django.contrib.gis.gdal.field.\lOFTDate" alt="" coords="639,71,822,112"/>
+<area shape="rect" id="node9" href="$d7/dca/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_date_time.html" title="django.contrib.gis.gdal.field.\lOFTDateTime" alt="" coords="639,136,822,177"/>
+<area shape="rect" id="node10" href="$d9/d05/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_integer.html" title="django.contrib.gis.gdal.field.\lOFTInteger" alt="" coords="639,201,822,243"/>
+<area shape="rect" id="node11" href="$da/d2f/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_integer_list.html" title="django.contrib.gis.gdal.field.\lOFTIntegerList" alt="" coords="639,267,822,308"/>
+<area shape="rect" id="node12" href="$d8/d01/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_real.html" title="django.contrib.gis.gdal.field.\lOFTReal" alt="" coords="639,332,822,373"/>
+<area shape="rect" id="node13" href="$d5/dee/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_real_list.html" title="django.contrib.gis.gdal.field.\lOFTRealList" alt="" coords="639,397,822,439"/>
+<area shape="rect" id="node14" href="$d3/dfb/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_string.html" title="django.contrib.gis.gdal.field.\lOFTString" alt="" coords="639,463,822,504"/>
+<area shape="rect" id="node15" href="$d1/dde/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_string_list.html" title="django.contrib.gis.gdal.field.\lOFTStringList" alt="" coords="639,528,822,569"/>
+<area shape="rect" id="node16" href="$df/d6a/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_time.html" title="django.contrib.gis.gdal.field.\lOFTTime" alt="" coords="639,593,822,635"/>
+<area shape="rect" id="node17" href="$d4/d91/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_wide_string.html" title="django.contrib.gis.gdal.field.\lOFTWideString" alt="" coords="639,659,822,700"/>
+<area shape="rect" id="node18" href="$d3/dd4/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_wide_string_list.html" title="django.contrib.gis.gdal.field.\lOFTWideStringList" alt="" coords="639,724,822,765"/>
+<area shape="rect" id="node20" href="$d3/d4a/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_geometry_collection.html" title="django.contrib.gis.gdal.geometries.\lGeometryCollection" alt="" coords="619,789,843,831"/>
+<area shape="rect" id="node24" href="$d9/d27/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_line_string.html" title="django.contrib.gis.gdal.geometries.\lLineString" alt="" coords="619,855,843,896"/>
+<area shape="rect" id="node26" href="$da/dc8/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_point.html" title="django.contrib.gis.gdal.geometries.\lPoint" alt="" coords="619,920,843,961"/>
+<area shape="rect" id="node27" href="$d7/da5/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_polygon.html" title="django.contrib.gis.gdal.geometries.\lPolygon" alt="" coords="619,985,843,1027"/>
+<area shape="rect" id="node21" href="$d8/dc7/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_multi_line_string.html" title="django.contrib.gis.gdal.geometries.\lMultiLineString" alt="" coords="891,692,1115,733"/>
+<area shape="rect" id="node22" href="$d1/d74/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_multi_point.html" title="django.contrib.gis.gdal.geometries.\lMultiPoint" alt="" coords="891,757,1115,799"/>
+<area shape="rect" id="node23" href="$d5/d37/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_multi_polygon.html" title="django.contrib.gis.gdal.geometries.\lMultiPolygon" alt="" coords="891,823,1115,864"/>
+<area shape="rect" id="node25" href="$dc/dac/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_linear_ring.html" title="django.contrib.gis.gdal.geometries.\lLinearRing" alt="" coords="891,888,1115,929"/>
+</map>

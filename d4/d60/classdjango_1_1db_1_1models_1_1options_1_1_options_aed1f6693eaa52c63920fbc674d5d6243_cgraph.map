@@ -1,0 +1,6 @@
+<map id="django.db.models.options.Options.get_delete_permission" name="django.db.models.options.Options.get_delete_permission">
+<area shape="rect" id="node2" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#ad5e34c76c85b161abcb4365d38bdde25" title="django.db.models.options.\lOptions.get_all_related\l_objects" alt="" coords="255,31,429,87"/>
+<area shape="rect" id="node3" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#a6e4d398671fff0bcdf076ab574341a99" title="django.db.models.options.\lOptions.get_all_related\l_objects_with_model" alt="" coords="477,31,652,87"/>
+<area shape="rect" id="node4" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#a75dc69561e0194c535db1f3571f4ff11" title="django.db.models.options.\lOptions._fill_related_objects_cache" alt="" coords="700,5,927,47"/>
+<area shape="rect" id="node5" href="$d4/d60/classdjango_1_1db_1_1models_1_1options_1_1_options.html#a4324e26d365af7465c3c682f96496d2c" title="django.db.models.options.\lOptions.get_parent_list" alt="" coords="726,71,901,112"/>
+</map>

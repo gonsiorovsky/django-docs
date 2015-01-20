@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.tests.geo3d.tests.Geo3DTest.test_extent" name="django.contrib.gis.tests.geo3d.tests.Geo3DTest.test_extent">
+<area shape="rect" id="node2" href="$d2/d6f/classdjango_1_1contrib_1_1gis_1_1tests_1_1geo3d_1_1tests_1_1_geo3_d_test.html#a37f227b0011146efbc4fd4f612d895e8" title="django.contrib.gis.tests.geo3d.tests.\lGeo3DTest._load_city_data" alt="" coords="287,5,520,47"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ac82fc7b01c2f6505c95418e97810d5f3" title="django.utils.unittest.case.\lTestCase.assertAlmostEqual" alt="" coords="308,71,499,112"/>
+<area shape="rect" id="node4" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="568,49,781,75"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="586,100,763,141"/>
+</map>

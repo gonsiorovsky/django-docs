@@ -1,0 +1,8 @@
+<map id="django.core.mail.message.SafeMIMEText.__setitem__" name="django.core.mail.message.SafeMIMEText.__setitem__">
+<area shape="rect" id="node2" href="$d7/d1d/namespacedjango_1_1core_1_1mail_1_1message.html#a0062778ab507e48575e1b7b8bc8fcfc5" title="django.core.mail.message.forbid\l_multi_line_headers" alt="" coords="236,57,445,99"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="764,14,969,41"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1017,71,1228,98"/>
+<area shape="rect" id="node7" href="$d7/d1d/namespacedjango_1_1core_1_1mail_1_1message.html#ad48d8538f8f32b6564bb94c842e2d4ed" title="django.core.mail.message.sanitize\l_address" alt="" coords="493,57,716,99"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1043,5,1202,47"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1276,71,1488,98"/>
+</map>

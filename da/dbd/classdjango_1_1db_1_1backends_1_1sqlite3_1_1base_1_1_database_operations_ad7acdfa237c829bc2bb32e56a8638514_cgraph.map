@@ -1,0 +1,5 @@
+<map id="django.db.backends.sqlite3.base.DatabaseOperations.bulk_insert_sql" name="django.db.backends.sqlite3.base.DatabaseOperations.bulk_insert_sql">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="292,5,503,32"/>
+<area shape="rect" id="node4" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#ae8bfb898b3b94c2f84cf75b33713fbd8" title="django.db.backends.BaseDatabase\lOperations.quote_name" alt="" coords="284,57,511,98"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="559,5,771,32"/>
+</map>

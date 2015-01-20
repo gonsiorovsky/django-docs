@@ -1,0 +1,7 @@
+<map id="django.contrib.gis.gdal.datasource.DataSource.layer_count" name="django.contrib.gis.gdal.datasource.DataSource.layer_count">
+<area shape="rect" id="node2" href="$db/d7b/classdjango_1_1contrib_1_1gis_1_1gdal_1_1datasource_1_1_data_source.html#ad3ef375cc7919671d6534ebd1fc4cd7a" title="django.contrib.gis.gdal.datasource.\lDataSource.__getitem__" alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$db/d7b/classdjango_1_1contrib_1_1gis_1_1gdal_1_1datasource_1_1_data_source.html#a2a807cb67dcdeef8c6bebbaa137cdb2f" title="django.contrib.gis.gdal.datasource.\lDataSource.__iter__" alt="" coords="277,71,501,112"/>
+<area shape="rect" id="node6" href="$db/d7b/classdjango_1_1contrib_1_1gis_1_1gdal_1_1datasource_1_1_data_source.html#abe37fc9aec37b442f242f94c683a910a" title="django.contrib.gis.gdal.datasource.\lDataSource.__len__" alt="" coords="277,136,501,177"/>
+<area shape="rect" id="node4" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#af70be3e86cf9812f14778f199f011d36" title="django.forms.forms.Bound\lField.__getitem__" alt="" coords="549,39,723,80"/>
+<area shape="rect" id="node5" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a51c097fed64a889d6b3585cb847fd061" title="django.forms.forms.Bound\lField.__len__" alt="" coords="549,104,723,145"/>
+</map>

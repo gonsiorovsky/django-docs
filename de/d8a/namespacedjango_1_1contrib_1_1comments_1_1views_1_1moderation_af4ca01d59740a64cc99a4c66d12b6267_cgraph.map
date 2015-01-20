@@ -1,0 +1,8 @@
+<map id="django.contrib.comments.views.moderation.approve" name="django.contrib.comments.views.moderation.approve">
+<area shape="rect" id="node2" href="$db/d8c/namespacedjango_1_1shortcuts.html#a40c5bc475dc5d6110ffb3d334ef5c610" title="django.shortcuts.get\l_object_or_404" alt="" coords="461,5,601,47"/>
+<area shape="rect" id="node3" href="$d9/de9/namespacedjango_1_1contrib_1_1comments_1_1views_1_1utils.html#aaae163319cf53123963607fa7bf183fd" title="django.contrib.comments.views.utils.next\l_redirect" alt="" coords="401,71,661,112"/>
+<area shape="rect" id="node6" href="$de/d8a/namespacedjango_1_1contrib_1_1comments_1_1views_1_1moderation.html#a5f38c767d9b8df156089165aa3c12e77" title="django.contrib.comments.views.moderation.perform\l_approve" alt="" coords="372,136,691,177"/>
+<area shape="rect" id="node7" href="$db/d8c/namespacedjango_1_1shortcuts.html#add30bc91b67ee7a5c035d8d4f1364714" title="django.shortcuts.render\l_to_response" alt="" coords="452,201,611,243"/>
+<area shape="rect" id="node4" href="$db/d8c/namespacedjango_1_1shortcuts.html#a05715aed50be12c240df8205fd6ed76b" title="django.shortcuts.resolve_url" alt="" coords="771,53,953,79"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a6c0dffb853dba2ab7c4433a11fb54d4c" title="django.template.defaultfilters.urlencode" alt="" coords="739,103,985,130"/>
+</map>

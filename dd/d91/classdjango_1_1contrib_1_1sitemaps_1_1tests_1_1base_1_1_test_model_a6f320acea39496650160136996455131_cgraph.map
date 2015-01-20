@@ -1,0 +1,10 @@
+<map id="django.contrib.sitemaps.tests.base.TestModel.get_absolute_url" name="django.contrib.sitemaps.tests.base.TestModel.get_absolute_url">
+<area shape="rect" id="node2" href="$db/da8/classdjango_1_1utils_1_1unittest_1_1suite_1_1___error_holder.html#a68a1f1f197bc1894e8a5ebad1ce3e9fb" title="django.utils.unittest.suite.\l_ErrorHolder.id" alt="" coords="283,5,453,47"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ac2470900791d638a697fb317ae1f7cf8" title="django.utils.unittest.case.\lTestCase.id" alt="" coords="283,71,453,112"/>
+<area shape="rect" id="node5" href="$db/d6a/classdjango_1_1utils_1_1unittest_1_1case_1_1_function_test_case.html#a7c5757482e9ffd3ff64613b939c27529" title="django.utils.unittest.case.\lFunctionTestCase.id" alt="" coords="283,136,453,177"/>
+<area shape="rect" id="node6" href="$d9/d9f/classdjango_1_1test_1_1__doctest_1_1_doc_test_case.html#a5c35be633920b12091c67d154ced5622" title="django.test._doctest.Doc\lTestCase.id" alt="" coords="285,201,451,243"/>
+<area shape="rect" id="node7" href="$de/ded/classdjango_1_1test_1_1__doctest_1_1_doc_file_case.html#a927fadca75d32c935be1a8d13cc140ac" title="django.test._doctest.Doc\lFileCase.id" alt="" coords="285,267,451,308"/>
+<area shape="rect" id="node4" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a1afb4864d31fcb365fcaf92ca25593ea" title="django.utils.unittest.util.strclass" alt="" coords="503,78,710,105"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="501,274,712,301"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="760,274,972,301"/>
+</map>

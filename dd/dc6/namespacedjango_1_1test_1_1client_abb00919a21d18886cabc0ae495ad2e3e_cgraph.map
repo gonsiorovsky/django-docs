@@ -1,0 +1,7 @@
+<map id="django.test.client.encode_multipart" name="django.test.client.encode_multipart">
+<area shape="rect" id="node2" href="$dd/dc6/namespacedjango_1_1test_1_1client.html#a7dab00f9b00518a402520e5211b8b6d8" title="django.test.client.encode_file" alt="" coords="220,5,411,32"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="459,41,635,82"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="683,77,893,104"/>
+<area shape="rect" id="node6" href="$d1/de6/namespacedjango_1_1utils_1_1itercompat.html#a6c66324b2f7c14e3eecc5f41b9e90d79" title="django.utils.itercompat.is\l_iterable" alt="" coords="232,158,399,199"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="941,77,1153,104"/>
+</map>

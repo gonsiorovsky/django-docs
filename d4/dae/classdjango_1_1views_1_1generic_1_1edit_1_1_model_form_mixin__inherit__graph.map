@@ -1,0 +1,8 @@
+<map id="django.views.generic.edit.ModelFormMixin" name="django.views.generic.edit.ModelFormMixin">
+<area shape="rect" id="node6" href="$df/dc0/classdjango_1_1views_1_1generic_1_1edit_1_1_base_create_view.html" title="django.views.generic.edit.\lBaseCreateView" alt="" coords="5,348,176,389"/>
+<area shape="rect" id="node8" href="$dc/d05/classdjango_1_1views_1_1generic_1_1edit_1_1_base_update_view.html" title="django.views.generic.edit.\lBaseUpdateView" alt="" coords="200,348,371,389"/>
+<area shape="rect" id="node2" href="$df/d6a/classdjango_1_1views_1_1generic_1_1edit_1_1_form_mixin.html" title="django.views.generic.edit.\lFormMixin" alt="" coords="16,169,187,211"/>
+<area shape="rect" id="node3" href="$d1/d6a/classdjango_1_1views_1_1generic_1_1base_1_1_context_mixin.html" title="django.views.generic.base.\lContextMixin" alt="" coords="13,80,190,121"/>
+<area shape="rect" id="node7" href="$d6/d28/classdjango_1_1views_1_1generic_1_1edit_1_1_create_view.html" title="django.views.generic.edit.\lCreateView" alt="" coords="5,437,176,479"/>
+<area shape="rect" id="node9" href="$de/d4c/classdjango_1_1views_1_1generic_1_1edit_1_1_update_view.html" title="django.views.generic.edit.\lUpdateView" alt="" coords="200,437,371,479"/>
+</map>

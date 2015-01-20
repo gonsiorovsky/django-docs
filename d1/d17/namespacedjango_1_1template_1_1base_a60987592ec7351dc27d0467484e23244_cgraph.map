@@ -1,0 +1,8 @@
+<map id="django.template.base.add_to_builtins" name="django.template.base.add_to_builtins">
+<area shape="rect" id="node2" href="$d1/d17/namespacedjango_1_1template_1_1base.html#a09a69b44eff1315a19d0bf7cfe33d544" title="django.template.base.import\l_library" alt="" coords="224,35,411,76"/>
+<area shape="rect" id="node3" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="667,5,848,47"/>
+<area shape="rect" id="node4" href="$d1/d17/namespacedjango_1_1template_1_1base.html#a20f54fdf45870572ed8cf714ac824f09" title="django.template.base.is\l_library_missing" alt="" coords="459,64,619,105"/>
+<area shape="rect" id="node5" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#ad941fe81e259e2d21ebf4af7244c1cdb" title="django.utils.module\l_loading.module_has\l_submodule" alt="" coords="685,70,829,126"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="896,85,1107,111"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1155,85,1367,111"/>
+</map>

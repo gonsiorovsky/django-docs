@@ -1,0 +1,6 @@
+<map id="django.db.backends.postgresql_psycopg2.base.DatabaseWrapper.check_constraints" name="django.db.backends.postgresql_psycopg2.base.DatabaseWrapper.check_constraints">
+<area shape="rect" id="node2" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a49cf7f6811065a36434b09f69b7f7c60" title="Generic wrappers for PEP&#45;249 connection methods #####. " alt="" coords="317,71,544,112"/>
+<area shape="rect" id="node3" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a06633730ac897762ddf1344500fd7154" title="Backend&#45;specific wrappers for PEP&#45;249 connection methods #####. " alt="" coords="592,5,819,47"/>
+<area shape="rect" id="node4" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#af6f59f3c64f5813710a43e4c00de2bf6" title="django.db.backends.BaseDatabase\lWrapper.make_debug_cursor" alt="" coords="592,71,819,112"/>
+<area shape="rect" id="node5" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a2e9a56816b4a92bc701e22791e118f2b" title="Thread safety handling #####. " alt="" coords="592,136,819,177"/>
+</map>

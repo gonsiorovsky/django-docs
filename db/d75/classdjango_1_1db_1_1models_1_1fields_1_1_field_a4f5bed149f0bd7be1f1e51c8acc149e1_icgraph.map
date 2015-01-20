@@ -1,0 +1,8 @@
+<map id="django.db.models.fields.Field.get_choices" name="django.db.models.fields.Field.get_choices">
+<area shape="rect" id="node2" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#ac7cb3cfd339e2b9d4ac7d047c53bb86a" title="django.db.models.fields.\lField.formfield" alt="" coords="251,5,414,47"/>
+<area shape="rect" id="node3" href="$de/d82/classdjango_1_1db_1_1models_1_1fields_1_1_boolean_field.html#ad016bd519a7ef21b504ee102dcbb35d6" title="django.db.models.fields.\lBooleanField.formfield" alt="" coords="251,71,414,112"/>
+<area shape="rect" id="node4" href="$de/dad/classdjango_1_1contrib_1_1contenttypes_1_1generic_1_1_generic_relation.html#a8f4d275a5560ca6d6164c9699bea6af7" title="django.contrib.contenttypes.generic.\lGenericRelation.get_choices_default" alt="" coords="216,136,449,177"/>
+<area shape="rect" id="node7" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#aeddd68d39dc76ad2e1ff57655c86d795" title="django.db.models.fields.\lField.get_choices_default" alt="" coords="248,201,417,243"/>
+<area shape="rect" id="node5" href="$d8/dbf/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_key.html#aaa06e8f8e56a47fb1480c4a02d4383f8" title="django.db.models.fields.related.\lForeignKey.value_to_string" alt="" coords="504,136,709,177"/>
+<area shape="rect" id="node6" href="$d0/df7/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_many_to_many_field.html#a156da96c4415aa4aef727a026b3d702f" title="django.db.models.fields.related.\lManyToManyField.value_to_string" alt="" coords="497,201,716,243"/>
+</map>

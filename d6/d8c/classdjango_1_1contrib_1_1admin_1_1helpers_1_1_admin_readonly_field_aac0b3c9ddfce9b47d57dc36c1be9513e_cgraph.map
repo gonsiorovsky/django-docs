@@ -1,0 +1,9 @@
+<map id="django.contrib.admin.helpers.AdminReadonlyField.contents" name="django.contrib.admin.helpers.AdminReadonlyField.contents">
+<area shape="rect" id="node2" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a171f561fefc13d93d487cf8e30a1574d" title="django.contrib.admin.util.display\l_for_field" alt="" coords="248,5,456,47"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="504,67,715,94"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1016,122,1227,149"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1275,147,1487,174"/>
+<area shape="rect" id="node8" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a155fc95f6bd64ad5b50b188e226bda1a" title="django.contrib.admin.util.lookup\l_field" alt="" coords="249,224,455,265"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="763,67,968,94"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1042,56,1201,97"/>
+</map>

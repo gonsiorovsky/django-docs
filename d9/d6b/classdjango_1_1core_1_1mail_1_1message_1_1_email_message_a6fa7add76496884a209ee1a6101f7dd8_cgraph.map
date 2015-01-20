@@ -1,0 +1,6 @@
+<map id="django.core.mail.message.EmailMessage.attach_file" name="django.core.mail.message.EmailMessage.attach_file">
+<area shape="rect" id="node2" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#ac0efa16e489e18d080ead280d2f260a4" title="django.core.mail.message.\lEmailMessage._create_attachment" alt="" coords="236,5,463,47"/>
+<area shape="rect" id="node3" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#a66e75329e56243bd391f7f065be450b1" title="django.core.mail.message.\lEmailMessage._create_attachments" alt="" coords="232,71,467,112"/>
+<area shape="rect" id="node4" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#abeef522d0baba8589df563770cc98bad" title="django.core.mail.message.\lEmailMessage._create_mime\l_attachment" alt="" coords="252,135,447,191"/>
+<area shape="rect" id="node5" href="$d9/d6b/classdjango_1_1core_1_1mail_1_1message_1_1_email_message.html#ac9c932d08121aa2d8a60a28d9ea340cf" title="django.core.mail.message.\lEmailMessage.attach" alt="" coords="260,215,439,256"/>
+</map>

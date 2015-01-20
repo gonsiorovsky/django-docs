@@ -1,0 +1,6 @@
+<map id="django.contrib.staticfiles.finders.BaseFinder" name="django.contrib.staticfiles.finders.BaseFinder">
+<area shape="rect" id="node3" href="$dc/d06/classdjango_1_1contrib_1_1staticfiles_1_1finders_1_1_app_directories_finder.html" title="django.contrib.staticfiles.finders.\lAppDirectoriesFinder" alt="" coords="367,5,575,47"/>
+<area shape="rect" id="node4" href="$d0/d4a/classdjango_1_1contrib_1_1staticfiles_1_1finders_1_1_base_storage_finder.html" title="django.contrib.staticfiles.finders.\lBaseStorageFinder" alt="" coords="367,71,575,112"/>
+<area shape="rect" id="node6" href="$d0/d38/classdjango_1_1contrib_1_1staticfiles_1_1finders_1_1_file_system_finder.html" title="django.contrib.staticfiles.finders.\lFileSystemFinder" alt="" coords="367,136,575,177"/>
+<area shape="rect" id="node5" href="$db/dde/classdjango_1_1contrib_1_1staticfiles_1_1finders_1_1_default_storage_finder.html" title="django.contrib.staticfiles.finders.\lDefaultStorageFinder" alt="" coords="623,71,831,112"/>
+</map>

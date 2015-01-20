@@ -1,0 +1,7 @@
+<map id="django.contrib.admin.options.ModelAdmin.get_changelist_form" name="django.contrib.admin.options.ModelAdmin.get_changelist_form">
+<area shape="rect" id="node2" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a2ad00fc8e34d18a0bdbc1314796e6e47" title="django.contrib.admin.options.\lModelAdmin.get_changelist\l_formset" alt="" coords="268,31,460,87"/>
+<area shape="rect" id="node3" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a4f11c50ffa080a8ce8e1c0a93702ff47" title="django.contrib.admin.options.\lModelAdmin.changelist_view" alt="" coords="508,39,700,80"/>
+<area shape="rect" id="node4" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#abb863eb8bd16bc64644d6648d1ab0995" title="django.contrib.admin.options.\lModelAdmin.get_urls" alt="" coords="748,39,940,80"/>
+<area shape="rect" id="node5" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a6435891c5d3823d49fe9cada5e62eb53" title="django.contrib.admin.options.\lModelAdmin.urls" alt="" coords="988,5,1180,47"/>
+<area shape="rect" id="node6" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a9e2b3157bb62860bdd7708bdd64719df" title="django.contrib.admin.sites.\lAdminSite.urls" alt="" coords="995,71,1173,112"/>
+</map>

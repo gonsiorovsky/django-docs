@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.tests.geo3d.tests.Geo3DTest.test_translate" name="django.contrib.gis.tests.geo3d.tests.Geo3DTest.test_translate">
+<area shape="rect" id="node2" href="$d2/d6f/classdjango_1_1contrib_1_1gis_1_1tests_1_1geo3d_1_1tests_1_1_geo3_d_test.html#a37f227b0011146efbc4fd4f612d895e8" title="django.contrib.gis.tests.geo3d.tests.\lGeo3DTest._load_city_data" alt="" coords="287,5,520,47"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="318,71,489,112"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="568,71,788,112"/>
+</map>

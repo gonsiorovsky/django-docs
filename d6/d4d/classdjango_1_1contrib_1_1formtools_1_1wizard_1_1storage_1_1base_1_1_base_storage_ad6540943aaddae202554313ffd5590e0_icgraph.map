@@ -1,0 +1,4 @@
+<map id="django.contrib.formtools.wizard.storage.base.BaseStorage.init_data" name="django.contrib.formtools.wizard.storage.base.BaseStorage.init_data">
+<area shape="rect" id="node2" href="$d8/d40/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1storage_1_1session_1_1_session_storage.html#a3b0625df42481308eccbcc5c7f2cb730" title="django.contrib.formtools.wizard.storage.session.\lSessionStorage.__init__" alt="" coords="337,5,639,47"/>
+<area shape="rect" id="node3" href="$d6/d4d/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1storage_1_1base_1_1_base_storage.html#aa46f4c0e87cf5ed3f3416f048bb00b46" title="django.contrib.formtools.wizard.storage.base.\lBaseStorage.reset" alt="" coords="346,71,630,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.db.backends.BaseDatabaseWrapper.temporary_connection" name="django.db.backends.BaseDatabaseWrapper.temporary_connection">
+<area shape="rect" id="node2" href="$d4/dbe/classdjango_1_1db_1_1backends_1_1mysql_1_1base_1_1_database_wrapper.html#a33eecac1ae0d881e1776d6d6d24ce23b" title="django.db.backends.mysql.base.\lDatabaseWrapper.mysql_version" alt="" coords="295,5,508,47"/>
+<area shape="rect" id="node3" href="$dd/dbf/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_wrapper.html#a68b8fec9243ec52354d117a28c003cb0" title="django.db.backends.oracle.base.\lDatabaseWrapper.oracle_version" alt="" coords="295,71,508,112"/>
+<area shape="rect" id="node4" href="$d5/d34/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1base_1_1_database_wrapper.html#aaaf66e91f729de073466ae08d21db178" title="django.db.backends.postgresql\l_psycopg2.base.DatabaseWrapper.pg\l_version" alt="" coords="280,135,523,191"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="django.forms.forms.BoundField.label_tag" name="django.forms.forms.BoundField.label_tag">
+<area shape="rect" id="node2" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a6da2bb12d89d9e9df2e0d7a30320e17d" title="django.forms.forms.Bound\lField.auto_id" alt="" coords="227,56,400,97"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1219,97,1431,123"/>
+<area shape="rect" id="node8" href="$d0/dd0/namespacedjango_1_1forms_1_1util.html#a91e0b2fac47865a1bf3263d0ead0748e" title="django.forms.util.flatatt" alt="" coords="237,173,390,199"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="448,63,659,90"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="707,63,912,90"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="986,5,1145,47"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="960,71,1171,98"/>
+</map>

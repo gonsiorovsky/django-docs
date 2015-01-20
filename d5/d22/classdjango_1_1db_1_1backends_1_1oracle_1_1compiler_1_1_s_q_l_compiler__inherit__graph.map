@@ -1,0 +1,8 @@
+<map id="django.db.backends.oracle.compiler.SQLCompiler" name="django.db.backends.oracle.compiler.SQLCompiler">
+<area shape="rect" id="node2" href="$d5/d09/classdjango_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_aggregate_compiler.html" title="django.db.backends.oracle.compiler.\lSQLAggregateCompiler" alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node3" href="$d8/d85/classdjango_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_date_compiler.html" title="django.db.backends.oracle.compiler.\lSQLDateCompiler" alt="" coords="288,71,523,112"/>
+<area shape="rect" id="node4" href="$d6/d7d/classdjango_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_date_time_compiler.html" title="django.db.backends.oracle.compiler.\lSQLDateTimeCompiler" alt="" coords="288,136,523,177"/>
+<area shape="rect" id="node5" href="$dd/de6/classdjango_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_delete_compiler.html" title="django.db.backends.oracle.compiler.\lSQLDeleteCompiler" alt="" coords="288,201,523,243"/>
+<area shape="rect" id="node6" href="$dd/d46/classdjango_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_insert_compiler.html" title="django.db.backends.oracle.compiler.\lSQLInsertCompiler" alt="" coords="288,267,523,308"/>
+<area shape="rect" id="node7" href="$d2/d9c/classdjango_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_update_compiler.html" title="django.db.backends.oracle.compiler.\lSQLUpdateCompiler" alt="" coords="288,332,523,373"/>
+</map>

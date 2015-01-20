@@ -1,0 +1,4 @@
+<map id="django.db.backends.sqlite3.introspection.get_field_size" name="django.db.backends.sqlite3.introspection.get_field_size">
+<area shape="rect" id="node2" href="$db/d78/classdjango_1_1db_1_1backends_1_1sqlite3_1_1introspection_1_1_flexible_field_lookup_dict.html#ad4fdcd02998615563ad25d19e35fb36d" title="django.db.backends.sqlite3.introspection.\lFlexibleFieldLookupDict.__getitem__" alt="" coords="333,5,596,47"/>
+<area shape="rect" id="node3" href="$d4/d0d/classdjango_1_1db_1_1backends_1_1sqlite3_1_1introspection_1_1_database_introspection.html#a3b29d6077a4db81aa9b3674d123437ce" title="django.db.backends.sqlite3.introspection.\lDatabaseIntrospection.get_primary\l_key_column" alt="" coords="333,70,596,126"/>
+</map>

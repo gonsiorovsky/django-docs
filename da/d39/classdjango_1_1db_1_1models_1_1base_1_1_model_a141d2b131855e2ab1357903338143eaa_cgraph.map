@@ -1,0 +1,7 @@
+<map id="django.db.models.base.Model.save_base" name="django.db.models.base.Model.save_base">
+<area shape="rect" id="node2" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a4fa5aaf5e69a546a40a455f782ad3174" title="django.db.models.base.Model.\l_do_insert" alt="" coords="313,5,512,47"/>
+<area shape="rect" id="node3" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#ad08b19056308dc3525849f3ae8aa5ae4" title="django.db.models.base.Model.\l_do_update" alt="" coords="313,71,512,112"/>
+<area shape="rect" id="node4" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a90498d07894016693425e6aac56d29dc" title="django.db.models.base.Model.\l_get_pk_val" alt="" coords="313,136,512,177"/>
+<area shape="rect" id="node5" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a1f0111872baa460f37e45c14ac958a66" title="django.db.models.base.Model.\l_save_parents" alt="" coords="313,201,512,243"/>
+<area shape="rect" id="node6" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#aa9502cc0f69d3a742c9ad340497c87d2" title="django.db.models.base.Model.\l_save_table" alt="" coords="313,267,512,308"/>
+</map>

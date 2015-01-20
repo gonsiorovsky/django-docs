@@ -1,0 +1,7 @@
+<map id="django.db.backends.BaseDatabaseWrapper" name="django.db.backends.BaseDatabaseWrapper">
+<area shape="rect" id="node3" href="$d3/d5d/classdjango_1_1db_1_1backends_1_1dummy_1_1base_1_1_database_wrapper.html" title="django.db.backends.dummy.base.\lDatabaseWrapper" alt="" coords="387,5,609,47"/>
+<area shape="rect" id="node4" href="$d4/dbe/classdjango_1_1db_1_1backends_1_1mysql_1_1base_1_1_database_wrapper.html" title="django.db.backends.mysql.base.\lDatabaseWrapper" alt="" coords="391,71,605,112"/>
+<area shape="rect" id="node5" href="$dd/dbf/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_wrapper.html" title="django.db.backends.oracle.base.\lDatabaseWrapper" alt="" coords="391,136,605,177"/>
+<area shape="rect" id="node6" href="$d5/d34/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1base_1_1_database_wrapper.html" title="django.db.backends.postgresql\l_psycopg2.base.DatabaseWrapper" alt="" coords="385,201,611,243"/>
+<area shape="rect" id="node7" href="$d9/dfe/classdjango_1_1db_1_1backends_1_1sqlite3_1_1base_1_1_database_wrapper.html" title="django.db.backends.sqlite3.base.\lDatabaseWrapper" alt="" coords="390,267,606,308"/>
+</map>

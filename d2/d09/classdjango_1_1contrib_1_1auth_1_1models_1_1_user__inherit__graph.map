@@ -1,0 +1,5 @@
+<map id="django.contrib.auth.models.User" name="django.contrib.auth.models.User">
+<area shape="rect" id="node2" href="$dc/db0/classdjango_1_1contrib_1_1auth_1_1models_1_1_abstract_user.html" title="django.contrib.auth.models.\lAbstractUser" alt="" coords="391,39,573,80"/>
+<area shape="rect" id="node3" href="$de/d45/classdjango_1_1contrib_1_1auth_1_1models_1_1_abstract_base_user.html" title="django.contrib.auth.models.\lAbstractBaseUser" alt="" coords="160,5,343,47"/>
+<area shape="rect" id="node5" href="$d1/d19/classdjango_1_1contrib_1_1auth_1_1models_1_1_permissions_mixin.html" title="django.contrib.auth.models.\lPermissionsMixin" alt="" coords="160,71,343,112"/>
+</map>

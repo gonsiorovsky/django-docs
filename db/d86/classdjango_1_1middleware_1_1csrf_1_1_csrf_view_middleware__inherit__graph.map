@@ -1,0 +1,4 @@
+<map id="django.middleware.csrf.CsrfViewMiddleware" name="django.middleware.csrf.CsrfViewMiddleware">
+<area shape="rect" id="node3" href="$d4/d6f/classdjango_1_1views_1_1decorators_1_1csrf_1_1___ensure_csrf_cookie.html" title="django.views.decorators.csrf.\l_EnsureCsrfCookie" alt="" coords="340,5,529,47"/>
+<area shape="rect" id="node4" href="$d5/d3d/classdjango_1_1views_1_1decorators_1_1csrf_1_1___ensure_csrf_token.html" title="django.views.decorators.csrf.\l_EnsureCsrfToken" alt="" coords="340,71,529,112"/>
+</map>

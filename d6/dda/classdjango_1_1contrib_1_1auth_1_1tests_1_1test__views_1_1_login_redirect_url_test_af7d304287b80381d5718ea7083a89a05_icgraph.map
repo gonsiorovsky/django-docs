@@ -1,0 +1,6 @@
+<map id="django.contrib.auth.tests.test_views.LoginRedirectUrlTest.assertLoginRedirectURLEqual" name="django.contrib.auth.tests.test_views.LoginRedirectUrlTest.assertLoginRedirectURLEqual">
+<area shape="rect" id="node2" href="$d6/dda/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__views_1_1_login_redirect_url_test.html#a16a12a707e5d548bbd80f6e6f044b3ba" title="django.contrib.auth.tests.test\l_views.LoginRedirectUrlTest.test_custom" alt="" coords="277,5,537,47"/>
+<area shape="rect" id="node3" href="$d6/dda/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__views_1_1_login_redirect_url_test.html#ac53513e75a0558df7643294119940c3c" title="django.contrib.auth.tests.test\l_views.LoginRedirectUrlTest.test_default" alt="" coords="280,71,535,112"/>
+<area shape="rect" id="node4" href="$d6/dda/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__views_1_1_login_redirect_url_test.html#a97f0d8deadcc227062b7f7c472f9af61" title="django.contrib.auth.tests.test\l_views.LoginRedirectUrlTest.test_named" alt="" coords="279,136,535,177"/>
+<area shape="rect" id="node5" href="$d6/dda/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__views_1_1_login_redirect_url_test.html#a4efa46d8d95a4d0d59103ef6e98354d9" title="django.contrib.auth.tests.test\l_views.LoginRedirectUrlTest.test_remote" alt="" coords="279,201,536,243"/>
+</map>

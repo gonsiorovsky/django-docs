@@ -1,0 +1,4 @@
+<map id="django.middleware.csrf.get_token" name="django.middleware.csrf.get_token">
+<area shape="rect" id="node2" href="$d0/d00/namespacedjango_1_1core_1_1context__processors.html#ae36dbf2476b10087d82dd3cb35fe0962" title="django.core.context\l_processors.csrf" alt="" coords="269,5,405,47"/>
+<area shape="rect" id="node3" href="$d4/d6f/classdjango_1_1views_1_1decorators_1_1csrf_1_1___ensure_csrf_cookie.html#a1b5ff92741e284dc771d6a64d7ccbf2f" title="django.views.decorators.csrf.\l_EnsureCsrfCookie.process_view" alt="" coords="229,71,444,112"/>
+</map>

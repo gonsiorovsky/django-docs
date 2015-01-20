@@ -1,0 +1,7 @@
+<map id="django.utils.crypto.pbkdf2" name="django.utils.crypto.pbkdf2">
+<area shape="rect" id="node2" href="$dc/d2f/classdjango_1_1contrib_1_1auth_1_1hashers_1_1_p_b_k_d_f2_password_hasher.html#a8df4767eefc525155feece25b1c0ebdc" title="django.contrib.auth.hashers.\lPBKDF2PasswordHasher.encode" alt="" coords="224,71,441,112"/>
+<area shape="rect" id="node3" href="$d6/de3/classdjango_1_1contrib_1_1sessions_1_1models_1_1_session_manager.html#a90ac091df1710297e4d1d36508405820" title="django.contrib.sessions.models.\lSessionManager.save" alt="" coords="506,5,715,47"/>
+<area shape="rect" id="node5" href="$d2/d1a/classdjango_1_1contrib_1_1sessions_1_1backends_1_1db_1_1_session_store.html#a0512bcf14e9633790c4e9d84145b3689" title="django.contrib.sessions.backends.db.\lSessionStore.save" alt="" coords="490,71,731,112"/>
+<area shape="rect" id="node6" href="$dc/dba/classdjango_1_1contrib_1_1sessions_1_1backends_1_1file_1_1_session_store.html#a8c108aac282bacb691f847d5ecd8841e" title="django.contrib.sessions.backends.file.\lSessionStore.save" alt="" coords="489,136,732,177"/>
+<area shape="rect" id="node4" href="$de/d45/classdjango_1_1contrib_1_1auth_1_1models_1_1_abstract_base_user.html#a5362b1faad280af834f94f3ea0da48b3" title="django.contrib.auth.models.\lAbstractBaseUser.check_password" alt="" coords="780,71,1009,112"/>
+</map>

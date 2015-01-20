@@ -1,0 +1,4 @@
+<map id="django.core.mail.backends.filebased.EmailBackend.write_message" name="django.core.mail.backends.filebased.EmailBackend.write_message">
+<area shape="rect" id="node2" href="$d1/dbd/namespacedjango_1_1utils_1_1datetime__safe.html#a3f6f83f7548caeff84dfa148fb2ff97d" title="django.utils.datetime\l_safe.strftime" alt="" coords="333,5,476,47"/>
+<area shape="rect" id="node3" href="$d4/de3/classdjango_1_1core_1_1mail_1_1backends_1_1console_1_1_email_backend.html#a41c09f8a375c8da30ea0c25fd3a32cdd" title="django.core.mail.backends.console.\lEmailBackend.write_message" alt="" coords="289,71,520,112"/>
+</map>

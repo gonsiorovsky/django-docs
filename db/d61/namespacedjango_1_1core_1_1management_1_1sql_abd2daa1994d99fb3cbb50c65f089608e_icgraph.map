@@ -1,0 +1,5 @@
+<map id="django.core.management.sql.sql_custom" name="django.core.management.sql.sql_custom">
+<area shape="rect" id="node2" href="$d0/dc7/classdjango_1_1core_1_1management_1_1commands_1_1sqlcustom_1_1_command.html#a3bacc9f236c0d7a6300a9bf89574afbc" title="django.core.management.commands.sqlcustom.\lCommand.handle_app" alt="" coords="264,5,568,47"/>
+<area shape="rect" id="node3" href="$db/d61/namespacedjango_1_1core_1_1management_1_1sql.html#ac2fe285325b275b9fb3c1259ccee7665" title="django.core.management.sql.sql_all" alt="" coords="301,71,531,98"/>
+<area shape="rect" id="node4" href="$d8/d7d/classdjango_1_1core_1_1management_1_1commands_1_1sqlall_1_1_command.html#a9f9c0fcc606729af6439617baff12c37" title="django.core.management.commands.sqlall.\lCommand.handle_app" alt="" coords="616,64,891,105"/>
+</map>

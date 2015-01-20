@@ -1,0 +1,5 @@
+<map id="django.contrib.contenttypes.tests.ContentTypesTests.test_get_for_models_empty_cache" name="django.contrib.contenttypes.tests.ContentTypesTests.test_get_for_models_empty_cache">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="296,5,467,47"/>
+<area shape="rect" id="node4" href="$d8/d37/classdjango_1_1test_1_1testcases_1_1_transaction_test_case.html#abe7266155c2eb62515b615b506380b58" title="django.test.testcases.Transaction\lTestCase.assertNumQueries" alt="" coords="272,71,491,112"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="539,5,759,47"/>
+</map>

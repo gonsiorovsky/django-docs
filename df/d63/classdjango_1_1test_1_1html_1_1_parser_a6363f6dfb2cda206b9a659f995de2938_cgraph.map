@@ -1,0 +1,12 @@
+<map id="django.test.html.Parser.handle_startendtag" name="django.test.html.Parser.handle_startendtag">
+<area shape="rect" id="node2" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#aa8c3c692185c2ffd38f7e7ec5200bb90" title="django.test.html.Parser.handle\l_endtag" alt="" coords="252,152,451,193"/>
+<area shape="rect" id="node9" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#a33d5a7094586c99bc839c778e101533d" title="django.test.html.Parser.handle\l_starttag" alt="" coords="252,243,451,284"/>
+<area shape="rect" id="node3" href="$dc/da3/classdjango_1_1template_1_1debug_1_1_debug_parser.html#a4d24299e03418ac07db17b7c5aa3aa17" title="django.template.debug.Debug\lParser.error" alt="" coords="511,5,705,47"/>
+<area shape="rect" id="node5" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#ad5bc38bd6dccb70353068114cc818ed9" title="django.test.html.Parser.error" alt="" coords="515,71,701,98"/>
+<area shape="rect" id="node6" href="$d0/df3/classdjango_1_1core_1_1management_1_1_lax_option_parser.html#a66956b32699c3f4a4c87cfc9231273ae" title="django.core.management.Lax\lOptionParser.error" alt="" coords="511,123,705,164"/>
+<area shape="rect" id="node7" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#ad3fe9f2107c92584e4cda2af6b139fef" title="django.template.base.Parser.error" alt="" coords="499,189,717,215"/>
+<area shape="rect" id="node8" href="$df/d63/classdjango_1_1test_1_1html_1_1_parser.html#aa6e83a83accea65a4a530edc8b6030f2" title="django.test.html.Parser.format\l_position" alt="" coords="509,240,707,281"/>
+<area shape="rect" id="node4" href="$dc/da3/classdjango_1_1template_1_1debug_1_1_debug_parser.html#a9c454f761b0de3bb59247b216ad072f0" title="django.template.debug.Debug\lParser.source_error" alt="" coords="774,5,969,47"/>
+<area shape="rect" id="node10" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="503,306,713,333"/>
+<area shape="rect" id="node11" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="765,306,977,333"/>
+</map>

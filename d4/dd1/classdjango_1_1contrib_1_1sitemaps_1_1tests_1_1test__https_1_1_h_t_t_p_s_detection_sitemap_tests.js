@@ -1,0 +1,5 @@
+var classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__https_1_1_h_t_t_p_s_detection_sitemap_tests =
+[
+    [ "test_sitemap_index_with_https_request", "d4/dd1/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__https_1_1_h_t_t_p_s_detection_sitemap_tests.html#a0efc09bff057c97a7ca67424654f3a2a", null ],
+    [ "test_sitemap_section_with_https_request", "d4/dd1/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__https_1_1_h_t_t_p_s_detection_sitemap_tests.html#acfae7ac1ce3347e712a4c77ed87d79fe", null ]
+];

@@ -1,0 +1,9 @@
+<map id="django.contrib.formtools.wizard.views.NamedUrlWizardView.render_next_step" name="django.contrib.formtools.wizard.views.NamedUrlWizardView.render_next_step">
+<area shape="rect" id="node2" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html#a5b5abe31e40b7540ed3ce4acefb126ba" title="django.contrib.formtools.wizard.views.\lWizardView.get_next_step" alt="" coords="305,5,545,47"/>
+<area shape="rect" id="node6" href="$d1/dd4/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_named_url_wizard_view.html#a6220c5c5780a23fb57bce1c907e299c1" title="django.contrib.formtools.wizard.views.\lNamedUrlWizardView.get_step_url" alt="" coords="305,71,545,112"/>
+<area shape="rect" id="node7" href="$db/d8c/namespacedjango_1_1shortcuts.html#aa37245aeca47fb769ee2e770f428767f" title="django.shortcuts.redirect" alt="" coords="343,137,508,163"/>
+<area shape="rect" id="node3" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html#a8b11daf9d5ff3c7e4aba4e24b30cd3ab" title="django.contrib.formtools.wizard.views.\lWizardView.get_form_list" alt="" coords="593,5,833,47"/>
+<area shape="rect" id="node4" href="$d4/d67/namespacedjango_1_1views_1_1decorators_1_1http.html#afdbf20afd70d0deb99645b461f3b4eb1" title="django.views.decorators.http.condition" alt="" coords="881,13,1124,39"/>
+<area shape="rect" id="node5" href="$d4/d1c/namespacedjango_1_1utils_1_1decorators.html#ae90dfd7c95270537755cf77acc0bafc1" title="django.utils.decorators.available\l_attrs" alt="" coords="1172,5,1379,47"/>
+<area shape="rect" id="node8" href="$db/d8c/namespacedjango_1_1shortcuts.html#a05715aed50be12c240df8205fd6ed76b" title="django.shortcuts.resolve_url" alt="" coords="622,137,805,163"/>
+</map>

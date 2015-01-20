@@ -1,0 +1,12 @@
+<map id="django.contrib.auth.models.PermissionsMixin.has_perms" name="django.contrib.auth.models.PermissionsMixin.has_perms">
+<area shape="rect" id="node2" href="$d4/d40/classdjango_1_1contrib_1_1auth_1_1backends_1_1_model_backend.html#aa44d2e502f57e8ca05d3f98ed1a4f2bd" title="django.contrib.auth.backends.\lModelBackend.has_perm" alt="" coords="247,35,443,76"/>
+<area shape="rect" id="node10" href="$d1/d19/classdjango_1_1contrib_1_1auth_1_1models_1_1_permissions_mixin.html#a0978213f698abd5471fe104170c451c0" title="django.contrib.auth.models.\lPermissionsMixin.has_perm" alt="" coords="251,100,438,141"/>
+<area shape="rect" id="node3" href="$d4/d40/classdjango_1_1contrib_1_1auth_1_1backends_1_1_model_backend.html#a495a8877c71f912eb36a7375d679d225" title="django.contrib.auth.backends.\lModelBackend.get_all_permissions" alt="" coords="491,35,717,76"/>
+<area shape="rect" id="node4" href="$d4/d40/classdjango_1_1contrib_1_1auth_1_1backends_1_1_model_backend.html#a0e7679e9f28d23e4754fce94bc5dc74d" title="django.contrib.auth.backends.\lModelBackend.get_group_permissions" alt="" coords="765,35,1012,76"/>
+<area shape="rect" id="node5" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ad11b72f71e98c7df642a60b4fd267680" title="django.contrib.auth.get\l_user_model" alt="" coords="1060,35,1215,76"/>
+<area shape="rect" id="node6" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a5fd6967d8d2e7b45ce2fd930730ac412" title="django.contrib.comments.get\l_model" alt="" coords="1263,35,1453,76"/>
+<area shape="rect" id="node7" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a60881c6f7b8b1d51a2b28d9961b4233c" title="django.contrib.comments.get\l_comment_app_name" alt="" coords="1740,5,1931,47"/>
+<area shape="rect" id="node8" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a2a0159dc7a5e9946976f1161dd085850" title="django.contrib.comments.get\l_comment_app" alt="" coords="1501,64,1692,105"/>
+<area shape="rect" id="node9" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1745,71,1926,112"/>
+<area shape="rect" id="node11" href="$d9/d4d/classdjango_1_1views_1_1debug_1_1_safe_exception_reporter_filter.html#ad8a70cb71dbd36f827770c0111f8db5d" title="django.views.debug.SafeException\lReporterFilter.is_active" alt="" coords="493,100,715,141"/>
+</map>

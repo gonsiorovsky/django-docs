@@ -1,0 +1,8 @@
+<map id="django.views.i18n.get_formats" name="django.views.i18n.get_formats">
+<area shape="rect" id="node2" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#a5fc0f01ea145724ba5e0b7a89019ab66" title="django.views.i18n.render\l_javascript_catalog" alt="" coords="199,39,361,80"/>
+<area shape="rect" id="node3" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#ade6e12f47778c098b1dc2afeea1856de" title="django.views.i18n.null\l_javascript_catalog" alt="" coords="427,5,573,47"/>
+<area shape="rect" id="node4" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#adadd9acdccc3343b9a9c2e41c8099b2e" title="django.views.i18n.javascript\l_catalog" alt="" coords="409,71,591,112"/>
+<area shape="rect" id="node5" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a76db84703f9a473e4469376ed8e2bd2f" title="django.contrib.admin.sites.\lAdminSite.i18n_javascript" alt="" coords="639,71,817,112"/>
+<area shape="rect" id="node6" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a8da6fce50427f7e2f99ed13dc21c14e3" title="django.contrib.admin.sites.\lAdminSite.get_urls" alt="" coords="865,71,1044,112"/>
+<area shape="rect" id="node7" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a9e2b3157bb62860bdd7708bdd64719df" title="django.contrib.admin.sites.\lAdminSite.urls" alt="" coords="1092,71,1271,112"/>
+</map>

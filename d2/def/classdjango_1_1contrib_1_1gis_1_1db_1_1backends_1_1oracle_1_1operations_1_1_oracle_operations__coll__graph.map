@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.db.backends.oracle.operations.OracleOperations" name="django.contrib.gis.db.backends.oracle.operations.OracleOperations">
+<area shape="rect" id="node2" href="$d9/d74/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_operations.html" title="django.db.backends.oracle.base.\lDatabaseOperations" alt="" coords="727,87,940,128"/>
+<area shape="rect" id="node3" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html" title="django.db.backends.BaseDatabase\lOperations" alt="" coords="213,56,440,97"/>
+<area shape="rect" id="node6" href="$d3/db1/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1base_1_1_base_spatial_operations.html" title="django.contrib.gis.db.backends.base.\lBaseSpatialOperations" alt="" coords="464,5,703,47"/>
+</map>

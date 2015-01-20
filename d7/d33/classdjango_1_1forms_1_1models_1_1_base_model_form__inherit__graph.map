@@ -1,0 +1,10 @@
+<map id="django.forms.models.BaseModelForm" name="django.forms.models.BaseModelForm">
+<area shape="rect" id="node4" href="$d2/d7c/classdjango_1_1forms_1_1models_1_1_model_form.html" title="django.forms.models.ModelForm" alt="" coords="579,177,789,203"/>
+<area shape="rect" id="node2" href="$d8/d44/classdjango_1_1forms_1_1forms_1_1_base_form.html" title="django.forms.forms.BaseForm" alt="" coords="111,177,307,203"/>
+<area shape="rect" id="node5" href="$db/d31/classdjango_1_1contrib_1_1auth_1_1forms_1_1_user_change_form.html" title="django.contrib.auth.forms.\lUserChangeForm" alt="" coords="923,5,1095,47"/>
+<area shape="rect" id="node6" href="$da/d3b/classdjango_1_1contrib_1_1auth_1_1forms_1_1_user_creation_form.html" title="django.contrib.auth.forms.\lUserCreationForm" alt="" coords="923,71,1095,112"/>
+<area shape="rect" id="node7" href="$de/d43/classdjango_1_1contrib_1_1flatpages_1_1forms_1_1_flatpage_form.html" title="django.contrib.flatpages.forms.\lFlatpageForm" alt="" coords="910,136,1109,177"/>
+<area shape="rect" id="node8" href="$d6/d76/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__forms_1_1_test_model_form.html" title="django.contrib.formtools.tests.wizard.test\l_forms.TestModelForm" alt="" coords="879,201,1139,243"/>
+<area shape="rect" id="node9" href="$de/db2/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1wizardtests_1_1forms_1_1_user_form.html" title="django.contrib.formtools.tests.wizard.wizardtests.forms.\lUserForm" alt="" coords="837,267,1181,308"/>
+<area shape="rect" id="node10" href="$d4/d51/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1wizardtests_1_1tests_1_1_user_form.html" title="django.contrib.formtools.tests.wizard.wizardtests.tests.\lUserForm" alt="" coords="839,332,1180,373"/>
+</map>

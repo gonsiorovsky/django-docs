@@ -1,0 +1,5 @@
+<map id="django.core.cache.backends.memcached.BaseMemcachedCache" name="django.core.cache.backends.memcached.BaseMemcachedCache">
+<area shape="rect" id="node4" href="$dd/d33/classdjango_1_1core_1_1cache_1_1backends_1_1memcached_1_1_memcached_cache.html" title="django.core.cache.backends.memcached.\lMemcachedCache" alt="" coords="697,5,964,47"/>
+<area shape="rect" id="node5" href="$d4/d40/classdjango_1_1core_1_1cache_1_1backends_1_1memcached_1_1_py_lib_m_c_cache.html" title="django.core.cache.backends.memcached.\lPyLibMCCache" alt="" coords="697,71,964,112"/>
+<area shape="rect" id="node2" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html" title="django.core.cache.backends.base.\lBaseCache" alt="" coords="111,39,335,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.utils.tzinfo.LocalTimezone.utcoffset" name="django.utils.tzinfo.LocalTimezone.utcoffset">
+<area shape="rect" id="node2" href="$d6/dc0/classdjango_1_1utils_1_1tzinfo_1_1_local_timezone.html#a79b886edb62dba77ce37b5490537364a" title="django.utils.tzinfo.Local\lTimezone._isdst" alt="" coords="236,5,395,47"/>
+<area shape="rect" id="node3" href="$de/dcd/classdjango_1_1utils_1_1timezone_1_1_reference_local_timezone.html#afe50a0a4e1520765825f874ec65e4882" title="django.utils.timezone.Reference\lLocalTimezone._isdst" alt="" coords="212,71,419,112"/>
+<area shape="rect" id="node4" href="$d4/de1/classdjango_1_1utils_1_1timezone_1_1_local_timezone.html#a96334f4d41c07cb3d398f9f7adfb7418" title="django.utils.timezone.Local\lTimezone._isdst" alt="" coords="225,136,405,177"/>
+</map>

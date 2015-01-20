@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d7/d04/classdjango_1_1contrib_1_1admin_1_1models_1_1_log_entry_manager.html" title="django.contrib.admin.models.\lLogEntryManager" alt="" coords="146,5,338,47"/>
+<area shape="rect" id="node3" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html" title="django.contrib.auth.models.\lBaseUserManager" alt="" coords="151,71,333,112"/>
+<area shape="rect" id="node5" href="$d8/dc6/classdjango_1_1contrib_1_1auth_1_1models_1_1_group_manager.html" title="django.contrib.auth.models.\lGroupManager" alt="" coords="151,136,333,177"/>
+<area shape="rect" id="node6" href="$d2/dad/classdjango_1_1contrib_1_1auth_1_1models_1_1_permission_manager.html" title="django.contrib.auth.models.\lPermissionManager" alt="" coords="151,201,333,243"/>
+<area shape="rect" id="node7" href="$d0/db3/classdjango_1_1contrib_1_1comments_1_1managers_1_1_comment_manager.html" title="django.contrib.comments.managers.\lCommentManager" alt="" coords="125,267,359,308"/>
+<area shape="rect" id="node8" href="$d0/dbc/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type_manager.html" title="django.contrib.contenttypes.models.\lContentTypeManager" alt="" coords="126,332,358,373"/>
+<area shape="rect" id="node9" href="$d6/de3/classdjango_1_1contrib_1_1sessions_1_1models_1_1_session_manager.html" title="django.contrib.sessions.models.\lSessionManager" alt="" coords="137,397,347,439"/>
+<area shape="rect" id="node10" href="$dd/d05/classdjango_1_1contrib_1_1sites_1_1managers_1_1_current_site_manager.html" title="django.contrib.sites.managers.\lCurrentSiteManager" alt="" coords="142,463,342,504"/>
+<area shape="rect" id="node11" href="$d9/d9e/classdjango_1_1contrib_1_1sites_1_1models_1_1_site_manager.html" title="django.contrib.sites.models.\lSiteManager" alt="" coords="149,528,335,569"/>
+<area shape="rect" id="node4" href="$d1/d80/classdjango_1_1contrib_1_1auth_1_1models_1_1_user_manager.html" title="django.contrib.auth.models.\lUserManager" alt="" coords="407,71,589,112"/>
+</map>

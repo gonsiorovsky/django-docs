@@ -1,0 +1,8 @@
+<map id="django.contrib.sites.tests.SitesFrameworkTests.test_site_manager" name="django.contrib.sites.tests.SitesFrameworkTests.test_site_manager">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a3bc198f535da119d6a99fc72217ba6b5" title="django.utils.unittest.case.\lTestCase.assertRaises" alt="" coords="228,61,399,103"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af56ee36078618482abe6748bc9a63445" title="django.utils.unittest.case.\lTestCase.assertTrue" alt="" coords="228,127,399,168"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6cfd970038b9d70b0a2eba27048218a9" title="django.utils.unittest.case.\lTestCase._baseAssertEqual" alt="" coords="460,5,647,47"/>
+<area shape="rect" id="node4" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="447,71,660,98"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="465,123,642,164"/>
+<area shape="rect" id="node7" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#af553e474e616ef1a424646dee9dde7ac" title="django.utils.unittest.util.safe_str" alt="" coords="450,189,657,215"/>
+</map>

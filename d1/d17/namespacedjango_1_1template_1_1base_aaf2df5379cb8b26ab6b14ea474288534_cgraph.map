@@ -1,0 +1,12 @@
+<map id="django.template.base.render_value_in_context" name="django.template.base.render_value_in_context">
+<area shape="rect" id="node2" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="503,42,708,69"/>
+<area shape="rect" id="node6" href="$dd/d4e/namespacedjango_1_1templatetags_1_1l10n.html#a681f14ba088cf29371e3c5fd902185a6" title="django.templatetags.l10n.localize" alt="" coords="240,81,455,107"/>
+<area shape="rect" id="node7" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#a822ff9e69c04bf7f4675734bb225de85" title="django.utils.timezone.template\l_localtime" alt="" coords="248,132,447,173"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="782,5,941,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="756,71,967,98"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1015,71,1227,98"/>
+<area shape="rect" id="node8" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#ae4c23d0f048783e801f8e68bee9498db" title="django.utils.timezone.is\l_naive" alt="" coords="526,119,685,160"/>
+<area shape="rect" id="node9" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#aa053146052b420a9acc57e6e78c5094a" title="django.utils.timezone.localtime" alt="" coords="505,185,706,211"/>
+<area shape="rect" id="node10" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#a1227004eefd0c47a79ca5a06e84850e2" title="django.utils.timezone.get\l_current_timezone" alt="" coords="778,177,945,219"/>
+<area shape="rect" id="node11" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#aa1573d5c157dd1afd221ebda98e9a73d" title="django.utils.timezone.get\l_default_timezone" alt="" coords="1037,177,1204,219"/>
+</map>

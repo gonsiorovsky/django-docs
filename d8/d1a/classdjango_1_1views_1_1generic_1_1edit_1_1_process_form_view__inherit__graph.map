@@ -1,0 +1,10 @@
+<map id="django.views.generic.edit.ProcessFormView" name="django.views.generic.edit.ProcessFormView">
+<area shape="rect" id="node4" href="$df/dc0/classdjango_1_1views_1_1generic_1_1edit_1_1_base_create_view.html" title="django.views.generic.edit.\lBaseCreateView" alt="" coords="583,5,753,47"/>
+<area shape="rect" id="node6" href="$dc/dd4/classdjango_1_1views_1_1generic_1_1edit_1_1_base_form_view.html" title="django.views.generic.edit.\lBaseFormView" alt="" coords="583,71,753,112"/>
+<area shape="rect" id="node9" href="$dc/d05/classdjango_1_1views_1_1generic_1_1edit_1_1_base_update_view.html" title="django.views.generic.edit.\lBaseUpdateView" alt="" coords="583,136,753,177"/>
+<area shape="rect" id="node2" href="$d0/ddc/classdjango_1_1views_1_1generic_1_1base_1_1_view.html" title="django.views.generic.base.View" alt="" coords="111,78,316,105"/>
+<area shape="rect" id="node5" href="$d6/d28/classdjango_1_1views_1_1generic_1_1edit_1_1_create_view.html" title="django.views.generic.edit.\lCreateView" alt="" coords="801,5,972,47"/>
+<area shape="rect" id="node7" href="$dc/d7e/classdjango_1_1views_1_1generic_1_1edit_1_1_form_view.html" title="django.views.generic.edit.\lFormView" alt="" coords="801,71,972,112"/>
+<area shape="rect" id="node8" href="$d1/d0b/classdjango_1_1contrib_1_1messages_1_1tests_1_1urls_1_1_contact_form_view_with_msg.html" title="django.contrib.messages.tests.urls.\lContactFormViewWithMsg" alt="" coords="1020,71,1249,112"/>
+<area shape="rect" id="node10" href="$de/d4c/classdjango_1_1views_1_1generic_1_1edit_1_1_update_view.html" title="django.views.generic.edit.\lUpdateView" alt="" coords="801,136,972,177"/>
+</map>

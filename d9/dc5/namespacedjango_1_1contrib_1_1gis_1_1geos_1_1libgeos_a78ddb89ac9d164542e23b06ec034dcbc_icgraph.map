@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.geos.libgeos.get_pointer_arr" name="django.contrib.gis.geos.libgeos.get_pointer_arr">
+<area shape="rect" id="node2" href="$dc/d82/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_geometry_collection.html#aae38a345c1e1e08d195bebf12b2aea0a" title="django.contrib.gis.geos.collections.\lGeometryCollection.__len__" alt="" coords="276,5,503,47"/>
+<area shape="rect" id="node3" href="$db/d1d/classdjango_1_1contrib_1_1gis_1_1geos_1_1polygon_1_1_polygon.html#a1e9729c960febe00ba07a585a62eaaa0" title="django.contrib.gis.geos.polygon.\lPolygon.from_bbox" alt="" coords="285,71,494,112"/>
+</map>

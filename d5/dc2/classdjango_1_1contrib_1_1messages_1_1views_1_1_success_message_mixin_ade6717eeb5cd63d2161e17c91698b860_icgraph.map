@@ -1,0 +1,5 @@
+<map id="django.contrib.messages.views.SuccessMessageMixin.get_success_message" name="django.contrib.messages.views.SuccessMessageMixin.get_success_message">
+<area shape="rect" id="node2" href="$d5/dc2/classdjango_1_1contrib_1_1messages_1_1views_1_1_success_message_mixin.html#a6dc7608720835d673fa0bfab0e5aafdd" title="django.contrib.messages.views.\lSuccessMessageMixin.form_valid" alt="" coords="288,13,507,54"/>
+<area shape="rect" id="node3" href="$d1/d13/classdjango_1_1views_1_1generic_1_1edit_1_1_process_form_view.html#a12cc350cf39c12d3b189f11544ef65ec" title="django.views.generic.edit.\lProcessFormView.post" alt="" coords="555,13,725,54"/>
+<area shape="rect" id="node4" href="$d1/d13/classdjango_1_1views_1_1generic_1_1edit_1_1_process_form_view.html#a9c6360a12b682a4ac09640e8d0683e8f" title="django.views.generic.edit.\lProcessFormView.put" alt="" coords="773,13,944,54"/>
+</map>

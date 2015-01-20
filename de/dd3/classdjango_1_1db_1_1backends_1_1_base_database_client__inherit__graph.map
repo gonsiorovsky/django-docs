@@ -1,0 +1,8 @@
+<map id="django.db.backends.BaseDatabaseClient" name="django.db.backends.BaseDatabaseClient">
+<area shape="rect" id="node3" href="$da/d53/classdjango_1_1db_1_1backends_1_1dummy_1_1base_1_1_database_client.html" title="django.db.backends.dummy.base.\lDatabaseClient" alt="" coords="385,5,607,47"/>
+<area shape="rect" id="node4" href="$dd/dcb/classdjango_1_1db_1_1backends_1_1mysql_1_1client_1_1_database_client.html" title="django.db.backends.mysql.client.\lDatabaseClient" alt="" coords="388,71,604,112"/>
+<area shape="rect" id="node5" href="$d2/d38/classdjango_1_1db_1_1backends_1_1oracle_1_1client_1_1_database_client.html" title="django.db.backends.oracle.client.\lDatabaseClient" alt="" coords="388,136,604,177"/>
+<area shape="rect" id="node6" href="$d3/df8/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1client_1_1_database_client.html" title="django.db.backends.postgresql\l_psycopg2.client.DatabaseClient" alt="" coords="390,201,602,243"/>
+<area shape="rect" id="node7" href="$d5/d9c/classdjango_1_1db_1_1backends_1_1sqlite3_1_1client_1_1_database_client.html" title="django.db.backends.sqlite3.client.\lDatabaseClient" alt="" coords="387,267,605,308"/>
+<area shape="rect" id="node8" href="$d6/da4/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1client_1_1_spatia_lite_client.html" title="django.contrib.gis.db.backends.spatialite.client.\lSpatiaLiteClient" alt="" coords="655,267,952,308"/>
+</map>

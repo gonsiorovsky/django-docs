@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.geos.collections.GeometryCollection" name="django.contrib.gis.geos.collections.GeometryCollection">
+<area shape="rect" id="node6" href="$df/d24/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_multi_line_string.html" title="django.contrib.gis.geos.collections.\lMultiLineString" alt="" coords="907,5,1133,47"/>
+<area shape="rect" id="node7" href="$d1/d29/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_multi_point.html" title="django.contrib.gis.geos.collections.\lMultiPoint" alt="" coords="907,71,1133,112"/>
+<area shape="rect" id="node8" href="$d0/d75/classdjango_1_1contrib_1_1gis_1_1geos_1_1collections_1_1_multi_polygon.html" title="django.contrib.gis.geos.collections.\lMultiPolygon" alt="" coords="907,136,1133,177"/>
+<area shape="rect" id="node2" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html" title="django.contrib.gis.geos.geometry.\lGEOSGeometry" alt="" coords="365,71,584,112"/>
+<area shape="rect" id="node3" href="$dd/d11/classdjango_1_1contrib_1_1gis_1_1geos_1_1base_1_1_g_e_o_s_base.html" title="django.contrib.gis.geos.base.\lGEOSBase" alt="" coords="118,37,310,79"/>
+<area shape="rect" id="node5" href="$d5/d0e/classdjango_1_1contrib_1_1gis_1_1geos_1_1mutable__list_1_1_list_mixin.html" title="django.contrib.gis.geos.mutable\l_list.ListMixin" alt="" coords="111,103,317,144"/>
+</map>

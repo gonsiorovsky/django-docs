@@ -1,0 +1,10 @@
+<map id="django.contrib.gis.forms.fields.GeometryField" name="django.contrib.gis.forms.fields.GeometryField">
+<area shape="rect" id="node4" href="$d1/ddc/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_geometry_collection_field.html" title="django.contrib.gis.forms.fields.\lGeometryCollectionField" alt="" coords="568,5,767,47"/>
+<area shape="rect" id="node5" href="$d7/d19/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_line_string_field.html" title="django.contrib.gis.forms.fields.\lLineStringField" alt="" coords="568,71,767,112"/>
+<area shape="rect" id="node6" href="$d6/dcf/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_multi_line_string_field.html" title="django.contrib.gis.forms.fields.\lMultiLineStringField" alt="" coords="568,136,767,177"/>
+<area shape="rect" id="node7" href="$df/d52/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_multi_point_field.html" title="django.contrib.gis.forms.fields.\lMultiPointField" alt="" coords="568,201,767,243"/>
+<area shape="rect" id="node8" href="$d9/d94/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_multi_polygon_field.html" title="django.contrib.gis.forms.fields.\lMultiPolygonField" alt="" coords="568,267,767,308"/>
+<area shape="rect" id="node9" href="$d9/da9/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_point_field.html" title="django.contrib.gis.forms.fields.\lPointField" alt="" coords="568,332,767,373"/>
+<area shape="rect" id="node10" href="$d9/de3/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_polygon_field.html" title="django.contrib.gis.forms.fields.\lPolygonField" alt="" coords="568,397,767,439"/>
+<area shape="rect" id="node2" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html" title="django.forms.fields.Field" alt="" coords="111,209,273,235"/>
+</map>

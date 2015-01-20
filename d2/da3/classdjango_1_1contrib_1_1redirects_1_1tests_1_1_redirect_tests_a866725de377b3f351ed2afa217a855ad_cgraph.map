@@ -1,0 +1,17 @@
+<map id="django.contrib.redirects.tests.RedirectTests.test_redirect" name="django.contrib.redirects.tests.RedirectTests.test_redirect">
+<area shape="rect" id="node2" href="$d4/d6b/classdjango_1_1test_1_1testcases_1_1_simple_test_case.html#a35c412e4a2bc2053bd00b13e79cbf393" title="django.test.testcases.Simple\lTestCase.assertRedirects" alt="" coords="248,119,439,161"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af56ee36078618482abe6748bc9a63445" title="django.utils.unittest.case.\lTestCase.assertTrue" alt="" coords="735,61,906,102"/>
+<area shape="rect" id="node7" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="985,174,1156,215"/>
+<area shape="rect" id="node9" href="$d4/d6b/classdjango_1_1test_1_1testcases_1_1_simple_test_case.html#af149a14000a056a26a5250d2b18dcc70" title="django.test.testcases.Simple\lTestCase.assertContains" alt="" coords="487,221,677,262"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="982,57,1159,98"/>
+<area shape="rect" id="node5" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="964,123,1177,149"/>
+<area shape="rect" id="node6" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#af553e474e616ef1a424646dee9dde7ac" title="django.utils.unittest.util.safe_str" alt="" coords="967,5,1174,32"/>
+<area shape="rect" id="node8" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="1225,174,1445,215"/>
+<area shape="rect" id="node10" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1230,396,1441,423"/>
+<area shape="rect" id="node12" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="968,341,1173,368"/>
+<area shape="rect" id="node14" href="$d6/d42/namespacedjango_1_1test_1_1testcases.html#ae31b0fbf172fb3a1fce8785aef0e58cf" title="django.test.testcases.assert\l_and_parse_html" alt="" coords="977,255,1164,297"/>
+<area shape="rect" id="node16" href="$d4/d6b/classdjango_1_1test_1_1testcases_1_1_simple_test_case.html#a4055db08b2e053a9c9f02c16fb93a53c" title="django.test.testcases.Simple\lTestCase.assertNotContains" alt="" coords="725,279,916,321"/>
+<area shape="rect" id="node11" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1493,396,1705,423"/>
+<area shape="rect" id="node13" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1256,330,1415,371"/>
+<area shape="rect" id="node15" href="$d5/dbc/namespacedjango_1_1test_1_1html.html#a0f6574322bcb1eeade5f75cb9389dd7a" title="django.test.html.parse_html" alt="" coords="1244,263,1427,289"/>
+</map>

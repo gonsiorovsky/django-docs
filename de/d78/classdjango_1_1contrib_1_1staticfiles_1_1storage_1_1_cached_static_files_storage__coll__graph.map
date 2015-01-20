@@ -1,0 +1,6 @@
+<map id="django.contrib.staticfiles.storage.CachedStaticFilesStorage" name="django.contrib.staticfiles.storage.CachedStaticFilesStorage">
+<area shape="rect" id="node2" href="$d8/d03/classdjango_1_1contrib_1_1staticfiles_1_1storage_1_1_cached_files_mixin.html" title="django.contrib.staticfiles.storage.\lCachedFilesMixin" alt="" coords="211,71,424,112"/>
+<area shape="rect" id="node7" href="$dc/dad/classdjango_1_1core_1_1files_1_1storage_1_1_storage.html" title="django.core.files.storage.\lStorage" alt="" coords="234,5,401,47"/>
+<area shape="rect" id="node5" href="$de/db9/classdjango_1_1contrib_1_1staticfiles_1_1storage_1_1_static_files_storage.html" title="django.contrib.staticfiles.storage.\lStaticFilesStorage" alt="" coords="689,9,903,51"/>
+<area shape="rect" id="node6" href="$db/da8/classdjango_1_1core_1_1files_1_1storage_1_1_file_system_storage.html" title="django.core.files.storage.\lFileSystemStorage" alt="" coords="473,8,640,49"/>
+</map>

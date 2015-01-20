@@ -1,0 +1,5 @@
+<map id="django.contrib.contenttypes.models.ContentType.model_class" name="django.contrib.contenttypes.models.ContentType.model_class">
+<area shape="rect" id="node2" href="$d6/d20/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type.html#ab44a27b45c576241cb45bba09f575393" title="django.contrib.contenttypes.models.\lContentType.__str__" alt="" coords="289,5,521,47"/>
+<area shape="rect" id="node3" href="$d6/d20/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type.html#abc34d7a20157f2bdbfda9ca53da0e925" title="django.contrib.contenttypes.models.\lContentType.get_all_objects\l_for_this_type" alt="" coords="289,70,521,126"/>
+<area shape="rect" id="node4" href="$d6/d20/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type.html#a87d92aab8b23e24c21e82b7fe8edb42e" title="django.contrib.contenttypes.models.\lContentType.get_object_for_this_type" alt="" coords="285,149,525,191"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="django.db.models.fields.files.ImageFieldFile" name="django.db.models.fields.files.ImageFieldFile">
+<area shape="rect" id="node2" href="$da/d6f/classdjango_1_1core_1_1files_1_1images_1_1_image_file.html" title="django.core.files.images.\lImageFile" alt="" coords="5,244,172,285"/>
+<area shape="rect" id="node4" href="$d8/d02/classdjango_1_1db_1_1models_1_1fields_1_1files_1_1_field_file.html" title="django.db.models.fields.files.\lFieldFile" alt="" coords="197,244,386,285"/>
+<area shape="rect" id="node5" href="$db/def/classdjango_1_1core_1_1files_1_1base_1_1_file.html" title="django.core.files.base.File" alt="" coords="205,169,378,196"/>
+<area shape="rect" id="node6" href="$de/dc9/classdjango_1_1core_1_1files_1_1utils_1_1_file_proxy_mixin.html" title="django.core.files.utils.\lFileProxyMixin" alt="" coords="217,80,365,121"/>
+</map>

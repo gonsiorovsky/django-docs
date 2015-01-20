@@ -1,0 +1,11 @@
+<map id="django.db.models.sql.subqueries.UpdateQuery.add_update_values" name="django.db.models.sql.subqueries.UpdateQuery.add_update_values">
+<area shape="rect" id="node2" href="$d5/de4/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_update_query.html#aa02f161e36ddf75466f4785528e46f73" title="django.db.models.sql.subqueries.\lUpdateQuery.add_related_update" alt="" coords="329,5,545,47"/>
+<area shape="rect" id="node3" href="$d5/de4/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_update_query.html#a0c20d6a9cccb46b1d1b6b455f73caff7" title="django.db.models.sql.subqueries.\lUpdateQuery.add_update_fields" alt="" coords="329,71,545,112"/>
+<area shape="rect" id="node8" href="$d4/d6b/classdjango_1_1contrib_1_1gis_1_1management_1_1commands_1_1inspectdb_1_1_command.html#a4e6ef60a3c99c4cfbcb0a3e3adc3845a" title="django.contrib.gis.management.commands.inspectdb.\lCommand.get_meta" alt="" coords="269,136,604,177"/>
+<area shape="rect" id="node9" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aa30c77f17e727571452948c86a5ae46c" title="django.db.models.sql.query.\lQuery.get_meta" alt="" coords="344,201,529,243"/>
+<area shape="rect" id="node10" href="$d4/d3c/classdjango_1_1core_1_1management_1_1commands_1_1inspectdb_1_1_command.html#a8abde69bea6cb79853fb315d3164cd5b" title="django.core.management.commands.inspectdb.\lCommand.get_meta" alt="" coords="287,267,587,308"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="652,78,857,105"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="931,41,1090,83"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="905,107,1116,134"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1164,107,1376,134"/>
+</map>

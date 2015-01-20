@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.geos.tests.test_geos.GEOSTest.test_collections_of_collections" name="django.contrib.gis.geos.tests.test_geos.GEOSTest.test_collections_of_collections">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="292,5,463,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="272,71,483,98"/>
+<area shape="rect" id="node6" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#ac3f15fbae74f2de4b84110a900d8450b" title="django.utils.unittest.case.skip\lUnless" alt="" coords="280,123,475,164"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="531,5,751,47"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="535,71,747,98"/>
+<area shape="rect" id="node7" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#a9784d0588d609fcbf2fbb53c13008841" title="django.utils.unittest.case.skip" alt="" coords="543,130,738,157"/>
+</map>

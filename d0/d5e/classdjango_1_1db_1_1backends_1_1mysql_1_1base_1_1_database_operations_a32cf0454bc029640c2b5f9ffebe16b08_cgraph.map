@@ -1,0 +1,4 @@
+<map id="django.db.backends.mysql.base.DatabaseOperations.sql_flush" name="django.db.backends.mysql.base.DatabaseOperations.sql_flush">
+<area shape="rect" id="node2" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#ae8bfb898b3b94c2f84cf75b33713fbd8" title="django.db.backends.BaseDatabase\lOperations.quote_name" alt="" coords="267,5,493,47"/>
+<area shape="rect" id="node3" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#a82c6a3466a5dd43d3c7b9f1c2812b79b" title="django.db.backends.BaseDatabase\lOperations.sequence_reset\l_by_name_sql" alt="" coords="267,70,493,126"/>
+</map>

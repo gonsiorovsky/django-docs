@@ -1,0 +1,4 @@
+<map id="django.core.files.storage.Storage.delete" name="django.core.files.storage.Storage.delete">
+<area shape="rect" id="node2" href="$d3/d92/classdjango_1_1views_1_1generic_1_1edit_1_1_deletion_mixin.html#a22cc0d886d2daa895c22b922defba6dd" title="django.views.generic.edit.\lDeletionMixin.post" alt="" coords="241,5,412,47"/>
+<area shape="rect" id="node3" href="$d8/d03/classdjango_1_1contrib_1_1staticfiles_1_1storage_1_1_cached_files_mixin.html#ae72c4e7e7b13ec29b5a8a42b7571ae71" title="django.contrib.staticfiles.storage.\lCachedFilesMixin.post_process" alt="" coords="220,71,433,112"/>
+</map>

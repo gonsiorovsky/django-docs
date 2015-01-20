@@ -1,0 +1,5 @@
+<map id="django.db.transaction.enter_transaction_management" name="django.db.transaction.enter_transaction_management">
+<area shape="rect" id="node2" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#ac765eb3094e0c7bf56f79ae0f506a2cc" title="django.db.transaction.autocommit" alt="" coords="232,5,451,32"/>
+<area shape="rect" id="node3" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a7c9d2ff2f38903a88f786c203f8b0c33" title="django.db.transaction.commit\l_manually" alt="" coords="245,57,438,98"/>
+<area shape="rect" id="node4" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a0a433fb3c1fba91b738cde2c3f1aed0e" title="django.db.transaction.commit\l_on_success" alt="" coords="245,122,438,163"/>
+</map>

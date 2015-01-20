@@ -1,0 +1,4 @@
+<map id="django.db.transaction.commit_on_success_unless_managed" name="django.db.transaction.commit_on_success_unless_managed">
+<area shape="rect" id="node2" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a2901ddf674115675e164203d8983a133" title="django.db.transaction.atomic" alt="" coords="257,5,447,32"/>
+<area shape="rect" id="node3" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a134d8335fa0c68b810a8980004736e98" title="django.db.transaction.get\l_connection" alt="" coords="268,57,436,98"/>
+</map>

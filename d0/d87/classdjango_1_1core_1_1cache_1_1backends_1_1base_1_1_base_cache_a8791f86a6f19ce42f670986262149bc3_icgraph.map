@@ -1,0 +1,6 @@
+<map id="django.core.cache.backends.base.BaseCache.clear" name="django.core.cache.backends.base.BaseCache.clear">
+<area shape="rect" id="node2" href="$d9/dd2/classdjango_1_1contrib_1_1sessions_1_1backends_1_1cached__db_1_1_session_store.html#a689a0a07d929dd4e1dd252d82104a655" title="django.contrib.sessions.backends.cached\l_db.SessionStore.flush" alt="" coords="277,5,543,47"/>
+<area shape="rect" id="node3" href="$de/d7d/classdjango_1_1core_1_1cache_1_1backends_1_1locmem_1_1_loc_mem_cache.html#a766c074ccdacf4fd8d14069751064f0a" title="django.core.cache.backends.locmem.\lLocMemCache.has_key" alt="" coords="289,71,531,112"/>
+<area shape="rect" id="node5" href="$d7/dcb/classdjango_1_1core_1_1cache_1_1backends_1_1db_1_1_database_cache.html#ac31aa17c627b52174482ce4745edec14" title="django.core.cache.backends.db.\lDatabaseCache.has_key" alt="" coords="305,136,515,177"/>
+<area shape="rect" id="node4" href="$d9/da5/classdjango_1_1template_1_1context_1_1_base_context.html#a05b7215385012e7a2bc0b3b2b5b06b19" title="django.template.context.\lBaseContext.__contains__" alt="" coords="591,104,769,145"/>
+</map>

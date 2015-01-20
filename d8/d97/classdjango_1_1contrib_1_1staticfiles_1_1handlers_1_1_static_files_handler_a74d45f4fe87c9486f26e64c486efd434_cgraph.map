@@ -1,0 +1,5 @@
+<map id="django.contrib.staticfiles.handlers.StaticFilesHandler.get_response" name="django.contrib.staticfiles.handlers.StaticFilesHandler.get_response">
+<area shape="rect" id="node2" href="$d8/d97/classdjango_1_1contrib_1_1staticfiles_1_1handlers_1_1_static_files_handler.html#a3d686a8dafa0abaf2e3ab97b788fbce3" title="django.contrib.staticfiles.handlers.\lStaticFilesHandler._should_handle" alt="" coords="272,5,495,47"/>
+<area shape="rect" id="node3" href="$d8/d97/classdjango_1_1contrib_1_1staticfiles_1_1handlers_1_1_static_files_handler.html#ae04264389a81f732e1eb543b68c8d24b" title="django.contrib.staticfiles.handlers.\lStaticFilesHandler.serve" alt="" coords="274,71,493,112"/>
+<area shape="rect" id="node4" href="$d8/d97/classdjango_1_1contrib_1_1staticfiles_1_1handlers_1_1_static_files_handler.html#a40eb24d2cad1e42b0f1a94aaec746856" title="django.contrib.staticfiles.handlers.\lStaticFilesHandler.file_path" alt="" coords="543,71,761,112"/>
+</map>

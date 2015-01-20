@@ -1,0 +1,6 @@
+<map id="django.core.checks.compatibility.django_1_6_0.run_checks" name="django.core.checks.compatibility.django_1_6_0.run_checks">
+<area shape="rect" id="node2" href="$db/dde/namespacedjango_1_1core_1_1checks_1_1compatibility_1_1django__1__6__0.html#a9d70c029dfa3d909367e4df260e30f05" title="django.core.checks.compatibility.django\l_1_6_0.check_boolean_field_default_value" alt="" coords="308,5,575,47"/>
+<area shape="rect" id="node5" href="$db/dde/namespacedjango_1_1core_1_1checks_1_1compatibility_1_1django__1__6__0.html#a6436dfc70372fd8f3a892e9189765a81" title="django.core.checks.compatibility.django\l_1_6_0.check_test_runner" alt="" coords="314,71,569,112"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="623,46,833,73"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="881,46,1093,73"/>
+</map>

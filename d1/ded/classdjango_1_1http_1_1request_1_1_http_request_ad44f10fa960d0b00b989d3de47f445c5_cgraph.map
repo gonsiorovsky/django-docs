@@ -1,0 +1,5 @@
+<map id="django.http.request.HttpRequest.xreadlines" name="django.http.request.HttpRequest.xreadlines">
+<area shape="rect" id="node2" href="$d2/d93/classdjango_1_1core_1_1handlers_1_1wsgi_1_1_limited_stream.html#a7ee4098f41d59a075f1085ed9f028bf8" title="django.core.handlers.wsgi.\lLimitedStream.readline" alt="" coords="215,5,391,47"/>
+<area shape="rect" id="node4" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#aaaa21b44e0a741a8ea8ebf7d4b62d73f" title="django.http.request.Http\lRequest.readline" alt="" coords="222,71,383,112"/>
+<area shape="rect" id="node3" href="$d2/d93/classdjango_1_1core_1_1handlers_1_1wsgi_1_1_limited_stream.html#aa13f0b4df74d4dd29121a5ade3063105" title="django.core.handlers.wsgi.\lLimitedStream._read_limited" alt="" coords="439,5,625,47"/>
+</map>

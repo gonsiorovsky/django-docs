@@ -1,0 +1,22 @@
+<map id="django.utils.dictconfig.DictConfigurator.configure_filter" name="django.utils.dictconfig.DictConfigurator.configure_filter">
+<area shape="rect" id="node2" href="$de/df9/classdjango_1_1utils_1_1dictconfig_1_1_base_configurator.html#a03c1b8571e3874b5bedc65c3a08c958d" title="django.utils.dictconfig.\lBaseConfigurator.configure\l_custom" alt="" coords="224,180,401,236"/>
+<area shape="rect" id="node3" href="$d6/d5e/jquery_8min_8js.html#a3fc7800392ca414b649cfe0282440252" title="c" alt="" coords="551,5,589,32"/>
+<area shape="rect" id="node4" href="$de/df9/classdjango_1_1utils_1_1dictconfig_1_1_base_configurator.html#ab1dec77ea882d0a7ee3b62c27f69d689" title="django.utils.dictconfig.\lBaseConfigurator.resolve" alt="" coords="487,57,653,98"/>
+<area shape="rect" id="node5" href="$de/daa/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_pattern.html#ac9b6afbbb3fae2d74d3cfb0a1c309643" title="django.core.urlresolvers.\lRegexURLPattern.resolve" alt="" coords="485,122,655,163"/>
+<area shape="rect" id="node7" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#aab89b26118a769818296ca1c122fdcbe" title="django.core.urlresolvers.\lRegexURLResolver.resolve" alt="" coords="481,187,659,229"/>
+<area shape="rect" id="node11" href="$d8/dcb/classdjango_1_1template_1_1base_1_1_filter_expression.html#a76a06470cb64db6bc4026f67a98acdb7" title="django.template.base.Filter\lExpression.resolve" alt="" coords="481,253,659,294"/>
+<area shape="rect" id="node19" href="$d8/dfe/classdjango_1_1template_1_1base_1_1_variable.html#a8cea146385045c54636dda614f6803ed" title="django.template.base.Variable.resolve" alt="" coords="449,319,691,345"/>
+<area shape="rect" id="node21" href="$d8/dd9/namespacedjango_1_1utils_1_1dictconfig.html#a9ff647d5b5e4eff5402c531247d5b2b9" title="django.utils.dictconfig.valid\l_ident" alt="" coords="482,370,658,411"/>
+<area shape="rect" id="node6" href="$de/daa/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_pattern.html#a7819ad6ef948f09e35e29d7a958a1202" title="django.core.urlresolvers.\lRegexURLPattern.callback" alt="" coords="755,93,934,134"/>
+<area shape="rect" id="node8" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#a6b055d7df68e9067a83b3a620d08774d" title="django.core.urlresolvers.\lRegexURLResolver.url_patterns" alt="" coords="742,158,947,199"/>
+<area shape="rect" id="node9" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#a99ab2737d1417bc51acf9bf6b3959c99" title="django.core.urlresolvers.\lRegexURLResolver.urlconf_module" alt="" coords="999,158,1223,199"/>
+<area shape="rect" id="node10" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1271,158,1452,199"/>
+<area shape="rect" id="node12" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#a4dc03d9daba18ed612abdbad58ca8d9f" title="django.utils.safestring.mark\l_for_escaping" alt="" coords="754,223,935,265"/>
+<area shape="rect" id="node13" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="739,289,951,316"/>
+<area shape="rect" id="node14" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#a822ff9e69c04bf7f4675734bb225de85" title="django.utils.timezone.template\l_localtime" alt="" coords="745,341,944,382"/>
+<area shape="rect" id="node15" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#ae4c23d0f048783e801f8e68bee9498db" title="django.utils.timezone.is\l_naive" alt="" coords="1031,311,1190,353"/>
+<area shape="rect" id="node16" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#aa053146052b420a9acc57e6e78c5094a" title="django.utils.timezone.localtime" alt="" coords="1010,377,1211,404"/>
+<area shape="rect" id="node17" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#a1227004eefd0c47a79ca5a06e84850e2" title="django.utils.timezone.get\l_current_timezone" alt="" coords="1278,370,1445,411"/>
+<area shape="rect" id="node18" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#aa1573d5c157dd1afd221ebda98e9a73d" title="django.utils.timezone.get\l_default_timezone" alt="" coords="1500,370,1667,411"/>
+<area shape="rect" id="node20" href="$d8/dfe/classdjango_1_1template_1_1base_1_1_variable.html#a32c3059a9a7dc0e62b3a6e271e819380" title="django.template.base.Variable.\l_resolve_lookup" alt="" coords="744,406,945,447"/>
+</map>

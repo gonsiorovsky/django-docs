@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.forms.widgets.BaseGeometryWidget.render" name="django.contrib.gis.forms.widgets.BaseGeometryWidget.render">
+<area shape="rect" id="node2" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html#a7dcb73bb3840f3f087b44b422d352470" title="django.forms.widgets.Widget.build\l_attrs" alt="" coords="279,5,499,47"/>
+<area shape="rect" id="node3" href="$d0/df0/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_related_field_widget_wrapper.html#ac61e5ea088c35d3ce5c9812ed808ad74" title="django.contrib.admin.widgets.\lRelatedFieldWidgetWrapper.build_attrs" alt="" coords="265,71,513,112"/>
+<area shape="rect" id="node4" href="$df/d02/classdjango_1_1contrib_1_1gis_1_1forms_1_1widgets_1_1_base_geometry_widget.html#a68c0916c2e661d302c1b90d73af6fd59" title="django.contrib.gis.forms.widgets.\lBaseGeometryWidget.deserialize" alt="" coords="281,136,497,177"/>
+<area shape="rect" id="node5" href="$df/d02/classdjango_1_1contrib_1_1gis_1_1forms_1_1widgets_1_1_base_geometry_widget.html#a249879f7fade5ccbf3ed2c537c51debd" title="django.contrib.gis.forms.widgets.\lBaseGeometryWidget.serialize" alt="" coords="283,201,495,243"/>
+</map>

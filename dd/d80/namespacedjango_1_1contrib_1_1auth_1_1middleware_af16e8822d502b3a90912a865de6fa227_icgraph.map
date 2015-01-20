@@ -1,0 +1,4 @@
+<map id="django.contrib.auth.middleware.get_user" name="django.contrib.auth.middleware.get_user">
+<area shape="rect" id="node2" href="$dc/d11/classdjango_1_1contrib_1_1auth_1_1middleware_1_1_authentication_middleware.html#af0999289e5540ef1e2c4b0185d7af288" title="django.contrib.auth.middleware.\lAuthenticationMiddleware.process_request" alt="" coords="308,5,579,47"/>
+<area shape="rect" id="node3" href="$dd/dd0/classdjango_1_1test_1_1testcases_1_1_stoppable_w_s_g_i_server.html#a96aa55dd4abcfae07a2236883186ca4e" title="django.test.testcases.Stoppable\lWSGIServer.handle_request" alt="" coords="627,5,836,47"/>
+</map>

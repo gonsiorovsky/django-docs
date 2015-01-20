@@ -1,0 +1,4 @@
+<map id="django.db.models.sql.query.Query.promote_disjunction" name="django.db.models.sql.query.Query.promote_disjunction">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aed1360c7f39dc7cab3261d18f90c87d4" title="django.db.models.sql.query.\lQuery.add_q" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a133d7338e0ef81148a75e22244fd841b" title="django.db.models.sql.query.\lQuery.reset_refcounts" alt="" coords="239,71,424,112"/>
+</map>

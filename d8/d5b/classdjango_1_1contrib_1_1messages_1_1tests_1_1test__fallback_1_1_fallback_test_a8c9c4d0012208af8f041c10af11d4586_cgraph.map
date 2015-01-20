@@ -1,0 +1,6 @@
+<map id="django.contrib.messages.tests.test_fallback.FallbackTest.stored_messages_count" name="django.contrib.messages.tests.test_fallback.FallbackTest.stored_messages_count">
+<area shape="rect" id="node2" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#a787c1097d68404c9d353384808ff84a7" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.stored\l_cookie_messages_count" alt="" coords="280,5,507,61"/>
+<area shape="rect" id="node4" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#a14db8f9bc941426d803929459c29151c" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.stored\l_session_messages_count" alt="" coords="280,85,507,141"/>
+<area shape="rect" id="node3" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#acae64293160a10eec1798c4821e04e08" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.get_cookie_storage" alt="" coords="558,13,826,54"/>
+<area shape="rect" id="node5" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#a031503c0389826713eb6f766f168c7f1" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.get_session_storage" alt="" coords="555,93,829,134"/>
+</map>

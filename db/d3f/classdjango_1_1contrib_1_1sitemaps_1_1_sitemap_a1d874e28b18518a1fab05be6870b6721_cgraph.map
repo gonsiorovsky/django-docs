@@ -1,0 +1,8 @@
+<map id="django.contrib.sitemaps.Sitemap.location" name="django.contrib.sitemaps.Sitemap.location">
+<area shape="rect" id="node2" href="$de/d37/classdjango_1_1contrib_1_1gis_1_1tests_1_1geoapp_1_1feeds_1_1_test_geo_r_s_s1.html#a760395658995ed4239061434ca5b253c" title="django.contrib.gis.tests.geoapp.feeds.\lTestGeoRSS1.items" alt="" coords="223,5,466,47"/>
+<area shape="rect" id="node3" href="$df/dcc/classdjango_1_1contrib_1_1comments_1_1feeds_1_1_latest_comment_feed.html#adea050b1a2a3e0fcba261e8d5f377949" title="django.contrib.comments.feeds.\lLatestCommentFeed.items" alt="" coords="241,71,448,112"/>
+<area shape="rect" id="node4" href="$dd/d02/classdjango_1_1contrib_1_1gis_1_1sitemaps_1_1georss_1_1_geo_r_s_s_sitemap.html#a0dc2239fdd39827b604c9433ca30eb08" title="django.contrib.gis.sitemaps.georss.\lGeoRSSSitemap.items" alt="" coords="231,136,459,177"/>
+<area shape="rect" id="node5" href="$d0/dea/classdjango_1_1contrib_1_1gis_1_1sitemaps_1_1kml_1_1_k_m_l_sitemap.html#a6acd07396d1cde7a19605ad2a8aa92e3" title="django.contrib.gis.sitemaps.kml.\lKMLSitemap.items" alt="" coords="239,201,450,243"/>
+<area shape="rect" id="node6" href="$db/d3f/classdjango_1_1contrib_1_1sitemaps_1_1_sitemap.html#a521395bdbfe3e7c0afbf9bb0a038a3d5" title="django.contrib.sitemaps.\lSitemap.items" alt="" coords="263,267,427,308"/>
+<area shape="rect" id="node7" href="$d1/d6e/classdjango_1_1contrib_1_1sessions_1_1backends_1_1base_1_1_session_base.html#ae25cf58df559b84f6cb8c2bad2420f5f" title="django.contrib.sessions.backends.base.\lSessionBase.items" alt="" coords="217,332,472,373"/>
+</map>

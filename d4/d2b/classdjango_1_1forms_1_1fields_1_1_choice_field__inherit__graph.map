@@ -1,0 +1,9 @@
+<map id="django.forms.fields.ChoiceField" name="django.forms.fields.ChoiceField">
+<area shape="rect" id="node4" href="$d2/dac/classdjango_1_1forms_1_1fields_1_1_file_path_field.html" title="django.forms.fields.File\lPathField" alt="" coords="557,5,712,47"/>
+<area shape="rect" id="node5" href="$d0/dca/classdjango_1_1forms_1_1fields_1_1_multiple_choice_field.html" title="django.forms.fields.Multiple\lChoiceField" alt="" coords="545,71,724,112"/>
+<area shape="rect" id="node7" href="$d4/dc6/classdjango_1_1forms_1_1fields_1_1_typed_choice_field.html" title="django.forms.fields.Typed\lChoiceField" alt="" coords="550,136,719,177"/>
+<area shape="rect" id="node8" href="$d9/d46/classdjango_1_1forms_1_1models_1_1_model_choice_field.html" title="django.forms.models.Model\lChoiceField" alt="" coords="544,201,725,243"/>
+<area shape="rect" id="node2" href="$d2/d0d/classdjango_1_1forms_1_1fields_1_1_field.html" title="django.forms.fields.Field" alt="" coords="111,111,273,138"/>
+<area shape="rect" id="node6" href="$d5/db0/classdjango_1_1forms_1_1fields_1_1_typed_multiple_choice_field.html" title="django.forms.fields.Typed\lMultipleChoiceField" alt="" coords="779,71,949,112"/>
+<area shape="rect" id="node9" href="$d3/d8a/classdjango_1_1forms_1_1models_1_1_model_multiple_choice_field.html" title="django.forms.models.Model\lMultipleChoiceField" alt="" coords="773,201,955,243"/>
+</map>

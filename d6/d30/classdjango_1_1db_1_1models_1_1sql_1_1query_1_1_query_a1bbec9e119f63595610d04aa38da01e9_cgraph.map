@@ -1,0 +1,4 @@
+<map id="django.db.models.sql.query.Query.clear_select_clause" name="django.db.models.sql.query.Query.clear_select_clause">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#af4142762cb23680636afa43b8bf3a292" title="django.db.models.sql.query.\lQuery.set_aggregate_mask" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a879119a7e742acde6e677c19e4d1bf37" title="django.db.models.sql.query.\lQuery.set_extra_mask" alt="" coords="239,71,424,112"/>
+</map>

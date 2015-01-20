@@ -1,0 +1,6 @@
+<map id="django.utils.functional.new_method_proxy" name="django.utils.functional.new_method_proxy">
+<area shape="rect" id="node2" href="$d7/d7a/classdjango_1_1utils_1_1functional_1_1_lazy_object.html#a897338291d8121448b8b7fe5741db5c8" title="django.utils.functional.\lLazyObject.__delattr__" alt="" coords="241,5,397,47"/>
+<area shape="rect" id="node3" href="$d7/d7a/classdjango_1_1utils_1_1functional_1_1_lazy_object.html#a624ef9d467d3ce4da4e7f5b814daa108" title="django.utils.functional.\lLazyObject.__init__" alt="" coords="244,71,395,112"/>
+<area shape="rect" id="node4" href="$d3/d4f/classdjango_1_1utils_1_1functional_1_1_simple_lazy_object.html#a266f8e01839c6a4c34bcfaadd3d25978" title="django.utils.functional.\lSimpleLazyObject.__init__" alt="" coords="231,136,408,177"/>
+<area shape="rect" id="node5" href="$d3/d4f/classdjango_1_1utils_1_1functional_1_1_simple_lazy_object.html#ad2f18e03bd2c710b7220400f6c35f3db" title="django.utils.functional.\lSimpleLazyObject.__repr__" alt="" coords="228,201,411,243"/>
+</map>

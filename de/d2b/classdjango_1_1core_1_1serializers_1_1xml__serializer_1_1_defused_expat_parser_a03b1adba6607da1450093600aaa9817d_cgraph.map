@@ -1,0 +1,6 @@
+<map id="django.core.serializers.xml_serializer.DefusedExpatParser.reset" name="django.core.serializers.xml_serializer.DefusedExpatParser.reset">
+<area shape="rect" id="node2" href="$de/d2b/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_defused_expat_parser.html#ad70204fbeefe9db71f3f27411ada2e6d" title="django.core.serializers.xml\l_serializer.DefusedExpatParser.entity_decl" alt="" coords="600,49,871,90"/>
+<area shape="rect" id="node3" href="$de/d2b/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_defused_expat_parser.html#af7164722b24eaaf1dc207e3e71891e07" title="django.core.serializers.xml\l_serializer.DefusedExpatParser.external\l_entity_ref_handler" alt="" coords="294,33,549,89"/>
+<area shape="rect" id="node4" href="$de/d2b/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_defused_expat_parser.html#ae9a30731e21358277157107aea828629" title="django.core.serializers.xml\l_serializer.DefusedExpatParser.start\l_doctype_decl" alt="" coords="304,113,539,169"/>
+<area shape="rect" id="node5" href="$de/d2b/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_defused_expat_parser.html#acf8598dc27dcf5b910ae8e3aeb670393" title="django.core.serializers.xml\l_serializer.DefusedExpatParser.unparsed\l_entity_decl" alt="" coords="291,193,552,249"/>
+</map>

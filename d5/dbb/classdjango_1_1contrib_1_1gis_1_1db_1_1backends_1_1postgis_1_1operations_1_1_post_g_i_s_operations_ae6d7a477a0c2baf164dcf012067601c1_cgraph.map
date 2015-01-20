@@ -1,0 +1,12 @@
+<map id="django.contrib.gis.db.backends.postgis.operations.PostGISOperations.spatial_lookup_sql" name="django.contrib.gis.db.backends.postgis.operations.PostGISOperations.spatial_lookup_sql">
+<area shape="rect" id="node2" href="$d9/d6a/classdjango_1_1utils_1_1log_1_1_admin_email_handler.html#a07baeac3b7b8c28175cfd3a4a55ba9b5" title="django.utils.log.AdminEmail\lHandler.connection" alt="" coords="436,64,619,105"/>
+<area shape="rect" id="node10" href="$d3/db1/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1base_1_1_base_spatial_operations.html#acfe4dc0eed6cefa8d8157c67633cde56" title="django.contrib.gis.db.backends.base.\lBaseSpatialOperations.get_geom\l_placeholder" alt="" coords="408,129,647,185"/>
+<area shape="rect" id="node11" href="$d5/dbb/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_operations.html#a4834bf9be92e3504fcb28d214b116cc9" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISOperations.num_params" alt="" coords="369,208,685,249"/>
+<area shape="rect" id="node3" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#af23a6c3b0b237e8d2dddebeacf1e3280" title="django.core.mail.get\l_connection" alt="" coords="733,64,872,105"/>
+<area shape="rect" id="node4" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="929,5,1091,47"/>
+<area shape="rect" id="node6" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a9a59581344fb9f831eb84538e72b5859" title="django.core.mail.send_mail" alt="" coords="920,71,1100,98"/>
+<area shape="rect" id="node5" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1148,5,1329,47"/>
+<area shape="rect" id="node7" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#ac138868345f5743295cee7f3da2dd9cc" title="django.core.mail.send\l_mass_mail" alt="" coords="1164,92,1313,133"/>
+<area shape="rect" id="node8" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a0629c7138bf20a934f55e3b9d0c71091" title="django.core.mail.mail\l_admins" alt="" coords="1377,92,1523,133"/>
+<area shape="rect" id="node9" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a8cb94df3622dea39f0800eee58a3eab1" title="django.core.mail.mail\l_managers" alt="" coords="1571,92,1716,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="django.core.urlresolvers.reverse" name="django.core.urlresolvers.reverse">
+<area shape="rect" id="node2" href="$d1/d1a/namespacedjango_1_1core_1_1urlresolvers.html#af1bbab2c3a3b9f0b0131398cd7755bae" title="django.core.urlresolvers.get\l_script_prefix" alt="" coords="256,5,436,47"/>
+<area shape="rect" id="node3" href="$d1/d1a/namespacedjango_1_1core_1_1urlresolvers.html#af6a026e9ea4d33a81140513fbb5ffc71" title="django.core.urlresolvers.get\l_urlconf" alt="" coords="256,71,436,112"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#adedd59fca095fd910d91ba3317749c7a" title="django.utils.encoding.iri\l_to_uri" alt="" coords="267,136,425,177"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="731,143,941,170"/>
+<area shape="rect" id="node5" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#aa6ea7c1ad8c36a98e14e6745750bc77f" title="django.contrib.admin.util.quote" alt="" coords="484,85,683,111"/>
+<area shape="rect" id="node8" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="495,136,671,177"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="989,143,1201,170"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.db.models.fields.GeometryField.geodetic" name="django.contrib.gis.db.models.fields.GeometryField.geodetic">
+<area shape="rect" id="node2" href="$df/daf/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1fields_1_1_geometry_field.html#adf9190d366d3641b91de5f044711bdfa" title="django.contrib.gis.db.models.fields.\lGeometryField.units_name" alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$df/daf/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1fields_1_1_geometry_field.html#a7a0f7f34dece57dacfb332340889e7c5" title="django.contrib.gis.db.models.fields.\lGeometryField._get_srid_info" alt="" coords="555,5,781,47"/>
+</map>

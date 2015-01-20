@@ -1,0 +1,4 @@
+<map id="django.contrib.sessions.tests.CacheSessionTests.test_load_overlong_key" name="django.contrib.sessions.tests.CacheSessionTests.test_load_overlong_key">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="249,13,420,54"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="468,13,688,54"/>
+</map>

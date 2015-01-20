@@ -1,0 +1,6 @@
+<map id="django.contrib.auth.models.BaseUserManager.make_random_password" name="django.contrib.auth.models.BaseUserManager.make_random_password">
+<area shape="rect" id="node2" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a35b748623ac46f0ff3c719d8dc791971" title="django.contrib.auth.models.\lBaseUserManager.normalize_email" alt="" coords="268,53,495,94"/>
+<area shape="rect" id="node3" href="$d7/df7/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_manager.html#adc122387c1b2e0cf1883beea22090b06" title="django.contrib.auth.tests.custom\l_user.CustomUserManager.create_user" alt="" coords="543,53,795,94"/>
+<area shape="rect" id="node4" href="$d7/df7/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_manager.html#a5272c490ebf4162cd93efed36d6613a3" title="django.contrib.auth.tests.custom\l_user.CustomUserManager.create\l_superuser" alt="" coords="879,5,1099,61"/>
+<area shape="rect" id="node5" href="$d4/d66/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_permissions_user_manager.html#a37076f8f43e0d7097bf043f5d167edd2" title="django.contrib.auth.tests.custom\l_user.CustomPermissionsUserManager.create\l_superuser" alt="" coords="843,85,1135,141"/>
+</map>

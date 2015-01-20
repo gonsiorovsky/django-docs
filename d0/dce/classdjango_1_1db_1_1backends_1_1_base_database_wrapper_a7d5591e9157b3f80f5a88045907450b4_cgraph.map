@@ -1,0 +1,5 @@
+<map id="django.db.backends.BaseDatabaseWrapper.savepoint_commit" name="django.db.backends.BaseDatabaseWrapper.savepoint_commit">
+<area shape="rect" id="node2" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a0fdf54819d6124312fc5e8981cd5d56a" title="django.db.backends.BaseDatabase\lWrapper._savepoint_allowed" alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a72c7a7cb58e86ceec79586da418d5501" title="django.db.backends.BaseDatabase\lWrapper._savepoint_commit" alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node4" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a2e9a56816b4a92bc701e22791e118f2b" title="Thread safety handling #####. " alt="" coords="280,136,507,177"/>
+</map>

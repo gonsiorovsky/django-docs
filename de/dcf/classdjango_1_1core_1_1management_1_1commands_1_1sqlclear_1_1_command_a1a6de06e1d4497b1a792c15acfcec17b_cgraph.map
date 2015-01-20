@@ -1,0 +1,5 @@
+<map id="django.core.management.commands.sqlclear.Command.handle_app" name="django.core.management.commands.sqlclear.Command.handle_app">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="343,5,553,32"/>
+<area shape="rect" id="node4" href="$db/d61/namespacedjango_1_1core_1_1management_1_1sql.html#a15fe2bf41cd5bbe9e678d61960802b31" title="django.core.management.sql.sql\l_delete" alt="" coords="343,57,553,98"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="601,5,813,32"/>
+</map>

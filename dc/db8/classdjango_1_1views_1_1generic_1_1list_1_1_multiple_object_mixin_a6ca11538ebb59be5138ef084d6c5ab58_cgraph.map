@@ -1,0 +1,6 @@
+<map id="django.views.generic.list.MultipleObjectMixin.paginate_queryset" name="django.views.generic.list.MultipleObjectMixin.paginate_queryset">
+<area shape="rect" id="node2" href="$dc/db8/classdjango_1_1views_1_1generic_1_1list_1_1_multiple_object_mixin.html#a47b215903d3a0f725050dc6d3370d02e" title="django.views.generic.list.\lMultipleObjectMixin.get\l_allow_empty" alt="" coords="255,5,422,61"/>
+<area shape="rect" id="node3" href="$dc/db8/classdjango_1_1views_1_1generic_1_1list_1_1_multiple_object_mixin.html#ad8e93ebc79294fe6d54157eb199a996a" title="django.views.generic.list.\lMultipleObjectMixin.get\l_paginate_orphans" alt="" coords="255,85,422,141"/>
+<area shape="rect" id="node4" href="$dc/db8/classdjango_1_1views_1_1generic_1_1list_1_1_multiple_object_mixin.html#a32d0ca4aa5bb431a7d5042b42a85c967" title="django.views.generic.list.\lMultipleObjectMixin.get\l_paginator" alt="" coords="255,165,422,221"/>
+<area shape="rect" id="node5" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a3eacef6fc3a6f9a1a163ddf8626f08fb" title="django.contrib.admin.options.\lModelAdmin.get_paginator" alt="" coords="243,245,435,286"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.middleware.csrf.CsrfViewMiddleware.process_view" name="django.middleware.csrf.CsrfViewMiddleware.process_view">
+<area shape="rect" id="node2" href="$d6/d31/classdjango_1_1middleware_1_1csrf_1_1_csrf_view_middleware.html#a21a9b8caac869e72b50cda515a4b9d0c" title="django.middleware.csrf.Csrf\lViewMiddleware._accept" alt="" coords="250,5,431,47"/>
+<area shape="rect" id="node3" href="$d6/d31/classdjango_1_1middleware_1_1csrf_1_1_csrf_view_middleware.html#a2bf1a710688a518664920a84755661d8" title="django.middleware.csrf.Csrf\lViewMiddleware._reject" alt="" coords="250,71,431,112"/>
+<area shape="rect" id="node4" href="$d2/d11/namespacedjango_1_1utils_1_1crypto.html#a4b13c633e3196b39b3778cccbfb6db6e" title="django.utils.crypto.constant\l_time_compare" alt="" coords="249,136,432,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.contrib.auth.tests.test_signals.SignalTestCase.tearDown" name="django.contrib.auth.tests.test_signals.SignalTestCase.tearDown">
+<area shape="rect" id="node2" href="$de/dba/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__signals_1_1_signal_test_case.html#a6444aabf87ca55d1bd6bc24d302b8a57" title="django.contrib.auth.tests.test\l_signals.SignalTestCase.listener_login" alt="" coords="280,5,525,47"/>
+<area shape="rect" id="node3" href="$de/dba/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__signals_1_1_signal_test_case.html#ae985adce1dc3d44253fdb4b6fea35aa5" title="django.contrib.auth.tests.test\l_signals.SignalTestCase.listener\l_login_failed" alt="" coords="297,70,508,126"/>
+<area shape="rect" id="node4" href="$de/dba/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__signals_1_1_signal_test_case.html#aff835954d4318f63e9471482e2a9dd6a" title="django.contrib.auth.tests.test\l_signals.SignalTestCase.listener_logout" alt="" coords="276,149,529,191"/>
+</map>

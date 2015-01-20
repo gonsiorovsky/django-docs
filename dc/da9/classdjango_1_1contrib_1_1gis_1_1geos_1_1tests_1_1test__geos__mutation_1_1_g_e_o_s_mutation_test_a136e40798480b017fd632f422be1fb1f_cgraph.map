@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.geos.tests.test_geos_mutation.GEOSMutationTest.test04_LineStringMutations" name="django.contrib.gis.geos.tests.test_geos_mutation.GEOSMutationTest.test04_LineStringMutations">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="360,5,531,47"/>
+<area shape="rect" id="node4" href="$df/d10/namespacedjango_1_1contrib_1_1gis_1_1geos_1_1factory.html#a07ad8dd2ccf181fd3dd033955cfc2c4c" title="django.contrib.gis.geos.factory.fromstr" alt="" coords="324,71,567,98"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="615,5,835,47"/>
+</map>

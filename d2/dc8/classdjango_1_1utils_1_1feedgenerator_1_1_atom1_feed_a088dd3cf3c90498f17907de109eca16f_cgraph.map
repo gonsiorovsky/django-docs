@@ -1,0 +1,6 @@
+<map id="django.utils.feedgenerator.Atom1Feed.add_item_elements" name="django.utils.feedgenerator.Atom1Feed.add_item_elements">
+<area shape="rect" id="node2" href="$d6/df0/namespacedjango_1_1utils_1_1feedgenerator.html#ad3d75f4bb7d752c2e73f6a077edadc60" title="django.utils.feedgenerator.get\l_tag_uri" alt="" coords="288,8,480,49"/>
+<area shape="rect" id="node4" href="$d6/df0/namespacedjango_1_1utils_1_1feedgenerator.html#a29df28c45474108c592853e86d84011b" title="django.utils.feedgenerator.rfc3339_date" alt="" coords="260,75,508,102"/>
+<area shape="rect" id="node3" href="$d1/dbd/namespacedjango_1_1utils_1_1datetime__safe.html#a3f6f83f7548caeff84dfa148fb2ff97d" title="django.utils.datetime\l_safe.strftime" alt="" coords="564,5,707,47"/>
+<area shape="rect" id="node5" href="$d2/dc0/namespacedjango_1_1utils_1_1timezone.html#a8f2418e01d493abe898e38333c2cfcfa" title="django.utils.timezone.is\l_aware" alt="" coords="556,71,715,112"/>
+</map>

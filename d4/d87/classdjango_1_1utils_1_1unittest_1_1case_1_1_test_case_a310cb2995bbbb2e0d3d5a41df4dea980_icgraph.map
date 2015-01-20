@@ -1,0 +1,5 @@
+<map id="django.utils.unittest.case.TestCase.assertNotIn" name="django.utils.unittest.case.TestCase.assertNotIn">
+<area shape="rect" id="node2" href="$d5/d39/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_session_tests_mixin.html#aba7f3c7e3664f5b09fc0cdf8cdb2c9c8" title="django.contrib.sessions.tests.\lSessionTestsMixin.test_actual_expiry" alt="" coords="224,5,467,47"/>
+<area shape="rect" id="node3" href="$d0/da9/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_session_middleware_tests.html#a50b584db94a5bc633f9f93d222a7fc9e" title="django.contrib.sessions.tests.\lSessionMiddlewareTests.test\l_no_httponly_session_cookie" alt="" coords="247,70,443,126"/>
+<area shape="rect" id="node4" href="$d0/da9/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_session_middleware_tests.html#aebbb3cd7285d14b3169974a58daf1e36" title="django.contrib.sessions.tests.\lSessionMiddlewareTests.test\l_session_save_on_500" alt="" coords="247,150,443,206"/>
+</map>

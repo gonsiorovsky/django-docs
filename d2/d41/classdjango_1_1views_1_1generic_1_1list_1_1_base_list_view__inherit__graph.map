@@ -1,0 +1,6 @@
+<map id="django.views.generic.list.BaseListView" name="django.views.generic.list.BaseListView">
+<area shape="rect" id="node6" href="$d8/d5c/classdjango_1_1views_1_1generic_1_1list_1_1_list_view.html" title="django.views.generic.list.\lListView" alt="" coords="111,348,277,389"/>
+<area shape="rect" id="node2" href="$dc/db8/classdjango_1_1views_1_1generic_1_1list_1_1_multiple_object_mixin.html" title="django.views.generic.list.\lMultipleObjectMixin" alt="" coords="5,169,172,211"/>
+<area shape="rect" id="node3" href="$d1/d6a/classdjango_1_1views_1_1generic_1_1base_1_1_context_mixin.html" title="django.views.generic.base.\lContextMixin" alt="" coords="41,80,219,121"/>
+<area shape="rect" id="node5" href="$d0/ddc/classdjango_1_1views_1_1generic_1_1base_1_1_view.html" title="django.views.generic.base.View" alt="" coords="197,177,402,203"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="django.contrib.admin.options.ModelAdmin" name="django.contrib.admin.options.ModelAdmin">
+<area shape="rect" id="node8" href="$de/df4/classdjango_1_1contrib_1_1auth_1_1admin_1_1_group_admin.html" title="django.contrib.auth.admin.\lGroupAdmin" alt="" coords="1099,5,1274,47"/>
+<area shape="rect" id="node9" href="$de/d3c/classdjango_1_1contrib_1_1auth_1_1admin_1_1_user_admin.html" title="django.contrib.auth.admin.\lUserAdmin" alt="" coords="1099,71,1274,112"/>
+<area shape="rect" id="node10" href="$df/d23/classdjango_1_1contrib_1_1comments_1_1admin_1_1_comments_admin.html" title="django.contrib.comments.admin.\lCommentsAdmin" alt="" coords="1081,136,1292,177"/>
+<area shape="rect" id="node11" href="$df/d3c/classdjango_1_1contrib_1_1flatpages_1_1admin_1_1_flat_page_admin.html" title="django.contrib.flatpages.admin.\lFlatPageAdmin" alt="" coords="1085,201,1288,243"/>
+<area shape="rect" id="node12" href="$d0/d24/classdjango_1_1contrib_1_1redirects_1_1admin_1_1_redirect_admin.html" title="django.contrib.redirects.admin.\lRedirectAdmin" alt="" coords="1087,267,1287,308"/>
+<area shape="rect" id="node13" href="$d8/dc6/classdjango_1_1contrib_1_1sites_1_1admin_1_1_site_admin.html" title="django.contrib.sites.admin.\lSiteAdmin" alt="" coords="1097,332,1276,373"/>
+<area shape="rect" id="node2" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html" title="django.contrib.admin.options.\lBaseModelAdmin" alt="" coords="601,169,793,211"/>
+<area shape="rect" id="node4" href="$d2/d83/classdjango_1_1contrib_1_1admin_1_1options_1_1_rename_base_model_admin_methods.html" title="django.contrib.admin.options.\lRenameBaseModelAdminMethods" alt="" coords="331,199,553,240"/>
+<area shape="rect" id="node5" href="$de/d5f/classdjango_1_1forms_1_1widgets_1_1_media_defining_class.html" title="django.forms.widgets.Media\lDefiningClass" alt="" coords="100,165,283,207"/>
+<area shape="rect" id="node7" href="$d8/d97/classdjango_1_1utils_1_1deprecation_1_1_rename_methods_base.html" title="django.utils.deprecation.\lRenameMethodsBase" alt="" coords="110,231,273,272"/>
+</map>

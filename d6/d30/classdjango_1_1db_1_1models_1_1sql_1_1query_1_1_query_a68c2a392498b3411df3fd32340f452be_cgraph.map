@@ -1,0 +1,4 @@
+<map id="django.db.models.sql.query.Query.join" name="django.db.models.sql.query.Query.join">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a4ecd4aaf9f04827e5c953aa385c07c44" title="django.db.models.sql.query.\lQuery.ref_alias" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a979a7df7ff643c3233143a5b1940f17d" title="django.db.models.sql.query.\lQuery.table_alias" alt="" coords="239,71,424,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="django.contrib.gis.sitemaps.georss.GeoRSSSitemap.items" name="django.contrib.gis.sitemaps.georss.GeoRSSSitemap.items">
+<area shape="rect" id="node2" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html#a1c0b693ecbdc8cd3c54273e0c951c141" title="django.forms.util.ErrorDict.as_text" alt="" coords="281,5,500,32"/>
+<area shape="rect" id="node3" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html#a92107f3dc1c37fb55554c31ac534f217" title="django.forms.util.ErrorDict.as_ul" alt="" coords="287,56,494,83"/>
+<area shape="rect" id="node6" href="$db/d3f/classdjango_1_1contrib_1_1sitemaps_1_1_sitemap.html#a1d874e28b18518a1fab05be6870b6721" title="django.contrib.sitemaps.\lSitemap.location" alt="" coords="309,107,473,149"/>
+<area shape="rect" id="node4" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html#a00890795344fc0964590a39483bea223" title="django.forms.util.ErrorDict.\l__str__" alt="" coords="548,15,724,57"/>
+<area shape="rect" id="node5" href="$d6/d4b/classdjango_1_1forms_1_1util_1_1_error_list.html#ad8977503f71da442d0332a057d7db8c6" title="django.forms.util.ErrorList.\l__str__" alt="" coords="549,81,723,122"/>
+</map>

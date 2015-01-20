@@ -1,0 +1,10 @@
+<map id="django.utils.feedgenerator.SyndicationFeed.add_item" name="django.utils.feedgenerator.SyndicationFeed.add_item">
+<area shape="rect" id="node2" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="501,13,707,39"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#adedd59fca095fd910d91ba3317749c7a" title="django.utils.encoding.iri\l_to_uri" alt="" coords="262,97,421,139"/>
+<area shape="rect" id="node9" href="$dc/db7/namespacedjango_1_1db_1_1backends_1_1oracle_1_1base.html#a7019b1bba1b97a7d439e3c6775e4c42a" title="django.db.backends.oracle.base.to\l_unicode" alt="" coords="229,32,453,73"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="781,5,939,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="755,71,965,98"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1013,71,1225,98"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="516,64,692,105"/>
+<area shape="rect" id="node8" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#aa6ea7c1ad8c36a98e14e6745750bc77f" title="django.contrib.admin.util.quote" alt="" coords="505,130,703,157"/>
+</map>

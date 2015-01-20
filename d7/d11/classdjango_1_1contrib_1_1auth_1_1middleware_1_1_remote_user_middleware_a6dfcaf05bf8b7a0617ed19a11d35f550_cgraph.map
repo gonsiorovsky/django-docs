@@ -1,0 +1,9 @@
+<map id="django.contrib.auth.middleware.RemoteUserMiddleware.process_request" name="django.contrib.auth.middleware.RemoteUserMiddleware.process_request">
+<area shape="rect" id="node2" href="$d7/d11/classdjango_1_1contrib_1_1auth_1_1middleware_1_1_remote_user_middleware.html#af00a6ab4c8225ee5dfa62fa4efc6bb32" title="django.contrib.auth.middleware.\lRemoteUserMiddleware._remove\l_invalid_user" alt="" coords="329,5,539,61"/>
+<area shape="rect" id="node3" href="$d7/d11/classdjango_1_1contrib_1_1auth_1_1middleware_1_1_remote_user_middleware.html#adf328662e2d470e0cde2d82721308296" title="django.contrib.auth.middleware.\lRemoteUserMiddleware.clean\l_username" alt="" coords="331,85,537,141"/>
+<area shape="rect" id="node7" href="$da/d3b/classdjango_1_1contrib_1_1auth_1_1forms_1_1_user_creation_form.html#a03fcc8f9df15b1dc25ddb8da26436565" title="django.contrib.auth.forms.\lUserCreationForm.clean\l_username" alt="" coords="348,165,520,221"/>
+<area shape="rect" id="node8" href="$dd/ddf/classdjango_1_1contrib_1_1auth_1_1backends_1_1_remote_user_backend.html#a9f9b271e93cc575b10dfa0a132addf3f" title="django.contrib.auth.backends.\lRemoteUserBackend.clean_username" alt="" coords="312,245,556,286"/>
+<area shape="rect" id="node4" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#a99d831e424d6d5a5323d9fa289712d2f" title="django.contrib.auth.load\l_backend" alt="" coords="604,93,764,134"/>
+<area shape="rect" id="node5" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="812,93,975,134"/>
+<area shape="rect" id="node6" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1023,93,1204,134"/>
+</map>

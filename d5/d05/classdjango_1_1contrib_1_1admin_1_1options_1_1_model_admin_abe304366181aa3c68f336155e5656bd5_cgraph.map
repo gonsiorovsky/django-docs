@@ -1,0 +1,9 @@
+<map id="django.contrib.admin.options.ModelAdmin.get_action_choices" name="django.contrib.admin.options.ModelAdmin.get_action_choices">
+<area shape="rect" id="node2" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a18360f20a3d210ded48ea4643a05093f" title="django.contrib.admin.options.\lModelAdmin.get_actions" alt="" coords="269,5,461,47"/>
+<area shape="rect" id="node4" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#ac8f980aebe0fe07d039e4d613e242025" title="django.contrib.admin.util.model\l_format_dict" alt="" coords="264,71,467,112"/>
+<area shape="rect" id="node3" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a05404ec2d84db4077177ae2b774e14f7" title="django.contrib.admin.options.\lModelAdmin.get_action" alt="" coords="521,5,713,47"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="515,78,720,105"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="794,41,953,83"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="768,107,979,134"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1027,107,1239,134"/>
+</map>

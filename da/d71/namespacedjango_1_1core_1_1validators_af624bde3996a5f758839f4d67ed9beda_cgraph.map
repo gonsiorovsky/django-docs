@@ -1,0 +1,6 @@
+<map id="django.core.validators.validate_ipv6_address" name="django.core.validators.validate_ipv6_address">
+<area shape="rect" id="node2" href="$dd/dea/namespacedjango_1_1utils_1_1ipv6.html#a69c6a332250eb19ecf32c0f3db2d3c64" title="django.utils.ipv6.is\l_valid_ipv6_address" alt="" coords="248,23,384,65"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaaefde7859fe1bf353ac71952c024eb9" title="django.template.defaultfilters.lower" alt="" coords="432,5,653,32"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="437,56,648,83"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="701,56,913,83"/>
+</map>

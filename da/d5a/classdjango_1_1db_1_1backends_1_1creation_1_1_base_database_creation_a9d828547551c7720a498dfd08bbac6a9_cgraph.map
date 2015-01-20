@@ -1,0 +1,7 @@
+<map id="django.db.backends.creation.BaseDatabaseCreation.sql_remove_table_constraints" name="django.db.backends.creation.BaseDatabaseCreation.sql_remove_table_constraints">
+<area shape="rect" id="node2" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html#ae072fccc4a7218c915d165fa2dd90a42" title="django.db.backends.creation.\lBaseDatabaseCreation._digest" alt="" coords="269,5,471,47"/>
+<area shape="rect" id="node3" href="$d9/d72/namespacedjango_1_1db_1_1backends_1_1util.html#a1b0512e0c711f8be09ed6b6b9e893df4" title="django.db.backends.util.truncate_name" alt="" coords="245,71,495,98"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="543,64,719,105"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="767,71,977,98"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1025,71,1237,98"/>
+</map>

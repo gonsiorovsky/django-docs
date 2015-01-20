@@ -1,0 +1,5 @@
+<map id="django.db.models.sql.compiler.SQLCompiler.find_ordering_name" name="django.db.models.sql.compiler.SQLCompiler.find_ordering_name">
+<area shape="rect" id="node2" href="$df/de2/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_compiler.html#a51d9026468f9effd9d440ef19150c894" title="django.db.models.sql.compiler.\lSQLCompiler._final_join_removal" alt="" coords="268,5,479,47"/>
+<area shape="rect" id="node3" href="$df/de2/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_compiler.html#adae26bac49c4bf87abadca0664d80673" title="django.db.models.sql.compiler.\lSQLCompiler._setup_joins" alt="" coords="272,71,475,112"/>
+<area shape="rect" id="node4" href="$de/d93/namespacedjango_1_1db_1_1models_1_1sql_1_1query.html#a69d3b35fa8e832e6ffd386fa2c2c8fc6" title="django.db.models.sql.query.get\l_order_dir" alt="" coords="272,136,475,177"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="django.db.models.aggregates.Aggregate" name="django.db.models.aggregates.Aggregate">
+<area shape="rect" id="node3" href="$dc/d03/classdjango_1_1db_1_1models_1_1aggregates_1_1_avg.html" title="django.db.models.aggregates.Avg" alt="" coords="357,5,575,32"/>
+<area shape="rect" id="node4" href="$dd/d41/classdjango_1_1db_1_1models_1_1aggregates_1_1_count.html" title="django.db.models.aggregates.\lCount" alt="" coords="368,57,564,98"/>
+<area shape="rect" id="node5" href="$d3/d7a/classdjango_1_1db_1_1models_1_1aggregates_1_1_max.html" title="django.db.models.aggregates.Max" alt="" coords="355,123,577,149"/>
+<area shape="rect" id="node6" href="$de/d63/classdjango_1_1db_1_1models_1_1aggregates_1_1_min.html" title="django.db.models.aggregates.Min" alt="" coords="357,173,575,200"/>
+<area shape="rect" id="node7" href="$d6/d1c/classdjango_1_1db_1_1models_1_1aggregates_1_1_std_dev.html" title="django.db.models.aggregates.\lStdDev" alt="" coords="368,225,564,266"/>
+<area shape="rect" id="node8" href="$dd/d81/classdjango_1_1db_1_1models_1_1aggregates_1_1_sum.html" title="django.db.models.aggregates.Sum" alt="" coords="355,291,577,317"/>
+<area shape="rect" id="node9" href="$d7/d11/classdjango_1_1db_1_1models_1_1aggregates_1_1_variance.html" title="django.db.models.aggregates.\lVariance" alt="" coords="368,342,564,383"/>
+</map>

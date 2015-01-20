@@ -1,0 +1,11 @@
+<map id="django.core.management.commands.loaddata.Command.load_label" name="django.core.management.commands.loaddata.Command.load_label">
+<area shape="rect" id="node2" href="$d2/daa/classdjango_1_1core_1_1management_1_1commands_1_1loaddata_1_1_command.html#aee52dc37f2597528bda2ddb877c4cbec" title="django.core.management.commands.loaddata.\lCommand.fixture_dirs" alt="" coords="375,5,668,47"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="419,71,624,98"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="744,130,955,157"/>
+<area shape="rect" id="node8" href="$d7/d30/namespacedjango_1_1core_1_1management_1_1commands_1_1loaddata.html#abfef3f6655831f26ad3a17806f687e2f" title="django.core.management.commands.loaddata.humanize" alt="" coords="347,173,696,199"/>
+<area shape="rect" id="node9" href="$d2/daa/classdjango_1_1core_1_1management_1_1commands_1_1loaddata_1_1_command.html#a18e30fe86068f732026054bcd7a89686" title="django.core.management.commands.loaddata.\lCommand.parse_name" alt="" coords="375,224,668,265"/>
+<area shape="rect" id="node10" href="$d1/de6/namespacedjango_1_1utils_1_1itercompat.html#af100751d0442b5c1cfc29917ac3c317b" title="django.utils.itercompat.product" alt="" coords="421,290,621,317"/>
+<area shape="rect" id="node3" href="$d4/d9b/namespacedjango_1_1utils_1_1__os.html#ac9c92ecbd2ea63f32a21c44d90357a37" title="django.utils._os.upath" alt="" coords="775,13,924,39"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="770,64,929,105"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1003,130,1215,157"/>
+</map>

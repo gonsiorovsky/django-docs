@@ -1,0 +1,7 @@
+<map id="django.db.models.fields.CharField" name="django.db.models.fields.CharField">
+<area shape="rect" id="node4" href="$d9/dab/classdjango_1_1db_1_1models_1_1fields_1_1_comma_separated_integer_field.html" title="django.db.models.fields.\lCommaSeparatedIntegerField" alt="" coords="532,5,725,47"/>
+<area shape="rect" id="node5" href="$d6/d17/classdjango_1_1db_1_1models_1_1fields_1_1_email_field.html" title="django.db.models.fields.\lEmailField" alt="" coords="547,71,710,112"/>
+<area shape="rect" id="node6" href="$de/d18/classdjango_1_1db_1_1models_1_1fields_1_1_slug_field.html" title="django.db.models.fields.\lSlugField" alt="" coords="547,136,710,177"/>
+<area shape="rect" id="node7" href="$d3/d87/classdjango_1_1db_1_1models_1_1fields_1_1_u_r_l_field.html" title="django.db.models.fields.\lURLField" alt="" coords="547,201,710,243"/>
+<area shape="rect" id="node2" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html" title="django.db.models.fields.\lField" alt="" coords="111,104,273,145"/>
+</map>

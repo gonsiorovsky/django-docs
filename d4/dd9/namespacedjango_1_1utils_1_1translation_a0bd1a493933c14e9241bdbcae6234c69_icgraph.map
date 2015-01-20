@@ -1,0 +1,9 @@
+<map id="django.utils.translation.ungettext_lazy" name="django.utils.translation.ungettext_lazy">
+<area shape="rect" id="node2" href="$df/d23/classdjango_1_1contrib_1_1comments_1_1admin_1_1_comments_admin.html#a0a151ed79045c34c04f03cedfe709345" title="django.contrib.comments.admin.\lCommentsAdmin.approve_comments" alt="" coords="295,5,533,47"/>
+<area shape="rect" id="node3" href="$df/d23/classdjango_1_1contrib_1_1comments_1_1admin_1_1_comments_admin.html#a80be06eaaca7c8ee7383d5c4d58e7661" title="django.contrib.comments.admin.\lCommentsAdmin.flag_comments" alt="" coords="307,71,521,112"/>
+<area shape="rect" id="node4" href="$df/d23/classdjango_1_1contrib_1_1comments_1_1admin_1_1_comments_admin.html#a6da06a83362b8fee91bb9609c3c7ac4a" title="django.contrib.comments.admin.\lCommentsAdmin.remove_comments" alt="" coords="297,136,531,177"/>
+<area shape="rect" id="node5" href="$d0/d05/namespacedjango_1_1utils_1_1timesince.html#a134f8c37673566d75f82538112d79af7" title="django.utils.timesince.timesince" alt="" coords="310,202,518,229"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ae3a4551550cc9921744db200978a8112" title="django.template.defaultfilters.timesince\l_filter" alt="" coords="581,165,828,207"/>
+<area shape="rect" id="node7" href="$d0/d05/namespacedjango_1_1utils_1_1timesince.html#a47929be3e82e2e4335b0e8dd0f9d17ca" title="django.utils.timesince.timeuntil" alt="" coords="604,231,805,258"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ab8b2768e12ddd4e5169c4749feb0b9d2" title="django.template.defaultfilters.timeuntil\l_filter" alt="" coords="876,224,1116,265"/>
+</map>

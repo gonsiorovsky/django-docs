@@ -1,0 +1,14 @@
+<map id="django.db.models.sql.query.Query.combine" name="django.db.models.sql.query.Query.combine">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a6fe67b9fc3abb698684b500f47e62e92" title="django.db.models.sql.query.\lQuery.can_filter" alt="" coords="249,12,435,53"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ab172d4240358ecbabc5efd8534a8f9d4" title="django.db.models.sql.query.\lQuery.get_initial_alias" alt="" coords="249,129,435,171"/>
+<area shape="rect" id="node5" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a68c2a392498b3411df3fd32340f452be" title="django.db.models.sql.query.\lQuery.join" alt="" coords="568,5,753,47"/>
+<area shape="rect" id="node10" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ac7820285fde97545728e77e864d8c295" title="django.db.models.sql.query.\lQuery.promote_joins" alt="" coords="249,195,435,236"/>
+<area shape="rect" id="node11" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a1f69d0bf1297840d3167f785839381b6" title="django.db.models.sql.query.\lQuery.remove_inherited_models" alt="" coords="239,260,445,301"/>
+<area shape="rect" id="node12" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a686a5180497c9d1de7d92b1c2e0b4115" title="django.db.models.sql.query.\lQuery.unref_alias" alt="" coords="568,319,753,360"/>
+<area shape="rect" id="node13" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a879119a7e742acde6e677c19e4d1bf37" title="django.db.models.sql.query.\lQuery.set_extra_mask" alt="" coords="249,377,435,419"/>
+<area shape="rect" id="node4" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a4ecd4aaf9f04827e5c953aa385c07c44" title="django.db.models.sql.query.\lQuery.ref_alias" alt="" coords="876,100,1061,141"/>
+<area shape="rect" id="node7" href="$d4/d6b/classdjango_1_1contrib_1_1gis_1_1management_1_1commands_1_1inspectdb_1_1_command.html#a4e6ef60a3c99c4cfbcb0a3e3adc3845a" title="django.contrib.gis.management.commands.inspectdb.\lCommand.get_meta" alt="" coords="493,253,828,295"/>
+<area shape="rect" id="node8" href="$d4/d3c/classdjango_1_1core_1_1management_1_1commands_1_1inspectdb_1_1_command.html#a8abde69bea6cb79853fb315d3164cd5b" title="django.core.management.commands.inspectdb.\lCommand.get_meta" alt="" coords="511,71,811,112"/>
+<area shape="rect" id="node9" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aa30c77f17e727571452948c86a5ae46c" title="django.db.models.sql.query.\lQuery.get_meta" alt="" coords="568,188,753,229"/>
+<area shape="rect" id="node6" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a979a7df7ff643c3233143a5b1940f17d" title="django.db.models.sql.query.\lQuery.table_alias" alt="" coords="876,5,1061,47"/>
+</map>

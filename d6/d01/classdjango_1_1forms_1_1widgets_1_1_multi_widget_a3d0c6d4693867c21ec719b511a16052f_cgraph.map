@@ -1,0 +1,9 @@
+<map id="django.forms.widgets.MultiWidget.render" name="django.forms.widgets.MultiWidget.render">
+<area shape="rect" id="node2" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html#a7dcb73bb3840f3f087b44b422d352470" title="django.forms.widgets.Widget.build\l_attrs" alt="" coords="243,5,463,47"/>
+<area shape="rect" id="node3" href="$d0/df0/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_related_field_widget_wrapper.html#ac61e5ea088c35d3ce5c9812ed808ad74" title="django.contrib.admin.widgets.\lRelatedFieldWidgetWrapper.build_attrs" alt="" coords="229,71,477,112"/>
+<area shape="rect" id="node4" href="$d6/d01/classdjango_1_1forms_1_1widgets_1_1_multi_widget.html#a778d3eeb5554f5c2ad4ab3d4056e9d73" title="django.forms.widgets.Multi\lWidget.decompress" alt="" coords="265,136,441,177"/>
+<area shape="rect" id="node5" href="$dc/dfd/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_split_date_time.html#a02b8dbcce0af374988f092d88665a3d5" title="django.contrib.admin.widgets.\lAdminSplitDateTime.format_output" alt="" coords="242,201,465,243"/>
+<area shape="rect" id="node6" href="$d6/d01/classdjango_1_1forms_1_1widgets_1_1_multi_widget.html#a5808a64df3177fb3d1fbbfe3a658cb1f" title="django.forms.widgets.Multi\lWidget.format_output" alt="" coords="265,267,441,308"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="784,306,996,333"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="525,278,736,305"/>
+</map>

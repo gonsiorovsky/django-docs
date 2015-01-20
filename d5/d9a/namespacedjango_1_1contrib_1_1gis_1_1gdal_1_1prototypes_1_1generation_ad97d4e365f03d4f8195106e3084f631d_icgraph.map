@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.gdal.prototypes.generation.double_output" name="django.contrib.gis.gdal.prototypes.generation.double_output">
+<area shape="rect" id="node2" href="$de/d00/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1geom.html#a3a4b5febb2fd7c02a6f283f3accd53be" title="django.contrib.gis.gdal.prototypes.geom.pnt_func" alt="" coords="376,5,683,32"/>
+<area shape="rect" id="node3" href="$d2/d58/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1srs.html#ac99fdbbf6b296e29a5db0c6e303c820b" title="Shortcut generation for routines with known parameters. " alt="" coords="399,57,660,98"/>
+<area shape="rect" id="node4" href="$d2/d58/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1srs.html#a77bb33e5ed88bdafb88596803a884905" title="django.contrib.gis.gdal.prototypes.srs.units_func" alt="" coords="378,123,681,149"/>
+</map>

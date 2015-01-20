@@ -1,0 +1,8 @@
+<map id="django.utils.translation.trans_real.get_language_from_request" name="django.utils.translation.trans_real.get_language_from_request">
+<area shape="rect" id="node2" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a129748d66b2d4cb3bca4f913e7bda80f" title="django.utils.translation.trans\l_real.get_language_from_path" alt="" coords="274,5,469,47"/>
+<area shape="rect" id="node3" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a0b2dcb27c48e51eb1b9a8f54e9aee22e" title="django.utils.translation.trans\l_real.get_supported_language_variant" alt="" coords="524,35,763,76"/>
+<area shape="rect" id="node4" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a20cb657d37a2311403fb668082e98dab" title="django.utils.translation.trans\l_real.parse_accept_lang_header" alt="" coords="267,123,476,164"/>
+<area shape="rect" id="node5" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#ac2c9de9ea1aef44e06f673561ebd86b0" title="django.utils.translation.trans\l_real.to_locale" alt="" coords="279,188,464,229"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaaefde7859fe1bf353ac71952c024eb9" title="django.template.defaultfilters.lower" alt="" coords="533,170,754,197"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ab08e1ad398e4aeb4b091e69ad61f579a" title="django.template.defaultfilters.upper" alt="" coords="532,221,755,247"/>
+</map>

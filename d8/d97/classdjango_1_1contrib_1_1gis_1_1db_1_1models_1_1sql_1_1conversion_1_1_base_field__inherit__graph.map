@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.db.models.sql.conversion.BaseField" name="django.contrib.gis.db.models.sql.conversion.BaseField">
+<area shape="rect" id="node3" href="$d8/d3f/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1conversion_1_1_area_field.html" title="django.contrib.gis.db.models.sql.conversion.\lAreaField" alt="" coords="437,5,716,47"/>
+<area shape="rect" id="node4" href="$d3/d85/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1conversion_1_1_distance_field.html" title="django.contrib.gis.db.models.sql.conversion.\lDistanceField" alt="" coords="437,71,716,112"/>
+<area shape="rect" id="node5" href="$da/dc2/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1conversion_1_1_geom_field.html" title="django.contrib.gis.db.models.sql.conversion.\lGeomField" alt="" coords="437,136,716,177"/>
+</map>

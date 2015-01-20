@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.feeds.GeoFeedMixin" name="django.contrib.gis.feeds.GeoFeedMixin">
+<area shape="rect" id="node3" href="$d1/db5/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_geo_atom1_feed.html" title="django.contrib.gis.feeds.\lGeoAtom1Feed" alt="" coords="321,5,484,47"/>
+<area shape="rect" id="node4" href="$dd/d6f/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_geo_r_s_s_feed.html" title="django.contrib.gis.feeds.\lGeoRSSFeed" alt="" coords="321,71,484,112"/>
+<area shape="rect" id="node5" href="$d1/df8/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_w3_c_geo_feed.html" title="django.contrib.gis.feeds.\lW3CGeoFeed" alt="" coords="321,136,484,177"/>
+</map>

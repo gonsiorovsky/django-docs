@@ -1,0 +1,10 @@
+<map id="django.core.management.ManagementUtility.autocomplete" name="django.core.management.ManagementUtility.autocomplete">
+<area shape="rect" id="node2" href="$dd/dbf/classdjango_1_1core_1_1management_1_1_management_utility.html#ad950c814ba4ec750697ad0c3abe16015" title="django.core.management.Management\lUtility.fetch_command" alt="" coords="300,132,547,173"/>
+<area shape="rect" id="node3" href="$df/d84/namespacedjango_1_1core_1_1management.html#ab5a14a010a9f46ae47bc2f410855ceff" title="django.core.management.get\l_commands" alt="" coords="605,71,796,112"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="318,199,529,226"/>
+<area shape="rect" id="node6" href="$df/d84/namespacedjango_1_1core_1_1management.html#aa6f6fdef4465909ab9625c02f94073fb" title="django.core.management.load\l_command_class" alt="" coords="603,136,799,177"/>
+<area shape="rect" id="node4" href="$df/d84/namespacedjango_1_1core_1_1management.html#aa7ee13f846168d9e5787446f0829578a" title="django.core.management.find\l_commands" alt="" coords="855,5,1047,47"/>
+<area shape="rect" id="node5" href="$df/d84/namespacedjango_1_1core_1_1management.html#a9103fb55d6f74937943c1b6949e8ddce" title="django.core.management.find\l_management_module" alt="" coords="855,71,1047,112"/>
+<area shape="rect" id="node7" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="860,136,1041,177"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="595,202,807,229"/>
+</map>

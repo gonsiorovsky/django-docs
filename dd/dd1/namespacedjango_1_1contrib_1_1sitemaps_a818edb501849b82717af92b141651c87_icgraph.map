@@ -1,0 +1,4 @@
+<map id="django.contrib.sitemaps.ping_google" name="django.contrib.sitemaps.ping_google">
+<area shape="rect" id="node2" href="$dc/df0/classdjango_1_1contrib_1_1sitemaps_1_1management_1_1commands_1_1ping__google_1_1_command.html#a674ede4ca361b93afa59c433e31c6124" title="django.contrib.sitemaps.management.commands.ping\l_google.Command.execute" alt="" coords="241,5,576,47"/>
+<area shape="rect" id="node3" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a101b82321848e3c6056974fceb4ca635" title="django.core.management.base.\lBaseCommand.run_from_argv" alt="" coords="624,5,828,47"/>
+</map>

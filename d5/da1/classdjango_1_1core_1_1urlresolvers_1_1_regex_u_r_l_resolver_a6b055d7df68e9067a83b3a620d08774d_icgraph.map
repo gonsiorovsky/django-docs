@@ -1,0 +1,10 @@
+<map id="django.core.urlresolvers.RegexURLResolver.url_patterns" name="django.core.urlresolvers.RegexURLResolver.url_patterns">
+<area shape="rect" id="node2" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#ad852e2ae4fda832df8f17c58d07d64c6" title="django.core.urlresolvers.\lRegexURLResolver.__repr__" alt="" coords="259,99,445,141"/>
+<area shape="rect" id="node3" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#aab89b26118a769818296ca1c122fdcbe" title="django.core.urlresolvers.\lRegexURLResolver.resolve" alt="" coords="263,165,441,206"/>
+<area shape="rect" id="node4" href="$de/df9/classdjango_1_1utils_1_1dictconfig_1_1_base_configurator.html#a03c1b8571e3874b5bedc65c3a08c958d" title="django.utils.dictconfig.\lBaseConfigurator.configure\l_custom" alt="" coords="500,85,677,141"/>
+<area shape="rect" id="node8" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a3cc42d2881eec9aa14c6b62c8cc0f225" title="django.utils.dictconfig.\lDictConfigurator.configure\l_handler" alt="" coords="732,165,903,221"/>
+<area shape="rect" id="node9" href="$de/df9/classdjango_1_1utils_1_1dictconfig_1_1_base_configurator.html#aa6fa2dd85f8129b978ba9840ff3a64a3" title="django.utils.dictconfig.\lBaseConfigurator.ext_convert" alt="" coords="493,223,684,265"/>
+<area shape="rect" id="node5" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a545b2322568ffa2f35d87b14b0884530" title="django.utils.dictconfig.\lDictConfigurator.configure\l_formatter" alt="" coords="732,5,903,61"/>
+<area shape="rect" id="node7" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a150987f24d891aaf54e8b0806ab2f569" title="django.utils.dictconfig.\lDictConfigurator.configure\l_filter" alt="" coords="732,85,903,141"/>
+<area shape="rect" id="node6" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a7516ab506ac4742258f24ec2797cec6f" title="django.utils.dictconfig.\lDictConfigurator.configure" alt="" coords="951,93,1121,134"/>
+</map>

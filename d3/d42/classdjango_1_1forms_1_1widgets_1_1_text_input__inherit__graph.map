@@ -1,0 +1,22 @@
+<map id="django.forms.widgets.TextInput" name="django.forms.widgets.TextInput">
+<area shape="rect" id="node7" href="$da/d61/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_comma_separated_integer_field_widget.html" title="django.contrib.admin.widgets.\lAdminCommaSeparatedIntegerFieldWidget" alt="" coords="1013,5,1284,47"/>
+<area shape="rect" id="node8" href="$d4/d7e/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_integer_field_widget.html" title="django.contrib.admin.widgets.\lAdminIntegerFieldWidget" alt="" coords="1051,71,1246,112"/>
+<area shape="rect" id="node10" href="$d8/d6e/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_text_input_widget.html" title="django.contrib.admin.widgets.\lAdminTextInputWidget" alt="" coords="1051,136,1246,177"/>
+<area shape="rect" id="node11" href="$db/d0b/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_foreign_key_raw_id_widget.html" title="django.contrib.admin.widgets.\lForeignKeyRawIdWidget" alt="" coords="1051,201,1246,243"/>
+<area shape="rect" id="node13" href="$d1/dfd/classdjango_1_1forms_1_1widgets_1_1_date_input.html" title="django.forms.widgets.Date\lInput" alt="" coords="1061,267,1236,308"/>
+<area shape="rect" id="node15" href="$db/d0f/classdjango_1_1forms_1_1widgets_1_1_date_time_input.html" title="django.forms.widgets.Date\lTimeInput" alt="" coords="1061,332,1236,373"/>
+<area shape="rect" id="node16" href="$d4/dc6/classdjango_1_1forms_1_1widgets_1_1_email_input.html" title="django.forms.widgets.Email\lInput" alt="" coords="1058,397,1239,439"/>
+<area shape="rect" id="node18" href="$d9/d1c/classdjango_1_1forms_1_1widgets_1_1_number_input.html" title="django.forms.widgets.Number\lInput" alt="" coords="1052,463,1245,504"/>
+<area shape="rect" id="node19" href="$d4/d44/classdjango_1_1forms_1_1widgets_1_1_password_input.html" title="django.forms.widgets.Password\lInput" alt="" coords="1046,528,1251,569"/>
+<area shape="rect" id="node20" href="$d1/d4b/classdjango_1_1forms_1_1widgets_1_1_time_input.html" title="django.forms.widgets.Time\lInput" alt="" coords="1061,593,1237,635"/>
+<area shape="rect" id="node22" href="$df/d9c/classdjango_1_1forms_1_1widgets_1_1_u_r_l_input.html" title="django.forms.widgets.URLInput" alt="" coords="1048,662,1249,689"/>
+<area shape="rect" id="node2" href="$d5/da0/classdjango_1_1forms_1_1widgets_1_1_input.html" title="django.forms.widgets.Input" alt="" coords="568,339,744,366"/>
+<area shape="rect" id="node3" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html" title="django.forms.widgets.Widget" alt="" coords="331,339,520,366"/>
+<area shape="rect" id="node5" href="$de/d5f/classdjango_1_1forms_1_1widgets_1_1_media_defining_class.html" title="django.forms.widgets.Media\lDefiningClass" alt="" coords="100,361,283,403"/>
+<area shape="rect" id="node9" href="$d6/ddc/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_big_integer_field_widget.html" title="django.contrib.admin.widgets.\lAdminBigIntegerFieldWidget" alt="" coords="1332,71,1527,112"/>
+<area shape="rect" id="node12" href="$d4/d57/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_many_to_many_raw_id_widget.html" title="django.contrib.admin.widgets.\lManyToManyRawIdWidget" alt="" coords="1332,201,1527,243"/>
+<area shape="rect" id="node14" href="$d2/d6a/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_date_widget.html" title="django.contrib.admin.widgets.\lAdminDateWidget" alt="" coords="1332,267,1527,308"/>
+<area shape="rect" id="node17" href="$d5/d04/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_email_input_widget.html" title="django.contrib.admin.widgets.\lAdminEmailInputWidget" alt="" coords="1332,397,1527,439"/>
+<area shape="rect" id="node21" href="$dd/d28/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_time_widget.html" title="django.contrib.admin.widgets.\lAdminTimeWidget" alt="" coords="1332,591,1527,632"/>
+<area shape="rect" id="node23" href="$d2/d38/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_u_r_l_field_widget.html" title="django.contrib.admin.widgets.\lAdminURLFieldWidget" alt="" coords="1332,656,1527,697"/>
+</map>

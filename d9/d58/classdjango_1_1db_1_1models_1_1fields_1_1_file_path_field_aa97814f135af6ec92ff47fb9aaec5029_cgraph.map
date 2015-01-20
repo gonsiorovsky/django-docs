@@ -1,0 +1,10 @@
+<map id="django.db.models.fields.FilePathField.formfield" name="django.db.models.fields.FilePathField.formfield">
+<area shape="rect" id="node2" href="$de/db9/classdjango_1_1contrib_1_1staticfiles_1_1storage_1_1_static_files_storage.html#a05b94710221f618ad88b3803a0ff5bde" title="django.contrib.staticfiles.storage.\lStaticFilesStorage.path" alt="" coords="216,5,429,47"/>
+<area shape="rect" id="node3" href="$dc/dad/classdjango_1_1core_1_1files_1_1storage_1_1_storage.html#a17377b94f5001b6066439509777a1ac8" title="django.core.files.storage.\lStorage.path" alt="" coords="239,71,406,112"/>
+<area shape="rect" id="node4" href="$db/da8/classdjango_1_1core_1_1files_1_1storage_1_1_file_system_storage.html#a0720d398ae6ba15a3e95148f61fb27f6" title="django.core.files.storage.\lFileSystemStorage.path" alt="" coords="239,136,406,177"/>
+<area shape="rect" id="node5" href="$d4/d9b/namespacedjango_1_1utils_1_1__os.html#a0b125b38f466c72c3898f20e34a90d21" title="django.utils._os.safe_join" alt="" coords="477,143,645,170"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="693,118,899,145"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="947,169,1157,195"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="973,103,1131,144"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1205,169,1417,195"/>
+</map>

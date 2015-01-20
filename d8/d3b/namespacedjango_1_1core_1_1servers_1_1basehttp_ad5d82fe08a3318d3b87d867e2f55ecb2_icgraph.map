@@ -1,0 +1,9 @@
+<map id="django.core.servers.basehttp.get_internal_wsgi_application" name="django.core.servers.basehttp.get_internal_wsgi_application">
+<area shape="rect" id="node2" href="$d7/de0/classdjango_1_1core_1_1management_1_1commands_1_1runserver_1_1_command.html#a361be688e032a87c2e5e80aae6a8c7d0" title="django.core.management.commands.runserver.\lCommand.get_handler" alt="" coords="264,41,560,83"/>
+<area shape="rect" id="node7" href="$da/d6d/namespacedjango_1_1core_1_1servers_1_1fastcgi.html#a5761d7a92a3eac4c9dee0144e1473644" title="django.core.servers.fastcgi.runfastcgi" alt="" coords="294,109,530,135"/>
+<area shape="rect" id="node3" href="$d7/de0/classdjango_1_1core_1_1management_1_1commands_1_1runserver_1_1_command.html#a06bfab39f715abe69733f093702b0711" title="django.core.management.commands.runserver.\lCommand.inner_run" alt="" coords="608,39,904,80"/>
+<area shape="rect" id="node4" href="$d7/de0/classdjango_1_1core_1_1management_1_1commands_1_1runserver_1_1_command.html#a4f70d3b5ec1d63b3330323e097ab1106" title="django.core.management.commands.runserver.\lCommand.run" alt="" coords="952,39,1248,80"/>
+<area shape="rect" id="node5" href="$df/df9/classdjango_1_1utils_1_1unittest_1_1suite_1_1_base_test_suite.html#a97e47830fa01bf6c982bfa9263d2fe38" title="django.utils.unittest.suite.\lBaseTestSuite.__call__" alt="" coords="1296,5,1467,47"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6960e9dd7337821e62e063f783976088" title="django.utils.unittest.case.\lTestCase.__call__" alt="" coords="1296,71,1467,112"/>
+<area shape="rect" id="node8" href="$de/d4e/classdjango_1_1core_1_1management_1_1commands_1_1runfcgi_1_1_command.html#ae70cef5cab2ab37586e0db098cf3c075" title="django.core.management.commands.runfcgi.\lCommand.handle" alt="" coords="615,104,897,145"/>
+</map>

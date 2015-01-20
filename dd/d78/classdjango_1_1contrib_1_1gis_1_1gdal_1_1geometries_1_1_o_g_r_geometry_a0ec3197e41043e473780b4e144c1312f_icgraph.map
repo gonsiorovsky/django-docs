@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.gdal.geometries.OGRGeometry.difference" name="django.contrib.gis.gdal.geometries.OGRGeometry.difference">
+<area shape="rect" id="node2" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#adbdb58795a2eea1a8cc0dbbb34bd2707" title="django.contrib.gis.gdal.geometries.\lOGRGeometry.__sub__" alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a74ec64f32a579ccbbe93d85c218f4e19" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.__sub__" alt="" coords="280,71,499,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.http.request.split_domain_port" name="django.http.request.split_domain_port">
+<area shape="rect" id="node2" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a56ad7b34ecb1bd66671da0170d02b980" title="django.http.request.Http\lRequest.get_host" alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node3" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a0bffabb054cda12db74e2dc0f0cd2e46" title="django.http.request.Http\lRequest.build_absolute_uri" alt="" coords="424,5,603,47"/>
+</map>

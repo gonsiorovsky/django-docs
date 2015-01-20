@@ -1,0 +1,5 @@
+<map id="django.template.context.BaseContext" name="django.template.context.BaseContext">
+<area shape="rect" id="node3" href="$da/d63/classdjango_1_1template_1_1context_1_1_context.html" title="django.template.context.\lContext" alt="" coords="5,169,171,211"/>
+<area shape="rect" id="node5" href="$d3/d07/classdjango_1_1template_1_1context_1_1_render_context.html" title="django.template.context.\lRenderContext" alt="" coords="195,169,360,211"/>
+<area shape="rect" id="node4" href="$d5/d38/classdjango_1_1template_1_1context_1_1_request_context.html" title="django.template.context.\lRequestContext" alt="" coords="5,259,171,300"/>
+</map>

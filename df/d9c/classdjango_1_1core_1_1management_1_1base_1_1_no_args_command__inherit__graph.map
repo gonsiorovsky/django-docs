@@ -1,0 +1,14 @@
+<map id="django.core.management.base.NoArgsCommand" name="django.core.management.base.NoArgsCommand">
+<area shape="rect" id="node4" href="$d5/d53/classdjango_1_1contrib_1_1sessions_1_1management_1_1commands_1_1clearsessions_1_1_command.html" title="django.contrib.sessions.management.commands.clearsessions.\lCommand" alt="" coords="615,5,1009,47"/>
+<area shape="rect" id="node5" href="$d8/df6/classdjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1collectstatic_1_1_command.html" title="django.contrib.staticfiles.management.commands.collectstatic.\lCommand" alt="" coords="619,71,1005,112"/>
+<area shape="rect" id="node6" href="$d0/d9d/classdjango_1_1core_1_1management_1_1commands_1_1check_1_1_command.html" title="django.core.management.commands.check.\lCommand" alt="" coords="673,136,951,177"/>
+<area shape="rect" id="node7" href="$db/de8/classdjango_1_1core_1_1management_1_1commands_1_1diffsettings_1_1_command.html" title="django.core.management.commands.diffsettings.\lCommand" alt="" coords="659,201,965,243"/>
+<area shape="rect" id="node8" href="$d3/dc4/classdjango_1_1core_1_1management_1_1commands_1_1flush_1_1_command.html" title="django.core.management.commands.flush.\lCommand" alt="" coords="677,267,947,308"/>
+<area shape="rect" id="node9" href="$d4/d3c/classdjango_1_1core_1_1management_1_1commands_1_1inspectdb_1_1_command.html" title="django.core.management.commands.inspectdb.\lCommand" alt="" coords="662,332,962,373"/>
+<area shape="rect" id="node10" href="$da/d24/classdjango_1_1core_1_1management_1_1commands_1_1makemessages_1_1_command.html" title="django.core.management.commands.makemessages.\lCommand" alt="" coords="644,397,980,439"/>
+<area shape="rect" id="node11" href="$d9/df1/classdjango_1_1core_1_1management_1_1commands_1_1shell_1_1_command.html" title="django.core.management.commands.shell.\lCommand" alt="" coords="677,463,947,504"/>
+<area shape="rect" id="node12" href="$dc/d3f/classdjango_1_1core_1_1management_1_1commands_1_1sqlflush_1_1_command.html" title="django.core.management.commands.sqlflush.\lCommand" alt="" coords="668,528,956,569"/>
+<area shape="rect" id="node13" href="$d5/d0f/classdjango_1_1core_1_1management_1_1commands_1_1syncdb_1_1_command.html" title="django.core.management.commands.syncdb.\lCommand" alt="" coords="669,593,955,635"/>
+<area shape="rect" id="node14" href="$d1/d96/classdjango_1_1core_1_1management_1_1commands_1_1validate_1_1_command.html" title="django.core.management.commands.validate.\lCommand" alt="" coords="669,659,955,700"/>
+<area shape="rect" id="node2" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html" title="django.core.management.base.\lBaseCommand" alt="" coords="111,332,315,373"/>
+</map>

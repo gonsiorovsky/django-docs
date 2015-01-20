@@ -1,0 +1,9 @@
+<map id="django.conf.urls.patterns" name="django.conf.urls.patterns">
+<area shape="rect" id="node2" href="$de/d3c/classdjango_1_1contrib_1_1auth_1_1admin_1_1_user_admin.html#ab8885c1442b762a4155bc698fafe1974" title="django.contrib.auth.admin.\lUserAdmin.get_urls" alt="" coords="226,5,401,47"/>
+<area shape="rect" id="node3" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a8da6fce50427f7e2f99ed13dc21c14e3" title="django.contrib.admin.sites.\lAdminSite.get_urls" alt="" coords="224,71,403,112"/>
+<area shape="rect" id="node5" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#abb863eb8bd16bc64644d6648d1ab0995" title="django.contrib.admin.options.\lModelAdmin.get_urls" alt="" coords="217,136,409,177"/>
+<area shape="rect" id="node7" href="$d2/de2/namespacedjango_1_1conf_1_1urls_1_1i18n.html#aa270692bbfce2c85efe4acebbecacd81" title="django.conf.urls.i18n.i18n\l_patterns" alt="" coords="229,201,398,243"/>
+<area shape="rect" id="node8" href="$db/db9/namespacedjango_1_1conf_1_1urls_1_1static.html#ac96d69d1e86c38e5b701b40960ca1c4a" title="django.conf.urls.static.static" alt="" coords="221,267,406,294"/>
+<area shape="rect" id="node4" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a9e2b3157bb62860bdd7708bdd64719df" title="django.contrib.admin.sites.\lAdminSite.urls" alt="" coords="464,71,643,112"/>
+<area shape="rect" id="node6" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a6435891c5d3823d49fe9cada5e62eb53" title="django.contrib.admin.options.\lModelAdmin.urls" alt="" coords="457,136,649,177"/>
+</map>

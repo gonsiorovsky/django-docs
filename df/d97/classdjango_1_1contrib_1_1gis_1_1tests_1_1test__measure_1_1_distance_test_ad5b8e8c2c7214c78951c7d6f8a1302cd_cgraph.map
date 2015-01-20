@@ -1,0 +1,9 @@
+<map id="django.contrib.gis.tests.test_measure.DistanceTest.testAddition" name="django.contrib.gis.tests.test_measure.DistanceTest.testAddition">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="285,35,456,76"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a3bc198f535da119d6a99fc72217ba6b5" title="django.utils.unittest.case.\lTestCase.assertRaises" alt="" coords="285,115,456,156"/>
+<area shape="rect" id="node8" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="285,180,456,221"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="504,5,724,47"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6cfd970038b9d70b0a2eba27048218a9" title="django.utils.unittest.case.\lTestCase._baseAssertEqual" alt="" coords="521,71,707,112"/>
+<area shape="rect" id="node6" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="507,137,721,163"/>
+<area shape="rect" id="node7" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="525,188,703,229"/>
+</map>

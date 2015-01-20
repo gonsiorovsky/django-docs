@@ -1,0 +1,4 @@
+<map id="django.db.backends.oracle.base.DatabaseOperations.convert_values" name="django.db.backends.oracle.base.DatabaseOperations.convert_values">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a92f0228e0f578e0bd41c3bc1ccddec24" title="django.db.models.sql.query.\lQuery.resolve_aggregate" alt="" coords="281,5,467,47"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aaad89f08acaf20db55f5ff9abb64017e" title="django.db.models.sql.query.\lQuery.get_aggregation" alt="" coords="515,5,700,47"/>
+</map>

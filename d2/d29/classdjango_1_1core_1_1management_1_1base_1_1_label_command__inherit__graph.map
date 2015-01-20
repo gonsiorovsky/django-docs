@@ -1,0 +1,6 @@
+<map id="django.core.management.base.LabelCommand" name="django.core.management.base.LabelCommand">
+<area shape="rect" id="node4" href="$dc/dbd/classdjango_1_1contrib_1_1gis_1_1management_1_1commands_1_1ogrinspect_1_1_command.html" title="django.contrib.gis.management.commands.ogrinspect.\lCommand" alt="" coords="630,5,969,47"/>
+<area shape="rect" id="node5" href="$df/df7/classdjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1findstatic_1_1_command.html" title="django.contrib.staticfiles.management.commands.findstatic.\lCommand" alt="" coords="615,71,984,112"/>
+<area shape="rect" id="node6" href="$d6/dd9/classdjango_1_1core_1_1management_1_1commands_1_1createcachetable_1_1_command.html" title="django.core.management.commands.createcachetable.\lCommand" alt="" coords="628,136,971,177"/>
+<area shape="rect" id="node2" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html" title="django.core.management.base.\lBaseCommand" alt="" coords="111,71,315,112"/>
+</map>

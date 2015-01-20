@@ -1,0 +1,10 @@
+<map id="django.utils.cache.patch_cache_control" name="django.utils.cache.patch_cache_control">
+<area shape="rect" id="node2" href="$d3/dd1/namespacedjango_1_1views_1_1decorators_1_1cache.html#a6d8dec2e6045d08ca291e56ab518539d" title="django.views.decorators.cache.cache\l_control" alt="" coords="216,5,455,47"/>
+<area shape="rect" id="node3" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a5a70263b348f3627fcd5e44b6f95b1eb" title="django.utils.cache.patch\l_response_headers" alt="" coords="254,71,417,112"/>
+<area shape="rect" id="node4" href="$d5/da8/classdjango_1_1middleware_1_1cache_1_1_update_cache_middleware.html#a923e563146c968dcfb4217a470822900" title="django.middleware.cache.\lUpdateCacheMiddleware.process\l_response" alt="" coords="503,27,717,83"/>
+<area shape="rect" id="node5" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#ac17d29d39f1befb618c1376ef62506ab" title="django.utils.cache.add\l_never_cache_headers" alt="" coords="533,107,687,148"/>
+<area shape="rect" id="node6" href="$d3/dd1/namespacedjango_1_1views_1_1decorators_1_1cache.html#a2a9743955dfc26fb0941b1d7fbdac399" title="django.views.decorators.cache.never\l_cache" alt="" coords="765,107,999,148"/>
+<area shape="rect" id="node7" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a8dc03b08597be6c90ca7ea1f977cc5b5" title="django.contrib.admin.sites.\lAdminSite.admin_view" alt="" coords="1047,107,1225,148"/>
+<area shape="rect" id="node8" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a8da6fce50427f7e2f99ed13dc21c14e3" title="django.contrib.admin.sites.\lAdminSite.get_urls" alt="" coords="1273,107,1452,148"/>
+<area shape="rect" id="node9" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a9e2b3157bb62860bdd7708bdd64719df" title="django.contrib.admin.sites.\lAdminSite.urls" alt="" coords="1500,107,1679,148"/>
+</map>

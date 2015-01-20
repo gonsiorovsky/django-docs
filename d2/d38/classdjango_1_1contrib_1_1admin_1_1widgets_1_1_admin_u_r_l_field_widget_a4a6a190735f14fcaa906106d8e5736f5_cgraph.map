@@ -1,0 +1,8 @@
+<map id="django.contrib.admin.widgets.AdminURLFieldWidget.render" name="django.contrib.admin.widgets.AdminURLFieldWidget.render">
+<area shape="rect" id="node2" href="$d5/da0/classdjango_1_1forms_1_1widgets_1_1_input.html#ab8efea4c08fac6cff6d109b4ef60126a" title="django.forms.widgets.Input.\l_format_value" alt="" coords="261,5,441,47"/>
+<area shape="rect" id="node3" href="$d0/dd0/namespacedjango_1_1forms_1_1util.html#a91e0b2fac47865a1bf3263d0ead0748e" title="django.forms.util.flatatt" alt="" coords="274,71,427,98"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="248,122,453,149"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="527,85,686,127"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="501,151,712,178"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="760,151,972,178"/>
+</map>

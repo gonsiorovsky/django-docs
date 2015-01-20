@@ -1,0 +1,9 @@
+<map id="django.contrib.auth.backends.ModelBackend.has_perm" name="django.contrib.auth.backends.ModelBackend.has_perm">
+<area shape="rect" id="node2" href="$d4/d40/classdjango_1_1contrib_1_1auth_1_1backends_1_1_model_backend.html#a495a8877c71f912eb36a7375d679d225" title="django.contrib.auth.backends.\lModelBackend.get_all_permissions" alt="" coords="249,35,476,76"/>
+<area shape="rect" id="node3" href="$d4/d40/classdjango_1_1contrib_1_1auth_1_1backends_1_1_model_backend.html#a0e7679e9f28d23e4754fce94bc5dc74d" title="django.contrib.auth.backends.\lModelBackend.get_group_permissions" alt="" coords="524,35,771,76"/>
+<area shape="rect" id="node4" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ad11b72f71e98c7df642a60b4fd267680" title="django.contrib.auth.get\l_user_model" alt="" coords="819,35,973,76"/>
+<area shape="rect" id="node5" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a5fd6967d8d2e7b45ce2fd930730ac412" title="django.contrib.comments.get\l_model" alt="" coords="1021,35,1212,76"/>
+<area shape="rect" id="node6" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a60881c6f7b8b1d51a2b28d9961b4233c" title="django.contrib.comments.get\l_comment_app_name" alt="" coords="1499,5,1689,47"/>
+<area shape="rect" id="node7" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a2a0159dc7a5e9946976f1161dd085850" title="django.contrib.comments.get\l_comment_app" alt="" coords="1260,64,1451,105"/>
+<area shape="rect" id="node8" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1503,71,1685,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="django.contrib.auth.tests.custom_user.CustomPermissionsUserManager.create_superuser" name="django.contrib.auth.tests.custom_user.CustomPermissionsUserManager.create_superuser">
+<area shape="rect" id="node2" href="$d7/df7/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_manager.html#adc122387c1b2e0cf1883beea22090b06" title="django.contrib.auth.tests.custom\l_user.CustomUserManager.create_user" alt="" coords="345,5,597,47"/>
+<area shape="rect" id="node8" href="$d1/d80/classdjango_1_1contrib_1_1auth_1_1models_1_1_user_manager.html#af8eafbe7a55b316b0e92415629c89815" title="django.contrib.auth.models.\lUserManager.create_user" alt="" coords="380,71,563,112"/>
+<area shape="rect" id="node3" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a35b748623ac46f0ff3c719d8dc791971" title="django.contrib.auth.models.\lBaseUserManager.normalize_email" alt="" coords="645,5,872,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1381,10,1592,37"/>
+<area shape="rect" id="node6" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a8b53681e1efddbd9e424b0dac8aa0597" title="django.contrib.auth.models.\lBaseUserManager.make_random\l_password" alt="" coords="920,30,1135,86"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1640,10,1852,37"/>
+<area shape="rect" id="node7" href="$d2/d11/namespacedjango_1_1utils_1_1crypto.html#a82515747357a01a91587631754140d6f" title="django.utils.crypto.get\l_random_string" alt="" coords="1183,33,1333,75"/>
+<area shape="rect" id="node9" href="$d1/d80/classdjango_1_1contrib_1_1auth_1_1models_1_1_user_manager.html#ab49ae08187674ff242f10a2756b57582" title="django.contrib.auth.models.\lUserManager._create_user" alt="" coords="667,71,850,112"/>
+</map>

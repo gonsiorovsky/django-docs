@@ -1,0 +1,4 @@
+var classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1introspection_1_1_oracle_introspection =
+[
+    [ "get_geometry_type", "db/de7/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1introspection_1_1_oracle_introspection.html#a8d7bff2a10673b4a4eb777d117234be1", null ]
+];

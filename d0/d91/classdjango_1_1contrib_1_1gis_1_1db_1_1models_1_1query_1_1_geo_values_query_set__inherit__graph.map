@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.db.models.query.GeoValuesQuerySet" name="django.contrib.gis.db.models.query.GeoValuesQuerySet">
+<area shape="rect" id="node5" href="$d6/dae/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1query_1_1_geo_values_list_query_set.html" title="django.contrib.gis.db.models.query.\lGeoValuesListQuerySet" alt="" coords="5,333,233,375"/>
+<area shape="rect" id="node2" href="$d6/d19/classdjango_1_1db_1_1models_1_1query_1_1_values_query_set.html" title="django.db.models.query.Values\lQuerySet" alt="" coords="17,155,221,196"/>
+<area shape="rect" id="node3" href="$dd/d94/classdjango_1_1db_1_1models_1_1query_1_1_query_set.html" title="django.db.models.query.QuerySet" alt="" coords="10,80,229,107"/>
+</map>

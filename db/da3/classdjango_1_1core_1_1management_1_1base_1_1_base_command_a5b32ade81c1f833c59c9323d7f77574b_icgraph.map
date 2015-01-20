@@ -1,0 +1,6 @@
+<map id="django.core.management.base.BaseCommand.usage" name="django.core.management.base.BaseCommand.usage">
+<area shape="rect" id="node2" href="$d6/d9c/classdjango_1_1core_1_1management_1_1commands_1_1test_1_1_command.html#a15bf689c07fe1cf3a126a224194a27af" title="django.core.management.commands.test.\lCommand.create_parser" alt="" coords="257,5,524,47"/>
+<area shape="rect" id="node3" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a830c42b2d0ec9695e355310c5bb50aef" title="django.core.management.base.\lBaseCommand.create_parser" alt="" coords="289,71,493,112"/>
+<area shape="rect" id="node4" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a6215bea942013c5a060e5a21c0c40e95" title="django.core.management.base.\lBaseCommand.print_help" alt="" coords="572,37,776,79"/>
+<area shape="rect" id="node5" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a101b82321848e3c6056974fceb4ca635" title="django.core.management.base.\lBaseCommand.run_from_argv" alt="" coords="572,103,776,144"/>
+</map>

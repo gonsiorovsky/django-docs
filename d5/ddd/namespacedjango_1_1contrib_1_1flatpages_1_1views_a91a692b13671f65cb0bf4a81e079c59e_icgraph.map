@@ -1,0 +1,4 @@
+<map id="django.contrib.flatpages.views.render_flatpage" name="django.contrib.flatpages.views.render_flatpage">
+<area shape="rect" id="node2" href="$d5/ddd/namespacedjango_1_1contrib_1_1flatpages_1_1views.html#a7aab9d3408229f235ad909a8ef8b511e" title="django.contrib.flatpages.views.flatpage" alt="" coords="288,20,531,47"/>
+<area shape="rect" id="node3" href="$d4/d53/classdjango_1_1contrib_1_1flatpages_1_1middleware_1_1_flatpage_fallback_middleware.html#ad329568ff511e714811b927d908b5ad2" title="django.contrib.flatpages.middleware.\lFlatpageFallbackMiddleware.process\l_response" alt="" coords="579,5,815,61"/>
+</map>

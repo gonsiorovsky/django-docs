@@ -1,0 +1,5 @@
+<map id="django.utils.encoding.StrAndUnicode.__str__" name="django.utils.encoding.StrAndUnicode.__str__">
+<area shape="rect" id="node2" href="$dd/d91/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1base_1_1_test_model.html#a6253cdfb84599ca18681851c14c4f1c2" title="django.contrib.sitemaps.tests.base.\lTestModel.__unicode__" alt="" coords="219,5,448,47"/>
+<area shape="rect" id="node3" href="$d0/d05/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user.html#a28b3b18abb1c0815812617ddbd8f308b" title="django.contrib.auth.tests.custom\l_user.CustomUser.__unicode__" alt="" coords="227,71,439,112"/>
+<area shape="rect" id="node4" href="$d8/d97/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_permissions_user.html#ab126ccaab6901218bce501f3ba8d09fe" title="django.contrib.auth.tests.custom\l_user.CustomPermissionsUser.\l__unicode__" alt="" coords="227,135,439,191"/>
+</map>

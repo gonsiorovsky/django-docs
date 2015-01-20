@@ -1,0 +1,25 @@
+<map id="django.forms.forms.BoundField.as_widget" name="django.forms.forms.BoundField.as_widget">
+<area shape="rect" id="node2" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a6da2bb12d89d9e9df2e0d7a30320e17d" title="django.forms.forms.Bound\lField.auto_id" alt="" coords="231,5,405,47"/>
+<area shape="rect" id="node8" href="$d8/d1e/classdjango_1_1contrib_1_1admin_1_1filters_1_1_simple_list_filter.html#a097bd85958bebea50fff072924c45886" title="django.contrib.admin.filters.\lSimpleListFilter.value" alt="" coords="227,71,409,112"/>
+<area shape="rect" id="node9" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html#a570adeaab6349f1bbe81fe16bc5149de" title="django.contrib.gis.gdal.field.\lField.value" alt="" coords="227,136,409,177"/>
+<area shape="rect" id="node11" href="$d9/d05/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_integer.html#aab710e64a331594d8a101975de5ec256" title="django.contrib.gis.gdal.field.\lOFTInteger.value" alt="" coords="227,267,409,308"/>
+<area shape="rect" id="node14" href="$d8/d01/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_real.html#aba0c175b636a19f53ad54bc76a20df8b" title="django.contrib.gis.gdal.field.\lOFTReal.value" alt="" coords="227,201,409,243"/>
+<area shape="rect" id="node15" href="$db/dd9/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_date.html#ac20cfea2f8621cf92bd2dc5c78197884" title="django.contrib.gis.gdal.field.\lOFTDate.value" alt="" coords="227,332,409,373"/>
+<area shape="rect" id="node19" href="$d7/dca/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_date_time.html#ae8162311bb68d5ccfbde29c31f856151" title="django.contrib.gis.gdal.field.\lOFTDateTime.value" alt="" coords="227,397,409,439"/>
+<area shape="rect" id="node20" href="$df/d6a/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_time.html#a7ae00952c25d8c6ac48f434eeac60541" title="django.contrib.gis.gdal.field.\lOFTTime.value" alt="" coords="227,463,409,504"/>
+<area shape="rect" id="node23" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a866f0af4309d254f9dc3ae60997d9a4a" title="django.forms.forms.Bound\lField.value" alt="" coords="231,528,405,569"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="460,31,671,58"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="721,70,927,97"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1001,33,1159,75"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="975,99,1185,126"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1233,99,1445,126"/>
+<area shape="rect" id="node10" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html#af5b2003ded41a7f40dcb1156f245ece4" title="django.contrib.gis.gdal.field.\lField.as_string" alt="" coords="474,100,657,141"/>
+<area shape="rect" id="node12" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html#a02f7687df2136177939687dbc5f28749" title="Field Methods ####. " alt="" coords="474,201,657,243"/>
+<area shape="rect" id="node13" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html#ab41d7a8ba6b3bc9998c99a880e2078c7" title="django.contrib.gis.gdal.field.\lField.as_int" alt="" coords="474,267,657,308"/>
+<area shape="rect" id="node16" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html#af0652c69d2beef50c0e290752bb7c4a0" title="django.contrib.gis.gdal.field.\lField.as_datetime" alt="" coords="474,397,657,439"/>
+<area shape="rect" id="node17" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a44542b1921800515881cc742d86ab614" title="DATES #. " alt="" coords="457,339,673,366"/>
+<area shape="rect" id="node18" href="$d4/d5b/namespacedjango_1_1utils_1_1dateformat.html#ace6e8327610305c4f8914e01dfcfa68c" title="django.utils.dateformat.format" alt="" coords="727,339,921,366"/>
+<area shape="rect" id="node21" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaf654db37a3d8f52e484f47631f25a63" title="django.template.defaultfilters.time" alt="" coords="457,470,673,497"/>
+<area shape="rect" id="node22" href="$d4/d5b/namespacedjango_1_1utils_1_1dateformat.html#a802f889033706b9db03d6340fe28c209" title="django.utils.dateformat.time\l_format" alt="" coords="733,463,915,504"/>
+<area shape="rect" id="node24" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a55c09fd33ea1e3de07b09e1961e72bc8" title="django.forms.forms.Bound\lField.data" alt="" coords="479,528,652,569"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="django.conf.urls.url" name="django.conf.urls.url">
+<area shape="rect" id="node2" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a8da6fce50427f7e2f99ed13dc21c14e3" title="django.contrib.admin.sites.\lAdminSite.get_urls" alt="" coords="403,5,581,47"/>
+<area shape="rect" id="node4" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#abb863eb8bd16bc64644d6648d1ab0995" title="django.contrib.admin.options.\lModelAdmin.get_urls" alt="" coords="396,71,588,112"/>
+<area shape="rect" id="node6" href="$de/de2/namespacedjango_1_1conf_1_1urls.html#a42b1f901fc3427e211174178cb7cef17" title="django.conf.urls.patterns" alt="" coords="184,139,348,166"/>
+<area shape="rect" id="node9" href="$db/db9/namespacedjango_1_1conf_1_1urls_1_1static.html#ac96d69d1e86c38e5b701b40960ca1c4a" title="django.conf.urls.static.static" alt="" coords="399,267,585,294"/>
+<area shape="rect" id="node10" href="$d6/d5e/jquery_8min_8js.html#a52332896cb96d24a238e682e8e79f45b" title="yt" alt="" coords="247,241,285,267"/>
+<area shape="rect" id="node3" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a9e2b3157bb62860bdd7708bdd64719df" title="django.contrib.admin.sites.\lAdminSite.urls" alt="" coords="643,5,821,47"/>
+<area shape="rect" id="node5" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a6435891c5d3823d49fe9cada5e62eb53" title="django.contrib.admin.options.\lModelAdmin.urls" alt="" coords="636,71,828,112"/>
+<area shape="rect" id="node7" href="$de/d3c/classdjango_1_1contrib_1_1auth_1_1admin_1_1_user_admin.html#ab8885c1442b762a4155bc698fafe1974" title="django.contrib.auth.admin.\lUserAdmin.get_urls" alt="" coords="405,201,579,243"/>
+<area shape="rect" id="node8" href="$d2/de2/namespacedjango_1_1conf_1_1urls_1_1i18n.html#aa270692bbfce2c85efe4acebbecacd81" title="django.conf.urls.i18n.i18n\l_patterns" alt="" coords="407,136,577,177"/>
+</map>

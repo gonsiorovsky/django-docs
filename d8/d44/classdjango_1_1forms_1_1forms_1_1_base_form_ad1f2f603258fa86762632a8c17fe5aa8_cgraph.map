@@ -1,0 +1,19 @@
+<map id="django.forms.forms.BaseForm.errors" name="django.forms.forms.BaseForm.errors">
+<area shape="rect" id="node2" href="$d8/d44/classdjango_1_1forms_1_1forms_1_1_base_form.html#acb359d947a031d78659b4d55addd67fc" title="django.forms.forms.BaseForm.full\l_clean" alt="" coords="287,169,503,211"/>
+<area shape="rect" id="node3" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a80c6f0fe7f01537611d0e4689c8d1360" title="django.db.models.base.Model.full\l_clean" alt="" coords="287,235,502,276"/>
+<area shape="rect" id="node4" href="$db/db7/classdjango_1_1contrib_1_1admin_1_1forms_1_1_admin_authentication_form.html#a8c8fcc1b572aa2b39f145f0291b4359a" title="django.contrib.admin.forms.\lAdminAuthenticationForm.clean" alt="" coords="569,5,775,47"/>
+<area shape="rect" id="node5" href="$de/d43/classdjango_1_1contrib_1_1flatpages_1_1forms_1_1_flatpage_form.html#a51d9513fb11818ccc8bc81139ce29bed" title="django.contrib.flatpages.forms.\lFlatpageForm.clean" alt="" coords="573,71,771,112"/>
+<area shape="rect" id="node6" href="$d6/d61/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_geometry_field.html#ad1db3bbf833e06307ae89407f6e39c3a" title="django.contrib.gis.forms.fields.\lGeometryField.clean" alt="" coords="573,136,771,177"/>
+<area shape="rect" id="node9" href="$d3/d34/classdjango_1_1contrib_1_1auth_1_1forms_1_1_authentication_form.html#a7582ce605c846d85757b967f54ebbb3b" title="django.contrib.auth.forms.\lAuthenticationForm.clean" alt="" coords="586,201,758,243"/>
+<area shape="rect" id="node15" href="$dc/dba/classdjango_1_1contrib_1_1sessions_1_1backends_1_1file_1_1_session_store.html#a466310a9289ada8808cade6ffc78d1f8" title="django.contrib.sessions.backends.file.\lSessionStore.clean" alt="" coords="551,267,793,308"/>
+<area shape="rect" id="node16" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a80763289e5ab2e47356a81c107d3f692" title="django.db.models.base.Model.clean" alt="" coords="557,333,787,359"/>
+<area shape="rect" id="node17" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#ace61f3fc614b545139901b97b919c3bb" title="django.db.models.base.Model.clean\l_fields" alt="" coords="557,384,787,425"/>
+<area shape="rect" id="node18" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a84448b14abae2553fe09936d72e2469b" title="django.db.models.base.Model.validate\l_unique" alt="" coords="551,449,793,491"/>
+<area shape="rect" id="node7" href="$d6/d61/classdjango_1_1contrib_1_1gis_1_1forms_1_1fields_1_1_geometry_field.html#ae41ffd1a1f05b3dd3c80098a779e0317" title="django.contrib.gis.forms.fields.\lGeometryField.to_python" alt="" coords="853,85,1052,127"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ab08e1ad398e4aeb4b091e69ad61f579a" title="django.template.defaultfilters.upper" alt="" coords="841,151,1064,178"/>
+<area shape="rect" id="node10" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#a9f6fd98c2aa9c080ef1900fe573ed754" title="django.contrib.auth.authenticate" alt="" coords="849,209,1056,235"/>
+<area shape="rect" id="node11" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#a1e278feb8518c429b9c9f5b12250d3e1" title="django.contrib.auth.get\l_backends" alt="" coords="1112,201,1267,243"/>
+<area shape="rect" id="node12" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#a99d831e424d6d5a5323d9fa289712d2f" title="django.contrib.auth.load\l_backend" alt="" coords="1315,201,1475,243"/>
+<area shape="rect" id="node13" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="1523,201,1685,243"/>
+<area shape="rect" id="node14" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1733,201,1915,243"/>
+</map>

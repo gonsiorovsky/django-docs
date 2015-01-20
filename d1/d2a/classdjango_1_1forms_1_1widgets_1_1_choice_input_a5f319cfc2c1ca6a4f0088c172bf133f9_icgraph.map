@@ -1,0 +1,9 @@
+<map id="django.forms.widgets.ChoiceInput.tag" name="django.forms.widgets.ChoiceInput.tag">
+<area shape="rect" id="node2" href="$d1/d2a/classdjango_1_1forms_1_1widgets_1_1_choice_input.html#a9045f626760211dbbf1ac32b620dc660" title="django.forms.widgets.Choice\lInput.render" alt="" coords="253,157,441,199"/>
+<area shape="rect" id="node7" href="$d8/df0/classdjango_1_1template_1_1base_1_1_library.html#a9b22ee4ca100d95b109f5132ff96daa5" title="django.template.base.Library.simple_tag" alt="" coords="500,294,756,321"/>
+<area shape="rect" id="node8" href="$d8/df0/classdjango_1_1template_1_1base_1_1_library.html#aad276aa80f4ea90768d89b988d51d8b7" title="django.template.base.Library.tag" alt="" coords="241,298,452,325"/>
+<area shape="rect" id="node3" href="$d1/d2a/classdjango_1_1forms_1_1widgets_1_1_choice_input.html#aec772adb8aeaa64fe0cb02769154f8a5" title="django.forms.widgets.Choice\lInput.__str__" alt="" coords="534,5,722,47"/>
+<area shape="rect" id="node4" href="$d7/d97/classdjango_1_1forms_1_1widgets_1_1_choice_field_renderer.html#aeaa481910bbfed17e545ee9b9a55922d" title="django.forms.widgets.Choice\lFieldRenderer.__str__" alt="" coords="534,71,722,112"/>
+<area shape="rect" id="node5" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="539,160,717,201"/>
+<area shape="rect" id="node6" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="549,225,707,267"/>
+</map>

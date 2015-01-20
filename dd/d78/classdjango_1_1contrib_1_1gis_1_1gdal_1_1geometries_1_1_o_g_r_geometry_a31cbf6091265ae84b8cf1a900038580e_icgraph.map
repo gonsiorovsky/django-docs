@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.gdal.geometries.OGRGeometry.union" name="django.contrib.gis.gdal.geometries.OGRGeometry.union">
+<area shape="rect" id="node2" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#a766f169c748881b1499a6d7e0e6b7231" title="Geometry set&#45;like operations ### g = g1 | g2. " alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a569237a7536086bffcb95bf190f20553" title="Geometry set&#45;like operations ### Thanks to Sean Gillies for inspiration: http://lists.gispython.org/pipermail/community/2007&#45;July/001034.html g = g1 | g2. " alt="" coords="280,71,499,112"/>
+</map>

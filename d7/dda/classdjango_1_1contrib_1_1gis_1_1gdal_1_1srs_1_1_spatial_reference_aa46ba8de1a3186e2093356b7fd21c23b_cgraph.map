@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.gdal.srs.SpatialReference.units" name="django.contrib.gis.gdal.srs.SpatialReference.units">
+<area shape="rect" id="node2" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#a406e1a538d83408413ace9cd5f14b074" title="Boolean Properties ####. " alt="" coords="232,5,419,47"/>
+<area shape="rect" id="node3" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#ac1c1b258ca231c1189730ccc0516b84b" title="django.contrib.gis.gdal.srs.\lSpatialReference.local" alt="" coords="236,71,415,112"/>
+<area shape="rect" id="node4" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#adfc3d7ac1b401079829e1e560d0d8e09" title="django.contrib.gis.gdal.srs.\lSpatialReference.projected" alt="" coords="236,136,415,177"/>
+</map>

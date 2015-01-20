@@ -1,0 +1,6 @@
+<map id="django.utils.feedgenerator.Rss201rev2Feed" name="django.utils.feedgenerator.Rss201rev2Feed">
+<area shape="rect" id="node5" href="$dd/d6f/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_geo_r_s_s_feed.html" title="django.contrib.gis.feeds.\lGeoRSSFeed" alt="" coords="5,348,168,389"/>
+<area shape="rect" id="node6" href="$d1/df8/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_w3_c_geo_feed.html" title="django.contrib.gis.feeds.\lW3CGeoFeed" alt="" coords="192,348,355,389"/>
+<area shape="rect" id="node2" href="$d7/db3/classdjango_1_1utils_1_1feedgenerator_1_1_rss_feed.html" title="django.utils.feedgenerator.\lRssFeed" alt="" coords="93,169,267,211"/>
+<area shape="rect" id="node3" href="$d7/dc3/classdjango_1_1utils_1_1feedgenerator_1_1_syndication_feed.html" title="django.utils.feedgenerator.\lSyndicationFeed" alt="" coords="93,80,267,121"/>
+</map>

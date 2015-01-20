@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$de/dcd/classdjango_1_1utils_1_1timezone_1_1_reference_local_timezone.html" title="django.utils.timezone.Reference\lLocalTimezone" alt="" coords="107,5,313,47"/>
+<area shape="rect" id="node4" href="$d8/dbb/classdjango_1_1utils_1_1timezone_1_1_u_t_c.html" title="django.utils.timezone.UTC" alt="" coords="123,71,297,98"/>
+<area shape="rect" id="node5" href="$d9/d9f/classdjango_1_1utils_1_1tzinfo_1_1_fixed_offset.html" title="django.utils.tzinfo.Fixed\lOffset" alt="" coords="131,123,289,164"/>
+<area shape="rect" id="node6" href="$d6/dc0/classdjango_1_1utils_1_1tzinfo_1_1_local_timezone.html" title="django.utils.tzinfo.Local\lTimezone" alt="" coords="131,188,289,229"/>
+<area shape="rect" id="node3" href="$d4/de1/classdjango_1_1utils_1_1timezone_1_1_local_timezone.html" title="django.utils.timezone.Local\lTimezone" alt="" coords="361,5,541,47"/>
+</map>

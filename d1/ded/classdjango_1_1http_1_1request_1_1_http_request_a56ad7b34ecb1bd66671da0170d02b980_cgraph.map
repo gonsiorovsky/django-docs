@@ -1,0 +1,7 @@
+<map id="django.http.request.HttpRequest.get_host" name="django.http.request.HttpRequest.get_host">
+<area shape="rect" id="node2" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#ab46ef3069eb0cb553e324b14411cdce0" title="django.http.request.Http\lRequest.is_secure" alt="" coords="240,37,401,79"/>
+<area shape="rect" id="node5" href="$d6/dde/namespacedjango_1_1http_1_1request.html#ad968ff6ba7a0868147271108e793a4a2" title="django.http.request.split\l_domain_port" alt="" coords="240,103,401,144"/>
+<area shape="rect" id="node6" href="$d6/dde/namespacedjango_1_1http_1_1request.html#ab54836bc44e7b89ef58a7b204a47ceda" title="django.http.request.validate_host" alt="" coords="215,169,427,195"/>
+<area shape="rect" id="node3" href="$de/db1/classdjango_1_1core_1_1handlers_1_1wsgi_1_1_w_s_g_i_request.html#aa602f97e386654271dca861451549790" title="django.core.handlers.wsgi.\lWSGIRequest._is_secure" alt="" coords="475,5,651,47"/>
+<area shape="rect" id="node4" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a391b9f09f3cdbb6eeaf2ba230bfee69c" title="django.http.request.Http\lRequest._is_secure" alt="" coords="482,71,643,112"/>
+</map>

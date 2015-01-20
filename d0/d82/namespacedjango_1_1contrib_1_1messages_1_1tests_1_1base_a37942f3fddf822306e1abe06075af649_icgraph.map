@@ -1,0 +1,8 @@
+<map id="django.contrib.messages.tests.base.add_level_messages" name="django.contrib.messages.tests.base.add_level_messages">
+<area shape="rect" id="node2" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#aec522627f50433dfc41ed92fbc373e71" title="django.contrib.messages.tests.base.\lBaseTests.test_custom_tags" alt="" coords="311,5,547,47"/>
+<area shape="rect" id="node3" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a85f8ddb64d7c3e1da5f0a4944bb48a97" title="django.contrib.messages.tests.base.\lBaseTests.test_default_level" alt="" coords="311,71,547,112"/>
+<area shape="rect" id="node4" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#afaacedd5167e02e92e6214dffa9ae30e" title="django.contrib.messages.tests.base.\lBaseTests.test_high_level" alt="" coords="311,136,547,177"/>
+<area shape="rect" id="node5" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#ad389c571dc19176a985238aa6b31490c" title="django.contrib.messages.tests.base.\lBaseTests.test_low_level" alt="" coords="311,201,547,243"/>
+<area shape="rect" id="node6" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a771666a00c1214e6d118612a05b30b9f" title="django.contrib.messages.tests.base.\lBaseTests.test_settings_level" alt="" coords="311,267,547,308"/>
+<area shape="rect" id="node7" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a933918d1b959da8671d01c76b0500e4c" title="django.contrib.messages.tests.base.\lBaseTests.test_tags" alt="" coords="311,332,547,373"/>
+</map>

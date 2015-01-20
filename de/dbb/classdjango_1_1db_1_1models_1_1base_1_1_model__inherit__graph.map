@@ -1,0 +1,9 @@
+<map id="django.db.models.base.Model" name="django.db.models.base.Model">
+<area shape="rect" id="node5" href="$db/dec/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1models_1_1_geometry_columns.html" title="django.contrib.gis.db.backends.oracle.models.\lGeometryColumns" alt="" coords="625,5,915,47"/>
+<area shape="rect" id="node6" href="$d2/dad/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1models_1_1_spatial_ref_sys.html" title="django.contrib.gis.db.backends.oracle.models.\lSpatialRefSys" alt="" coords="625,71,915,112"/>
+<area shape="rect" id="node7" href="$df/d6c/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1models_1_1_geometry_columns.html" title="django.contrib.gis.db.backends.postgis.models.\lGeometryColumns" alt="" coords="621,136,919,177"/>
+<area shape="rect" id="node8" href="$d9/d17/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1models_1_1_spatial_ref_sys.html" title="django.contrib.gis.db.backends.postgis.models.\lSpatialRefSys" alt="" coords="621,201,919,243"/>
+<area shape="rect" id="node9" href="$db/d19/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1models_1_1_geometry_columns.html" title="django.contrib.gis.db.backends.spatialite.models.\lGeometryColumns" alt="" coords="616,267,924,308"/>
+<area shape="rect" id="node10" href="$d7/d38/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1models_1_1_spatial_ref_sys.html" title="django.contrib.gis.db.backends.spatialite.models.\lSpatialRefSys" alt="" coords="616,332,924,373"/>
+<area shape="rect" id="node3" href="$d7/d92/classdjango_1_1db_1_1models_1_1base_1_1_model_base.html" title="django.db.models.base.ModelBase" alt="" coords="100,202,325,229"/>
+</map>

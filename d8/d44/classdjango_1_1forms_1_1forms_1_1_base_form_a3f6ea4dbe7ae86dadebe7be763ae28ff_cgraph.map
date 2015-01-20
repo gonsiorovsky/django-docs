@@ -1,0 +1,11 @@
+<map id="django.forms.forms.BaseForm.has_changed" name="django.forms.forms.BaseForm.has_changed">
+<area shape="rect" id="node2" href="$d8/d44/classdjango_1_1forms_1_1forms_1_1_base_form.html#a5cbdc1bbc7a447949c54badc02decaf7" title="django.forms.forms.BaseForm.changed_data" alt="" coords="275,291,556,317"/>
+<area shape="rect" id="node3" href="$d8/d44/classdjango_1_1forms_1_1forms_1_1_base_form.html#abddd2ba75710301e26f64a914778cdc6" title="django.forms.forms.BaseForm.add\l_initial_prefix" alt="" coords="604,166,825,207"/>
+<area shape="rect" id="node4" href="$d8/d44/classdjango_1_1forms_1_1forms_1_1_base_form.html#a1675d80825ffda150c10bb5d395a7533" title="django.forms.forms.BaseForm.add\l_prefix" alt="" coords="1143,225,1364,266"/>
+<area shape="rect" id="node5" href="$de/daa/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_pattern.html#a537c928e758c4080b28b3894f9816ec6" title="django.core.urlresolvers.\lRegexURLPattern.add_prefix" alt="" coords="1159,334,1348,375"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="881,64,1087,91"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1148,5,1359,32"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1412,64,1624,91"/>
+<area shape="rect" id="node10" href="$d8/d44/classdjango_1_1forms_1_1forms_1_1_base_form.html#abc61a5de1f1fc6a524d021877d2cb332" title="django.forms.forms.BaseForm.non\l_field_errors" alt="" coords="873,225,1095,266"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1174,57,1333,98"/>
+</map>

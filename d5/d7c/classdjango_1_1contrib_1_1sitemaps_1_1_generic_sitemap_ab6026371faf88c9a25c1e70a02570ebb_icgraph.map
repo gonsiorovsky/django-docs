@@ -1,0 +1,6 @@
+<map id="django.contrib.sitemaps.GenericSitemap.items" name="django.contrib.sitemaps.GenericSitemap.items">
+<area shape="rect" id="node2" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html#a1c0b693ecbdc8cd3c54273e0c951c141" title="django.forms.util.ErrorDict.as_text" alt="" coords="217,5,436,32"/>
+<area shape="rect" id="node3" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html#a92107f3dc1c37fb55554c31ac534f217" title="django.forms.util.ErrorDict.as_ul" alt="" coords="223,56,430,83"/>
+<area shape="rect" id="node4" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html#a00890795344fc0964590a39483bea223" title="django.forms.util.ErrorDict.\l__str__" alt="" coords="484,15,660,57"/>
+<area shape="rect" id="node5" href="$d6/d4b/classdjango_1_1forms_1_1util_1_1_error_list.html#ad8977503f71da442d0332a057d7db8c6" title="django.forms.util.ErrorList.\l__str__" alt="" coords="485,81,659,122"/>
+</map>

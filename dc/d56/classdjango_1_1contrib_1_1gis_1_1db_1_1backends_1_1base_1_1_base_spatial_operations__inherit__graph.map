@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.db.backends.base.BaseSpatialOperations" name="django.contrib.gis.db.backends.base.BaseSpatialOperations">
+<area shape="rect" id="node3" href="$d7/d97/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1mysql_1_1operations_1_1_my_s_q_l_operations.html" title="django.contrib.gis.db.backends.mysql.operations.\lMySQLOperations" alt="" coords="406,5,715,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1operations_1_1_oracle_operations.html" title="django.contrib.gis.db.backends.oracle.operations.\lOracleOperations" alt="" coords="406,71,715,112"/>
+<area shape="rect" id="node5" href="$d5/dbb/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_operations.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISOperations" alt="" coords="403,136,719,177"/>
+<area shape="rect" id="node6" href="$d4/d8b/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1operations_1_1_spatia_lite_operations.html" title="django.contrib.gis.db.backends.spatialite.operations.\lSpatiaLiteOperations" alt="" coords="397,201,724,243"/>
+</map>

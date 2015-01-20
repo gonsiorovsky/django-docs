@@ -1,0 +1,7 @@
+<map id="django.contrib.gis.tests.geoadmin.tests.GeoAdminTest.test_olmap_OSM_rendering" name="django.contrib.gis.tests.geoadmin.tests.GeoAdminTest.test_olmap_OSM_rendering">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a096063e02ba48cf1f90b01fcac1ccf74" title="django.utils.unittest.case.\lTestCase.assertIn" alt="" coords="327,57,497,98"/>
+<area shape="rect" id="node6" href="$db/d8c/namespacedjango_1_1shortcuts.html#a29edeab19598259ce7fabaa707825db4" title="django.shortcuts.render" alt="" coords="333,123,491,149"/>
+<area shape="rect" id="node3" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="545,5,759,32"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="567,57,737,98"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="563,122,741,163"/>
+</map>

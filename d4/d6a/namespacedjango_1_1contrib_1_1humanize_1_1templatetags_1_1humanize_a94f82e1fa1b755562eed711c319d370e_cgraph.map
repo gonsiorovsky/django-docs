@@ -1,0 +1,12 @@
+<map id="django.contrib.humanize.templatetags.humanize.intcomma" name="django.contrib.humanize.templatetags.humanize.intcomma">
+<area shape="rect" id="node2" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="416,71,621,98"/>
+<area shape="rect" id="node6" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a922c6905a9e98f5406d79f2b02bd8f2d" title="django.utils.formats.number\l_format" alt="" coords="427,123,610,164"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="695,5,854,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="669,71,880,98"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="928,71,1140,98"/>
+<area shape="rect" id="node7" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a57f6e7d4923ab64f397326dad6d95d4a" title="django.utils.formats.get\l_format" alt="" coords="696,123,853,164"/>
+<area shape="rect" id="node8" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a0b07dd01ac13e64133e61daae47d5fdc" title="django.utils.formats.get\l_format_modules" alt="" coords="955,123,1113,164"/>
+<area shape="rect" id="node9" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#afb21c168301f96cb0bc7872d812188a6" title="django.utils.formats.iter\l_format_modules" alt="" coords="1188,123,1345,164"/>
+<area shape="rect" id="node10" href="$d4/dd9/namespacedjango_1_1utils_1_1translation.html#aad019bee05041d9f143049c5939441c7" title="django.utils.translation.to\l_locale" alt="" coords="1401,89,1567,131"/>
+<area shape="rect" id="node11" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1393,155,1575,196"/>
+</map>

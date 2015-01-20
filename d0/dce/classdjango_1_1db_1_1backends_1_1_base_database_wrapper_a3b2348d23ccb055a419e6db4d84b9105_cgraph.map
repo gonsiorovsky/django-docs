@@ -1,0 +1,7 @@
+<map id="django.db.backends.BaseDatabaseWrapper.commit" name="django.db.backends.BaseDatabaseWrapper.commit">
+<area shape="rect" id="node2" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a099246282859c2e9d9cb70cbd951a88c" title="django.db.backends.BaseDatabase\lWrapper._commit" alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#ac5bc32619508f009710f1b287f6bb397" title="django.db.backends.BaseDatabase\lWrapper.set_clean" alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node5" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#ad4b23d1b900d0749bf94d2b0744ec52f" title="django.db.backends.BaseDatabase\lWrapper.validate_no_atomic_block" alt="" coords="280,136,507,177"/>
+<area shape="rect" id="node6" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a2e9a56816b4a92bc701e22791e118f2b" title="Thread safety handling #####. " alt="" coords="280,201,507,243"/>
+<area shape="rect" id="node4" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#afb3dbff974dc3b3bda92a30a92d373f3" title="django.db.backends.BaseDatabase\lWrapper.clean_savepoints" alt="" coords="555,71,781,112"/>
+</map>

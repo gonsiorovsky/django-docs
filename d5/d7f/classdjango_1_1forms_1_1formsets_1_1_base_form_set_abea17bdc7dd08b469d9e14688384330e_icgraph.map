@@ -1,0 +1,8 @@
+<map id="django.forms.formsets.BaseFormSet.management_form" name="django.forms.formsets.BaseFormSet.management_form">
+<area shape="rect" id="node2" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#afa74ce40cd0e372014c4d8be44bc4086" title="django.forms.formsets.Base\lFormSet.as_p" alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#ab750860cb53ede50f04a9f754d5e5e4f" title="django.forms.formsets.Base\lFormSet.as_table" alt="" coords="237,71,421,112"/>
+<area shape="rect" id="node5" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#ab0de14489d4b87cfa7087c4c56c8a8dd" title="django.forms.formsets.Base\lFormSet.as_ul" alt="" coords="237,136,421,177"/>
+<area shape="rect" id="node4" href="$d5/d7f/classdjango_1_1forms_1_1formsets_1_1_base_form_set.html#acccfa91e12670d430df8c98ac5396efb" title="django.forms.formsets.Base\lFormSet.__str__" alt="" coords="469,71,653,112"/>
+<area shape="rect" id="node6" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html#a00890795344fc0964590a39483bea223" title="django.forms.util.ErrorDict.\l__str__" alt="" coords="473,136,649,177"/>
+<area shape="rect" id="node7" href="$d6/d4b/classdjango_1_1forms_1_1util_1_1_error_list.html#ad8977503f71da442d0332a057d7db8c6" title="django.forms.util.ErrorList.\l__str__" alt="" coords="474,201,649,243"/>
+</map>

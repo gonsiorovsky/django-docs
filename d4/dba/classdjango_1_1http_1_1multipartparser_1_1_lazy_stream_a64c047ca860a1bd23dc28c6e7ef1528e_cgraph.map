@@ -1,0 +1,6 @@
+<map id="django.http.multipartparser.LazyStream.read" name="django.http.multipartparser.LazyStream.read">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="461,5,672,32"/>
+<area shape="rect" id="node4" href="$d4/dba/classdjango_1_1http_1_1multipartparser_1_1_lazy_stream.html#a4e173ec353b9d32dc30f936ce5308bb5" title="django.http.multipartparser.\lLazyStream.unget" alt="" coords="233,57,413,98"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="720,5,932,32"/>
+<area shape="rect" id="node5" href="$d4/dba/classdjango_1_1http_1_1multipartparser_1_1_lazy_stream.html#ac10a87915579d35990d95f483a09fd4b" title="django.http.multipartparser.\lLazyStream._update_unget\l_history" alt="" coords="476,56,657,112"/>
+</map>

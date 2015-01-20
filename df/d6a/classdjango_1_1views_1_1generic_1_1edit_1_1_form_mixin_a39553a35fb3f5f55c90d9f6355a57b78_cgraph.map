@@ -1,0 +1,8 @@
+<map id="django.views.generic.edit.FormMixin.get_form_kwargs" name="django.views.generic.edit.FormMixin.get_form_kwargs">
+<area shape="rect" id="node2" href="$df/d6a/classdjango_1_1views_1_1generic_1_1edit_1_1_form_mixin.html#ab814b4070196cb0e417553372b9852cf" title="django.views.generic.edit.\lFormMixin.get_initial" alt="" coords="273,5,444,47"/>
+<area shape="rect" id="node3" href="$da/d04/classdjango_1_1contrib_1_1formtools_1_1tests_1_1tests_1_1_test_form_preview.html#a980ff1f9e3a4727069a462a62c8ccf42" title="django.contrib.formtools.tests.tests.\lTestFormPreview.get_initial" alt="" coords="243,71,474,112"/>
+<area shape="rect" id="node4" href="$d4/da0/classdjango_1_1contrib_1_1formtools_1_1preview_1_1_form_preview.html#ad03eb44fe305535b1f0eb2e22f5f7b45" title="django.contrib.formtools.preview.\lFormPreview.get_initial" alt="" coords="253,136,464,177"/>
+<area shape="rect" id="node5" href="$df/d6a/classdjango_1_1views_1_1generic_1_1edit_1_1_form_mixin.html#ad204b54b13386094dd57e94cd32b1dcf" title="django.views.generic.edit.\lFormMixin.get_prefix" alt="" coords="273,201,444,243"/>
+<area shape="rect" id="node6" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html#ac7c5b16c4ac4470158b18b1ccd125592" title="django.contrib.formtools.wizard.views.\lWizardView.get_prefix" alt="" coords="239,267,479,308"/>
+<area shape="rect" id="node7" href="$d9/d08/namespacedjango_1_1contrib_1_1formtools_1_1wizard_1_1views.html#a41aba0fd7d2cbd91e909c4ce1a3c1491" title="django.contrib.formtools.wizard.views.normalize_name" alt="" coords="527,274,861,301"/>
+</map>

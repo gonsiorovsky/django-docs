@@ -1,0 +1,11 @@
+<map id="django.core.exceptions.SuspiciousOperation" name="django.core.exceptions.SuspiciousOperation">
+<area shape="rect" id="node3" href="$d5/dd8/classdjango_1_1contrib_1_1admin_1_1exceptions_1_1_disallowed_model_admin_lookup.html" title="django.contrib.admin.exceptions.\lDisallowedModelAdminLookup" alt="" coords="423,5,637,47"/>
+<area shape="rect" id="node4" href="$d9/d8a/classdjango_1_1contrib_1_1admin_1_1exceptions_1_1_disallowed_model_admin_to_field.html" title="django.contrib.admin.exceptions.\lDisallowedModelAdminToField" alt="" coords="423,71,637,112"/>
+<area shape="rect" id="node5" href="$d4/d02/classdjango_1_1contrib_1_1formtools_1_1exceptions_1_1_wizard_view_cookie_modified.html" title="django.contrib.formtools.exceptions.\lWizardViewCookieModified" alt="" coords="415,136,645,177"/>
+<area shape="rect" id="node6" href="$da/d7b/classdjango_1_1contrib_1_1sessions_1_1exceptions_1_1_invalid_session_key.html" title="django.contrib.sessions.exceptions.\lInvalidSessionKey" alt="" coords="415,201,645,243"/>
+<area shape="rect" id="node7" href="$db/d60/classdjango_1_1contrib_1_1sessions_1_1exceptions_1_1_suspicious_session.html" title="django.contrib.sessions.exceptions.\lSuspiciousSession" alt="" coords="415,267,645,308"/>
+<area shape="rect" id="node8" href="$dd/d4c/classdjango_1_1core_1_1exceptions_1_1_disallowed_host.html" title="django.core.exceptions.DisallowedHost" alt="" coords="405,333,655,359"/>
+<area shape="rect" id="node9" href="$df/d26/classdjango_1_1core_1_1exceptions_1_1_disallowed_redirect.html" title="django.core.exceptions.Disallowed\lRedirect" alt="" coords="419,384,641,425"/>
+<area shape="rect" id="node10" href="$d8/dfa/classdjango_1_1core_1_1exceptions_1_1_suspicious_file_operation.html" title="django.core.exceptions.Suspicious\lFileOperation" alt="" coords="418,449,642,491"/>
+<area shape="rect" id="node11" href="$db/da8/classdjango_1_1core_1_1exceptions_1_1_suspicious_multipart_form.html" title="django.core.exceptions.Suspicious\lMultipartForm" alt="" coords="418,515,642,556"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.geos.polygon.Polygon.from_bbox" name="django.contrib.gis.geos.polygon.Polygon.from_bbox">
+<area shape="rect" id="node2" href="$db/d1d/classdjango_1_1contrib_1_1gis_1_1geos_1_1polygon_1_1_polygon.html#a38395a86a6c44df2506600e6135c568f" title="django.contrib.gis.geos.polygon.\lPolygon._clone" alt="" coords="269,5,479,47"/>
+<area shape="rect" id="node3" href="$db/d1d/classdjango_1_1contrib_1_1gis_1_1geos_1_1polygon_1_1_polygon.html#a40f9461fa6016f898410f704734d3591" title="django.contrib.gis.geos.polygon.\lPolygon._construct_ring" alt="" coords="269,71,479,112"/>
+<area shape="rect" id="node4" href="$d9/dc5/namespacedjango_1_1contrib_1_1gis_1_1geos_1_1libgeos.html#a78ddb89ac9d164542e23b06ec034dcbc" title="django.contrib.gis.geos.libgeos.get\l_pointer_arr" alt="" coords="263,136,485,177"/>
+</map>

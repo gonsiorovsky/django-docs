@@ -1,0 +1,7 @@
+<map id="django.contrib.gis.db.backends.spatialite.operations.SpatiaLiteFunction" name="django.contrib.gis.db.backends.spatialite.operations.SpatiaLiteFunction">
+<area shape="rect" id="node5" href="$dc/dab/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1operations_1_1_spatia_lite_distance.html" title="django.contrib.gis.db.backends.spatialite.operations.\lSpatiaLiteDistance" alt="" coords="1035,5,1361,47"/>
+<area shape="rect" id="node6" href="$d2/d9f/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1operations_1_1_spatia_lite_function_param.html" title="django.contrib.gis.db.backends.spatialite.operations.\lSpatiaLiteFunctionParam" alt="" coords="1035,71,1361,112"/>
+<area shape="rect" id="node2" href="$de/db0/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_function.html" title="django.contrib.gis.db.backends.util.\lSpatialFunction" alt="" coords="385,39,612,80"/>
+<area shape="rect" id="node3" href="$d7/d0e/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_operation.html" title="django.contrib.gis.db.backends.util.\lSpatialOperation" alt="" coords="111,39,337,80"/>
+<area shape="rect" id="node7" href="$d0/db1/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1operations_1_1_spatia_lite_relate.html" title="django.contrib.gis.db.backends.spatialite.operations.\lSpatiaLiteRelate" alt="" coords="1409,71,1736,112"/>
+</map>

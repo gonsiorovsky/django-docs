@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.admin.widgets.OpenLayersWidget.render" name="django.contrib.gis.admin.widgets.OpenLayersWidget.render">
+<area shape="rect" id="node2" href="$db/d34/classdjango_1_1contrib_1_1gis_1_1gdal_1_1feature_1_1_feature.html#ad1a722a74784ea973c833dbc45390b44" title="django.contrib.gis.gdal.feature.\lFeature.geom_type" alt="" coords="281,5,479,47"/>
+<area shape="rect" id="node3" href="$d9/d84/classdjango_1_1contrib_1_1gis_1_1gdal_1_1layer_1_1_layer.html#aa650ae971e452753eabfb08416946ac0" title="django.contrib.gis.gdal.layer.\lLayer.geom_type" alt="" coords="286,71,474,112"/>
+<area shape="rect" id="node4" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a33da375294d32399a16c82b3c9274c3a" title="Geometry Info ####. " alt="" coords="271,136,489,177"/>
+<area shape="rect" id="node5" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#a1eca6b163e677e497d04b2f4f26212ef" title="django.contrib.gis.gdal.geometries.\lOGRGeometry.geom_type" alt="" coords="268,201,492,243"/>
+<area shape="rect" id="node6" href="$d8/dc3/classdjango_1_1contrib_1_1gis_1_1admin_1_1widgets_1_1_open_layers_widget.html#a4c4b479d4f823874b55ca4c5b3dacc96" title="django.contrib.gis.admin.widgets.\lOpenLayersWidget.map_options" alt="" coords="273,267,487,308"/>
+<area shape="rect" id="node7" href="$d7/d0e/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_operation.html#a2e893ed3647805160c2c9eb9b7735be2" title="django.contrib.gis.db.backends.util.\lSpatialOperation.params" alt="" coords="540,296,767,337"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="django.templatetags.l10n.localize" name="django.templatetags.l10n.localize">
+<area shape="rect" id="node2" href="$d9/df6/classdjango_1_1template_1_1debug_1_1_debug_variable_node.html#af0271682c533bf08bdf0e1aa1dbdc7cc" title="django.template.debug.Debug\lVariableNode.render" alt="" coords="280,8,475,50"/>
+<area shape="rect" id="node4" href="$d1/d17/namespacedjango_1_1template_1_1base.html#aaf2df5379cb8b26ab6b14ea474288534" title="django.template.base.render\l_value_in_context" alt="" coords="284,95,471,136"/>
+<area shape="rect" id="node9" href="$d4/da1/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__http_1_1_h_t_t_p_sitemap_tests.html#a959d4ff8472eaa7196b10275f0081832" title="django.contrib.sitemaps.tests.test\l_http.HTTPSitemapTests.test\l_localized_priority" alt="" coords="268,160,487,216"/>
+<area shape="rect" id="node3" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="780,96,959,138"/>
+<area shape="rect" id="node5" href="$d4/df8/classdjango_1_1template_1_1defaulttags_1_1_cycle_node.html#a873904a08766122189f8a90ec41023b6" title="django.template.defaulttags.\lCycleNode.render" alt="" coords="541,63,726,104"/>
+<area shape="rect" id="node6" href="$dc/d12/classdjango_1_1templatetags_1_1i18n_1_1_translate_node.html#a8389c0eae7b70a9ed4f46fde5eb6893b" title="django.templatetags.i18n.\lTranslateNode.render" alt="" coords="548,128,719,170"/>
+<area shape="rect" id="node7" href="$d8/d91/classdjango_1_1template_1_1defaulttags_1_1_first_of_node.html#ac43c77d46335a04d6746e1429b326a0f" title="django.template.defaulttags.\lFirstOfNode.render" alt="" coords="541,194,726,235"/>
+<area shape="rect" id="node8" href="$d1/de1/classdjango_1_1template_1_1base_1_1_variable_node.html#ac68b6b84a81ceaf48495e91efed3dc34" title="django.template.base.Variable\lNode.render" alt="" coords="535,259,732,300"/>
+</map>

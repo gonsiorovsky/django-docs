@@ -1,0 +1,5 @@
+<map id="django.contrib.comments.forms.CommentSecurityForm.generate_security_hash" name="django.contrib.comments.forms.CommentSecurityForm.generate_security_hash">
+<area shape="rect" id="node2" href="$df/d66/classdjango_1_1contrib_1_1comments_1_1forms_1_1_comment_security_form.html#a31f882fc3ab348126221d545cb9c150a" title="django.contrib.comments.forms.\lCommentSecurityForm.clean\l_security_hash" alt="" coords="264,5,472,61"/>
+<area shape="rect" id="node3" href="$df/d66/classdjango_1_1contrib_1_1comments_1_1forms_1_1_comment_security_form.html#a2972748c00d73d65280981849a5d9175" title="django.contrib.comments.forms.\lCommentSecurityForm.initial\l_security_hash" alt="" coords="264,85,472,141"/>
+<area shape="rect" id="node4" href="$df/d66/classdjango_1_1contrib_1_1comments_1_1forms_1_1_comment_security_form.html#a4ede6596eb86c40341c5929cf7506188" title="django.contrib.comments.forms.\lCommentSecurityForm.generate\l_security_data" alt="" coords="520,85,731,141"/>
+</map>

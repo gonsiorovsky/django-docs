@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.geos.coordseq.GEOSCoordSeq.getOrdinate" name="django.contrib.gis.geos.coordseq.GEOSCoordSeq.getOrdinate">
+<area shape="rect" id="node2" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#afe4e846d6d66ea3d7aa58e16768c0da4" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.getX" alt="" coords="271,5,488,47"/>
+<area shape="rect" id="node4" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#a9b9f4e7e06460f9ae4ec1039d0d94dbe" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.getY" alt="" coords="271,71,488,112"/>
+<area shape="rect" id="node5" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#a7cbe07d5f1d2032d1865d96d4e3ead8f" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.getZ" alt="" coords="271,136,488,177"/>
+<area shape="rect" id="node3" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#a349195efb7bd2517afe094b3d3b15728" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.__getitem__" alt="" coords="536,39,753,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.db.backends.oracle.compiler.GeoSQLCompiler" name="django.contrib.gis.db.backends.oracle.compiler.GeoSQLCompiler">
+<area shape="rect" id="node4" href="$d3/d5a/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_aggregate_compiler.html" title="django.contrib.gis.db.backends.oracle.compiler.\lSQLAggregateCompiler" alt="" coords="553,5,852,47"/>
+<area shape="rect" id="node5" href="$d6/d66/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_date_compiler.html" title="django.contrib.gis.db.backends.oracle.compiler.\lSQLDateCompiler" alt="" coords="553,71,852,112"/>
+<area shape="rect" id="node6" href="$d5/d5f/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_date_time_compiler.html" title="django.contrib.gis.db.backends.oracle.compiler.\lSQLDateTimeCompiler" alt="" coords="553,136,852,177"/>
+<area shape="rect" id="node7" href="$d9/d73/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_delete_compiler.html" title="django.contrib.gis.db.backends.oracle.compiler.\lSQLDeleteCompiler" alt="" coords="553,201,852,243"/>
+<area shape="rect" id="node8" href="$d9/d18/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_insert_compiler.html" title="django.contrib.gis.db.backends.oracle.compiler.\lSQLInsertCompiler" alt="" coords="553,267,852,308"/>
+<area shape="rect" id="node9" href="$d5/db5/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1compiler_1_1_s_q_l_update_compiler.html" title="django.contrib.gis.db.backends.oracle.compiler.\lSQLUpdateCompiler" alt="" coords="553,332,852,373"/>
+</map>

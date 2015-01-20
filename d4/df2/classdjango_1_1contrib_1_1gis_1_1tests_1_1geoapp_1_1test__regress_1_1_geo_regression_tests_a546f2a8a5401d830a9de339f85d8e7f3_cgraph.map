@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.tests.geoapp.test_regress.GeoRegressionTests.test_defer_or_only_with_annotate" name="django.contrib.gis.tests.geoapp.test_regress.GeoRegressionTests.test_defer_or_only_with_annotate">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a57a8ee2eb79698b872c1bd173da2c4b8" title="django.utils.unittest.case.\lTestCase.assertIsInstance" alt="" coords="283,57,459,98"/>
+<area shape="rect" id="node3" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="507,5,720,32"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="528,57,699,98"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="525,122,702,163"/>
+</map>

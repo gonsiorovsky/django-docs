@@ -1,0 +1,5 @@
+var namespacedjango_1_1contrib_1_1flatpages_1_1tests_1_1test__middleware =
+[
+    [ "FlatpageMiddlewareAppendSlashTests", "dc/d05/classdjango_1_1contrib_1_1flatpages_1_1tests_1_1test__middleware_1_1_flatpage_middleware_append_slash_tests.html", "dc/d05/classdjango_1_1contrib_1_1flatpages_1_1tests_1_1test__middleware_1_1_flatpage_middleware_append_slash_tests" ],
+    [ "FlatpageMiddlewareTests", "db/d17/classdjango_1_1contrib_1_1flatpages_1_1tests_1_1test__middleware_1_1_flatpage_middleware_tests.html", "db/d17/classdjango_1_1contrib_1_1flatpages_1_1tests_1_1test__middleware_1_1_flatpage_middleware_tests" ]
+];

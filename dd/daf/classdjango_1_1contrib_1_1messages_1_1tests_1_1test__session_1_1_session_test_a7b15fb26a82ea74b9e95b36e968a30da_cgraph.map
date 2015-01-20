@@ -1,0 +1,6 @@
+<map id="django.contrib.messages.tests.test_session.SessionTest.test_get" name="django.contrib.messages.tests.test_session.SessionTest.test_get">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="313,5,483,47"/>
+<area shape="rect" id="node4" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a4849eeaae939420e45898a6c00a6c23f" title="django.contrib.messages.tests.base.\lBaseTests.get_request" alt="" coords="280,71,516,112"/>
+<area shape="rect" id="node5" href="$dd/d17/namespacedjango_1_1contrib_1_1messages_1_1tests_1_1test__session.html#a6f70f4e301bf1e7f1012b3a79a06d3a7" title="django.contrib.messages.tests.test\l_session.set_session_data" alt="" coords="285,136,511,177"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="564,5,784,47"/>
+</map>

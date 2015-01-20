@@ -1,0 +1,9 @@
+<map id="django.middleware.common.BrokenLinkEmailsMiddleware.process_response" name="django.middleware.common.BrokenLinkEmailsMiddleware.process_response">
+<area shape="rect" id="node2" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="297,42,502,69"/>
+<area shape="rect" id="node6" href="$d3/d19/classdjango_1_1middleware_1_1common_1_1_broken_link_emails_middleware.html#a153270f045b86a1de5680ad3604201e5" title="django.middleware.common.\lBrokenLinkEmailsMiddleware.is\l_ignorable_request" alt="" coords="296,93,503,149"/>
+<area shape="rect" id="node7" href="$d3/d19/classdjango_1_1middleware_1_1common_1_1_broken_link_emails_middleware.html#a83eae2a0539636cf87f32ae0755d9ea2" title="django.middleware.common.\lBrokenLinkEmailsMiddleware.is\l_internal_request" alt="" coords="553,125,759,181"/>
+<area shape="rect" id="node8" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a8cb94df3622dea39f0800eee58a3eab1" title="django.core.mail.mail\l_managers" alt="" coords="327,224,472,265"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="577,5,735,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="551,71,761,98"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="809,71,1021,98"/>
+</map>

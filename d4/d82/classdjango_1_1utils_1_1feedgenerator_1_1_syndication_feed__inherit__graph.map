@@ -1,0 +1,9 @@
+<map id="django.utils.feedgenerator.SyndicationFeed" name="django.utils.feedgenerator.SyndicationFeed">
+<area shape="rect" id="node3" href="$d2/dc8/classdjango_1_1utils_1_1feedgenerator_1_1_atom1_feed.html" title="django.utils.feedgenerator.\lAtom1Feed" alt="" coords="333,5,508,47"/>
+<area shape="rect" id="node5" href="$d7/db3/classdjango_1_1utils_1_1feedgenerator_1_1_rss_feed.html" title="django.utils.feedgenerator.\lRssFeed" alt="" coords="333,71,508,112"/>
+<area shape="rect" id="node4" href="$d1/db5/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_geo_atom1_feed.html" title="django.contrib.gis.feeds.\lGeoAtom1Feed" alt="" coords="562,5,725,47"/>
+<area shape="rect" id="node6" href="$d7/d02/classdjango_1_1utils_1_1feedgenerator_1_1_rss201rev2_feed.html" title="django.utils.feedgenerator.\lRss201rev2Feed" alt="" coords="556,71,731,112"/>
+<area shape="rect" id="node9" href="$da/d6d/classdjango_1_1utils_1_1feedgenerator_1_1_rss_userland091_feed.html" title="django.utils.feedgenerator.\lRssUserland091Feed" alt="" coords="556,136,731,177"/>
+<area shape="rect" id="node7" href="$dd/d6f/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_geo_r_s_s_feed.html" title="django.contrib.gis.feeds.\lGeoRSSFeed" alt="" coords="779,39,941,80"/>
+<area shape="rect" id="node8" href="$d1/df8/classdjango_1_1contrib_1_1gis_1_1feeds_1_1_w3_c_geo_feed.html" title="django.contrib.gis.feeds.\lW3CGeoFeed" alt="" coords="779,104,941,145"/>
+</map>

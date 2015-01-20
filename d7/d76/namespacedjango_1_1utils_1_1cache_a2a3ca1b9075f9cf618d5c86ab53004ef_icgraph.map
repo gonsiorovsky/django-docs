@@ -1,0 +1,8 @@
+<map id="django.utils.cache.patch_vary_headers" name="django.utils.cache.patch_vary_headers">
+<area shape="rect" id="node2" href="$d2/d01/classdjango_1_1contrib_1_1sessions_1_1middleware_1_1_session_middleware.html#a4d0a324490e2f8f893589ceb2b957d0a" title="django.contrib.sessions.middleware.\lSessionMiddleware.process_response" alt="" coords="216,5,460,47"/>
+<area shape="rect" id="node3" href="$d4/d1c/classdjango_1_1middleware_1_1gzip_1_1_g_zip_middleware.html#aae22ae566164343cd2723b7cee3d0617" title="django.middleware.gzip.GZip\lMiddleware.process_response" alt="" coords="239,71,437,112"/>
+<area shape="rect" id="node4" href="$d6/d56/classdjango_1_1middleware_1_1locale_1_1_locale_middleware.html#aa1ed35b89fb37d4be9742297012a9531" title="django.middleware.locale.\lLocaleMiddleware.process\l_response" alt="" coords="251,135,425,191"/>
+<area shape="rect" id="node5" href="$d6/d31/classdjango_1_1middleware_1_1csrf_1_1_csrf_view_middleware.html#ae6aab901e38cb5d5306e151b60293b0f" title="django.middleware.csrf.Csrf\lViewMiddleware.process_response" alt="" coords="225,215,451,256"/>
+<area shape="rect" id="node6" href="$d8/d5d/namespacedjango_1_1views_1_1decorators_1_1vary.html#a9f54f8b7a554f36b9b67edee6ed67690" title="django.views.decorators.vary.vary\l_on_cookie" alt="" coords="231,280,445,321"/>
+<area shape="rect" id="node7" href="$d8/d5d/namespacedjango_1_1views_1_1decorators_1_1vary.html#a6a73864d1d44b68530aa740aa6415c82" title="django.views.decorators.vary.vary\l_on_headers" alt="" coords="231,345,445,387"/>
+</map>

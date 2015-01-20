@@ -1,0 +1,11 @@
+<map id="django.core.management.base.AppCommand" name="django.core.management.base.AppCommand">
+<area shape="rect" id="node4" href="$df/d13/classdjango_1_1core_1_1management_1_1commands_1_1sql_1_1_command.html" title="django.core.management.commands.sql.\lCommand" alt="" coords="657,5,919,47"/>
+<area shape="rect" id="node5" href="$d8/d7d/classdjango_1_1core_1_1management_1_1commands_1_1sqlall_1_1_command.html" title="django.core.management.commands.sqlall.\lCommand" alt="" coords="651,71,925,112"/>
+<area shape="rect" id="node6" href="$de/dcf/classdjango_1_1core_1_1management_1_1commands_1_1sqlclear_1_1_command.html" title="django.core.management.commands.sqlclear.\lCommand" alt="" coords="643,136,933,177"/>
+<area shape="rect" id="node7" href="$d0/dc7/classdjango_1_1core_1_1management_1_1commands_1_1sqlcustom_1_1_command.html" title="django.core.management.commands.sqlcustom.\lCommand" alt="" coords="636,201,940,243"/>
+<area shape="rect" id="node8" href="$d8/d60/classdjango_1_1core_1_1management_1_1commands_1_1sqldropindexes_1_1_command.html" title="django.core.management.commands.sqldropindexes.\lCommand" alt="" coords="623,267,953,308"/>
+<area shape="rect" id="node9" href="$d9/d5a/classdjango_1_1core_1_1management_1_1commands_1_1sqlindexes_1_1_command.html" title="django.core.management.commands.sqlindexes.\lCommand" alt="" coords="635,332,941,373"/>
+<area shape="rect" id="node10" href="$d3/d09/classdjango_1_1core_1_1management_1_1commands_1_1sqlinitialdata_1_1_command.html" title="django.core.management.commands.sqlinitialdata.\lCommand" alt="" coords="630,397,946,439"/>
+<area shape="rect" id="node11" href="$db/d3d/classdjango_1_1core_1_1management_1_1commands_1_1sqlsequencereset_1_1_command.html" title="django.core.management.commands.sqlsequencereset.\lCommand" alt="" coords="615,463,961,504"/>
+<area shape="rect" id="node2" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html" title="django.core.management.base.\lBaseCommand" alt="" coords="111,235,315,276"/>
+</map>

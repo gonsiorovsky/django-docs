@@ -1,0 +1,16 @@
+<map id="django.db.models.sql.query.Query.resolve_aggregate" name="django.db.models.sql.query.Query.resolve_aggregate">
+<area shape="rect" id="node2" href="$d2/de5/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1query_1_1_geo_query.html#a06e5035b70b9c9f804dd60f90f9b490c" title="django.contrib.gis.db.models.sql.query.\lGeoQuery.convert_values" alt="" coords="239,5,488,47"/>
+<area shape="rect" id="node3" href="$db/dfa/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_raw_query.html#af2d5fbda97c051d847c5e61380865611" title="django.db.models.sql.query.\lRawQuery.convert_values" alt="" coords="271,71,456,112"/>
+<area shape="rect" id="node4" href="$d9/d74/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_operations.html#ae73eeb0a1a10c38af83226871cd93841" title="django.db.backends.oracle.base.\lDatabaseOperations.convert_values" alt="" coords="249,136,477,177"/>
+<area shape="rect" id="node9" href="$da/dbd/classdjango_1_1db_1_1backends_1_1sqlite3_1_1base_1_1_database_operations.html#a2c0b2b8f50a3865d2c2f60d775fcd7c5" title="django.db.backends.sqlite3.base.\lDatabaseOperations.convert_values" alt="" coords="249,201,477,243"/>
+<area shape="rect" id="node14" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a603c6cd5906623f86e49b40b97f6cc6b" title="django.db.models.sql.query.\lQuery.convert_values" alt="" coords="271,267,456,308"/>
+<area shape="rect" id="node15" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#a614467ce50edcd9130067b3b872d9431" title="django.db.backends.BaseDatabase\lOperations.convert_values" alt="" coords="250,332,477,373"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="557,122,763,149"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="860,85,1019,127"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="834,151,1045,178"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1095,151,1307,178"/>
+<area shape="rect" id="node10" href="$d0/dd9/namespacedjango_1_1utils_1_1dateparse.html#a5611eabbc5615362e85cf779f262c4e5" title="django.utils.dateparse.parse_date" alt="" coords="551,173,769,199"/>
+<area shape="rect" id="node11" href="$d7/d95/namespacedjango_1_1db_1_1backends_1_1sqlite3_1_1base.html#ab7a82b87e2ab41a6bd6399f0c1574743" title="django.db.backends.sqlite3.base.parse\l_datetime_with_timezone_support" alt="" coords="536,224,784,265"/>
+<area shape="rect" id="node12" href="$d0/dd9/namespacedjango_1_1utils_1_1dateparse.html#a411a1aafbbe55b7ff2936002f455db41" title="django.utils.dateparse.parse_time" alt="" coords="551,290,769,317"/>
+<area shape="rect" id="node13" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aabbd92834b2c32f1e996f2d24fcfdf45" title="django.template.defaultfilters.ljust" alt="" coords="832,290,1047,317"/>
+</map>

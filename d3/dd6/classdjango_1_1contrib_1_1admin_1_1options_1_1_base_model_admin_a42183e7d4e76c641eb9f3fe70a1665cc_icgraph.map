@@ -1,0 +1,11 @@
+<map id="django.contrib.admin.options.BaseModelAdmin.has_add_permission" name="django.contrib.admin.options.BaseModelAdmin.has_add_permission">
+<area shape="rect" id="node2" href="$de/d3c/classdjango_1_1contrib_1_1auth_1_1admin_1_1_user_admin.html#a8b66d2f8221c6b56948cee07adc02a74" title="django.contrib.auth.admin.\lUserAdmin.add_view" alt="" coords="320,5,495,47"/>
+<area shape="rect" id="node3" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a4a278d9e5ccf709822922b022ba4369c" title="django.contrib.admin.options.\lModelAdmin.add_view" alt="" coords="563,161,755,203"/>
+<area shape="rect" id="node8" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a4f11c50ffa080a8ce8e1c0a93702ff47" title="django.contrib.admin.options.\lModelAdmin.changelist_view" alt="" coords="563,71,755,112"/>
+<area shape="rect" id="node9" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a8367954850e2693afe42cf730ef76aff" title="django.contrib.admin.options.\lModelAdmin.get_model_perms" alt="" coords="307,173,508,215"/>
+<area shape="rect" id="node10" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#ae1b60de9aafac107517f04356a822398" title="django.contrib.admin.options.\lModelAdmin.render_change_form" alt="" coords="300,239,515,280"/>
+<area shape="rect" id="node4" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#abb863eb8bd16bc64644d6648d1ab0995" title="django.contrib.admin.options.\lModelAdmin.get_urls" alt="" coords="1043,152,1235,193"/>
+<area shape="rect" id="node7" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a80eb28fb6f9629d0bcb7066428ff219a" title="django.contrib.admin.options.\lModelAdmin.change_view" alt="" coords="803,211,995,252"/>
+<area shape="rect" id="node5" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a6435891c5d3823d49fe9cada5e62eb53" title="django.contrib.admin.options.\lModelAdmin.urls" alt="" coords="1283,119,1475,160"/>
+<area shape="rect" id="node6" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a9e2b3157bb62860bdd7708bdd64719df" title="django.contrib.admin.sites.\lAdminSite.urls" alt="" coords="1289,184,1468,225"/>
+</map>

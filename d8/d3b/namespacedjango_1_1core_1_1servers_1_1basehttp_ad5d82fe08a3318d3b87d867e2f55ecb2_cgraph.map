@@ -1,0 +1,5 @@
+<map id="django.core.servers.basehttp.get_internal_wsgi_application" name="django.core.servers.basehttp.get_internal_wsgi_application">
+<area shape="rect" id="node2" href="$db/dd3/namespacedjango_1_1core_1_1wsgi.html#aea78768b32a33ddec174293d15b7dd7d" title="django.core.wsgi.get\l_wsgi_application" alt="" coords="275,5,416,47"/>
+<area shape="rect" id="node3" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="264,71,427,112"/>
+<area shape="rect" id="node4" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="475,71,656,112"/>
+</map>

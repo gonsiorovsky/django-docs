@@ -1,0 +1,4 @@
+<map id="django.db.backends.postgresql_psycopg2.introspection.DatabaseIntrospection" name="django.db.backends.postgresql_psycopg2.introspection.DatabaseIntrospection">
+<area shape="rect" id="node4" href="$d4/dd4/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1introspection_1_1_post_g_i_s_introspection.html" title="django.contrib.gis.db.backends.postgis.introspection.\lPostGISIntrospection" alt="" coords="5,273,336,315"/>
+<area shape="rect" id="node2" href="$d6/d2a/classdjango_1_1db_1_1backends_1_1_base_database_introspection.html" title="django.db.backends.BaseDatabase\lIntrospection" alt="" coords="57,80,284,121"/>
+</map>

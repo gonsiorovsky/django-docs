@@ -1,0 +1,4 @@
+var namespacedjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1collectstatic =
+[
+    [ "Command", "d8/df6/classdjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1collectstatic_1_1_command.html", "d8/df6/classdjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1collectstatic_1_1_command" ]
+];

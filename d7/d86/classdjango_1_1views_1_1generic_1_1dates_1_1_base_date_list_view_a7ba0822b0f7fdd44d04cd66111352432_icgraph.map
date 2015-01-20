@@ -1,0 +1,9 @@
+<map id="django.views.generic.dates.BaseDateListView.get_dated_items" name="django.views.generic.dates.BaseDateListView.get_dated_items">
+<area shape="rect" id="node2" href="$d7/d86/classdjango_1_1views_1_1generic_1_1dates_1_1_base_date_list_view.html#a0267be578ada244bd5b552bffe309fbe" title="django.views.generic.dates.\lBaseDateListView.get" alt="" coords="281,183,463,224"/>
+<area shape="rect" id="node3" href="$d0/dbc/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type_manager.html#ad441204452d12dc6932ed82679c8b373" title="django.contrib.contenttypes.models.\lContentTypeManager.get_by_natural_key" alt="" coords="511,5,773,47"/>
+<area shape="rect" id="node4" href="$d2/dad/classdjango_1_1contrib_1_1auth_1_1models_1_1_permission_manager.html#a6efe7e59f2efe8e65ac6de26b2992f15" title="django.contrib.auth.models.\lPermissionManager.get_by\l_natural_key" alt="" coords="551,70,733,126"/>
+<area shape="rect" id="node5" href="$d8/dc6/classdjango_1_1contrib_1_1auth_1_1models_1_1_group_manager.html#ac5aa0a9d1d7a47a17c63690b16aa9bdb" title="django.contrib.auth.models.\lGroupManager.get_by_natural_key" alt="" coords="530,149,754,191"/>
+<area shape="rect" id="node6" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a5c85b51714c1700b2981e7f8bd745c19" title="django.contrib.auth.models.\lBaseUserManager.get_by_natural_key" alt="" coords="519,215,765,256"/>
+<area shape="rect" id="node7" href="$d9/d9e/classdjango_1_1contrib_1_1sites_1_1models_1_1_site_manager.html#a8837088e50ef3b4879f1600dec6af2b9" title="django.contrib.sites.models.\lSiteManager.get_current" alt="" coords="549,280,735,321"/>
+<area shape="rect" id="node8" href="$d0/dbc/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type_manager.html#a77e45a678787e583675e13f9a4d05b31" title="django.contrib.contenttypes.models.\lContentTypeManager.get_for_id" alt="" coords="526,345,758,387"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="django.contrib.admin.validation.check_type" name="django.contrib.admin.validation.check_type">
+<area shape="rect" id="node2" href="$d2/d5b/classdjango_1_1contrib_1_1admin_1_1validation_1_1_inline_validator.html#af567e7f34388985f1c31f01233c83d8a" title="django.contrib.admin.validation.\lInlineValidator.validate_extra" alt="" coords="346,5,549,47"/>
+<area shape="rect" id="node3" href="$d0/ddd/classdjango_1_1contrib_1_1admin_1_1validation_1_1_model_admin_validator.html#ad419d2dc44f42d55481a2fde048873e4" title="django.contrib.admin.validation.\lModelAdminValidator.validate\l_list_max_show_all" alt="" coords="346,70,549,126"/>
+<area shape="rect" id="node4" href="$d0/ddd/classdjango_1_1contrib_1_1admin_1_1validation_1_1_model_admin_validator.html#ab2a6777237100aa46045f8ca5c582fb9" title="django.contrib.admin.validation.\lModelAdminValidator.validate\l_list_per_page" alt="" coords="346,150,549,206"/>
+<area shape="rect" id="node5" href="$d2/d5b/classdjango_1_1contrib_1_1admin_1_1validation_1_1_inline_validator.html#a5f1d4fc5d346151703198f23005a63ea" title="django.contrib.admin.validation.\lInlineValidator.validate_max_num" alt="" coords="340,229,555,271"/>
+<area shape="rect" id="node6" href="$d0/ddd/classdjango_1_1contrib_1_1admin_1_1validation_1_1_model_admin_validator.html#a0592c0057749976911f429f38290dc0a" title="django.contrib.admin.validation.\lModelAdminValidator.validate_save_as" alt="" coords="324,295,571,336"/>
+<area shape="rect" id="node7" href="$d0/ddd/classdjango_1_1contrib_1_1admin_1_1validation_1_1_model_admin_validator.html#a54f7ac10c0f42d5227ddb68c97698de9" title="django.contrib.admin.validation.\lModelAdminValidator.validate\l_save_on_top" alt="" coords="346,359,549,415"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.db.backends.mysql.base.DatabaseOperations" name="django.db.backends.mysql.base.DatabaseOperations">
+<area shape="rect" id="node4" href="$d7/d97/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1mysql_1_1operations_1_1_my_s_q_l_operations.html" title="django.contrib.gis.db.backends.mysql.operations.\lMySQLOperations" alt="" coords="5,259,315,300"/>
+<area shape="rect" id="node2" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html" title="django.db.backends.BaseDatabase\lOperations" alt="" coords="47,80,273,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.test.utils.CaptureQueriesContext.captured_queries" name="django.test.utils.CaptureQueriesContext.captured_queries">
+<area shape="rect" id="node2" href="$d1/da1/classdjango_1_1test_1_1utils_1_1_capture_queries_context.html#af7e4f70afe5319a3fd18544b0ad5b326" title="django.test.utils.Capture\lQueriesContext.__getitem__" alt="" coords="220,5,407,47"/>
+<area shape="rect" id="node3" href="$d1/da1/classdjango_1_1test_1_1utils_1_1_capture_queries_context.html#a674eede3dd51ffbe32b491d32d85bfd0" title="django.test.utils.Capture\lQueriesContext.__iter__" alt="" coords="232,71,395,112"/>
+<area shape="rect" id="node4" href="$d1/da1/classdjango_1_1test_1_1utils_1_1_capture_queries_context.html#a58574b531ac2109df083ce024e42108d" title="django.test.utils.Capture\lQueriesContext.__len__" alt="" coords="232,136,395,177"/>
+</map>

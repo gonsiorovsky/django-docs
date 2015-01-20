@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.shortcuts.compress_kml" name="django.contrib.gis.shortcuts.compress_kml">
+<area shape="rect" id="node2" href="$d3/d43/namespacedjango_1_1contrib_1_1gis_1_1shortcuts.html#a2a4cb32bc90093f404f298393fde1fb2" title="django.contrib.gis.shortcuts.render\l_to_kmz" alt="" coords="324,5,547,47"/>
+<area shape="rect" id="node3" href="$d4/df2/classdjango_1_1contrib_1_1gis_1_1tests_1_1geoapp_1_1test__regress_1_1_geo_regression_tests.html#adaa93d743b3401a872dc965696d007d5" title="django.contrib.gis.tests.geoapp.test\l_regress.GeoRegressionTests.test_kmz" alt="" coords="595,5,849,47"/>
+</map>

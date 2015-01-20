@@ -1,0 +1,10 @@
+<map id="django.db.backends.BaseDatabaseOperations" name="django.db.backends.BaseDatabaseOperations">
+<area shape="rect" id="node3" href="$d2/d42/classdjango_1_1db_1_1backends_1_1dummy_1_1base_1_1_database_operations.html" title="django.db.backends.dummy.base.\lDatabaseOperations" alt="" coords="410,5,631,47"/>
+<area shape="rect" id="node4" href="$d0/d5e/classdjango_1_1db_1_1backends_1_1mysql_1_1base_1_1_database_operations.html" title="django.db.backends.mysql.base.\lDatabaseOperations" alt="" coords="414,71,627,112"/>
+<area shape="rect" id="node6" href="$d9/d74/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_operations.html" title="django.db.backends.oracle.base.\lDatabaseOperations" alt="" coords="414,136,627,177"/>
+<area shape="rect" id="node8" href="$d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html" title="django.db.backends.postgresql\l_psycopg2.operations.DatabaseOperations" alt="" coords="385,201,656,243"/>
+<area shape="rect" id="node9" href="$da/dbd/classdjango_1_1db_1_1backends_1_1sqlite3_1_1base_1_1_database_operations.html" title="django.db.backends.sqlite3.base.\lDatabaseOperations" alt="" coords="413,267,629,308"/>
+<area shape="rect" id="node5" href="$d7/d97/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1mysql_1_1operations_1_1_my_s_q_l_operations.html" title="django.contrib.gis.db.backends.mysql.operations.\lMySQLOperations" alt="" coords="713,71,1022,112"/>
+<area shape="rect" id="node7" href="$d9/dfb/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1operations_1_1_oracle_operations.html" title="django.contrib.gis.db.backends.oracle.operations.\lOracleOperations" alt="" coords="713,136,1022,177"/>
+<area shape="rect" id="node10" href="$d4/d8b/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1operations_1_1_spatia_lite_operations.html" title="django.contrib.gis.db.backends.spatialite.operations.\lSpatiaLiteOperations" alt="" coords="704,267,1031,308"/>
+</map>

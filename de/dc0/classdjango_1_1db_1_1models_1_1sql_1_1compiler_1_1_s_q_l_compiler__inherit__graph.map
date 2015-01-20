@@ -1,0 +1,8 @@
+<map id="django.db.models.sql.compiler.SQLCompiler" name="django.db.models.sql.compiler.SQLCompiler">
+<area shape="rect" id="node3" href="$d0/de1/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_aggregate_compiler.html" title="django.db.models.sql.compiler.\lSQLAggregateCompiler" alt="" coords="361,5,564,47"/>
+<area shape="rect" id="node4" href="$d4/d70/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_date_compiler.html" title="django.db.models.sql.compiler.\lSQLDateCompiler" alt="" coords="361,71,564,112"/>
+<area shape="rect" id="node5" href="$d3/ddc/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_date_time_compiler.html" title="django.db.models.sql.compiler.\lSQLDateTimeCompiler" alt="" coords="361,136,564,177"/>
+<area shape="rect" id="node6" href="$d2/d16/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_delete_compiler.html" title="django.db.models.sql.compiler.\lSQLDeleteCompiler" alt="" coords="361,201,564,243"/>
+<area shape="rect" id="node7" href="$dd/daa/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_insert_compiler.html" title="django.db.models.sql.compiler.\lSQLInsertCompiler" alt="" coords="361,267,564,308"/>
+<area shape="rect" id="node8" href="$d2/dcb/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_update_compiler.html" title="django.db.models.sql.compiler.\lSQLUpdateCompiler" alt="" coords="361,332,564,373"/>
+</map>

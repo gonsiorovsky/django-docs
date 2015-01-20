@@ -1,0 +1,5 @@
+<map id="django.contrib.auth.models.BaseUserManager.normalize_email" name="django.contrib.auth.models.BaseUserManager.normalize_email">
+<area shape="rect" id="node2" href="$d7/df7/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_manager.html#adc122387c1b2e0cf1883beea22090b06" title="django.contrib.auth.tests.custom\l_user.CustomUserManager.create_user" alt="" coords="280,53,532,94"/>
+<area shape="rect" id="node3" href="$d7/df7/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_manager.html#a5272c490ebf4162cd93efed36d6613a3" title="django.contrib.auth.tests.custom\l_user.CustomUserManager.create\l_superuser" alt="" coords="616,5,836,61"/>
+<area shape="rect" id="node4" href="$d4/d66/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_permissions_user_manager.html#a37076f8f43e0d7097bf043f5d167edd2" title="django.contrib.auth.tests.custom\l_user.CustomPermissionsUserManager.create\l_superuser" alt="" coords="580,85,872,141"/>
+</map>

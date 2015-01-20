@@ -1,0 +1,5 @@
+<map id="django.core.signing.base64_hmac" name="django.core.signing.base64_hmac">
+<area shape="rect" id="node2" href="$d0/da9/classdjango_1_1core_1_1signing_1_1_signer.html#a542e859ccb00af55852b825da2a6422a" title="django.core.signing.Signer.signature" alt="" coords="272,31,504,57"/>
+<area shape="rect" id="node3" href="$d0/da9/classdjango_1_1core_1_1signing_1_1_signer.html#abbe8a17742d227cc61e42d941eac635f" title="django.core.signing.Signer.sign" alt="" coords="559,5,762,32"/>
+<area shape="rect" id="node4" href="$d0/da9/classdjango_1_1core_1_1signing_1_1_signer.html#a1abfc2246f86f7596bd89a6234c3d8d1" title="django.core.signing.Signer.unsign" alt="" coords="552,56,769,83"/>
+</map>

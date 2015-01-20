@@ -1,0 +1,4 @@
+<map id="django.views.generic.dates.WeekMixin.get_week_format" name="django.views.generic.dates.WeekMixin.get_week_format">
+<area shape="rect" id="node2" href="$d5/dac/classdjango_1_1views_1_1generic_1_1dates_1_1_base_week_archive_view.html#aeee752c9270fad80424038e4c1777e66" title="django.views.generic.dates.\lBaseWeekArchiveView.get\l_dated_items" alt="" coords="491,5,672,61"/>
+<area shape="rect" id="node3" href="$d8/dcc/classdjango_1_1views_1_1generic_1_1dates_1_1_week_mixin.html#ae105a9750760c3376450de4f4fa869d5" title="django.views.generic.dates.\lWeekMixin.get_previous_week" alt="" coords="243,42,443,83"/>
+</map>

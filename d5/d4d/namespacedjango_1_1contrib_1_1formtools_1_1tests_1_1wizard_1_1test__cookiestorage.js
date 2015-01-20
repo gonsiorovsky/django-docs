@@ -1,0 +1,4 @@
+var namespacedjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__cookiestorage =
+[
+    [ "TestCookieStorage", "d6/d23/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__cookiestorage_1_1_test_cookie_storage.html", "d6/d23/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__cookiestorage_1_1_test_cookie_storage" ]
+];

@@ -1,0 +1,15 @@
+<map id="django.template.loader.select_template" name="django.template.loader.select_template">
+<area shape="rect" id="node2" href="$d1/d17/namespacedjango_1_1template_1_1base.html#a60987592ec7351dc27d0467484e23244" title="django.template.base.add\l_to_builtins" alt="" coords="247,134,418,175"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1151,25,1361,52"/>
+<area shape="rect" id="node9" href="$da/dc8/namespacedjango_1_1template_1_1loader.html#a2f6986171e7e067f929a3b3cedf22d4d" title="django.template.loader.get\l_template" alt="" coords="245,225,420,266"/>
+<area shape="rect" id="node3" href="$d1/d17/namespacedjango_1_1template_1_1base.html#a09a69b44eff1315a19d0bf7cfe33d544" title="django.template.base.import\l_library" alt="" coords="468,134,655,175"/>
+<area shape="rect" id="node4" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1165,166,1347,207"/>
+<area shape="rect" id="node5" href="$d1/d17/namespacedjango_1_1template_1_1base.html#a20f54fdf45870572ed8cf714ac824f09" title="django.template.base.is\l_library_missing" alt="" coords="717,107,877,149"/>
+<area shape="rect" id="node6" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#ad941fe81e259e2d21ebf4af7244c1cdb" title="django.utils.module\l_loading.module_has\l_submodule" alt="" coords="949,43,1093,99"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1409,25,1621,52"/>
+<area shape="rect" id="node10" href="$da/dc8/namespacedjango_1_1template_1_1loader.html#a71605369c25487d12521152df2368a2f" title="django.template.loader.find\l_template" alt="" coords="473,225,650,266"/>
+<area shape="rect" id="node14" href="$da/dc8/namespacedjango_1_1template_1_1loader.html#a12e290d21651cd746e17ac2b7439afde" title="django.template.loader.get\l_template_from_string" alt="" coords="474,290,649,331"/>
+<area shape="rect" id="node11" href="$da/dc8/namespacedjango_1_1template_1_1loader.html#ac088e083ef930816a8f4b05d9ca62a7d" title="django.template.loader.find\l_template_loader" alt="" coords="709,225,886,266"/>
+<area shape="rect" id="node13" href="$da/dc8/namespacedjango_1_1template_1_1loader.html#a8216ca2998a1fa74f67232ed404d91ce" title="django.template.loader.make\l_origin" alt="" coords="703,290,892,331"/>
+<area shape="rect" id="node12" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="940,225,1103,266"/>
+</map>

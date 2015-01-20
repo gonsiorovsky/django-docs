@@ -1,0 +1,4 @@
+<map id="django.contrib.auth.models.UserManager.create_user" name="django.contrib.auth.models.UserManager.create_user">
+<area shape="rect" id="node2" href="$d7/df7/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_user_manager.html#a5272c490ebf4162cd93efed36d6613a3" title="django.contrib.auth.tests.custom\l_user.CustomUserManager.create\l_superuser" alt="" coords="272,5,492,61"/>
+<area shape="rect" id="node3" href="$d4/d66/classdjango_1_1contrib_1_1auth_1_1tests_1_1custom__user_1_1_custom_permissions_user_manager.html#a37076f8f43e0d7097bf043f5d167edd2" title="django.contrib.auth.tests.custom\l_user.CustomPermissionsUserManager.create\l_superuser" alt="" coords="236,85,528,141"/>
+</map>

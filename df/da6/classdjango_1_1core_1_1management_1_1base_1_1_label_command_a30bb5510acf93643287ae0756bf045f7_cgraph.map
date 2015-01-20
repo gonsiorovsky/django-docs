@@ -1,0 +1,8 @@
+<map id="django.core.management.base.LabelCommand.handle" name="django.core.management.base.LabelCommand.handle">
+<area shape="rect" id="node2" href="$df/df7/classdjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1findstatic_1_1_command.html#abdd6b2c00ca1641aac148036775b6bbb" title="django.contrib.staticfiles.management.commands.findstatic.\lCommand.handle_label" alt="" coords="257,52,627,93"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="928,71,1139,98"/>
+<area shape="rect" id="node7" href="$df/da6/classdjango_1_1core_1_1management_1_1base_1_1_label_command.html#a3d6f44a365a4c3c63b9d2105e42128a2" title="django.core.management.base.\lLabelCommand.handle_label" alt="" coords="340,169,544,211"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="675,17,880,43"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="954,5,1113,47"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1187,71,1399,98"/>
+</map>

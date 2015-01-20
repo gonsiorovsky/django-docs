@@ -1,0 +1,8 @@
+<map id="django.contrib.contenttypes.generic.BaseGenericInlineFormSet.save_new" name="django.contrib.contenttypes.generic.BaseGenericInlineFormSet.save_new">
+<area shape="rect" id="node2" href="$d7/d5e/namespacedjango_1_1contrib_1_1contenttypes_1_1generic.html#ae254d75c4f5457a232a88c8f9cce1c76" title="django.contrib.contenttypes.generic.generic\l_inlineformset_factory" alt="" coords="291,37,565,79"/>
+<area shape="rect" id="node6" href="$d3/d88/namespacedjango_1_1forms_1_1models.html#af2e3604917077e60b9b00c1dc78f2cac" title="django.forms.models.save\l_instance" alt="" coords="342,103,514,144"/>
+<area shape="rect" id="node3" href="$d3/d88/namespacedjango_1_1forms_1_1models.html#a9434ad14a0aa54a455cf587afedb25b5" title="django.forms.models.modelformset\l_factory" alt="" coords="613,37,837,79"/>
+<area shape="rect" id="node4" href="$d3/d88/namespacedjango_1_1forms_1_1models.html#a9c176f9df863127d7f0860aa0d281faf" title="django.forms.models.modelform\l_factory" alt="" coords="885,5,1092,47"/>
+<area shape="rect" id="node5" href="$de/de8/namespacedjango_1_1forms_1_1formsets.html#a441a3a3ad401e1569f0b976313d71732" title="django.forms.formsets.formset\l_factory" alt="" coords="890,71,1087,112"/>
+<area shape="rect" id="node7" href="$d3/d88/namespacedjango_1_1forms_1_1models.html#a9c7ab2cc6d933564a276b2ce8caa2a3d" title="django.forms.models.construct\l_instance" alt="" coords="625,103,825,144"/>
+</map>

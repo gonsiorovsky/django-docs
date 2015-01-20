@@ -1,0 +1,9 @@
+<map id="django.test.client.RequestFactory.delete" name="django.test.client.RequestFactory.delete">
+<area shape="rect" id="node2" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#abab3370485e8e958740214356eaa7fef" title="django.test.client.Request\lFactory.patch" alt="" coords="247,39,420,80"/>
+<area shape="rect" id="node7" href="$d3/d92/classdjango_1_1views_1_1generic_1_1edit_1_1_deletion_mixin.html#a22cc0d886d2daa895c22b922defba6dd" title="django.views.generic.edit.\lDeletionMixin.post" alt="" coords="248,104,419,145"/>
+<area shape="rect" id="node8" href="$d8/d03/classdjango_1_1contrib_1_1staticfiles_1_1storage_1_1_cached_files_mixin.html#ae72c4e7e7b13ec29b5a8a42b7571ae71" title="django.contrib.staticfiles.storage.\lCachedFilesMixin.post_process" alt="" coords="227,169,440,211"/>
+<area shape="rect" id="node3" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#a7aed0504686e4bfca0804466f958a7de" title="django.test.client.Request\lFactory.put" alt="" coords="488,39,661,80"/>
+<area shape="rect" id="node4" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#aa705c5af528618e174de8b24f4012879" title="django.test.client.Request\lFactory.options" alt="" coords="709,39,883,80"/>
+<area shape="rect" id="node5" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#a6e2eb89fdb18822a4210810a61e4baf6" title="django.test.client.Request\lFactory.head" alt="" coords="945,5,1119,47"/>
+<area shape="rect" id="node6" href="$d8/d49/classdjango_1_1core_1_1serializers_1_1pyyaml_1_1_serializer.html#ae5b3d75b4f4cfd6def2b9073c99c3fe1" title="django.core.serializers.pyyaml.\lSerializer.end_serialization" alt="" coords="931,71,1133,112"/>
+</map>

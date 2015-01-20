@@ -1,0 +1,4 @@
+<map id="django.contrib.sessions.backends.signed_cookies.SessionStore.load" name="django.contrib.sessions.backends.signed_cookies.SessionStore.load">
+<area shape="rect" id="node2" href="$d1/d72/classdjango_1_1contrib_1_1admin_1_1filters_1_1_field_list_filter.html#ae83f4fd0e217eac7fce541a6a172e3cb" title="django.contrib.admin.filters.\lFieldListFilter.create" alt="" coords="351,5,533,47"/>
+<area shape="rect" id="node3" href="$d1/d6e/classdjango_1_1contrib_1_1sessions_1_1backends_1_1base_1_1_session_base.html#af5c1fd6bd673111d55fc1641a088274a" title="django.contrib.sessions.backends.base.\lSessionBase.create" alt="" coords="315,71,569,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.db.backends.postgis.creation.PostGISCreation.template_postgis" name="django.contrib.gis.db.backends.postgis.creation.PostGISCreation.template_postgis">
+<area shape="rect" id="node2" href="$d1/d3e/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1creation_1_1_post_g_i_s_creation.html#a38fe99d8f460e55a543bb1d824783e42" title="django.contrib.gis.db.backends.postgis.creation.\lPostGISCreation.sql_table_creation_suffix" alt="" coords="356,13,659,54"/>
+<area shape="rect" id="node3" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html#a3bc296105b61d3f41dc2906a088ee571" title="django.db.backends.creation.\lBaseDatabaseCreation.create\l_test_db" alt="" coords="707,5,901,61"/>
+</map>

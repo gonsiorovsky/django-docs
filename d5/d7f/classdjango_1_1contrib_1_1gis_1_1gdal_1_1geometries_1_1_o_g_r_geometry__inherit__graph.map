@@ -1,0 +1,11 @@
+<map id="django.contrib.gis.gdal.geometries.OGRGeometry" name="django.contrib.gis.gdal.geometries.OGRGeometry">
+<area shape="rect" id="node4" href="$d3/d4a/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_geometry_collection.html" title="django.contrib.gis.gdal.geometries.\lGeometryCollection" alt="" coords="619,87,843,128"/>
+<area shape="rect" id="node8" href="$d9/d27/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_line_string.html" title="django.contrib.gis.gdal.geometries.\lLineString" alt="" coords="619,184,843,225"/>
+<area shape="rect" id="node10" href="$da/dc8/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_point.html" title="django.contrib.gis.gdal.geometries.\lPoint" alt="" coords="619,249,843,291"/>
+<area shape="rect" id="node11" href="$d7/da5/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_polygon.html" title="django.contrib.gis.gdal.geometries.\lPolygon" alt="" coords="619,315,843,356"/>
+<area shape="rect" id="node2" href="$d3/d35/classdjango_1_1contrib_1_1gis_1_1gdal_1_1base_1_1_g_d_a_l_base.html" title="django.contrib.gis.gdal.base.\lGDALBase" alt="" coords="111,217,299,259"/>
+<area shape="rect" id="node5" href="$d8/dc7/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_multi_line_string.html" title="django.contrib.gis.gdal.geometries.\lMultiLineString" alt="" coords="891,5,1115,47"/>
+<area shape="rect" id="node6" href="$d1/d74/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_multi_point.html" title="django.contrib.gis.gdal.geometries.\lMultiPoint" alt="" coords="891,71,1115,112"/>
+<area shape="rect" id="node7" href="$d5/d37/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_multi_polygon.html" title="django.contrib.gis.gdal.geometries.\lMultiPolygon" alt="" coords="891,136,1115,177"/>
+<area shape="rect" id="node9" href="$dc/dac/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_linear_ring.html" title="django.contrib.gis.gdal.geometries.\lLinearRing" alt="" coords="891,201,1115,243"/>
+</map>

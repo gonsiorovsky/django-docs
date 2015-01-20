@@ -1,0 +1,6 @@
+<map id="django.contrib.admin.tests.AdminSeleniumWebDriverTestCase.admin_login" name="django.contrib.admin.tests.AdminSeleniumWebDriverTestCase.admin_login">
+<area shape="rect" id="node2" href="$d6/dd6/classdjango_1_1test_1_1testcases_1_1_live_server_test_case.html#a0bb534544c66db06624f97af57415f6e" title="django.test.testcases.Live\lServerTestCase.live_server_url" alt="" coords="382,5,579,47"/>
+<area shape="rect" id="node3" href="$d2/dc8/classdjango_1_1contrib_1_1admin_1_1tests_1_1_admin_selenium_web_driver_test_case.html#a17d9afccef62f60207383a3b1dc41926" title="django.contrib.admin.tests.\lAdminSeleniumWebDriverTestCase.wait\l_page_loaded" alt="" coords="353,70,608,126"/>
+<area shape="rect" id="node4" href="$d2/dc8/classdjango_1_1contrib_1_1admin_1_1tests_1_1_admin_selenium_web_driver_test_case.html#ab24313fa2fddb87090398f499d419d19" title="django.contrib.admin.tests.\lAdminSeleniumWebDriverTestCase.wait\l_loaded_tag" alt="" coords="656,70,911,126"/>
+<area shape="rect" id="node5" href="$d2/dc8/classdjango_1_1contrib_1_1admin_1_1tests_1_1_admin_selenium_web_driver_test_case.html#aaf1442b535b56024db359c29576804f1" title="django.contrib.admin.tests.\lAdminSeleniumWebDriverTestCase.wait_until" alt="" coords="959,77,1244,119"/>
+</map>

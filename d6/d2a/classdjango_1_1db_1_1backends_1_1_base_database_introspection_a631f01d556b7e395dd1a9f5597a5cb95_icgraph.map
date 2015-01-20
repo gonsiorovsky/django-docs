@@ -1,0 +1,4 @@
+<map id="django.db.backends.BaseDatabaseIntrospection.table_name_converter" name="django.db.backends.BaseDatabaseIntrospection.table_name_converter">
+<area shape="rect" id="node2" href="$d6/d2a/classdjango_1_1db_1_1backends_1_1_base_database_introspection.html#a5f38ab4011685ec75f5c0648d99e7c1e" title="django.db.backends.BaseDatabase\lIntrospection.django_table_names" alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$d6/d2a/classdjango_1_1db_1_1backends_1_1_base_database_introspection.html#a8b97f9d577a0cf24e4f6a9a697b95634" title="django.db.backends.BaseDatabase\lIntrospection.installed_models" alt="" coords="280,71,507,112"/>
+</map>

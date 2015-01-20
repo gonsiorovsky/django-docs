@@ -1,0 +1,4 @@
+<map id="django.db.backends.mysql.introspection.DatabaseIntrospection.get_relations" name="django.db.backends.mysql.introspection.DatabaseIntrospection.get_relations">
+<area shape="rect" id="node2" href="$da/dba/classdjango_1_1db_1_1backends_1_1mysql_1_1introspection_1_1_database_introspection.html#ad42a2d95b144bd336269e329036a96ab" title="django.db.backends.mysql.introspection.\lDatabaseIntrospection._name_to_index" alt="" coords="312,5,571,47"/>
+<area shape="rect" id="node3" href="$d6/d2a/classdjango_1_1db_1_1backends_1_1_base_database_introspection.html#a3a6ee8ea7368e76e384a43dd82c645b9" title="django.db.backends.BaseDatabase\lIntrospection.get_key_columns" alt="" coords="328,71,555,112"/>
+</map>

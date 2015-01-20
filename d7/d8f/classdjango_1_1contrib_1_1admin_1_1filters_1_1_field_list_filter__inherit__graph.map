@@ -1,0 +1,8 @@
+<map id="django.contrib.admin.filters.FieldListFilter" name="django.contrib.admin.filters.FieldListFilter">
+<area shape="rect" id="node4" href="$d8/dbb/classdjango_1_1contrib_1_1admin_1_1filters_1_1_all_values_field_list_filter.html" title="django.contrib.admin.filters.\lAllValuesFieldListFilter" alt="" coords="569,5,751,47"/>
+<area shape="rect" id="node5" href="$d0/d77/classdjango_1_1contrib_1_1admin_1_1filters_1_1_boolean_field_list_filter.html" title="django.contrib.admin.filters.\lBooleanFieldListFilter" alt="" coords="569,71,751,112"/>
+<area shape="rect" id="node6" href="$da/d4b/classdjango_1_1contrib_1_1admin_1_1filters_1_1_choices_field_list_filter.html" title="django.contrib.admin.filters.\lChoicesFieldListFilter" alt="" coords="569,136,751,177"/>
+<area shape="rect" id="node7" href="$d2/dc4/classdjango_1_1contrib_1_1admin_1_1filters_1_1_date_field_list_filter.html" title="django.contrib.admin.filters.\lDateFieldListFilter" alt="" coords="569,201,751,243"/>
+<area shape="rect" id="node8" href="$d1/df5/classdjango_1_1contrib_1_1admin_1_1filters_1_1_related_field_list_filter.html" title="django.contrib.admin.filters.\lRelatedFieldListFilter" alt="" coords="569,267,751,308"/>
+<area shape="rect" id="node2" href="$da/ddb/classdjango_1_1contrib_1_1admin_1_1filters_1_1_list_filter.html" title="django.contrib.admin.filters.\lListFilter" alt="" coords="111,136,292,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.db.backends.mysql.compiler.SQLCompiler.resolve_columns" name="django.db.backends.mysql.compiler.SQLCompiler.resolve_columns">
+<area shape="rect" id="node2" href="$df/de2/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_compiler.html#a752e5b7d4ea925691750bd9e6754c9d0" title="django.db.models.sql.compiler.\lSQLCompiler.results_iter" alt="" coords="298,5,501,47"/>
+<area shape="rect" id="node3" href="$d4/d70/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_date_compiler.html#ae7169bdc240d21713c126add18b0538b" title="django.db.models.sql.compiler.\lSQLDateCompiler.results_iter" alt="" coords="298,71,501,112"/>
+<area shape="rect" id="node4" href="$d3/ddc/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_date_time_compiler.html#a51353f9ba84d276edf452b0fc5381021" title="django.db.models.sql.compiler.\lSQLDateTimeCompiler.results_iter" alt="" coords="288,136,511,177"/>
+</map>

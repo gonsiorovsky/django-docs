@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.tests.test_measure.run" name="django.contrib.gis.tests.test_measure.run">
+<area shape="rect" id="node2" href="$d6/d69/classdjango_1_1test_1_1runner_1_1_discover_runner.html#a2446d1738da78b7bda661db4eafeab35" title="django.test.runner.Discover\lRunner.run_suite" alt="" coords="265,8,443,49"/>
+<area shape="rect" id="node4" href="$da/d6d/namespacedjango_1_1core_1_1servers_1_1fastcgi.html#a5761d7a92a3eac4c9dee0144e1473644" title="django.core.servers.fastcgi.runfastcgi" alt="" coords="236,75,472,102"/>
+<area shape="rect" id="node3" href="$d6/d69/classdjango_1_1test_1_1runner_1_1_discover_runner.html#af5ab1b958e3ac23ad34faf16d8c14f3f" title="django.test.runner.Discover\lRunner.run_tests" alt="" coords="572,5,751,47"/>
+<area shape="rect" id="node5" href="$de/d4e/classdjango_1_1core_1_1management_1_1commands_1_1runfcgi_1_1_command.html#ae70cef5cab2ab37586e0db098cf3c075" title="django.core.management.commands.runfcgi.\lCommand.handle" alt="" coords="520,71,803,112"/>
+</map>

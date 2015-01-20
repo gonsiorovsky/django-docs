@@ -1,0 +1,8 @@
+<map id="django.db.models.fields.IntegerField" name="django.db.models.fields.IntegerField">
+<area shape="rect" id="node4" href="$d9/d38/classdjango_1_1db_1_1models_1_1fields_1_1_big_integer_field.html" title="django.db.models.fields.\lBigIntegerField" alt="" coords="550,5,713,47"/>
+<area shape="rect" id="node5" href="$d6/d1e/classdjango_1_1db_1_1models_1_1fields_1_1_positive_integer_field.html" title="django.db.models.fields.\lPositiveIntegerField" alt="" coords="550,71,713,112"/>
+<area shape="rect" id="node6" href="$da/d6c/classdjango_1_1db_1_1models_1_1fields_1_1_positive_small_integer_field.html" title="django.db.models.fields.\lPositiveSmallIntegerField" alt="" coords="548,136,715,177"/>
+<area shape="rect" id="node7" href="$d6/df4/classdjango_1_1db_1_1models_1_1fields_1_1proxy_1_1_order_wrt.html" title="django.db.models.fields.proxy.\lOrderWrt" alt="" coords="532,201,731,243"/>
+<area shape="rect" id="node8" href="$dc/d77/classdjango_1_1db_1_1models_1_1fields_1_1_small_integer_field.html" title="django.db.models.fields.\lSmallIntegerField" alt="" coords="550,267,713,308"/>
+<area shape="rect" id="node2" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html" title="django.db.models.fields.\lField" alt="" coords="111,136,273,177"/>
+</map>

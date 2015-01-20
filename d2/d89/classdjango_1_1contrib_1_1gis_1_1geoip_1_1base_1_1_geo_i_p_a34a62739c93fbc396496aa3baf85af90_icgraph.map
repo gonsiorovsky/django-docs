@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.geoip.base.GeoIP.coords" name="django.contrib.gis.geoip.base.GeoIP.coords">
+<area shape="rect" id="node2" href="$d2/d89/classdjango_1_1contrib_1_1gis_1_1geoip_1_1base_1_1_geo_i_p.html#a181df60e5816b3262c930ca9d7b48862" title="django.contrib.gis.geoip.base.\lGeoIP.lat_lon" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$d2/d89/classdjango_1_1contrib_1_1gis_1_1geoip_1_1base_1_1_geo_i_p.html#a5c765f1d49257b48ffb3f5ba761ab987" title="django.contrib.gis.geoip.base.\lGeoIP.lon_lat" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node4" href="$d2/d89/classdjango_1_1contrib_1_1gis_1_1geoip_1_1base_1_1_geo_i_p.html#aace65b6ed62d5038c1c533d721b8ca94" title="django.contrib.gis.geoip.base.\lGeoIP.geos" alt="" coords="491,71,685,112"/>
+</map>

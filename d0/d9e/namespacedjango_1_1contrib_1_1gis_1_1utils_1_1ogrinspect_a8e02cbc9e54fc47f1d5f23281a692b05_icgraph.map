@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.utils.ogrinspect.ogrinspect" name="django.contrib.gis.utils.ogrinspect.ogrinspect">
+<area shape="rect" id="node2" href="$df/de5/classdjango_1_1contrib_1_1gis_1_1tests_1_1inspectapp_1_1tests_1_1_o_g_r_inspect_test.html#a13d8ef4c461f8d743c8a79136b4d1cb9" title="django.contrib.gis.tests.inspectapp.tests.\lOGRInspectTest.test_date_field" alt="" coords="333,5,595,47"/>
+<area shape="rect" id="node3" href="$df/de5/classdjango_1_1contrib_1_1gis_1_1tests_1_1inspectapp_1_1tests_1_1_o_g_r_inspect_test.html#a16bf8312e39643e74a33379f1c4ebbd3" title="django.contrib.gis.tests.inspectapp.tests.\lOGRInspectTest.test_poly" alt="" coords="333,71,595,112"/>
+<area shape="rect" id="node4" href="$df/de5/classdjango_1_1contrib_1_1gis_1_1tests_1_1inspectapp_1_1tests_1_1_o_g_r_inspect_test.html#ac1867ab2aa625dacc4dc9d7b9b9813e5" title="django.contrib.gis.tests.inspectapp.tests.\lOGRInspectTest.test_time_field" alt="" coords="333,136,595,177"/>
+</map>

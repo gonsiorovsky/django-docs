@@ -1,0 +1,27 @@
+<map id="django.forms.widgets.Input" name="django.forms.widgets.Input">
+<area shape="rect" id="node6" href="$da/dbe/classdjango_1_1forms_1_1widgets_1_1_file_input.html" title="django.forms.widgets.File\lInput" alt="" coords="801,5,971,47"/>
+<area shape="rect" id="node9" href="$dc/d3c/classdjango_1_1forms_1_1widgets_1_1_hidden_input.html" title="django.forms.widgets.Hidden\lInput" alt="" coords="792,71,980,112"/>
+<area shape="rect" id="node11" href="$d4/d9b/classdjango_1_1forms_1_1widgets_1_1_text_input.html" title="django.forms.widgets.Text\lInput" alt="" coords="799,431,973,472"/>
+<area shape="rect" id="node2" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html" title="django.forms.widgets.Widget" alt="" coords="331,78,520,105"/>
+<area shape="rect" id="node4" href="$de/d5f/classdjango_1_1forms_1_1widgets_1_1_media_defining_class.html" title="django.forms.widgets.Media\lDefiningClass" alt="" coords="100,100,283,141"/>
+<area shape="rect" id="node7" href="$d2/de5/classdjango_1_1forms_1_1widgets_1_1_clearable_file_input.html" title="django.forms.widgets.Clearable\lFileInput" alt="" coords="1062,5,1265,47"/>
+<area shape="rect" id="node8" href="$de/d82/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_file_widget.html" title="django.contrib.admin.widgets.\lAdminFileWidget" alt="" coords="1347,5,1541,47"/>
+<area shape="rect" id="node10" href="$d4/d67/classdjango_1_1forms_1_1widgets_1_1_multiple_hidden_input.html" title="django.forms.widgets.Multiple\lHiddenInput" alt="" coords="1067,71,1260,112"/>
+<area shape="rect" id="node12" href="$da/d61/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_comma_separated_integer_field_widget.html" title="django.contrib.admin.widgets.\lAdminCommaSeparatedIntegerFieldWidget" alt="" coords="1028,136,1299,177"/>
+<area shape="rect" id="node13" href="$d4/d7e/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_integer_field_widget.html" title="django.contrib.admin.widgets.\lAdminIntegerFieldWidget" alt="" coords="1066,201,1261,243"/>
+<area shape="rect" id="node15" href="$d8/d6e/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_text_input_widget.html" title="django.contrib.admin.widgets.\lAdminTextInputWidget" alt="" coords="1066,267,1261,308"/>
+<area shape="rect" id="node16" href="$db/d0b/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_foreign_key_raw_id_widget.html" title="django.contrib.admin.widgets.\lForeignKeyRawIdWidget" alt="" coords="1066,332,1261,373"/>
+<area shape="rect" id="node18" href="$d1/dfd/classdjango_1_1forms_1_1widgets_1_1_date_input.html" title="django.forms.widgets.Date\lInput" alt="" coords="1076,397,1251,439"/>
+<area shape="rect" id="node20" href="$db/d0f/classdjango_1_1forms_1_1widgets_1_1_date_time_input.html" title="django.forms.widgets.Date\lTimeInput" alt="" coords="1076,463,1251,504"/>
+<area shape="rect" id="node21" href="$d4/dc6/classdjango_1_1forms_1_1widgets_1_1_email_input.html" title="django.forms.widgets.Email\lInput" alt="" coords="1073,528,1254,569"/>
+<area shape="rect" id="node23" href="$d9/d1c/classdjango_1_1forms_1_1widgets_1_1_number_input.html" title="django.forms.widgets.Number\lInput" alt="" coords="1067,593,1260,635"/>
+<area shape="rect" id="node24" href="$d4/d44/classdjango_1_1forms_1_1widgets_1_1_password_input.html" title="django.forms.widgets.Password\lInput" alt="" coords="1061,659,1266,700"/>
+<area shape="rect" id="node25" href="$d1/d4b/classdjango_1_1forms_1_1widgets_1_1_time_input.html" title="django.forms.widgets.Time\lInput" alt="" coords="1075,724,1251,765"/>
+<area shape="rect" id="node27" href="$df/d9c/classdjango_1_1forms_1_1widgets_1_1_u_r_l_input.html" title="django.forms.widgets.URLInput" alt="" coords="1063,793,1264,819"/>
+<area shape="rect" id="node14" href="$d6/ddc/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_big_integer_field_widget.html" title="django.contrib.admin.widgets.\lAdminBigIntegerFieldWidget" alt="" coords="1347,201,1541,243"/>
+<area shape="rect" id="node17" href="$d4/d57/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_many_to_many_raw_id_widget.html" title="django.contrib.admin.widgets.\lManyToManyRawIdWidget" alt="" coords="1347,332,1541,373"/>
+<area shape="rect" id="node19" href="$d2/d6a/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_date_widget.html" title="django.contrib.admin.widgets.\lAdminDateWidget" alt="" coords="1347,397,1541,439"/>
+<area shape="rect" id="node22" href="$d5/d04/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_email_input_widget.html" title="django.contrib.admin.widgets.\lAdminEmailInputWidget" alt="" coords="1347,528,1541,569"/>
+<area shape="rect" id="node26" href="$dd/d28/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_time_widget.html" title="django.contrib.admin.widgets.\lAdminTimeWidget" alt="" coords="1347,721,1541,763"/>
+<area shape="rect" id="node28" href="$d2/d38/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_u_r_l_field_widget.html" title="django.contrib.admin.widgets.\lAdminURLFieldWidget" alt="" coords="1347,787,1541,828"/>
+</map>

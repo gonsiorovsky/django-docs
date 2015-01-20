@@ -1,0 +1,7 @@
+<map id="django.template.base.NodeList.render" name="django.template.base.NodeList.render">
+<area shape="rect" id="node2" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="233,21,439,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="487,71,697,98"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="745,97,957,123"/>
+<area shape="rect" id="node6" href="$d9/d1a/classdjango_1_1template_1_1base_1_1_node_list.html#a7473f8e6a469b4936bb067b8803d7529" title="django.template.base.Node\lList.render_node" alt="" coords="246,173,426,215"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="513,5,671,47"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="django.template.base.Parser.parse" name="django.template.base.Parser.parse">
+<area shape="rect" id="node2" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a4b4dd453f6b865e1e34d93d2112261bb" title="django.template.base.Parser.compile\l_filter" alt="" coords="281,5,518,47"/>
+<area shape="rect" id="node3" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a1c8d5ae3945438ef7993851ebebc3f07" title="django.template.base.Parser.compile\l_filter_error" alt="" coords="281,71,518,112"/>
+<area shape="rect" id="node4" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a6178f7508676e7a00acbe8a572000e92" title="django.template.base.Parser.compile\l_function_error" alt="" coords="281,136,518,177"/>
+<area shape="rect" id="node5" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a23da693938741e684d747bb7e0dad6d7" title="django.template.base.Parser.create\l_nodelist" alt="" coords="285,201,513,243"/>
+<area shape="rect" id="node6" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a42c0f36e140e02a797f6b791287630ae" title="django.template.base.Parser.create\l_variable_node" alt="" coords="285,267,513,308"/>
+<area shape="rect" id="node7" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a2d1c90033790c12e5696567dc2557b1a" title="django.template.base.Parser.empty\l_block_tag" alt="" coords="285,332,513,373"/>
+<area shape="rect" id="node10" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#ad837eacd85e89b31b1b657fc827b2d55" title="django.template.base.Parser.empty\l_variable" alt="" coords="285,397,513,439"/>
+<area shape="rect" id="node11" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a9c4b47b76f1ea3042b2ab74cbafdb984" title="django.template.base.Parser.enter\l_command" alt="" coords="289,593,510,635"/>
+<area shape="rect" id="node12" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a11b363e2c279329e1dc4496142a5e8a8" title="django.template.base.Parser.exit\l_command" alt="" coords="293,659,506,700"/>
+<area shape="rect" id="node13" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a4ebaa166084eec6c6f2d795dc630edb1" title="django.template.base.Parser.extend\l_nodelist" alt="" coords="284,724,515,765"/>
+<area shape="rect" id="node14" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a945da1e0b18455f22546677c80eda306" title="django.template.base.Parser.invalid\l_block_tag" alt="" coords="286,463,513,504"/>
+<area shape="rect" id="node15" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a6d98e5ee47f5636c1d99f2fae644cda8" title="django.template.base.Parser.next\l_token" alt="" coords="291,789,508,831"/>
+<area shape="rect" id="node16" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a5a3639dc3e8719597def54ef2373408d" title="django.template.base.Parser.prepend\l_token" alt="" coords="280,855,519,896"/>
+<area shape="rect" id="node17" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#a934456576d3d8d39b116e26fbf458927" title="django.template.base.Parser.unclosed\l_block_tag" alt="" coords="277,528,521,569"/>
+<area shape="rect" id="node8" href="$d0/df3/classdjango_1_1core_1_1management_1_1_lax_option_parser.html#a66956b32699c3f4a4c87cfc9231273ae" title="django.core.management.Lax\lOptionParser.error" alt="" coords="582,461,775,503"/>
+<area shape="rect" id="node9" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#ad3fe9f2107c92584e4cda2af6b139fef" title="django.template.base.Parser.error" alt="" coords="569,407,788,434"/>
+<area shape="rect" id="node18" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="573,535,784,562"/>
+<area shape="rect" id="node19" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="836,535,1048,562"/>
+</map>

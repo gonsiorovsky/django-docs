@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.geos.geometry.GEOSGeometry.__deepcopy__" name="django.contrib.gis.geos.geometry.GEOSGeometry.__deepcopy__">
+<area shape="rect" id="node2" href="$d2/de5/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1query_1_1_geo_query.html#a29ae01547149c137b1dd12c2dc9f2ff6" title="django.contrib.gis.db.models.sql.query.\lGeoQuery.clone" alt="" coords="272,5,521,47"/>
+<area shape="rect" id="node3" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#aa6bb2cfdaa60bf19cc387c4ab5747e79" title="Other Methods ###. " alt="" coords="288,71,505,112"/>
+<area shape="rect" id="node5" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#ab518a573c006e7fd51d3c611f1e3d5d1" title="django.contrib.gis.gdal.srs.\lSpatialReference.clone" alt="" coords="307,136,486,177"/>
+<area shape="rect" id="node6" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#aa632a5e07e0facf26b59c993c332b863" title="Geometry Methods ####. " alt="" coords="285,201,509,243"/>
+<area shape="rect" id="node7" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a391607a18e26cffba429cba08dc4e8a0" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.clone" alt="" coords="287,267,506,308"/>
+<area shape="rect" id="node4" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#ad1c79576c2c64486cc16bc9739d04fde" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.hasz" alt="" coords="569,71,787,112"/>
+</map>

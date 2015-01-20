@@ -1,0 +1,7 @@
+<map id="django.db.utils.ConnectionHandler.databases" name="django.db.utils.ConnectionHandler.databases">
+<area shape="rect" id="node2" href="$d8/dd5/classdjango_1_1db_1_1utils_1_1_connection_handler.html#af88293b54e22771fbf0703109ccb1dd6" title="django.db.utils.Connection\lHandler.__getitem__" alt="" coords="451,5,625,47"/>
+<area shape="rect" id="node3" href="$d8/dd5/classdjango_1_1db_1_1utils_1_1_connection_handler.html#a5e1d949d029b7d44731a42e6711c0a69" title="django.db.utils.Connection\lHandler.__iter__" alt="" coords="228,100,403,141"/>
+<area shape="rect" id="node6" href="$d8/dd5/classdjango_1_1db_1_1utils_1_1_connection_handler.html#a2fdacc49d0659e6cc082ae00bb1f989a" title="django.db.utils.Connection\lHandler.ensure_defaults" alt="" coords="228,35,403,76"/>
+<area shape="rect" id="node4" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#af70be3e86cf9812f14778f199f011d36" title="django.forms.forms.Bound\lField.__getitem__" alt="" coords="451,85,625,127"/>
+<area shape="rect" id="node5" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a51c097fed64a889d6b3585cb847fd061" title="django.forms.forms.Bound\lField.__len__" alt="" coords="451,151,625,192"/>
+</map>

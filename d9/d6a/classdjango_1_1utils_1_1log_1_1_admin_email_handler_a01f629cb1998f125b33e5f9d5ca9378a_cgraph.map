@@ -1,0 +1,14 @@
+<map id="django.utils.log.AdminEmailHandler.emit" name="django.utils.log.AdminEmailHandler.emit">
+<area shape="rect" id="node2" href="$d9/d6a/classdjango_1_1utils_1_1log_1_1_admin_email_handler.html#a07baeac3b7b8c28175cfd3a4a55ba9b5" title="django.utils.log.AdminEmail\lHandler.connection" alt="" coords="250,19,433,60"/>
+<area shape="rect" id="node10" href="$d9/d6a/classdjango_1_1utils_1_1log_1_1_admin_email_handler.html#ae1e6b0f750a0e17e68e6620d28a818e3" title="django.utils.log.AdminEmail\lHandler.format_subject" alt="" coords="250,84,433,125"/>
+<area shape="rect" id="node11" href="$de/dca/namespacedjango_1_1views_1_1debug.html#a55efbb25b6758dfe2ef9c0375ec9ed72" title="django.views.debug.get\l_exception_reporter_filter" alt="" coords="517,109,684,151"/>
+<area shape="rect" id="node12" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="236,201,447,227"/>
+<area shape="rect" id="node3" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#af23a6c3b0b237e8d2dddebeacf1e3280" title="django.core.mail.get\l_connection" alt="" coords="531,32,670,73"/>
+<area shape="rect" id="node4" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="763,93,926,135"/>
+<area shape="rect" id="node6" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a9a59581344fb9f831eb84538e72b5859" title="django.core.mail.send_mail" alt="" coords="755,39,935,66"/>
+<area shape="rect" id="node5" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="983,93,1164,135"/>
+<area shape="rect" id="node7" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#ac138868345f5743295cee7f3da2dd9cc" title="django.core.mail.send\l_mass_mail" alt="" coords="999,5,1148,47"/>
+<area shape="rect" id="node8" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a0629c7138bf20a934f55e3b9d0c71091" title="django.core.mail.mail\l_admins" alt="" coords="1212,5,1357,47"/>
+<area shape="rect" id="node9" href="$d1/d6c/namespacedjango_1_1core_1_1mail.html#a8cb94df3622dea39f0800eee58a3eab1" title="django.core.mail.mail\l_managers" alt="" coords="1405,5,1551,47"/>
+<area shape="rect" id="node13" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="495,201,707,227"/>
+</map>

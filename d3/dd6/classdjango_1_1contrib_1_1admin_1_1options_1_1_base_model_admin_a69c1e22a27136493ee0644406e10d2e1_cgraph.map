@@ -1,0 +1,6 @@
+<map id="django.contrib.admin.options.BaseModelAdmin.formfield_for_dbfield" name="django.contrib.admin.options.BaseModelAdmin.formfield_for_dbfield">
+<area shape="rect" id="node2" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a939b71834c38360bbdc946292266ff67" title="django.contrib.admin.options.\lBaseModelAdmin.formfield\l_for_choice_field" alt="" coords="245,5,437,61"/>
+<area shape="rect" id="node3" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a8c1b22ec934cb28a9db530bc8052aa03" title="django.contrib.admin.options.\lBaseModelAdmin.formfield\l_for_foreignkey" alt="" coords="245,85,437,141"/>
+<area shape="rect" id="node5" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#ab05636fffc6d583e3951b912b075fbc7" title="django.contrib.admin.options.\lBaseModelAdmin.formfield\l_for_manytomany" alt="" coords="245,165,437,221"/>
+<area shape="rect" id="node4" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a022685398b82b425b5eba4d3d115ce05" title="django.contrib.admin.options.\lBaseModelAdmin.get_field\l_queryset" alt="" coords="485,125,677,181"/>
+</map>

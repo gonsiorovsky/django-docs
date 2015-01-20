@@ -1,0 +1,7 @@
+<map id="django.utils.unittest.loader.TestLoader.loadTestsFromName" name="django.utils.unittest.loader.TestLoader.loadTestsFromName">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="268,5,479,32"/>
+<area shape="rect" id="node4" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#a3f533bc2053ce897f21c68748b593b20" title="django.utils.unittest.loader.\lTestLoader.loadTestsFromModule" alt="" coords="264,57,483,98"/>
+<area shape="rect" id="node5" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#abcaeab2e42b33457f9fab771ab1acf36" title="django.utils.unittest.loader.\lTestLoader.loadTestsFromTestCase" alt="" coords="531,86,761,127"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="540,5,752,32"/>
+<area shape="rect" id="node6" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#ad3f87e3ed0b1aa019e0b17fb293333af" title="django.utils.unittest.loader.\lTestLoader.getTestCaseNames" alt="" coords="809,86,1013,127"/>
+</map>

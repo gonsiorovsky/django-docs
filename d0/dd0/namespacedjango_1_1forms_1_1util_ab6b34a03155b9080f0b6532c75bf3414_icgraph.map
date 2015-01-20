@@ -1,0 +1,4 @@
+<map id="django.forms.util.from_current_timezone" name="django.forms.util.from_current_timezone">
+<area shape="rect" id="node2" href="$d4/def/classdjango_1_1forms_1_1fields_1_1_split_date_time_field.html#a57811d9bfac73177ca933ce3440fe870" title="django.forms.fields.Split\lDateTimeField.compress" alt="" coords="200,5,367,47"/>
+<area shape="rect" id="node3" href="$d8/db3/classdjango_1_1forms_1_1fields_1_1_date_time_field.html#aa977270e36f58ffe67039d9f3ce08a74" title="django.forms.fields.Date\lTimeField.to_python" alt="" coords="203,71,364,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="django.contrib.admin.filters.BooleanFieldListFilter.choices" name="django.contrib.admin.filters.BooleanFieldListFilter.choices">
+<area shape="rect" id="node2" href="$da/d22/classdjango_1_1forms_1_1widgets_1_1_renderer_mixin.html#a2d5a6f9f527cdf57b9af2cdecc42d22d" title="django.forms.widgets.Renderer\lMixin.get_renderer" alt="" coords="249,39,449,80"/>
+<area shape="rect" id="node3" href="$da/d22/classdjango_1_1forms_1_1widgets_1_1_renderer_mixin.html#a5084e41a11ec102cc729d31852915d29" title="django.forms.widgets.Renderer\lMixin.subwidgets" alt="" coords="497,5,697,47"/>
+<area shape="rect" id="node4" href="$da/d22/classdjango_1_1forms_1_1widgets_1_1_renderer_mixin.html#af0d5c6ada2df090e25844e0000b030f0" title="django.forms.widgets.Renderer\lMixin.render" alt="" coords="497,71,697,112"/>
+<area shape="rect" id="node5" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="745,37,924,79"/>
+<area shape="rect" id="node6" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="756,103,913,144"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.core.urlresolvers.LocaleRegexProvider" name="django.core.urlresolvers.LocaleRegexProvider">
+<area shape="rect" id="node3" href="$de/daa/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_pattern.html" title="django.core.urlresolvers.\lRegexURLPattern" alt="" coords="321,5,484,47"/>
+<area shape="rect" id="node4" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html" title="django.core.urlresolvers.\lRegexURLResolver" alt="" coords="321,71,484,112"/>
+<area shape="rect" id="node5" href="$d6/de8/classdjango_1_1core_1_1urlresolvers_1_1_locale_regex_u_r_l_resolver.html" title="django.core.urlresolvers.\lLocaleRegexURLResolver" alt="" coords="532,71,703,112"/>
+</map>

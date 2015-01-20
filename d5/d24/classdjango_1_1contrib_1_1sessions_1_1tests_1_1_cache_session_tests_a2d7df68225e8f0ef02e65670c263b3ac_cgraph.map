@@ -1,0 +1,10 @@
+<map id="django.contrib.sessions.tests.CacheSessionTests.test_default_cache" name="django.contrib.sessions.tests.CacheSessionTests.test_default_cache">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a8acc018eb2d0747e4af82b9f1f8f26f5" title="django.utils.unittest.case.\lTestCase.assertNotEqual" alt="" coords="304,64,475,105"/>
+<area shape="rect" id="node5" href="$d4/db9/namespacedjango_1_1core_1_1cache.html#a3945c1d5c3d2e6db2b565e0d6939cf48" title="django.core.cache.get\l_cache" alt="" coords="314,159,465,200"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="541,5,718,47"/>
+<area shape="rect" id="node4" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="523,71,736,98"/>
+<area shape="rect" id="node6" href="$d4/db9/namespacedjango_1_1core_1_1cache.html#a45359eb0dcf3272f7cff358e0b02dba2" title="django.core.cache.parse\l_backend_uri" alt="" coords="547,123,711,164"/>
+<area shape="rect" id="node7" href="$d4/db9/namespacedjango_1_1core_1_1cache.html#a01cbd8933723c09ca944345736fe7a94" title="django.core.cache.parse\l_backend_conf" alt="" coords="547,188,711,229"/>
+<area shape="rect" id="node8" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="784,217,947,259"/>
+<area shape="rect" id="node9" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="995,217,1176,259"/>
+</map>

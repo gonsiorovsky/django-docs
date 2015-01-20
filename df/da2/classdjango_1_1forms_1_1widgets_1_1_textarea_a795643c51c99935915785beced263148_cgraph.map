@@ -1,0 +1,9 @@
+<map id="django.forms.widgets.Textarea.render" name="django.forms.widgets.Textarea.render">
+<area shape="rect" id="node2" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html#a7dcb73bb3840f3f087b44b422d352470" title="django.forms.widgets.Widget.build\l_attrs" alt="" coords="306,5,526,47"/>
+<area shape="rect" id="node3" href="$d0/df0/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_related_field_widget_wrapper.html#ac61e5ea088c35d3ce5c9812ed808ad74" title="django.contrib.admin.widgets.\lRelatedFieldWidgetWrapper.build_attrs" alt="" coords="292,71,540,112"/>
+<area shape="rect" id="node4" href="$d0/dd0/namespacedjango_1_1forms_1_1util.html#a91e0b2fac47865a1bf3263d0ead0748e" title="django.forms.util.flatatt" alt="" coords="339,137,493,163"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="313,187,519,214"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="614,151,773,192"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="588,217,799,243"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="847,217,1059,243"/>
+</map>

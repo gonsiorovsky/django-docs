@@ -1,0 +1,5 @@
+<map id="django.db.backends.oracle.base.to_unicode" name="django.db.backends.oracle.base.to_unicode">
+<area shape="rect" id="node2" href="$d6/dd5/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_cursor_iterator.html#a0d777f7af72f33365e66ea328b7e5b7f" title="django.db.backends.oracle.base.\lCursorIterator.__next__" alt="" coords="284,5,497,47"/>
+<area shape="rect" id="node3" href="$d7/dc3/classdjango_1_1utils_1_1feedgenerator_1_1_syndication_feed.html#ac4112b358da00c195d47210511a6fbde" title="django.utils.feedgenerator.\lSyndicationFeed.add_item" alt="" coords="303,71,479,112"/>
+<area shape="rect" id="node4" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#a7dfdca346ce87ac737985d936fd8719d" title="django.db.backends.BaseDatabase\lOperations.last_executed_query" alt="" coords="277,136,504,177"/>
+</map>

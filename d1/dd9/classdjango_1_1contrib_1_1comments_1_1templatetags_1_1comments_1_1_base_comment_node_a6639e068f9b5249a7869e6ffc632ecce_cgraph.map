@@ -1,0 +1,8 @@
+<map id="django.contrib.comments.templatetags.comments.BaseCommentNode.get_queryset" name="django.contrib.comments.templatetags.comments.BaseCommentNode.get_queryset">
+<area shape="rect" id="node2" href="$d1/dd9/classdjango_1_1contrib_1_1comments_1_1templatetags_1_1comments_1_1_base_comment_node.html#add23275fd92bc1631d4d25d8fd5357fc" title="django.contrib.comments.templatetags.comments.\lBaseCommentNode.get_target_ctype_pk" alt="" coords="369,5,685,47"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="422,71,633,98"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="733,71,939,98"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1013,35,1171,76"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="987,101,1197,127"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1245,101,1457,127"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="django.core.management.commands.test.Command.create_parser" name="django.core.management.commands.test.Command.create_parser">
+<area shape="rect" id="node2" href="$da/d7d/namespacedjango_1_1test_1_1utils.html#a088bad581dabcbec374cc5846af89b8b" title="django.test.utils.get\l_runner" alt="" coords="354,5,490,47"/>
+<area shape="rect" id="node5" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a4abcf12c09490b1174509dec450d8afe" title="django.core.management.base.\lBaseCommand.get_version" alt="" coords="320,71,524,112"/>
+<area shape="rect" id="node7" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a5b32ade81c1f833c59c9323d7f77574b" title="django.core.management.base.\lBaseCommand.usage" alt="" coords="320,136,524,177"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="572,13,783,39"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="831,13,1043,39"/>
+<area shape="rect" id="node6" href="$d6/dd8/namespacedjango.html#abafaca818748f51f6095d13ebb5448f9" title="django.get_version" alt="" coords="613,78,742,105"/>
+</map>

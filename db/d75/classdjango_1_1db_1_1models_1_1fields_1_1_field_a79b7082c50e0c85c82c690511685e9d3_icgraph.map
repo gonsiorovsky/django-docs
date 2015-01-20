@@ -1,0 +1,4 @@
+<map id="django.db.models.fields.Field.get_attname" name="django.db.models.fields.Field.get_attname">
+<area shape="rect" id="node2" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#a0073c2155911339c34692129f38dbfa3" title="django.db.models.fields.\lField.get_attname_column" alt="" coords="235,5,410,47"/>
+<area shape="rect" id="node3" href="$d8/dbf/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_key.html#a182f26df228a595ce8ce8ded6b86709d" title="django.db.models.fields.related.\lForeignKey.get_attname_column" alt="" coords="216,71,429,112"/>
+</map>

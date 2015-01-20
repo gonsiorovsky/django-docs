@@ -1,0 +1,21 @@
+<map id="django.contrib.comments.views.moderation.delete" name="django.contrib.comments.views.moderation.delete">
+<area shape="rect" id="node2" href="$db/d8c/namespacedjango_1_1shortcuts.html#a40c5bc475dc5d6110ffb3d334ef5c610" title="django.shortcuts.get\l_object_or_404" alt="" coords="453,5,593,47"/>
+<area shape="rect" id="node3" href="$d9/de9/namespacedjango_1_1contrib_1_1comments_1_1views_1_1utils.html#aaae163319cf53123963607fa7bf183fd" title="django.contrib.comments.views.utils.next\l_redirect" alt="" coords="393,71,653,112"/>
+<area shape="rect" id="node6" href="$de/d8a/namespacedjango_1_1contrib_1_1comments_1_1views_1_1moderation.html#a416e9ad70fbea6ef15b7b0da1e58c367" title="django.contrib.comments.views.moderation.perform\l_delete" alt="" coords="364,136,683,177"/>
+<area shape="rect" id="node7" href="$d6/db3/namespacedjango_1_1contrib_1_1auth_1_1decorators.html#ac4ec003f841b070be009853c98193e9b" title="django.contrib.auth.decorators.permission\l_required" alt="" coords="391,201,655,243"/>
+<area shape="rect" id="node20" href="$db/d8c/namespacedjango_1_1shortcuts.html#add30bc91b67ee7a5c035d8d4f1364714" title="django.shortcuts.render\l_to_response" alt="" coords="444,267,603,308"/>
+<area shape="rect" id="node4" href="$db/d8c/namespacedjango_1_1shortcuts.html#a05715aed50be12c240df8205fd6ed76b" title="django.shortcuts.resolve_url" alt="" coords="2139,185,2321,211"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a6c0dffb853dba2ab7c4433a11fb54d4c" title="django.template.defaultfilters.urlencode" alt="" coords="731,129,977,155"/>
+<area shape="rect" id="node8" href="$d6/db3/namespacedjango_1_1contrib_1_1auth_1_1decorators.html#a59692c6539213c5140d94bec022acf85" title="django.contrib.auth.decorators.user\l_passes_test" alt="" coords="741,191,967,232"/>
+<area shape="rect" id="node9" href="$d4/d1c/namespacedjango_1_1utils_1_1decorators.html#ae90dfd7c95270537755cf77acc0bafc1" title="django.utils.decorators.available\l_attrs" alt="" coords="1029,185,1236,227"/>
+<area shape="rect" id="node10" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#af9f2a77aa12de60e75aa84e366f58ba4" title="django.contrib.auth.views.redirect\l_to_login" alt="" coords="1025,251,1240,292"/>
+<area shape="rect" id="node11" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#adf52eebfbd6647c47487eb462713b7e4" title="django.contrib.auth.views.password\l_reset" alt="" coords="1288,251,1515,292"/>
+<area shape="rect" id="node12" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#a7951cc117661a0a09918779ec1712406" title="django.contrib.auth.views.password\l_reset_done" alt="" coords="1563,287,1789,328"/>
+<area shape="rect" id="node13" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#ae7c2039092e8fa36cf8cbea851ed5e9b" title="django.contrib.auth.views.password\l_reset_confirm" alt="" coords="1851,287,2077,328"/>
+<area shape="rect" id="node19" href="$d3/d2b/namespacedjango_1_1views_1_1decorators_1_1debug.html#a6811b59767dbb2a8b631bceb4d951d4f" title="django.views.decorators.debug.sensitive\l_post_parameters" alt="" coords="1837,352,2091,393"/>
+<area shape="rect" id="node14" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ad11b72f71e98c7df642a60b4fd267680" title="django.contrib.auth.get\l_user_model" alt="" coords="2153,287,2307,328"/>
+<area shape="rect" id="node15" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a5fd6967d8d2e7b45ce2fd930730ac412" title="django.contrib.comments.get\l_model" alt="" coords="2369,287,2560,328"/>
+<area shape="rect" id="node16" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a2a0159dc7a5e9946976f1161dd085850" title="django.contrib.comments.get\l_comment_app" alt="" coords="2608,316,2799,357"/>
+<area shape="rect" id="node17" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a60881c6f7b8b1d51a2b28d9961b4233c" title="django.contrib.comments.get\l_comment_app_name" alt="" coords="2847,257,3037,299"/>
+<area shape="rect" id="node18" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="2851,323,3033,364"/>
+</map>

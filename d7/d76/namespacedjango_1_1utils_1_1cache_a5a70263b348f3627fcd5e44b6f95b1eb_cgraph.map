@@ -1,0 +1,6 @@
+<map id="django.utils.cache.patch_response_headers" name="django.utils.cache.patch_response_headers">
+<area shape="rect" id="node2" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a6a8c1400a31e4335caa0a53ce3155327" title="django.utils.cache.patch\l_cache_control" alt="" coords="216,23,379,65"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="432,5,643,32"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaaefde7859fe1bf353ac71952c024eb9" title="django.template.defaultfilters.lower" alt="" coords="427,56,648,83"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="696,5,908,32"/>
+</map>

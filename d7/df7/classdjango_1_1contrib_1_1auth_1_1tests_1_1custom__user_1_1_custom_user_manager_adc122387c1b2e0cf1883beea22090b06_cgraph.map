@@ -1,0 +1,7 @@
+<map id="django.contrib.auth.tests.custom_user.CustomUserManager.create_user" name="django.contrib.auth.tests.custom_user.CustomUserManager.create_user">
+<area shape="rect" id="node2" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a35b748623ac46f0ff3c719d8dc791971" title="django.contrib.auth.models.\lBaseUserManager.normalize_email" alt="" coords="305,5,532,47"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1041,10,1252,37"/>
+<area shape="rect" id="node5" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a8b53681e1efddbd9e424b0dac8aa0597" title="django.contrib.auth.models.\lBaseUserManager.make_random\l_password" alt="" coords="580,30,795,86"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1300,10,1512,37"/>
+<area shape="rect" id="node6" href="$d2/d11/namespacedjango_1_1utils_1_1crypto.html#a82515747357a01a91587631754140d6f" title="django.utils.crypto.get\l_random_string" alt="" coords="843,33,993,75"/>
+</map>

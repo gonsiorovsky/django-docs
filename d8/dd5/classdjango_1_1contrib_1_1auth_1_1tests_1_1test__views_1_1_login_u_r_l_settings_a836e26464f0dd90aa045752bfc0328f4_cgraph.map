@@ -1,0 +1,6 @@
+<map id="django.contrib.auth.tests.test_views.LoginURLSettings.assertLoginURLEquals" name="django.contrib.auth.tests.test_views.LoginURLSettings.assertLoginURLEquals">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="346,5,517,47"/>
+<area shape="rect" id="node4" href="$d9/d97/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__views_1_1_auth_views_test_case.html#afb6a887a4812ffcdb071caa92acc5046" title="django.contrib.auth.tests.test\l_views.AuthViewsTestCase.assertURLEqual" alt="" coords="292,71,571,112"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="619,5,839,47"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="643,71,814,112"/>
+</map>

@@ -1,0 +1,8 @@
+var namespacedjango_1_1contrib_1_1auth_1_1tests_1_1test__management =
+[
+    [ "ChangepasswordManagementCommandTestCase", "d8/d6b/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_changepassword_management_command_test_case.html", "d8/d6b/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_changepassword_management_command_test_case" ],
+    [ "CreatesuperuserManagementCommandTestCase", "d2/d47/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_createsuperuser_management_command_test_case.html", "d2/d47/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_createsuperuser_management_command_test_case" ],
+    [ "CustomUserModelValidationTestCase", "db/d27/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_custom_user_model_validation_test_case.html", "db/d27/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_custom_user_model_validation_test_case" ],
+    [ "GetDefaultUsernameTestCase", "dc/d65/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_get_default_username_test_case.html", "dc/d65/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_get_default_username_test_case" ],
+    [ "PermissionDuplicationTestCase", "da/d89/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_permission_duplication_test_case.html", "da/d89/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__management_1_1_permission_duplication_test_case" ]
+];

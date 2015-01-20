@@ -1,0 +1,6 @@
+<map id="django.core.mail.message.sanitize_address" name="django.core.mail.message.sanitize_address">
+<area shape="rect" id="node2" href="$d7/d1d/namespacedjango_1_1core_1_1mail_1_1message.html#a0062778ab507e48575e1b7b8bc8fcfc5" title="django.core.mail.message.forbid\l_multi_line_headers" alt="" coords="279,37,488,79"/>
+<area shape="rect" id="node5" href="$d7/db2/classdjango_1_1core_1_1mail_1_1backends_1_1smtp_1_1_email_backend.html#afed9f658c7a62be6d2e2c2d1f89d2acb" title="django.core.mail.backends.smtp.\lEmailBackend.send_messages" alt="" coords="276,103,491,144"/>
+<area shape="rect" id="node3" href="$d4/dbd/classdjango_1_1core_1_1mail_1_1message_1_1_safe_m_i_m_e_text.html#a133a6bee325bab7a2bf36d6eccea1196" title="django.core.mail.message.\lSafeMIMEText.__setitem__" alt="" coords="551,5,733,47"/>
+<area shape="rect" id="node4" href="$df/d61/classdjango_1_1core_1_1mail_1_1message_1_1_safe_m_i_m_e_multipart.html#a07e9eff15d8a40f10ff6c3218cf9f9bb" title="django.core.mail.message.\lSafeMIMEMultipart.__setitem__" alt="" coords="539,71,745,112"/>
+</map>

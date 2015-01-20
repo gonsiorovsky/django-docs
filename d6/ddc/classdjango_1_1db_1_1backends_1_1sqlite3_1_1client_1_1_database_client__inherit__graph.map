@@ -1,0 +1,4 @@
+<map id="django.db.backends.sqlite3.client.DatabaseClient" name="django.db.backends.sqlite3.client.DatabaseClient">
+<area shape="rect" id="node4" href="$d6/da4/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1client_1_1_spatia_lite_client.html" title="django.contrib.gis.db.backends.spatialite.client.\lSpatiaLiteClient" alt="" coords="5,259,303,300"/>
+<area shape="rect" id="node2" href="$d8/d6f/classdjango_1_1db_1_1backends_1_1_base_database_client.html" title="django.db.backends.BaseDatabase\lClient" alt="" coords="41,80,267,121"/>
+</map>

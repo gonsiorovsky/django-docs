@@ -1,0 +1,11 @@
+<map id="django.db.backends.creation.BaseDatabaseCreation" name="django.db.backends.creation.BaseDatabaseCreation">
+<area shape="rect" id="node3" href="$d3/d9c/classdjango_1_1db_1_1backends_1_1dummy_1_1base_1_1_database_creation.html" title="django.db.backends.dummy.base.\lDatabaseCreation" alt="" coords="361,5,583,47"/>
+<area shape="rect" id="node4" href="$d9/d3c/classdjango_1_1db_1_1backends_1_1mysql_1_1creation_1_1_database_creation.html" title="django.db.backends.mysql.creation.\lDatabaseCreation" alt="" coords="357,71,587,112"/>
+<area shape="rect" id="node6" href="$db/d7e/classdjango_1_1db_1_1backends_1_1oracle_1_1creation_1_1_database_creation.html" title="django.db.backends.oracle.creation.\lDatabaseCreation" alt="" coords="357,136,587,177"/>
+<area shape="rect" id="node8" href="$df/dd9/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1creation_1_1_database_creation.html" title="django.db.backends.postgresql\l_psycopg2.creation.DatabaseCreation" alt="" coords="351,201,593,243"/>
+<area shape="rect" id="node10" href="$d2/d7a/classdjango_1_1db_1_1backends_1_1sqlite3_1_1creation_1_1_database_creation.html" title="django.db.backends.sqlite3.creation.\lDatabaseCreation" alt="" coords="355,267,589,308"/>
+<area shape="rect" id="node5" href="$db/d95/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1mysql_1_1creation_1_1_my_s_q_l_creation.html" title="django.contrib.gis.db.backends.mysql.creation.\lMySQLCreation" alt="" coords="650,71,945,112"/>
+<area shape="rect" id="node7" href="$d7/dbc/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1oracle_1_1creation_1_1_oracle_creation.html" title="django.contrib.gis.db.backends.oracle.creation.\lOracleCreation" alt="" coords="650,136,945,177"/>
+<area shape="rect" id="node9" href="$d1/d3e/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1creation_1_1_post_g_i_s_creation.html" title="django.contrib.gis.db.backends.postgis.creation.\lPostGISCreation" alt="" coords="646,201,949,243"/>
+<area shape="rect" id="node11" href="$d3/dfc/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1creation_1_1_spatia_lite_creation.html" title="django.contrib.gis.db.backends.spatialite.creation.\lSpatiaLiteCreation" alt="" coords="641,267,953,308"/>
+</map>

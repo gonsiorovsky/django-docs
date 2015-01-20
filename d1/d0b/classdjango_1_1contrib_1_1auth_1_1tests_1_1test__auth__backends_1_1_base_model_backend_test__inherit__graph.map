@@ -1,0 +1,5 @@
+<map id="django.contrib.auth.tests.test_auth_backends.BaseModelBackendTest" name="django.contrib.auth.tests.test_auth_backends.BaseModelBackendTest">
+<area shape="rect" id="node3" href="$de/db4/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__auth__backends_1_1_custom_permissions_user_model_backend_test.html" title="django.contrib.auth.tests.test\l_auth_backends.CustomPermissionsUser\lModelBackendTest" alt="" coords="447,5,713,61"/>
+<area shape="rect" id="node4" href="$d7/d61/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__auth__backends_1_1_extension_user_model_backend_test.html" title="django.contrib.auth.tests.test\l_auth_backends.ExtensionUserModelBackendTest" alt="" coords="421,85,739,126"/>
+<area shape="rect" id="node5" href="$d1/dd9/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__auth__backends_1_1_model_backend_test.html" title="django.contrib.auth.tests.test\l_auth_backends.ModelBackendTest" alt="" coords="464,150,696,191"/>
+</map>

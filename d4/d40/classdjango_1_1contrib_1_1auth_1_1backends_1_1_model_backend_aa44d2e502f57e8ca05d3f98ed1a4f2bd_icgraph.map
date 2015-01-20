@@ -1,0 +1,4 @@
+<map id="django.contrib.auth.backends.ModelBackend.has_perm" name="django.contrib.auth.backends.ModelBackend.has_perm">
+<area shape="rect" id="node2" href="$d1/d19/classdjango_1_1contrib_1_1auth_1_1models_1_1_permissions_mixin.html#ab0e662f9e0a67d0899bb54c82c2a2680" title="django.contrib.auth.models.\lPermissionsMixin.has_perms" alt="" coords="249,5,443,47"/>
+<area shape="rect" id="node3" href="$d4/d46/classdjango_1_1contrib_1_1auth_1_1models_1_1_anonymous_user.html#a858ba50983cd5956b887028c35d9d634" title="django.contrib.auth.models.\lAnonymousUser.has_perms" alt="" coords="253,71,439,112"/>
+</map>

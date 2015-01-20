@@ -1,0 +1,6 @@
+<map id="django.db.models.aggregates.refs_aggregate" name="django.db.models.aggregates.refs_aggregate">
+<area shape="rect" id="node2" href="$d3/dc6/classdjango_1_1db_1_1models_1_1expressions_1_1_expression_node.html#a8d99553a269c5b0537a92df5a7e801fe" title="django.db.models.expressions.\lExpressionNode.contains_aggregate" alt="" coords="271,5,505,47"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aec152f831a2b459665ea5ab16dcb8ee2" title="django.db.models.sql.query.\lQuery.need_having" alt="" coords="295,95,481,136"/>
+<area shape="rect" id="node4" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ae5e7187f4135fc2a9072cab30f103462" title="django.db.models.sql.query.\lQuery.split_having_parts" alt="" coords="553,65,739,107"/>
+<area shape="rect" id="node5" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aed1360c7f39dc7cab3261d18f90c87d4" title="django.db.models.sql.query.\lQuery.add_q" alt="" coords="787,95,972,136"/>
+</map>

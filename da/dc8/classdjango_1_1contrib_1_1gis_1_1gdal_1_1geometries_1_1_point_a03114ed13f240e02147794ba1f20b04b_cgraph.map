@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.gdal.geometries.Point.tuple" name="django.contrib.gis.gdal.geometries.Point.tuple">
+<area shape="rect" id="node2" href="$da/dc8/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_point.html#a956fe70701d75bcd51e9a4d0b54888b6" title="django.contrib.gis.gdal.geometries.\lPoint.x" alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$da/dc8/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_point.html#a7ad6d12f7b7c681a0e403a885e50811d" title="django.contrib.gis.gdal.geometries.\lPoint.y" alt="" coords="277,71,501,112"/>
+<area shape="rect" id="node4" href="$da/dc8/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_point.html#aa13d99cda6244f06486681882bdf21b4" title="django.contrib.gis.gdal.geometries.\lPoint.z" alt="" coords="277,136,501,177"/>
+</map>

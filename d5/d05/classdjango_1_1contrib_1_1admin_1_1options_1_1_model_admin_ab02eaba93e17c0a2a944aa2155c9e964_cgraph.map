@@ -1,0 +1,12 @@
+<map id="django.contrib.admin.options.ModelAdmin.history_view" name="django.contrib.admin.options.ModelAdmin.history_view">
+<area shape="rect" id="node2" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="249,13,455,39"/>
+<area shape="rect" id="node6" href="$db/d8c/namespacedjango_1_1shortcuts.html#a40c5bc475dc5d6110ffb3d334ef5c610" title="django.shortcuts.get\l_object_or_404" alt="" coords="282,64,422,105"/>
+<area shape="rect" id="node7" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a7ef4e53bb5ae008991aa2bb9ce5e4810" title="django.contrib.admin.options.\lModelAdmin.get_preserved\l_filters" alt="" coords="256,181,448,237"/>
+<area shape="rect" id="node9" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a214a26c013e36e7da387390535895595" title="django.contrib.admin.options.\lBaseModelAdmin.has_change\l_permission" alt="" coords="253,261,451,317"/>
+<area shape="rect" id="node11" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a4f14ff9d8961ca7587d1219dd52d25a3" title="django.contrib.admin.util.unquote" alt="" coords="245,130,459,157"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="551,5,709,47"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="525,101,735,127"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="801,101,1013,127"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a6c0dffb853dba2ab7c4433a11fb54d4c" title="django.template.defaultfilters.urlencode" alt="" coords="507,195,753,222"/>
+<area shape="rect" id="node10" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ac05c6c9aa6bf502e9c586d221ce294d3" title="django.contrib.auth.get\l_permission_codename" alt="" coords="551,268,709,309"/>
+</map>

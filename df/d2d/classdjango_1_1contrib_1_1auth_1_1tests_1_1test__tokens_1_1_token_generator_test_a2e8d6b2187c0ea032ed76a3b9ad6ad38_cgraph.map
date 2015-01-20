@@ -1,0 +1,7 @@
+<map id="django.contrib.auth.tests.test_tokens.TokenGeneratorTest.test_timeout" name="django.contrib.auth.tests.test_tokens.TokenGeneratorTest.test_timeout">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a4813996549d13361e21a4e40fa07c2c9" title="django.utils.unittest.case.\lTestCase.assertFalse" alt="" coords="319,5,489,47"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af56ee36078618482abe6748bc9a63445" title="django.utils.unittest.case.\lTestCase.assertTrue" alt="" coords="319,71,489,112"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="555,64,733,105"/>
+<area shape="rect" id="node4" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="537,13,751,39"/>
+<area shape="rect" id="node6" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#af553e474e616ef1a424646dee9dde7ac" title="django.utils.unittest.util.safe_str" alt="" coords="541,130,747,157"/>
+</map>

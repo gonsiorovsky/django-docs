@@ -1,0 +1,4 @@
+<map id="django.core.mail.message.forbid_multi_line_headers" name="django.core.mail.message.forbid_multi_line_headers">
+<area shape="rect" id="node2" href="$d4/dbd/classdjango_1_1core_1_1mail_1_1message_1_1_safe_m_i_m_e_text.html#a133a6bee325bab7a2bf36d6eccea1196" title="django.core.mail.message.\lSafeMIMEText.__setitem__" alt="" coords="275,5,457,47"/>
+<area shape="rect" id="node3" href="$df/d61/classdjango_1_1core_1_1mail_1_1message_1_1_safe_m_i_m_e_multipart.html#a07e9eff15d8a40f10ff6c3218cf9f9bb" title="django.core.mail.message.\lSafeMIMEMultipart.__setitem__" alt="" coords="263,71,469,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="django.contrib.auth.tests.test_forms.UserChangeFormTest.test_bug_17944_unknown_password_algorithm" name="django.contrib.auth.tests.test_forms.UserChangeFormTest.test_bug_17944_unknown_password_algorithm">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a096063e02ba48cf1f90b01fcac1ccf74" title="django.utils.unittest.case.\lTestCase.assertIn" alt="" coords="325,57,496,98"/>
+<area shape="rect" id="node3" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="544,5,757,32"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="565,57,736,98"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="562,122,739,163"/>
+</map>

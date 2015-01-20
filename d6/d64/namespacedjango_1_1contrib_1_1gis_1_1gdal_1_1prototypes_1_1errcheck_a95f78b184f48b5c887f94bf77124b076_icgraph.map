@@ -1,0 +1,9 @@
+<map id="django.contrib.gis.gdal.prototypes.errcheck.ptr_byref" name="django.contrib.gis.gdal.prototypes.errcheck.ptr_byref">
+<area shape="rect" id="node2" href="$d6/d64/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1errcheck.html#a3c3908ee4ff33ef2d2b0b74a40becdb0" title="String checking Routines ###. " alt="" coords="344,5,655,47"/>
+<area shape="rect" id="node4" href="$d6/d64/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1errcheck.html#ab7f472550ad93737bfdf7d955a4eca41" title="DataSource, Layer error&#45;checking ###. " alt="" coords="344,71,655,112"/>
+<area shape="rect" id="node5" href="$d6/d64/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1errcheck.html#a64cc865cda739282789d6fc678e6ba93" title="django.contrib.gis.gdal.prototypes.errcheck.check\l_geom_offset" alt="" coords="344,136,655,177"/>
+<area shape="rect" id="node7" href="$d6/d64/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1errcheck.html#a7077059aa39bbd2635a89c137c7ac00b" title="django.contrib.gis.gdal.prototypes.errcheck.check\l_string" alt="" coords="344,201,655,243"/>
+<area shape="rect" id="node3" href="$d5/d9a/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1generation.html#a58efc3a95a4dbb9957a8d1d2530516d0" title="django.contrib.gis.gdal.prototypes.generation.const\l_string_output" alt="" coords="703,5,1020,47"/>
+<area shape="rect" id="node6" href="$d5/d9a/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1generation.html#aced3f532898a49c4a34395716708a6bd" title="django.contrib.gis.gdal.prototypes.generation.geom\l_output" alt="" coords="703,136,1020,177"/>
+<area shape="rect" id="node8" href="$d5/d9a/namespacedjango_1_1contrib_1_1gis_1_1gdal_1_1prototypes_1_1generation.html#a12865e1c170b718f122e8eb56dcf614a" title="django.contrib.gis.gdal.prototypes.generation.string\l_output" alt="" coords="703,201,1020,243"/>
+</map>

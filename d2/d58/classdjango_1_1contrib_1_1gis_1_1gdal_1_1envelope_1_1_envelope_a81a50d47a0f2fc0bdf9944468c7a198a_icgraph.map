@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.gdal.envelope.Envelope.tuple" name="django.contrib.gis.gdal.envelope.Envelope.tuple">
+<area shape="rect" id="node2" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#a13c9dcb69fc460d8b0eae58fe9adf09c" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.__str__" alt="" coords="264,5,481,47"/>
+<area shape="rect" id="node3" href="$d2/d58/classdjango_1_1contrib_1_1gis_1_1gdal_1_1envelope_1_1_envelope.html#ae3532c53d5db7c862e4a0c11cab893b0" title="django.contrib.gis.gdal.envelope.\lEnvelope.__str__" alt="" coords="267,71,478,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.db.backends.oracle.creation.OracleCreation" name="django.contrib.gis.db.backends.oracle.creation.OracleCreation">
+<area shape="rect" id="node2" href="$db/d7e/classdjango_1_1db_1_1backends_1_1oracle_1_1creation_1_1_database_creation.html" title="django.db.backends.oracle.creation.\lDatabaseCreation" alt="" coords="37,169,268,211"/>
+<area shape="rect" id="node3" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html" title="django.db.backends.creation.\lBaseDatabaseCreation" alt="" coords="57,80,249,121"/>
+</map>

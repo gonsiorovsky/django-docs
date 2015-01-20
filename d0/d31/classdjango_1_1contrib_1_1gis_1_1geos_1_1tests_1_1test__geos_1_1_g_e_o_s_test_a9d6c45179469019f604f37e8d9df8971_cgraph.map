@@ -1,0 +1,12 @@
+<map id="django.contrib.gis.geos.tests.test_geos.GEOSTest.test_custom_srid" name="django.contrib.gis.geos.tests.test_geos.GEOSTest.test_custom_srid">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ac82fc7b01c2f6505c95418e97810d5f3" title="django.utils.unittest.case.\lTestCase.assertAlmostEqual" alt="" coords="281,136,472,177"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="291,267,462,308"/>
+<area shape="rect" id="node7" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a57a8ee2eb79698b872c1bd173da2c4b8" title="django.utils.unittest.case.\lTestCase.assertIsInstance" alt="" coords="289,5,465,47"/>
+<area shape="rect" id="node9" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a81d086c6c04569a9c6dfb1652da405fd" title="django.utils.unittest.case.\lTestCase.assertIsNone" alt="" coords="291,71,462,112"/>
+<area shape="rect" id="node10" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af56ee36078618482abe6748bc9a63445" title="django.utils.unittest.case.\lTestCase.assertTrue" alt="" coords="291,201,462,243"/>
+<area shape="rect" id="node3" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="523,142,737,169"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="541,73,719,115"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="520,267,740,308"/>
+<area shape="rect" id="node8" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="545,7,715,48"/>
+<area shape="rect" id="node11" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#af553e474e616ef1a424646dee9dde7ac" title="django.utils.unittest.util.safe_str" alt="" coords="527,209,733,235"/>
+</map>

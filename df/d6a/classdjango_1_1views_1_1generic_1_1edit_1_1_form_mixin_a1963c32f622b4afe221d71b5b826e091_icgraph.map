@@ -1,0 +1,5 @@
+<map id="django.views.generic.edit.FormMixin.get_success_url" name="django.views.generic.edit.FormMixin.get_success_url">
+<area shape="rect" id="node2" href="$df/d6a/classdjango_1_1views_1_1generic_1_1edit_1_1_form_mixin.html#a722bb417ab07c30c054dae782cbecb2f" title="django.views.generic.edit.\lFormMixin.form_valid" alt="" coords="236,5,407,47"/>
+<area shape="rect" id="node3" href="$d1/d13/classdjango_1_1views_1_1generic_1_1edit_1_1_process_form_view.html#a12cc350cf39c12d3b189f11544ef65ec" title="django.views.generic.edit.\lProcessFormView.post" alt="" coords="455,5,625,47"/>
+<area shape="rect" id="node4" href="$d1/d13/classdjango_1_1views_1_1generic_1_1edit_1_1_process_form_view.html#a9c6360a12b682a4ac09640e8d0683e8f" title="django.views.generic.edit.\lProcessFormView.put" alt="" coords="673,5,844,47"/>
+</map>

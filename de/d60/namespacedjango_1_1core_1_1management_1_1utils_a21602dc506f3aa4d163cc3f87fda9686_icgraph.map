@@ -1,0 +1,6 @@
+<map id="django.core.management.utils.popen_wrapper" name="django.core.management.utils.popen_wrapper">
+<area shape="rect" id="node2" href="$da/d68/namespacedjango_1_1core_1_1management_1_1commands_1_1compilemessages.html#a187b2dd87c5a63eee1aa0f6985bb7cbc" title="django.core.management.commands.compilemessages.compile\l_messages" alt="" coords="288,5,683,47"/>
+<area shape="rect" id="node4" href="$de/dbe/classdjango_1_1core_1_1management_1_1commands_1_1makemessages_1_1_translatable_file.html#a144edb85060c038e549b3a71773cdb13" title="django.core.management.commands.makemessages.\lTranslatableFile.process" alt="" coords="317,71,653,112"/>
+<area shape="rect" id="node5" href="$da/d24/classdjango_1_1core_1_1management_1_1commands_1_1makemessages_1_1_command.html#a61ea9a2cbfb8a6a5c0e42abc359571a6" title="django.core.management.commands.makemessages.\lCommand.write_po_file" alt="" coords="317,136,653,177"/>
+<area shape="rect" id="node3" href="$d2/d6e/classdjango_1_1core_1_1management_1_1commands_1_1compilemessages_1_1_command.html#ae42261830d1fde2340d137fe63b11dda" title="django.core.management.commands.compilemessages.\lCommand.handle" alt="" coords="731,5,1080,47"/>
+</map>

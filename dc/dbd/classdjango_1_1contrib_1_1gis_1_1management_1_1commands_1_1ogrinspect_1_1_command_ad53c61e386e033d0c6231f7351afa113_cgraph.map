@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.management.commands.ogrinspect.Command.handle" name="django.contrib.gis.management.commands.ogrinspect.Command.handle">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="421,5,632,32"/>
+<area shape="rect" id="node4" href="$d0/d9e/namespacedjango_1_1contrib_1_1gis_1_1utils_1_1ogrinspect.html#a0d5089a7d0ff044423034576b29fcd77" title="django.contrib.gis.utils.ogrinspect.mapping" alt="" coords="392,56,661,83"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="715,5,927,32"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ab08e1ad398e4aeb4b091e69ad61f579a" title="django.template.defaultfilters.upper" alt="" coords="709,56,932,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.geos.geometry.GEOSGeometry.num_points" name="django.contrib.gis.geos.geometry.GEOSGeometry.num_points">
+<area shape="rect" id="node2" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#a29a12ab428496491387ebdc66ed06d71" title="django.contrib.gis.gdal.geometries.\lOGRGeometry.num_coords" alt="" coords="272,5,496,47"/>
+<area shape="rect" id="node4" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#aa0cf4b96a968ddb3ee0be32dfe96caea" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.num_coords" alt="" coords="275,71,493,112"/>
+<area shape="rect" id="node3" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#acfeaff79714b4540634beda61a4f91bf" title="django.contrib.gis.gdal.geometries.\lOGRGeometry.point_count" alt="" coords="544,5,768,47"/>
+</map>

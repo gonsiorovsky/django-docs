@@ -1,0 +1,5 @@
+<map id="django.contrib.formtools.wizard.views.NamedUrlWizardView.render_goto_step" name="django.contrib.formtools.wizard.views.NamedUrlWizardView.render_goto_step">
+<area shape="rect" id="node2" href="$d1/dd4/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_named_url_wizard_view.html#a6220c5c5780a23fb57bce1c907e299c1" title="django.contrib.formtools.wizard.views.\lNamedUrlWizardView.get_step_url" alt="" coords="305,5,545,47"/>
+<area shape="rect" id="node3" href="$db/d8c/namespacedjango_1_1shortcuts.html#aa37245aeca47fb769ee2e770f428767f" title="django.shortcuts.redirect" alt="" coords="343,71,508,98"/>
+<area shape="rect" id="node4" href="$db/d8c/namespacedjango_1_1shortcuts.html#a05715aed50be12c240df8205fd6ed76b" title="django.shortcuts.resolve_url" alt="" coords="593,71,776,98"/>
+</map>

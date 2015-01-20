@@ -1,0 +1,5 @@
+<map id="django.contrib.formtools.tests.wizard.wizardtests.forms.ContactWizard" name="django.contrib.formtools.tests.wizard.wizardtests.forms.ContactWizard">
+<area shape="rect" id="node4" href="$d9/db3/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1wizardtests_1_1forms_1_1_cookie_contact_wizard.html" title="django.contrib.formtools.tests.wizard.wizardtests.forms.\lCookieContactWizard" alt="" coords="836,5,1180,47"/>
+<area shape="rect" id="node5" href="$de/d08/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1wizardtests_1_1forms_1_1_session_contact_wizard.html" title="django.contrib.formtools.tests.wizard.wizardtests.forms.\lSessionContactWizard" alt="" coords="836,71,1180,112"/>
+<area shape="rect" id="node2" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html" title="django.contrib.formtools.wizard.views.\lWizardView" alt="" coords="156,39,396,80"/>
+</map>

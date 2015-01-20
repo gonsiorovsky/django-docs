@@ -1,0 +1,9 @@
+<map id="django.core.handlers.base.BaseHandler.get_response" name="django.core.handlers.base.BaseHandler.get_response">
+<area shape="rect" id="node2" href="$d3/dda/classdjango_1_1core_1_1handlers_1_1base_1_1_base_handler.html#a8f6496469db685324c505e8cb0a00de5" title="django.core.handlers.base.\lBaseHandler.apply_response_fixes" alt="" coords="232,5,457,47"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="242,71,447,98"/>
+<area shape="rect" id="node7" href="$d3/dda/classdjango_1_1core_1_1handlers_1_1base_1_1_base_handler.html#a28351e40360de58f5186848e50341c8a" title="django.core.handlers.base.\lBaseHandler.handle_uncaught\l_exception" alt="" coords="245,122,444,178"/>
+<area shape="rect" id="node8" href="$d3/dda/classdjango_1_1core_1_1handlers_1_1base_1_1_base_handler.html#a809198045b934e15c000262ea987a1c2" title="django.core.handlers.base.\lBaseHandler.make_view_atomic" alt="" coords="240,201,449,243"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="531,35,690,76"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="505,101,716,127"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="764,101,976,127"/>
+</map>

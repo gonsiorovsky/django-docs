@@ -1,0 +1,9 @@
+<map id="django.contrib.sessions.tests.SessionTestsMixin" name="django.contrib.sessions.tests.SessionTestsMixin">
+<area shape="rect" id="node3" href="$d5/dec/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_cache_d_b_session_tests.html" title="django.contrib.sessions.tests.\lCacheDBSessionTests" alt="" coords="355,5,551,47"/>
+<area shape="rect" id="node5" href="$d5/d24/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_cache_session_tests.html" title="django.contrib.sessions.tests.\lCacheSessionTests" alt="" coords="355,71,551,112"/>
+<area shape="rect" id="node6" href="$dd/d69/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_cookie_session_tests.html" title="django.contrib.sessions.tests.\lCookieSessionTests" alt="" coords="355,136,551,177"/>
+<area shape="rect" id="node7" href="$db/db9/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_database_session_tests.html" title="django.contrib.sessions.tests.\lDatabaseSessionTests" alt="" coords="355,201,551,243"/>
+<area shape="rect" id="node9" href="$dd/d09/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_file_session_tests.html" title="django.contrib.sessions.tests.\lFileSessionTests" alt="" coords="355,267,551,308"/>
+<area shape="rect" id="node4" href="$d4/dae/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_cache_d_b_session_with_time_zone_tests.html" title="django.contrib.sessions.tests.\lCacheDBSessionWithTimeZoneTests" alt="" coords="599,5,837,47"/>
+<area shape="rect" id="node8" href="$d2/dba/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_database_session_with_time_zone_tests.html" title="django.contrib.sessions.tests.\lDatabaseSessionWithTimeZoneTests" alt="" coords="599,201,837,243"/>
+</map>

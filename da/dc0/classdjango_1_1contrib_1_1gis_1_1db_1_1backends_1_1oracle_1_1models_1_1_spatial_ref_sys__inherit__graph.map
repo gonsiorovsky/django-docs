@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.db.backends.oracle.models.SpatialRefSys" name="django.contrib.gis.db.backends.oracle.models.SpatialRefSys">
+<area shape="rect" id="node2" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html" title="django.db.models.base.Model" alt="" coords="395,52,590,79"/>
+<area shape="rect" id="node4" href="$d7/d92/classdjango_1_1db_1_1models_1_1base_1_1_model_base.html" title="django.db.models.base.ModelBase" alt="" coords="100,56,325,83"/>
+<area shape="rect" id="node6" href="$d7/dcb/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1base_1_1_spatial_ref_sys_mixin.html" title="django.contrib.gis.db.backends.base.\lSpatialRefSysMixin" alt="" coords="373,103,612,145"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="django.utils.translation.trans_real.to_locale" name="django.utils.translation.trans_real.to_locale">
+<area shape="rect" id="node2" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a68e9a552988809a9730e486064260c58" title="django.utils.translation.trans\l_real.check_for_language" alt="" coords="253,5,438,47"/>
+<area shape="rect" id="node3" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#ad57f61a145e777173c6827d6b471f025" title="django.utils.translation.trans\l_real.get_language_from_request" alt="" coords="239,71,452,112"/>
+<area shape="rect" id="node4" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a76c32c3c5651451b1314bd35068ab45e" title="django.utils.translation.trans\l_real.translation" alt="" coords="253,136,438,177"/>
+<area shape="rect" id="node5" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a99066a53a42149d6069c4e78ea2fced0" title="django.utils.translation.trans\l_real.activate" alt="" coords="500,37,685,79"/>
+<area shape="rect" id="node6" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a2e8dce60b7023bae6015abe2e6664142" title="django.utils.translation.trans\l_real.catalog" alt="" coords="500,103,685,144"/>
+<area shape="rect" id="node7" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#ac0c2a3b9d2a6cab7be3bf8d447a033b5" title="django.utils.translation.trans\l_real.do_translate" alt="" coords="500,168,685,209"/>
+<area shape="rect" id="node10" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a75cf8273d03b563ef5bbe7889e520703" title="django.utils.translation.trans\l_real.do_ntranslate" alt="" coords="500,233,685,275"/>
+<area shape="rect" id="node8" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#af66ac2c5aea9a73079189ed21758304e" title="django.utils.translation.trans\l_real.gettext" alt="" coords="733,103,919,144"/>
+<area shape="rect" id="node9" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a097429445705f5dc75d5c6ad07cf1ab8" title="django.utils.translation.trans\l_real.ugettext" alt="" coords="733,168,919,209"/>
+<area shape="rect" id="node11" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#a9b7c8c81126d7ba37c7ce5b6227cfc0a" title="django.utils.translation.trans\l_real.ngettext" alt="" coords="733,233,919,275"/>
+<area shape="rect" id="node12" href="$d9/d28/namespacedjango_1_1utils_1_1translation_1_1trans__real.html#aa58df6b3032071014d54df0b1a0b0325" title="django.utils.translation.trans\l_real.ungettext" alt="" coords="733,299,919,340"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.db.models.sql.compiler.GeoSQLCompiler" name="django.contrib.gis.db.models.sql.compiler.GeoSQLCompiler">
+<area shape="rect" id="node3" href="$d8/dec/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_aggregate_compiler.html" title="django.contrib.gis.db.models.sql.compiler.\lSQLAggregateCompiler" alt="" coords="524,5,791,47"/>
+<area shape="rect" id="node4" href="$df/d5a/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_date_compiler.html" title="django.contrib.gis.db.models.sql.compiler.\lSQLDateCompiler" alt="" coords="524,71,791,112"/>
+<area shape="rect" id="node5" href="$d9/d1c/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_date_time_compiler.html" title="django.contrib.gis.db.models.sql.compiler.\lSQLDateTimeCompiler" alt="" coords="524,136,791,177"/>
+<area shape="rect" id="node6" href="$d1/da1/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_delete_compiler.html" title="django.contrib.gis.db.models.sql.compiler.\lSQLDeleteCompiler" alt="" coords="524,201,791,243"/>
+<area shape="rect" id="node7" href="$df/d93/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_insert_compiler.html" title="django.contrib.gis.db.models.sql.compiler.\lSQLInsertCompiler" alt="" coords="524,267,791,308"/>
+<area shape="rect" id="node8" href="$d8/d92/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_update_compiler.html" title="django.contrib.gis.db.models.sql.compiler.\lSQLUpdateCompiler" alt="" coords="524,332,791,373"/>
+</map>

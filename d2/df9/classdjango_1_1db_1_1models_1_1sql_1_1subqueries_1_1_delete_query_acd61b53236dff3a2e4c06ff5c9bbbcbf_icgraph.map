@@ -1,0 +1,4 @@
+<map id="django.db.models.sql.subqueries.DeleteQuery.do_query" name="django.db.models.sql.subqueries.DeleteQuery.do_query">
+<area shape="rect" id="node2" href="$d2/df9/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_delete_query.html#a707f6a802f16b0ff56f0da341cd28a19" title="django.db.models.sql.subqueries.\lDeleteQuery.delete_batch" alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node3" href="$d2/df9/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_delete_query.html#aff042a14ceb16044a6f73adfca2ea7ab" title="django.db.models.sql.subqueries.\lDeleteQuery.delete_qs" alt="" coords="533,5,749,47"/>
+</map>

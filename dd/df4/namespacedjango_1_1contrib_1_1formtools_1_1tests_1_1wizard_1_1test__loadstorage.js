@@ -1,0 +1,4 @@
+var namespacedjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__loadstorage =
+[
+    [ "TestLoadStorage", "db/d39/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__loadstorage_1_1_test_load_storage.html", "db/d39/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1test__loadstorage_1_1_test_load_storage" ]
+];

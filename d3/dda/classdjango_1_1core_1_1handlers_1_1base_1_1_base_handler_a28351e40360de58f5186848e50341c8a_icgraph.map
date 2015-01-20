@@ -1,0 +1,5 @@
+<map id="django.core.handlers.base.BaseHandler.handle_uncaught_exception" name="django.core.handlers.base.BaseHandler.handle_uncaught_exception">
+<area shape="rect" id="node2" href="$d3/dda/classdjango_1_1core_1_1handlers_1_1base_1_1_base_handler.html#a133792501d228e14aa15b10fb92993ba" title="django.core.handlers.base.\lBaseHandler.get_response" alt="" coords="252,39,431,80"/>
+<area shape="rect" id="node3" href="$d0/dc5/classdjango_1_1test_1_1client_1_1_client_handler.html#aa721c18797af53ba99536a1199cdaed1" title="django.test.client.Client\lHandler.__call__" alt="" coords="487,5,646,47"/>
+<area shape="rect" id="node4" href="$dc/d50/classdjango_1_1core_1_1handlers_1_1wsgi_1_1_w_s_g_i_handler.html#a584d12563ff745eaaf93c899487f83a6" title="django.core.handlers.wsgi.\lWSGIHandler.__call__" alt="" coords="479,71,655,112"/>
+</map>

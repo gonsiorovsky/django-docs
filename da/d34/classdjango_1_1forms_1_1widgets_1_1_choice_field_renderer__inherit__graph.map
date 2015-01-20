@@ -1,0 +1,5 @@
+<map id="django.forms.widgets.ChoiceFieldRenderer" name="django.forms.widgets.ChoiceFieldRenderer">
+<area shape="rect" id="node3" href="$d1/d3e/classdjango_1_1forms_1_1widgets_1_1_checkbox_field_renderer.html" title="django.forms.widgets.Checkbox\lFieldRenderer" alt="" coords="347,5,553,47"/>
+<area shape="rect" id="node4" href="$d3/d50/classdjango_1_1forms_1_1widgets_1_1_radio_field_renderer.html" title="django.forms.widgets.Radio\lFieldRenderer" alt="" coords="359,71,541,112"/>
+<area shape="rect" id="node5" href="$d0/dca/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_admin_radio_field_renderer.html" title="django.contrib.admin.widgets.\lAdminRadioFieldRenderer" alt="" coords="601,71,796,112"/>
+</map>

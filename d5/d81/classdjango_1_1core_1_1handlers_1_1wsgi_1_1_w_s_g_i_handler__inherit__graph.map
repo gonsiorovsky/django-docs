@@ -1,0 +1,5 @@
+<map id="django.core.handlers.wsgi.WSGIHandler" name="django.core.handlers.wsgi.WSGIHandler">
+<area shape="rect" id="node4" href="$d8/d97/classdjango_1_1contrib_1_1staticfiles_1_1handlers_1_1_static_files_handler.html" title="django.contrib.staticfiles.handlers.\lStaticFilesHandler" alt="" coords="5,259,224,300"/>
+<area shape="rect" id="node2" href="$d3/dda/classdjango_1_1core_1_1handlers_1_1base_1_1_base_handler.html" title="django.core.handlers.base.\lBaseHandler" alt="" coords="25,80,204,121"/>
+<area shape="rect" id="node5" href="$d8/dde/classdjango_1_1test_1_1testcases_1_1___media_files_handler.html" title="django.test.testcases.\l_MediaFilesHandler" alt="" coords="39,348,190,389"/>
+</map>

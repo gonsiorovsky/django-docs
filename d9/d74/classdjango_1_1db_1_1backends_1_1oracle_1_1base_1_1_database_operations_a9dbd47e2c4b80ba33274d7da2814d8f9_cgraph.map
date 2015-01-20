@@ -1,0 +1,6 @@
+<map id="django.db.backends.oracle.base.DatabaseOperations.combine_expression" name="django.db.backends.oracle.base.DatabaseOperations.combine_expression">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="275,5,485,32"/>
+<area shape="rect" id="node4" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#a2f8d411c6bbe9e82c0e64044d917ad31" title="django.db.backends.BaseDatabase\lOperations.max_name_length" alt="" coords="267,57,493,98"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ab08e1ad398e4aeb4b091e69ad61f579a" title="django.template.defaultfilters.upper" alt="" coords="269,123,491,149"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="541,5,753,32"/>
+</map>

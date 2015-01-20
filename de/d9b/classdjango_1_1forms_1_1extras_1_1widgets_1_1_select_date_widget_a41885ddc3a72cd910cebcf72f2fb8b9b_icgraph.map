@@ -1,0 +1,8 @@
+<map id="django.forms.extras.widgets.SelectDateWidget.create_select" name="django.forms.extras.widgets.SelectDateWidget.create_select">
+<area shape="rect" id="node2" href="$de/d9b/classdjango_1_1forms_1_1extras_1_1widgets_1_1_select_date_widget.html#a6a50595feaaa4527cc03e6e711af4f45" title="django.forms.extras.widgets.\lSelectDateWidget.render" alt="" coords="263,160,451,201"/>
+<area shape="rect" id="node3" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="503,29,682,71"/>
+<area shape="rect" id="node4" href="$d8/d46/classdjango_1_1forms_1_1widgets_1_1_media.html#a0e4a19dea13251e926d6e295c1c0f8c3" title="django.forms.widgets.Media.\l__str__" alt="" coords="499,95,686,136"/>
+<area shape="rect" id="node5" href="$d1/d2a/classdjango_1_1forms_1_1widgets_1_1_choice_input.html#aec772adb8aeaa64fe0cb02769154f8a5" title="django.forms.widgets.Choice\lInput.__str__" alt="" coords="499,160,687,201"/>
+<area shape="rect" id="node6" href="$d7/d97/classdjango_1_1forms_1_1widgets_1_1_choice_field_renderer.html#aeaa481910bbfed17e545ee9b9a55922d" title="django.forms.widgets.Choice\lFieldRenderer.__str__" alt="" coords="499,225,687,267"/>
+<area shape="rect" id="node7" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="514,291,671,332"/>
+</map>

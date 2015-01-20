@@ -1,0 +1,6 @@
+<map id="django.forms.models.inlineformset_factory" name="django.forms.models.inlineformset_factory">
+<area shape="rect" id="node2" href="$db/dbb/classdjango_1_1contrib_1_1admin_1_1options_1_1_inline_model_admin.html#a549a370fdfb97db5a5775e883e6f26b3" title="django.contrib.admin.options.\lInlineModelAdmin.get_formset" alt="" coords="272,5,468,47"/>
+<area shape="rect" id="node5" href="$d9/d21/classdjango_1_1forms_1_1models_1_1_base_inline_form_set.html#ad1b4e34b7118f17c39d64c99105fa849" title="django.forms.models.Base\lInlineFormSet.get_unique\l_error_message" alt="" coords="282,70,458,126"/>
+<area shape="rect" id="node3" href="$db/dbb/classdjango_1_1contrib_1_1admin_1_1options_1_1_inline_model_admin.html#a0f3e17b2c687ec6dc44d136234745d30" title="django.contrib.admin.options.\lInlineModelAdmin.get_fieldsets" alt="" coords="516,5,717,47"/>
+<area shape="rect" id="node4" href="$df/deb/classdjango_1_1contrib_1_1contenttypes_1_1generic_1_1_generic_inline_model_admin.html#a68f78fb84f62164d91b46f93ae08dc17" title="django.contrib.contenttypes.generic.\lGenericInlineModelAdmin.get_formset" alt="" coords="765,5,1007,47"/>
+</map>

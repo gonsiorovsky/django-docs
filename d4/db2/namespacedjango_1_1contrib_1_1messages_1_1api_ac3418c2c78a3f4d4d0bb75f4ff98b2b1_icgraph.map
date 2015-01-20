@@ -1,0 +1,7 @@
+<map id="django.contrib.messages.api.add_message" name="django.contrib.messages.api.add_message">
+<area shape="rect" id="node2" href="$d4/db2/namespacedjango_1_1contrib_1_1messages_1_1api.html#a455f6c36b61a9e58f9fbe010d6991dd1" title="django.contrib.messages.api.debug" alt="" coords="274,5,501,32"/>
+<area shape="rect" id="node3" href="$d4/db2/namespacedjango_1_1contrib_1_1messages_1_1api.html#a7a3f55793f9436ab0bdd894a2b550d42" title="django.contrib.messages.api.error" alt="" coords="278,56,497,83"/>
+<area shape="rect" id="node4" href="$d4/db2/namespacedjango_1_1contrib_1_1messages_1_1api.html#a06f8f4b4b227b5fe89c1469b43767a6f" title="django.contrib.messages.api.info" alt="" coords="281,107,493,133"/>
+<area shape="rect" id="node5" href="$d4/db2/namespacedjango_1_1contrib_1_1messages_1_1api.html#a24a04efc3a0cf24ff7e95b684026699b" title="django.contrib.messages.api.success" alt="" coords="267,157,508,184"/>
+<area shape="rect" id="node6" href="$d4/db2/namespacedjango_1_1contrib_1_1messages_1_1api.html#a370f26f3679cb8e839e11348b3a3442d" title="django.contrib.messages.api.warning" alt="" coords="269,208,505,235"/>
+</map>

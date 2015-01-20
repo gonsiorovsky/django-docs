@@ -1,0 +1,8 @@
+<map id="django.contrib.sitemaps.Sitemap" name="django.contrib.sitemaps.Sitemap">
+<area shape="rect" id="node3" href="$dd/d02/classdjango_1_1contrib_1_1gis_1_1sitemaps_1_1georss_1_1_geo_r_s_s_sitemap.html" title="django.contrib.gis.sitemaps.georss.\lGeoRSSSitemap" alt="" coords="333,5,561,47"/>
+<area shape="rect" id="node4" href="$d0/dea/classdjango_1_1contrib_1_1gis_1_1sitemaps_1_1kml_1_1_k_m_l_sitemap.html" title="django.contrib.gis.sitemaps.kml.\lKMLSitemap" alt="" coords="341,71,552,112"/>
+<area shape="rect" id="node6" href="$de/d0c/classdjango_1_1contrib_1_1sitemaps_1_1_flat_page_sitemap.html" title="django.contrib.sitemaps.\lFlatPageSitemap" alt="" coords="365,136,529,177"/>
+<area shape="rect" id="node7" href="$d5/d7c/classdjango_1_1contrib_1_1sitemaps_1_1_generic_sitemap.html" title="django.contrib.sitemaps.\lGenericSitemap" alt="" coords="365,201,529,243"/>
+<area shape="rect" id="node8" href="$dc/d49/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1urls_1_1http_1_1_simple_sitemap.html" title="django.contrib.sitemaps.tests.urls.http.\lSimpleSitemap" alt="" coords="323,267,571,308"/>
+<area shape="rect" id="node5" href="$de/d98/classdjango_1_1contrib_1_1gis_1_1sitemaps_1_1kml_1_1_k_m_z_sitemap.html" title="django.contrib.gis.sitemaps.kml.\lKMZSitemap" alt="" coords="619,71,829,112"/>
+</map>

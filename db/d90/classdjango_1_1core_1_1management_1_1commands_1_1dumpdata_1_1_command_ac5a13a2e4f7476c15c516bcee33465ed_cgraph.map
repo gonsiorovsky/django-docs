@@ -1,0 +1,5 @@
+<map id="django.core.management.commands.dumpdata.Command.handle" name="django.core.management.commands.dumpdata.Command.handle">
+<area shape="rect" id="node2" href="$df/d5e/namespacedjango_1_1core_1_1management_1_1commands_1_1dumpdata.html#ad15178ee060b27980bcba49f26e72c3a" title="django.core.management.commands.dumpdata.sort\l_dependencies" alt="" coords="355,5,677,47"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="725,13,936,39"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="984,13,1196,39"/>
+</map>

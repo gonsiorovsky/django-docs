@@ -1,0 +1,5 @@
+<map id="django.contrib.contenttypes.generic.GenericRelation" name="django.contrib.contenttypes.generic.GenericRelation">
+<area shape="rect" id="node2" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html" title="django.db.models.fields.related.\lForeignObject" alt="" coords="19,259,224,300"/>
+<area shape="rect" id="node3" href="$de/d06/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_related_field.html" title="django.db.models.fields.related.\lRelatedField" alt="" coords="19,169,224,211"/>
+<area shape="rect" id="node4" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html" title="django.db.models.fields.\lField" alt="" coords="40,80,203,121"/>
+</map>

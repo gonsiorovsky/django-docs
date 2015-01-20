@@ -1,0 +1,17 @@
+<map id="django.contrib.admin.sites.AdminSite.i18n_javascript" name="django.contrib.admin.sites.AdminSite.i18n_javascript">
+<area shape="rect" id="node2" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#adadd9acdccc3343b9a9c2e41c8099b2e" title="django.views.i18n.javascript\l_catalog" alt="" coords="232,53,413,94"/>
+<area shape="rect" id="node3" href="$d4/dd9/namespacedjango_1_1utils_1_1translation.html#aad019bee05041d9f143049c5939441c7" title="django.utils.translation.to\l_locale" alt="" coords="1663,34,1829,75"/>
+<area shape="rect" id="node4" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#aebb3fbf070c7e38de7b9512e44f5a3c1" title="django.views.i18n.get\l_javascript_catalog" alt="" coords="470,53,615,94"/>
+<area shape="rect" id="node6" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#a5fc0f01ea145724ba5e0b7a89019ab66" title="django.views.i18n.render\l_javascript_catalog" alt="" coords="461,135,624,177"/>
+<area shape="rect" id="node5" href="$d4/d9b/namespacedjango_1_1utils_1_1__os.html#ac9c92ecbd2ea63f32a21c44d90357a37" title="django.utils._os.upath" alt="" coords="672,93,821,120"/>
+<area shape="rect" id="node7" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#a0c3752209c67213179f347b235b01762" title="django.views.i18n.get\l_formats" alt="" coords="674,145,819,186"/>
+<area shape="rect" id="node8" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a0b07dd01ac13e64133e61daae47d5fdc" title="django.utils.formats.get\l_format_modules" alt="" coords="1152,97,1309,138"/>
+<area shape="rect" id="node11" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a57f6e7d4923ab64f397326dad6d95d4a" title="django.utils.formats.get\l_format" alt="" coords="896,145,1053,186"/>
+<area shape="rect" id="node12" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="869,211,1080,237"/>
+<area shape="rect" id="node9" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#afb21c168301f96cb0bc7872d812188a6" title="django.utils.formats.iter\l_format_modules" alt="" coords="1408,97,1565,138"/>
+<area shape="rect" id="node10" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1655,99,1837,141"/>
+<area shape="rect" id="node13" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="1128,211,1333,237"/>
+<area shape="rect" id="node14" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1407,182,1566,223"/>
+<area shape="rect" id="node15" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1381,248,1592,275"/>
+<area shape="rect" id="node16" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1640,248,1852,275"/>
+</map>

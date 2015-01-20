@@ -1,0 +1,11 @@
+<map id="django.core.urlresolvers.RegexURLResolver.urlconf_module" name="django.core.urlresolvers.RegexURLResolver.urlconf_module">
+<area shape="rect" id="node2" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#a6b055d7df68e9067a83b3a620d08774d" title="django.core.urlresolvers.\lRegexURLResolver.url_patterns" alt="" coords="277,133,483,174"/>
+<area shape="rect" id="node3" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#ad852e2ae4fda832df8f17c58d07d64c6" title="django.core.urlresolvers.\lRegexURLResolver.__repr__" alt="" coords="531,99,717,141"/>
+<area shape="rect" id="node4" href="$d5/da1/classdjango_1_1core_1_1urlresolvers_1_1_regex_u_r_l_resolver.html#aab89b26118a769818296ca1c122fdcbe" title="django.core.urlresolvers.\lRegexURLResolver.resolve" alt="" coords="535,165,713,206"/>
+<area shape="rect" id="node5" href="$de/df9/classdjango_1_1utils_1_1dictconfig_1_1_base_configurator.html#a03c1b8571e3874b5bedc65c3a08c958d" title="django.utils.dictconfig.\lBaseConfigurator.configure\l_custom" alt="" coords="772,85,949,141"/>
+<area shape="rect" id="node9" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a3cc42d2881eec9aa14c6b62c8cc0f225" title="django.utils.dictconfig.\lDictConfigurator.configure\l_handler" alt="" coords="1004,165,1175,221"/>
+<area shape="rect" id="node10" href="$de/df9/classdjango_1_1utils_1_1dictconfig_1_1_base_configurator.html#aa6fa2dd85f8129b978ba9840ff3a64a3" title="django.utils.dictconfig.\lBaseConfigurator.ext_convert" alt="" coords="765,223,956,265"/>
+<area shape="rect" id="node6" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a545b2322568ffa2f35d87b14b0884530" title="django.utils.dictconfig.\lDictConfigurator.configure\l_formatter" alt="" coords="1004,5,1175,61"/>
+<area shape="rect" id="node8" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a150987f24d891aaf54e8b0806ab2f569" title="django.utils.dictconfig.\lDictConfigurator.configure\l_filter" alt="" coords="1004,85,1175,141"/>
+<area shape="rect" id="node7" href="$db/d1b/classdjango_1_1utils_1_1dictconfig_1_1_dict_configurator.html#a7516ab506ac4742258f24ec2797cec6f" title="django.utils.dictconfig.\lDictConfigurator.configure" alt="" coords="1223,93,1393,134"/>
+</map>

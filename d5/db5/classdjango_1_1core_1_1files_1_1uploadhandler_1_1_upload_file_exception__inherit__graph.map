@@ -1,0 +1,5 @@
+<map id="django.core.files.uploadhandler.UploadFileException" name="django.core.files.uploadhandler.UploadFileException">
+<area shape="rect" id="node3" href="$dd/da9/classdjango_1_1core_1_1files_1_1uploadhandler_1_1_skip_file.html" title="django.core.files.uploadhandler.\lSkipFile" alt="" coords="385,5,589,47"/>
+<area shape="rect" id="node4" href="$d6/db7/classdjango_1_1core_1_1files_1_1uploadhandler_1_1_stop_future_handlers.html" title="django.core.files.uploadhandler.\lStopFutureHandlers" alt="" coords="385,71,589,112"/>
+<area shape="rect" id="node5" href="$dd/d60/classdjango_1_1core_1_1files_1_1uploadhandler_1_1_stop_upload.html" title="django.core.files.uploadhandler.\lStopUpload" alt="" coords="385,136,589,177"/>
+</map>

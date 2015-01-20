@@ -1,0 +1,26 @@
+var prototypes_8py =
+[
+    [ "GeoIPRecord", "d5/de1/classdjango_1_1contrib_1_1gis_1_1geoip_1_1prototypes_1_1_geo_i_p_record.html", null ],
+    [ "GeoIPTag", "d9/d1a/classdjango_1_1contrib_1_1gis_1_1geoip_1_1prototypes_1_1_geo_i_p_tag.html", null ],
+    [ "geoip_char_p", "de/d6a/classdjango_1_1contrib_1_1gis_1_1geoip_1_1prototypes_1_1geoip__char__p.html", null ],
+    [ "check_record", "d8/dcb/prototypes_8py.html#aa971c8d1c0817363639e70bb5cca8e62", null ],
+    [ "check_string", "d8/dcb/prototypes_8py.html#aa0ec946b3176d661d871bd37d3ed08b8", null ],
+    [ "record_output", "d8/dcb/prototypes_8py.html#ac273580e75745252d0492c38496496de", null ],
+    [ "string_output", "d8/dcb/prototypes_8py.html#aeeba82bdb544079d4a340e399b7881a2", null ],
+    [ "DBTYPE", "d8/dcb/prototypes_8py.html#a79b6b1271ef61a721e9a2800525201b7", null ],
+    [ "geoip_char_fields", "d8/dcb/prototypes_8py.html#aa4d9c496811e837e981bc4cb71680894", null ],
+    [ "GeoIP_country_code_by_addr", "d8/dcb/prototypes_8py.html#aac7033dc66148ef405818d9cf9c41728", null ],
+    [ "GeoIP_country_code_by_name", "d8/dcb/prototypes_8py.html#a2e5de1a08f0fcaf18eba87a33818d32a", null ],
+    [ "GeoIP_country_name_by_addr", "d8/dcb/prototypes_8py.html#accd805300428d3afa36213f22abfb7a8", null ],
+    [ "GeoIP_country_name_by_name", "d8/dcb/prototypes_8py.html#a608daa8e920bbd8453a4dfac95c96b4e", null ],
+    [ "GeoIP_database_info", "d8/dcb/prototypes_8py.html#ac47a1c7acc7036f7bd81a6ccccadb019", null ],
+    [ "GEOIP_DEFAULT_ENCODING", "d8/dcb/prototypes_8py.html#a50db764f4c0c88d85d3beff8cefde0e4", null ],
+    [ "GeoIP_delete", "d8/dcb/prototypes_8py.html#a6af8432720fb7b5548cdc7c17228ebd2", null ],
+    [ "geoip_encodings", "d8/dcb/prototypes_8py.html#abae482e0042a6adb6f20033d3ee71f66", null ],
+    [ "GeoIP_lib_version", "d8/dcb/prototypes_8py.html#a4bc36e5e5d1b6dd9c3744223c97e38d7", null ],
+    [ "GeoIP_open", "d8/dcb/prototypes_8py.html#a9db72c07fedd769eed430b1b8316ba0f", null ],
+    [ "GeoIP_record_by_addr", "d8/dcb/prototypes_8py.html#aaad3d41485347a179549a7bc89293f7f", null ],
+    [ "GeoIP_record_by_name", "d8/dcb/prototypes_8py.html#aa0bc9d78662838aaebd017a8d8f037a8", null ],
+    [ "GeoIPRecord_delete", "d8/dcb/prototypes_8py.html#a5b110aafb27d45eb28880cf088d32920", null ],
+    [ "RECTYPE", "d8/dcb/prototypes_8py.html#a6fa36f09dcd56f485e7772e0205e5528", null ]
+];

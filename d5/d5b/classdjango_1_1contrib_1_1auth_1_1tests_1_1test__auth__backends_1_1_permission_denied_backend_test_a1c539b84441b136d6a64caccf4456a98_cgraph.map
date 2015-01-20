@@ -1,0 +1,9 @@
+<map id="django.contrib.auth.tests.test_auth_backends.PermissionDeniedBackendTest.test_permission_denied" name="django.contrib.auth.tests.test_auth_backends.PermissionDeniedBackendTest.test_permission_denied">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="349,8,519,49"/>
+<area shape="rect" id="node4" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#a9f6fd98c2aa9c080ef1900fe573ed754" title="django.contrib.auth.authenticate" alt="" coords="331,75,537,102"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="585,5,805,47"/>
+<area shape="rect" id="node5" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#a1e278feb8518c429b9c9f5b12250d3e1" title="django.contrib.auth.get\l_backends" alt="" coords="618,71,773,112"/>
+<area shape="rect" id="node6" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#a99d831e424d6d5a5323d9fa289712d2f" title="django.contrib.auth.load\l_backend" alt="" coords="853,71,1013,112"/>
+<area shape="rect" id="node7" href="$d3/d4c/namespacedjango_1_1utils_1_1module__loading.html#a18d0dcc9a4dc536929269634c538ed2c" title="django.utils.module\l_loading.import_by_path" alt="" coords="1061,71,1224,112"/>
+<area shape="rect" id="node8" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1272,71,1453,112"/>
+</map>

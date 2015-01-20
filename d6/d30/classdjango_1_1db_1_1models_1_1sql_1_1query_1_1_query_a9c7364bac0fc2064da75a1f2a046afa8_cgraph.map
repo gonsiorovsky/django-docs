@@ -1,0 +1,5 @@
+<map id="django.db.models.sql.query.Query.add_immediate_loading" name="django.db.models.sql.query.Query.add_immediate_loading">
+<area shape="rect" id="node2" href="$d4/d6b/classdjango_1_1contrib_1_1gis_1_1management_1_1commands_1_1inspectdb_1_1_command.html#a4e6ef60a3c99c4cfbcb0a3e3adc3845a" title="django.contrib.gis.management.commands.inspectdb.\lCommand.get_meta" alt="" coords="251,5,585,47"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aa30c77f17e727571452948c86a5ae46c" title="django.db.models.sql.query.\lQuery.get_meta" alt="" coords="325,71,511,112"/>
+<area shape="rect" id="node4" href="$d4/d3c/classdjango_1_1core_1_1management_1_1commands_1_1inspectdb_1_1_command.html#a8abde69bea6cb79853fb315d3164cd5b" title="django.core.management.commands.inspectdb.\lCommand.get_meta" alt="" coords="268,136,568,177"/>
+</map>

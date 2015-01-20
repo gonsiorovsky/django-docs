@@ -1,0 +1,9 @@
+<map id="django.db.utils.ConnectionHandler.__getitem__" name="django.db.utils.ConnectionHandler.__getitem__">
+<area shape="rect" id="node2" href="$d8/dd5/classdjango_1_1db_1_1utils_1_1_connection_handler.html#a5e800a37cb03e64c6ce6b1da2d5d9f7d" title="django.db.utils.Connection\lHandler.databases" alt="" coords="469,5,643,47"/>
+<area shape="rect" id="node3" href="$d8/dd5/classdjango_1_1db_1_1utils_1_1_connection_handler.html#a2fdacc49d0659e6cc082ae00bb1f989a" title="django.db.utils.Connection\lHandler.ensure_defaults" alt="" coords="228,64,403,105"/>
+<area shape="rect" id="node4" href="$d1/d14/namespacedjango_1_1db_1_1utils.html#a0028e0724e3d39f26b29b92f02f97cc2" title="django.db.utils.load\l_backend" alt="" coords="248,129,383,171"/>
+<area shape="rect" id="node5" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="465,71,647,112"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="451,137,661,163"/>
+<area shape="rect" id="node8" href="$d4/d9b/namespacedjango_1_1utils_1_1__os.html#ac9c92ecbd2ea63f32a21c44d90357a37" title="django.utils._os.upath" alt="" coords="481,187,631,214"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="709,137,921,163"/>
+</map>

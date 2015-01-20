@@ -1,0 +1,5 @@
+<map id="django.core.management.utils.find_command" name="django.core.management.utils.find_command">
+<area shape="rect" id="node2" href="$d0/d2c/namespacedjango_1_1core_1_1management_1_1commands_1_1makemessages.html#a062fb1026c512bf5e25ca9e0bc4cee4b" title="django.core.management.commands.makemessages.check\l_programs" alt="" coords="285,5,656,47"/>
+<area shape="rect" id="node3" href="$da/d68/namespacedjango_1_1core_1_1management_1_1commands_1_1compilemessages.html#a187b2dd87c5a63eee1aa0f6985bb7cbc" title="django.core.management.commands.compilemessages.compile\l_messages" alt="" coords="273,71,668,112"/>
+<area shape="rect" id="node4" href="$d2/d6e/classdjango_1_1core_1_1management_1_1commands_1_1compilemessages_1_1_command.html#ae42261830d1fde2340d137fe63b11dda" title="django.core.management.commands.compilemessages.\lCommand.handle" alt="" coords="716,71,1065,112"/>
+</map>

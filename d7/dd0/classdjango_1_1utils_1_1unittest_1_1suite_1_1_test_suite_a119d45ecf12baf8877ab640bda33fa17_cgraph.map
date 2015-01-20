@@ -1,0 +1,9 @@
+<map id="django.utils.unittest.suite.TestSuite.debug" name="django.utils.unittest.suite.TestSuite.debug">
+<area shape="rect" id="node2" href="$d7/dd0/classdjango_1_1utils_1_1unittest_1_1suite_1_1_test_suite.html#a5131b110b2f21f48b1ccec1285fda2c6" title="django.utils.unittest.suite.\lTestSuite._addClassOrModuleLevel\lException" alt="" coords="224,5,451,61"/>
+<area shape="rect" id="node3" href="$d7/dd0/classdjango_1_1utils_1_1unittest_1_1suite_1_1_test_suite.html#a1e8d63f0a13323b61d0058a1d08e3950" title="django.utils.unittest.suite.\lTestSuite._get_previous_module" alt="" coords="233,85,442,126"/>
+<area shape="rect" id="node4" href="$d7/dd0/classdjango_1_1utils_1_1unittest_1_1suite_1_1_test_suite.html#aecfad63dd2bffef700fd9d7fd22d4244" title="django.utils.unittest.suite.\lTestSuite._handleClassSetUp" alt="" coords="240,150,435,191"/>
+<area shape="rect" id="node5" href="$d7/dd0/classdjango_1_1utils_1_1unittest_1_1suite_1_1_test_suite.html#a878200ad5eed422aa3fcecee667c1665" title="django.utils.unittest.suite.\lTestSuite._handleModuleFixture" alt="" coords="233,215,441,257"/>
+<area shape="rect" id="node6" href="$d7/dd0/classdjango_1_1utils_1_1unittest_1_1suite_1_1_test_suite.html#a047b63516f06923a5873405b6a3d9087" title="django.utils.unittest.suite.\lTestSuite._handleModuleTearDown" alt="" coords="225,281,450,322"/>
+<area shape="rect" id="node7" href="$d7/dd0/classdjango_1_1utils_1_1unittest_1_1suite_1_1_test_suite.html#ae1283066c2dc3d49580c9f98847bbcd8" title="django.utils.unittest.suite.\lTestSuite._tearDownPreviousClass" alt="" coords="225,346,449,387"/>
+<area shape="rect" id="node8" href="$d7/dd0/classdjango_1_1utils_1_1unittest_1_1suite_1_1_test_suite.html#ad3ef9cd59fe1d64f99ddb57ef18ddf84" title="private methods " alt="" coords="252,411,423,453"/>
+</map>

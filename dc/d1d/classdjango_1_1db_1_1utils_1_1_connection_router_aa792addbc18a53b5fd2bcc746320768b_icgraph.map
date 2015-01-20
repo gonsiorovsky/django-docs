@@ -1,0 +1,4 @@
+<map id="django.db.utils.ConnectionRouter.routers" name="django.db.utils.ConnectionRouter.routers">
+<area shape="rect" id="node2" href="$dc/d1d/classdjango_1_1db_1_1utils_1_1_connection_router.html#aa6ca38acb37653af38f4b1b43172d080" title="django.db.utils.Connection\lRouter.allow_relation" alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node3" href="$dc/d1d/classdjango_1_1db_1_1utils_1_1_connection_router.html#a66ef11e2481016df04628e6c66d0d5a7" title="django.db.utils.Connection\lRouter.allow_syncdb" alt="" coords="228,71,403,112"/>
+</map>

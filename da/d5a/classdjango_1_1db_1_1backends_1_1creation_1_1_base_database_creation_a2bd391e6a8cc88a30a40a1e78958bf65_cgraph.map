@@ -1,0 +1,8 @@
+<map id="django.db.backends.creation.BaseDatabaseCreation.sql_destroy_model" name="django.db.backends.creation.BaseDatabaseCreation.sql_destroy_model">
+<area shape="rect" id="node2" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html#a9d828547551c7720a498dfd08bbac6a9" title="django.db.backends.creation.\lBaseDatabaseCreation.sql\l_remove_table_constraints" alt="" coords="245,27,437,83"/>
+<area shape="rect" id="node3" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html#ae072fccc4a7218c915d165fa2dd90a42" title="django.db.backends.creation.\lBaseDatabaseCreation._digest" alt="" coords="509,5,711,47"/>
+<area shape="rect" id="node4" href="$d9/d72/namespacedjango_1_1db_1_1backends_1_1util.html#a1b0512e0c711f8be09ed6b6b9e893df4" title="django.db.backends.util.truncate_name" alt="" coords="485,71,735,98"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="783,64,959,105"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1007,71,1217,98"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1265,71,1477,98"/>
+</map>

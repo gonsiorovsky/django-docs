@@ -1,0 +1,16 @@
+<map id="django.forms.widgets.SubWidget.__str__" name="django.forms.widgets.SubWidget.__str__">
+<area shape="rect" id="node2" href="$d8/d65/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_field.html#a52ccad95ad1a0fae1ef80beb9a6c838b" title="Field Properties ####. " alt="" coords="245,5,427,47"/>
+<area shape="rect" id="node7" href="$dc/d9c/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geomtype_1_1_o_g_r_geom_type.html#a80a6f16d4e7014ca3adac92432f148b2" title="django.contrib.gis.gdal.geomtype.\lOGRGeomType.name" alt="" coords="227,71,445,112"/>
+<area shape="rect" id="node8" href="$d9/d84/classdjango_1_1contrib_1_1gis_1_1gdal_1_1layer_1_1_layer.html#a64c4f09deeb5dd93a1f82a986e090581" title="django.contrib.gis.gdal.layer.\lLayer.name" alt="" coords="242,136,430,177"/>
+<area shape="rect" id="node9" href="$db/d7b/classdjango_1_1contrib_1_1gis_1_1gdal_1_1datasource_1_1_data_source.html#af2cbfd1f4ceeb82b6f7c29a705555d8e" title="django.contrib.gis.gdal.datasource.\lDataSource.name" alt="" coords="224,201,448,243"/>
+<area shape="rect" id="node10" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#aba72b97da57e6f07b85d53ff618798e3" title="Name &amp; SRID properties ####. " alt="" coords="247,267,425,308"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="496,143,701,170"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="758,80,917,121"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="973,175,1184,202"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1232,175,1444,202"/>
+<area shape="rect" id="node11" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#a69cdfc997aa817ddc97835110d61ef3a" title="SpatialReference Methods ####. " alt="" coords="509,197,688,239"/>
+<area shape="rect" id="node13" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#a406e1a538d83408413ace9cd5f14b074" title="Boolean Properties ####. " alt="" coords="505,263,692,304"/>
+<area shape="rect" id="node14" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#ac1c1b258ca231c1189730ccc0516b84b" title="django.contrib.gis.gdal.srs.\lSpatialReference.local" alt="" coords="509,328,688,369"/>
+<area shape="rect" id="node15" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#adfc3d7ac1b401079829e1e560d0d8e09" title="django.contrib.gis.gdal.srs.\lSpatialReference.projected" alt="" coords="509,393,688,435"/>
+<area shape="rect" id="node12" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="749,197,925,239"/>
+</map>

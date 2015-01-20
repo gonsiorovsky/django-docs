@@ -1,0 +1,10 @@
+<map id="django.test.testcases.SimpleTestCase.assertHTMLEqual" name="django.test.testcases.SimpleTestCase.assertHTMLEqual">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="262,5,439,47"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af26922df22a44f3efc89e8b3f116d1b2" title="django.utils.unittest.case.\lTestCase._truncateMessage" alt="" coords="257,71,445,112"/>
+<area shape="rect" id="node4" href="$d6/d42/namespacedjango_1_1test_1_1testcases.html#ae31b0fbf172fb3a1fce8785aef0e58cf" title="django.test.testcases.assert\l_and_parse_html" alt="" coords="257,136,444,177"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="265,201,436,243"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="245,267,456,294"/>
+<area shape="rect" id="node9" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="244,318,457,345"/>
+<area shape="rect" id="node5" href="$d5/dbc/namespacedjango_1_1test_1_1html.html#a0f6574322bcb1eeade5f75cb9389dd7a" title="django.test.html.parse_html" alt="" coords="520,143,703,170"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="505,267,717,294"/>
+</map>

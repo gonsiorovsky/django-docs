@@ -1,0 +1,7 @@
+<map id="django.utils.unittest.loader.TestLoader.getTestCaseNames" name="django.utils.unittest.loader.TestLoader.getTestCaseNames">
+<area shape="rect" id="node2" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#abcaeab2e42b33457f9fab771ab1acf36" title="django.utils.unittest.loader.\lTestLoader.loadTestsFromTestCase" alt="" coords="257,35,488,76"/>
+<area shape="rect" id="node3" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#a3f533bc2053ce897f21c68748b593b20" title="django.utils.unittest.loader.\lTestLoader.loadTestsFromModule" alt="" coords="536,64,755,105"/>
+<area shape="rect" id="node4" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#aa79a76cd9e1cb2915e1edfdc1497346b" title="django.utils.unittest.loader.\lTestLoader.loadTestsFromName" alt="" coords="803,5,1013,47"/>
+<area shape="rect" id="node6" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#af9e98af3d1de0d34b88546cda0225a6d" title="django.utils.unittest.loader.\lTestLoader.discover" alt="" coords="819,71,997,112"/>
+<area shape="rect" id="node5" href="$db/d5f/classdjango_1_1utils_1_1unittest_1_1loader_1_1_test_loader.html#ab709e6852028c29361f98a3f85c18999" title="django.utils.unittest.loader.\lTestLoader.loadTestsFromNames" alt="" coords="1061,5,1279,47"/>
+</map>

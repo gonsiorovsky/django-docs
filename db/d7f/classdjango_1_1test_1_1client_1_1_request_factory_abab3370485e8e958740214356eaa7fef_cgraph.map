@@ -1,0 +1,15 @@
+<map id="django.test.client.RequestFactory.patch" name="django.test.client.RequestFactory.patch">
+<area shape="rect" id="node2" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#a466f6bb9ef06f2ab5d0a4b779cd6fb30" title="django.test.client.Request\lFactory.delete" alt="" coords="227,71,400,112"/>
+<area shape="rect" id="node3" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#ab5fbce705b962e3389508d488a5cd498" title="django.test.client.Request\lFactory.generic" alt="" coords="448,100,621,141"/>
+<area shape="rect" id="node4" href="$d8/d02/classdjango_1_1db_1_1models_1_1fields_1_1files_1_1_field_file.html#a76b5aeaa66037ba411c77a2d75187533" title="django.db.models.fields.files.\lFieldFile._get_path" alt="" coords="669,5,859,47"/>
+<area shape="rect" id="node5" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#aa0c493ac026df4a0352d9cabf1ce10f8" title="django.test.client.Request\lFactory._get_path" alt="" coords="677,71,851,112"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="1385,231,1561,272"/>
+<area shape="rect" id="node9" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#a9f6ec4294d306656f9913fda434a76ed" title="django.test.client.Request\lFactory.request" alt="" coords="677,239,851,280"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1628,339,1839,366"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1887,339,2099,366"/>
+<area shape="rect" id="node10" href="$db/d7f/classdjango_1_1test_1_1client_1_1_request_factory.html#abe9db2826a1171f3a7b3699d80e2aa00" title="django.test.client.Request\lFactory._base_environ" alt="" coords="907,239,1080,280"/>
+<area shape="rect" id="node11" href="$dd/dc6/namespacedjango_1_1test_1_1client.html#abb00919a21d18886cabc0ae495ad2e3e" title="django.test.client.encode\l_multipart" alt="" coords="910,304,1077,345"/>
+<area shape="rect" id="node14" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a4f14ff9d8961ca7587d1219dd52d25a3" title="django.contrib.admin.util.unquote" alt="" coords="1367,423,1580,450"/>
+<area shape="rect" id="node12" href="$dd/dc6/namespacedjango_1_1test_1_1client.html#a7dab00f9b00518a402520e5211b8b6d8" title="django.test.client.encode_file" alt="" coords="1128,289,1319,315"/>
+<area shape="rect" id="node13" href="$d1/de6/namespacedjango_1_1utils_1_1itercompat.html#a6c66324b2f7c14e3eecc5f41b9e90d79" title="django.utils.itercompat.is\l_iterable" alt="" coords="1140,391,1307,432"/>
+</map>

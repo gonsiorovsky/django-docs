@@ -1,0 +1,6 @@
+<map id="django.db.models.fields.related.ForeignObject.attnames" name="django.db.models.fields.related.ForeignObject.attnames">
+<area shape="rect" id="node2" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#a597793b4444e07b15d150b6e37909caa" title="django.db.models.fields.related.\lForeignObject.local_related_fields" alt="" coords="259,39,476,80"/>
+<area shape="rect" id="node3" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#a65a57a6457812da5370427378d8df45b" title="django.db.models.fields.related.\lForeignObject.related_fields" alt="" coords="524,39,729,80"/>
+<area shape="rect" id="node4" href="$de/dad/classdjango_1_1contrib_1_1contenttypes_1_1generic_1_1_generic_relation.html#afb1012e13dbda09b179819e34988cd5a" title="django.contrib.contenttypes.generic.\lGenericRelation.resolve_related_fields" alt="" coords="777,5,1019,47"/>
+<area shape="rect" id="node5" href="$d7/dbd/classdjango_1_1db_1_1models_1_1fields_1_1related_1_1_foreign_object.html#a4b6d8636268fab6e7a9639dc454caec3" title="django.db.models.fields.related.\lForeignObject.resolve_related_fields" alt="" coords="783,71,1013,112"/>
+</map>

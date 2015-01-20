@@ -1,0 +1,8 @@
+<map id="django.contrib.messages.tests.base.BaseTests.stored_messages_count" name="django.contrib.messages.tests.base.BaseTests.stored_messages_count">
+<area shape="rect" id="node2" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a4fd6f2464b768ec4d3ca135b92c8fcb8" title="django.contrib.messages.tests.base.\lBaseTests.test_add_lazy_translation" alt="" coords="289,5,525,47"/>
+<area shape="rect" id="node3" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a8d309631eb409f89f320c7c89ecffa1d" title="django.contrib.messages.tests.base.\lBaseTests.test_add_update" alt="" coords="289,71,525,112"/>
+<area shape="rect" id="node4" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#ac3d0b20c290949f25c635d7c001d499f" title="django.contrib.messages.tests.base.\lBaseTests.test_existing_add\l_read_update" alt="" coords="289,135,525,191"/>
+<area shape="rect" id="node5" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#aa9a4e710f3c77067ddf9dab1012906b4" title="django.contrib.messages.tests.base.\lBaseTests.test_existing_read\l_add_update" alt="" coords="289,215,525,271"/>
+<area shape="rect" id="node6" href="$d0/de5/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__cookie_1_1_cookie_test.html#aa8bf78ce59824dda0c32f38de6116eb7" title="django.contrib.messages.tests.test\l_cookie.CookieTest.test_max\l_cookie_length" alt="" coords="294,295,521,351"/>
+<area shape="rect" id="node7" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a321f2425b7ef6342d93b2ea4809ba69b" title="django.contrib.messages.tests.base.\lBaseTests.test_no_update" alt="" coords="289,375,525,416"/>
+</map>

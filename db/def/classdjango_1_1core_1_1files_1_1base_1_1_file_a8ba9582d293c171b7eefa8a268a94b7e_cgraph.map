@@ -1,0 +1,5 @@
+<map id="django.core.files.base.File.__exit__" name="django.core.files.base.File.__exit__">
+<area shape="rect" id="node2" href="$d3/d36/classdjango_1_1core_1_1cache_1_1backends_1_1memcached_1_1_base_memcached_cache.html#a6ce431575eba6e5dfdbbf7feff8d3faa" title="django.core.cache.backends.memcached.\lBaseMemcachedCache.close" alt="" coords="231,5,497,47"/>
+<area shape="rect" id="node3" href="$db/def/classdjango_1_1core_1_1files_1_1base_1_1_file.html#a8c4bc9a8846330c046fc201d6becbb16" title="django.core.files.base.File.close" alt="" coords="260,71,468,98"/>
+<area shape="rect" id="node4" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html#abff4b76d9f89ce365e3dfb3ee36543b6" title="django.core.cache.backends.base.\lBaseCache.close" alt="" coords="252,123,476,164"/>
+</map>

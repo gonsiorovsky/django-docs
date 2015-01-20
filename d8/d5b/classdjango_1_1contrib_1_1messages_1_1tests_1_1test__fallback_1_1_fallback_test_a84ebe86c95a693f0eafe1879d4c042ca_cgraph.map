@@ -1,0 +1,8 @@
+<map id="django.contrib.messages.tests.test_fallback.FallbackTest.test_get" name="django.contrib.messages.tests.test_fallback.FallbackTest.test_get">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="332,5,503,47"/>
+<area shape="rect" id="node4" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#acae64293160a10eec1798c4821e04e08" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.get_cookie_storage" alt="" coords="283,71,551,112"/>
+<area shape="rect" id="node5" href="$d3/db6/classdjango_1_1contrib_1_1messages_1_1tests_1_1base_1_1_base_tests.html#a4849eeaae939420e45898a6c00a6c23f" title="django.contrib.messages.tests.base.\lBaseTests.get_request" alt="" coords="299,136,535,177"/>
+<area shape="rect" id="node6" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#a031503c0389826713eb6f766f168c7f1" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.get_session_storage" alt="" coords="280,201,555,243"/>
+<area shape="rect" id="node7" href="$d3/da8/namespacedjango_1_1contrib_1_1messages_1_1tests_1_1test__cookie.html#a9286e7a5820903ab37cb99140ed2c901" title="django.contrib.messages.tests.test\l_cookie.set_cookie_data" alt="" coords="304,267,531,308"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="603,5,823,47"/>
+</map>

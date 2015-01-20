@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d0/d83/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__hashers_1_1_test_utils_hash_pass.html" title="django.contrib.auth.tests.test\l_hashers.TestUtilsHashPass" alt="" coords="203,5,393,47"/>
+<area shape="rect" id="node3" href="$d6/d55/classdjango_1_1contrib_1_1gis_1_1tests_1_1test__geoforms_1_1_custom_geometry_widget_test.html" title="django.contrib.gis.tests.test\l_geoforms.CustomGeometryWidgetTest" alt="" coords="171,71,425,112"/>
+<area shape="rect" id="node4" href="$d8/dec/classdjango_1_1contrib_1_1gis_1_1tests_1_1test__geoforms_1_1_geometry_field_test.html" title="django.contrib.gis.tests.test\l_geoforms.GeometryFieldTest" alt="" coords="200,136,396,177"/>
+<area shape="rect" id="node5" href="$d4/dba/classdjango_1_1contrib_1_1gis_1_1tests_1_1test__geoforms_1_1_specialized_field_test.html" title="django.contrib.gis.tests.test\l_geoforms.SpecializedFieldTest" alt="" coords="195,201,401,243"/>
+</map>

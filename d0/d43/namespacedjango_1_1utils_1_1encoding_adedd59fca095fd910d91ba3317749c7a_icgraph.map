@@ -1,0 +1,18 @@
+<map id="django.utils.encoding.iri_to_uri" name="django.utils.encoding.iri_to_uri">
+<area shape="rect" id="node2" href="$d9/d32/classdjango_1_1http_1_1response_1_1_http_response_redirect_base.html#a68fa8449ec016d0db674e9d3e1e5f139" title="django.http.response.Http\lResponseRedirectBase.__init__" alt="" coords="230,5,437,47"/>
+<area shape="rect" id="node3" href="$d9/d5a/namespacedjango_1_1contrib_1_1syndication_1_1views.html#a7cd915c987c38098c691b0c369120e93" title="django.contrib.syndication.views.add\l_domain" alt="" coords="217,71,450,112"/>
+<area shape="rect" id="node6" href="$d7/dc3/classdjango_1_1utils_1_1feedgenerator_1_1_syndication_feed.html#ac4112b358da00c195d47210511a6fbde" title="django.utils.feedgenerator.\lSyndicationFeed.add_item" alt="" coords="245,136,421,177"/>
+<area shape="rect" id="node7" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a0bffabb054cda12db74e2dc0f0cd2e46" title="django.http.request.Http\lRequest.build_absolute_uri" alt="" coords="521,224,699,265"/>
+<area shape="rect" id="node8" href="$de/df2/classdjango_1_1contrib_1_1flatpages_1_1models_1_1_flat_page.html#a1557ea146dcbbdf46a5d43597d183b43" title="django.contrib.flatpages.models.\lFlatPage.get_absolute_url" alt="" coords="229,253,438,295"/>
+<area shape="rect" id="node9" href="$d1/ded/classdjango_1_1http_1_1request_1_1_http_request.html#a1026269088aafe8c0192fefcfef65235" title="django.http.request.Http\lRequest.get_full_path" alt="" coords="253,319,414,360"/>
+<area shape="rect" id="node10" href="$de/da1/classdjango_1_1templatetags_1_1static_1_1_prefix_node.html#a79eef23a99a2b7220bc6fcb29e11610e" title="django.templatetags.static.\lPrefixNode.handle_simple" alt="" coords="244,384,423,425"/>
+<area shape="rect" id="node14" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#adaaaa3fcada95d874deb757bc736b420" title="django.utils.cache.has\l_vary_header" alt="" coords="257,449,409,491"/>
+<area shape="rect" id="node16" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aeeb85076f51f866426ef6ea68dcd0299" title="django.template.defaultfilters.iriencode" alt="" coords="212,515,455,542"/>
+<area shape="rect" id="node17" href="$d1/d1a/namespacedjango_1_1core_1_1urlresolvers.html#a63950342ce432abc71ca403b274af162" title="django.core.urlresolvers.reverse" alt="" coords="232,566,435,593"/>
+<area shape="rect" id="node4" href="$df/de9/classdjango_1_1contrib_1_1syndication_1_1views_1_1_feed.html#a69852814d29b299fa9edd7a780c1cc12" title="django.contrib.syndication.views.\lFeed.get_feed" alt="" coords="504,71,716,112"/>
+<area shape="rect" id="node5" href="$df/de9/classdjango_1_1contrib_1_1syndication_1_1views_1_1_feed.html#a1c6105ef2cb235fd3dce445547d86401" title="django.contrib.syndication.views.\lFeed.__call__" alt="" coords="765,71,977,112"/>
+<area shape="rect" id="node11" href="$de/da1/classdjango_1_1templatetags_1_1static_1_1_prefix_node.html#ab4fc5733e2df8c673e301746a08fa4f9" title="django.templatetags.static.\lPrefixNode.render" alt="" coords="521,319,699,360"/>
+<area shape="rect" id="node12" href="$d6/dd9/classdjango_1_1templatetags_1_1static_1_1_static_node.html#a90242615a5a2c320483130c7475fbe1b" title="django.templatetags.static.\lStaticNode.url" alt="" coords="521,384,699,425"/>
+<area shape="rect" id="node13" href="$d6/dd9/classdjango_1_1templatetags_1_1static_1_1_static_node.html#a72d0b280e18da590998bd0893e0ea4fe" title="django.templatetags.static.\lStaticNode.render" alt="" coords="782,384,961,425"/>
+<area shape="rect" id="node15" href="$d5/da8/classdjango_1_1middleware_1_1cache_1_1_update_cache_middleware.html#a923e563146c968dcfb4217a470822900" title="django.middleware.cache.\lUpdateCacheMiddleware.process\l_response" alt="" coords="503,449,717,505"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="django.test.testcases.SimpleTestCase.assertFormError" name="django.test.testcases.SimpleTestCase.assertFormError">
+<area shape="rect" id="node2" href="$d4/d6b/classdjango_1_1test_1_1testcases_1_1_simple_test_case.html#a9651ce75eb416767298245ed5ee44a98" title="django.test.testcases.Simple\lTestCase.assertFormsetError" alt="" coords="244,115,437,157"/>
+<area shape="rect" id="node3" href="$d6/d42/namespacedjango_1_1test_1_1testcases.html#ac86d6d05afaa7c4923dad1fd4a90a232" title="django.test.testcases.to_list" alt="" coords="485,5,672,32"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="493,57,664,98"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af56ee36078618482abe6748bc9a63445" title="django.utils.unittest.case.\lTestCase.assertTrue" alt="" coords="493,187,664,229"/>
+<area shape="rect" id="node9" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a4813996549d13361e21a4e40fa07c2c9" title="django.utils.unittest.case.\lTestCase.assertFalse" alt="" coords="493,122,664,163"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="738,181,915,222"/>
+<area shape="rect" id="node7" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="720,129,933,156"/>
+<area shape="rect" id="node8" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#af553e474e616ef1a424646dee9dde7ac" title="django.utils.unittest.util.safe_str" alt="" coords="723,247,930,273"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="django.db.models.query.QuerySet" name="django.db.models.query.QuerySet">
+<area shape="rect" id="node3" href="$d5/dc6/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1query_1_1_geo_query_set.html" title="django.contrib.gis.db.models.query.\lGeoQuerySet" alt="" coords="377,5,605,47"/>
+<area shape="rect" id="node4" href="$d3/d5b/classdjango_1_1db_1_1models_1_1query_1_1_date_query_set.html" title="django.db.models.query.Date\lQuerySet" alt="" coords="396,71,587,112"/>
+<area shape="rect" id="node5" href="$da/d08/classdjango_1_1db_1_1models_1_1query_1_1_date_time_query_set.html" title="django.db.models.query.Date\lTimeQuerySet" alt="" coords="396,136,587,177"/>
+<area shape="rect" id="node6" href="$d6/d19/classdjango_1_1db_1_1models_1_1query_1_1_values_query_set.html" title="django.db.models.query.Values\lQuerySet" alt="" coords="389,201,593,243"/>
+<area shape="rect" id="node7" href="$df/d2e/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1query_1_1_geo_values_query_set.html" title="django.contrib.gis.db.models.query.\lGeoValuesQuerySet" alt="" coords="653,168,881,209"/>
+<area shape="rect" id="node9" href="$de/da2/classdjango_1_1db_1_1models_1_1query_1_1_values_list_query_set.html" title="django.db.models.query.Values\lListQuerySet" alt="" coords="665,233,869,275"/>
+<area shape="rect" id="node8" href="$d6/dae/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1query_1_1_geo_values_list_query_set.html" title="django.contrib.gis.db.models.query.\lGeoValuesListQuerySet" alt="" coords="929,201,1157,243"/>
+</map>

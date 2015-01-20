@@ -1,0 +1,12 @@
+<map id="django.core.cache.parse_backend_conf" name="django.core.cache.parse_backend_conf">
+<area shape="rect" id="node2" href="$d4/db9/namespacedjango_1_1core_1_1cache.html#a3945c1d5c3d2e6db2b565e0d6939cf48" title="django.core.cache.get\l_cache" alt="" coords="217,179,368,220"/>
+<area shape="rect" id="node3" href="$df/d0f/classdjango_1_1contrib_1_1sessions_1_1backends_1_1cache_1_1_session_store.html#a87098a6bf8e8348b90a5ada435923bed" title="django.contrib.sessions.backends.cache.\lSessionStore.__init__" alt="" coords="441,5,703,47"/>
+<area shape="rect" id="node4" href="$d3/dfc/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1creation_1_1_spatia_lite_creation.html#a1af2ad26aaa8ff01bc70800850e271ae" title="django.contrib.gis.db.backends.spatialite.creation.\lSpatiaLiteCreation.create_test_db" alt="" coords="416,71,728,112"/>
+<area shape="rect" id="node5" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html#a3bc296105b61d3f41dc2906a088ee571" title="django.db.backends.creation.\lBaseDatabaseCreation.create\l_test_db" alt="" coords="475,135,669,191"/>
+<area shape="rect" id="node6" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a25d0e132987ef3093d4f4db02ee35fa2" title="django.utils.cache.get\l_cache_key" alt="" coords="497,215,647,256"/>
+<area shape="rect" id="node9" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a87182f4080dee453d2b0f1aac5fadfde" title="django.utils.cache.learn\l_cache_key" alt="" coords="493,280,651,321"/>
+<area shape="rect" id="node11" href="$d5/d24/classdjango_1_1contrib_1_1sessions_1_1tests_1_1_cache_session_tests.html#a2d7df68225e8f0ef02e65670c263b3ac" title="django.contrib.sessions.tests.\lCacheSessionTests.test_default_cache" alt="" coords="447,345,697,387"/>
+<area shape="rect" id="node7" href="$da/d66/classdjango_1_1middleware_1_1cache_1_1_fetch_from_cache_middleware.html#a13080cf23b1128c7ca24e66a681ca477" title="django.middleware.cache.\lFetchFromCacheMiddleware.process\l_request" alt="" coords="776,199,1013,255"/>
+<area shape="rect" id="node8" href="$dd/dd0/classdjango_1_1test_1_1testcases_1_1_stoppable_w_s_g_i_server.html#a96aa55dd4abcfae07a2236883186ca4e" title="django.test.testcases.Stoppable\lWSGIServer.handle_request" alt="" coords="1061,207,1271,248"/>
+<area shape="rect" id="node10" href="$d5/da8/classdjango_1_1middleware_1_1cache_1_1_update_cache_middleware.html#a923e563146c968dcfb4217a470822900" title="django.middleware.cache.\lUpdateCacheMiddleware.process\l_response" alt="" coords="787,279,1002,335"/>
+</map>

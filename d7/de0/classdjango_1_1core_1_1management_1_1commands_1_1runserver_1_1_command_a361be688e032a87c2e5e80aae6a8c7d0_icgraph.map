@@ -1,0 +1,6 @@
+<map id="django.core.management.commands.runserver.Command.get_handler" name="django.core.management.commands.runserver.Command.get_handler">
+<area shape="rect" id="node2" href="$d7/de0/classdjango_1_1core_1_1management_1_1commands_1_1runserver_1_1_command.html#a06bfab39f715abe69733f093702b0711" title="django.core.management.commands.runserver.\lCommand.inner_run" alt="" coords="349,39,645,80"/>
+<area shape="rect" id="node3" href="$d7/de0/classdjango_1_1core_1_1management_1_1commands_1_1runserver_1_1_command.html#a4f70d3b5ec1d63b3330323e097ab1106" title="django.core.management.commands.runserver.\lCommand.run" alt="" coords="693,39,989,80"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6960e9dd7337821e62e063f783976088" title="django.utils.unittest.case.\lTestCase.__call__" alt="" coords="1037,5,1208,47"/>
+<area shape="rect" id="node5" href="$df/df9/classdjango_1_1utils_1_1unittest_1_1suite_1_1_base_test_suite.html#a97e47830fa01bf6c982bfa9263d2fe38" title="django.utils.unittest.suite.\lBaseTestSuite.__call__" alt="" coords="1037,71,1208,112"/>
+</map>

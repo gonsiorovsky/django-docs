@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d8/df8/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__flatpages_1_1_flatpages_sitemap_tests.html" title="django.contrib.sitemaps.tests.test\l_flatpages.FlatpagesSitemapTests" alt="" coords="193,5,416,47"/>
+<area shape="rect" id="node3" href="$d3/d89/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__generic_1_1_generic_views_sitemap_tests.html" title="django.contrib.sitemaps.tests.test\l_generic.GenericViewsSitemapTests" alt="" coords="187,71,422,112"/>
+<area shape="rect" id="node4" href="$d4/da1/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__http_1_1_h_t_t_p_sitemap_tests.html" title="django.contrib.sitemaps.tests.test\l_http.HTTPSitemapTests" alt="" coords="195,136,414,177"/>
+<area shape="rect" id="node5" href="$d4/dd1/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__https_1_1_h_t_t_p_s_detection_sitemap_tests.html" title="django.contrib.sitemaps.tests.test\l_https.HTTPSDetectionSitemapTests" alt="" coords="185,201,424,243"/>
+<area shape="rect" id="node6" href="$db/d36/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__https_1_1_h_t_t_p_s_sitemap_tests.html" title="django.contrib.sitemaps.tests.test\l_https.HTTPSSitemapTests" alt="" coords="195,267,414,308"/>
+</map>

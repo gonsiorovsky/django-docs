@@ -1,0 +1,8 @@
+<map id="django.middleware.gzip.GZipMiddleware.process_response" name="django.middleware.gzip.GZipMiddleware.process_response">
+<area shape="rect" id="node2" href="$d6/d0b/namespacedjango_1_1utils_1_1text.html#accd750d75ec400efea46dc8417e568d9" title="django.utils.text.compress\l_sequence" alt="" coords="274,5,449,47"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespacedjango_1_1utils_1_1text.html#adb938e42ec0bf64a146eb46b757e01f3" title="django.utils.text.compress\l_string" alt="" coords="274,71,449,112"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaaefde7859fe1bf353ac71952c024eb9" title="django.template.defaultfilters.lower" alt="" coords="251,137,472,163"/>
+<area shape="rect" id="node5" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a2a3ca1b9075f9cf618d5c86ab53004ef" title="django.utils.cache.patch\l_vary_headers" alt="" coords="280,188,443,229"/>
+<area shape="rect" id="node6" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="520,195,731,222"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="779,195,991,222"/>
+</map>

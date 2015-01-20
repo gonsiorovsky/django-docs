@@ -1,0 +1,7 @@
+<map id="django.utils.functional.LazyObject" name="django.utils.functional.LazyObject">
+<area shape="rect" id="node3" href="$dc/d44/classdjango_1_1conf_1_1_lazy_settings.html" title="django.conf.LazySettings" alt="" coords="332,5,500,32"/>
+<area shape="rect" id="node4" href="$d8/d03/classdjango_1_1contrib_1_1staticfiles_1_1storage_1_1_configured_storage.html" title="django.contrib.staticfiles.storage.\lConfiguredStorage" alt="" coords="309,57,523,98"/>
+<area shape="rect" id="node5" href="$d6/d94/classdjango_1_1core_1_1files_1_1storage_1_1_default_storage.html" title="django.core.files.storage.\lDefaultStorage" alt="" coords="333,122,499,163"/>
+<area shape="rect" id="node6" href="$d3/d4f/classdjango_1_1utils_1_1functional_1_1_simple_lazy_object.html" title="django.utils.functional.\lSimpleLazyObject" alt="" coords="341,187,491,229"/>
+<area shape="rect" id="node7" href="$de/d5c/classdjango_1_1utils_1_1text_1_1_truncator.html" title="django.utils.text.Truncator" alt="" coords="571,195,743,221"/>
+</map>

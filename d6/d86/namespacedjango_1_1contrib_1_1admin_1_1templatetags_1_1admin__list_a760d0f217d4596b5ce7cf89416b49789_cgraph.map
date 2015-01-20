@@ -1,0 +1,16 @@
+<map id="django.contrib.admin.templatetags.admin_list.results" name="django.contrib.admin.templatetags.admin_list.results">
+<area shape="rect" id="node2" href="$d6/d86/namespacedjango_1_1contrib_1_1admin_1_1templatetags_1_1admin__list.html#aaa15941f24007c8312f1baafec619ce9" title="django.contrib.admin.templatetags.admin\l_list.items_for_result" alt="" coords="313,224,573,265"/>
+<area shape="rect" id="node3" href="$d4/dcc/namespacedjango_1_1contrib_1_1admin_1_1templatetags_1_1admin__urls.html#a2394ddb88fe311aed6fb0f1376f10c08" title="django.contrib.admin.templatetags.admin\l_urls.add_preserved_filters" alt="" coords="621,64,881,105"/>
+<area shape="rect" id="node8" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a171f561fefc13d93d487cf8e30a1574d" title="django.contrib.admin.util.display\l_for_field" alt="" coords="647,129,855,171"/>
+<area shape="rect" id="node10" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="1224,231,1429,258"/>
+<area shape="rect" id="node13" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1736,286,1948,313"/>
+<area shape="rect" id="node14" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a395fd2ddb79785233e6ddecf01410d38" title="django.contrib.admin.util.display\l_for_value" alt="" coords="647,195,855,236"/>
+<area shape="rect" id="node15" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a155fc95f6bd64ad5b50b188e226bda1a" title="django.contrib.admin.util.lookup\l_field" alt="" coords="649,363,854,404"/>
+<area shape="rect" id="node4" href="$d1/d1a/namespacedjango_1_1core_1_1urlresolvers.html#af1bbab2c3a3b9f0b0131398cd7755bae" title="django.core.urlresolvers.get\l_script_prefix" alt="" coords="963,5,1143,47"/>
+<area shape="rect" id="node5" href="$d1/d1a/namespacedjango_1_1core_1_1urlresolvers.html#a68ddd085fabc6062aeb2dc0b52bfa231" title="django.core.urlresolvers.resolve" alt="" coords="951,71,1154,98"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a6c0dffb853dba2ab7c4433a11fb54d4c" title="django.template.defaultfilters.urlencode" alt="" coords="929,122,1176,149"/>
+<area shape="rect" id="node6" href="$d1/d1a/namespacedjango_1_1core_1_1urlresolvers.html#af6a026e9ea4d33a81140513fbb5ffc71" title="django.core.urlresolvers.get\l_urlconf" alt="" coords="1237,64,1417,105"/>
+<area shape="rect" id="node9" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="947,202,1158,229"/>
+<area shape="rect" id="node11" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1503,195,1662,236"/>
+<area shape="rect" id="node12" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1477,261,1688,287"/>
+</map>

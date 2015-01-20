@@ -1,0 +1,4 @@
+var classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_spheroid_distance =
+[
+    [ "__init__", "d2/df0/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_spheroid_distance.html#a052a55aff24f1d4f45c923d7ead16909", null ]
+];

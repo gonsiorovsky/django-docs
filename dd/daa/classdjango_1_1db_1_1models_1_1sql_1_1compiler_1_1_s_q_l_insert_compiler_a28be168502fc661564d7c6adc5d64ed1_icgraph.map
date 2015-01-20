@@ -1,0 +1,4 @@
+<map id="django.db.models.sql.compiler.SQLInsertCompiler.placeholder" name="django.db.models.sql.compiler.SQLInsertCompiler.placeholder">
+<area shape="rect" id="node2" href="$dd/daa/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_insert_compiler.html#a92320ecb15d1379bcc9ef1cf41de5fd5" title="django.db.models.sql.compiler.\lSQLInsertCompiler.as_sql" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$dc/dbf/classdjango_1_1db_1_1backends_1_1mysql_1_1compiler_1_1_s_q_l_compiler.html#add7a671956b43cd3b6996867907483ec" title="django.db.backends.mysql.compiler.\lSQLCompiler.as_subquery_condition" alt="" coords="507,5,743,47"/>
+</map>

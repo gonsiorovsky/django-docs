@@ -1,0 +1,8 @@
+<map id="django.views.generic.dates.YearMixin.get_year_format" name="django.views.generic.dates.YearMixin.get_year_format">
+<area shape="rect" id="node2" href="$d7/d9e/classdjango_1_1views_1_1generic_1_1dates_1_1_base_year_archive_view.html#a854c061ed0f25330a77a32809beb3063" title="django.views.generic.dates.\lBaseYearArchiveView.get\l_dated_items" alt="" coords="267,5,448,61"/>
+<area shape="rect" id="node3" href="$d7/da8/classdjango_1_1views_1_1generic_1_1dates_1_1_base_month_archive_view.html#a38271cc2f15dbe5f9a9e62448834c72c" title="django.views.generic.dates.\lBaseMonthArchiveView.get\l_dated_items" alt="" coords="267,85,448,141"/>
+<area shape="rect" id="node4" href="$d5/dac/classdjango_1_1views_1_1generic_1_1dates_1_1_base_week_archive_view.html#aeee752c9270fad80424038e4c1777e66" title="django.views.generic.dates.\lBaseWeekArchiveView.get\l_dated_items" alt="" coords="267,165,448,221"/>
+<area shape="rect" id="node5" href="$de/de2/classdjango_1_1views_1_1generic_1_1dates_1_1_base_day_archive_view.html#a7fcb6d97397e195869cfd5a3ca5baa4e" title="django.views.generic.dates.\lBaseDayArchiveView.get_dated_items" alt="" coords="235,245,480,286"/>
+<area shape="rect" id="node6" href="$d7/da7/classdjango_1_1views_1_1generic_1_1dates_1_1_base_date_detail_view.html#a46cd8b333a8bb7ee217687c1e6143da8" title="django.views.generic.dates.\lBaseDateDetailView.get_object" alt="" coords="255,310,459,351"/>
+<area shape="rect" id="node7" href="$dc/d05/classdjango_1_1views_1_1generic_1_1edit_1_1_base_update_view.html#a67b871ee9d2272e15ad95b4c59ca5487" title="django.views.generic.edit.\lBaseUpdateView.post" alt="" coords="528,310,699,351"/>
+</map>

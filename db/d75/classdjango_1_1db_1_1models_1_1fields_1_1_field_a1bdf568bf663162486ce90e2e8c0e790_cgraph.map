@@ -1,0 +1,5 @@
+<map id="django.db.models.fields.Field.db_type" name="django.db.models.fields.Field.db_type">
+<area shape="rect" id="node2" href="$da/def/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1conversion_1_1_base_field.html#a455cb78b6943c86a54dd75f1aaa889d7" title="django.contrib.gis.db.models.sql.conversion.\lBaseField.get_internal_type" alt="" coords="216,5,495,47"/>
+<area shape="rect" id="node3" href="$de/dad/classdjango_1_1contrib_1_1contenttypes_1_1generic_1_1_generic_relation.html#a1852eca4e6bacef916b94967af8e1b2c" title="django.contrib.contenttypes.generic.\lGenericRelation.get_internal_type" alt="" coords="239,71,471,112"/>
+<area shape="rect" id="node4" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#a1b24712a6b2f3cabdcbe1e2b99ba9a6c" title="django.db.models.fields.\lField.get_internal_type" alt="" coords="274,136,437,177"/>
+</map>

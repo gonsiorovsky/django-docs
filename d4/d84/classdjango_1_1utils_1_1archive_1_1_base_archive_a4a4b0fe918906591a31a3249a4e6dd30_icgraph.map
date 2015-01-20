@@ -1,0 +1,5 @@
+<map id="django.utils.archive.BaseArchive.split_leading_dir" name="django.utils.archive.BaseArchive.split_leading_dir">
+<area shape="rect" id="node2" href="$dc/df0/classdjango_1_1utils_1_1archive_1_1_tar_archive.html#aee96b1fc95de8f49999f039d7a897c75" title="django.utils.archive.Tar\lArchive.extract" alt="" coords="435,5,589,47"/>
+<area shape="rect" id="node3" href="$de/d2b/classdjango_1_1utils_1_1archive_1_1_zip_archive.html#a302c3cc3d7f3e6dadcd605aaebc17907" title="django.utils.archive.Zip\lArchive.extract" alt="" coords="435,84,589,125"/>
+<area shape="rect" id="node4" href="$d4/d84/classdjango_1_1utils_1_1archive_1_1_base_archive.html#a0af6a4dda2bad7573e6aadc3c8b483cc" title="django.utils.archive.Base\lArchive.has_leading_dir" alt="" coords="220,51,387,92"/>
+</map>

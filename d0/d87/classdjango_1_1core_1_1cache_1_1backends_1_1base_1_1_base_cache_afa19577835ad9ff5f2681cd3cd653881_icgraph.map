@@ -1,0 +1,10 @@
+<map id="django.core.cache.backends.base.BaseCache.set" name="django.core.cache.backends.base.BaseCache.set">
+<area shape="rect" id="node2" href="$df/d01/classdjango_1_1core_1_1cache_1_1backends_1_1filebased_1_1_file_based_cache.html#aa0ad64a42822e149614a99f2692bd242" title="django.core.cache.backends.filebased.\lFileBasedCache.add" alt="" coords="277,29,524,71"/>
+<area shape="rect" id="node5" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html#a0dad29e9ecaa0b654657710e59e4d373" title="django.core.cache.backends.base.\lBaseCache.incr" alt="" coords="289,95,513,136"/>
+<area shape="rect" id="node7" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html#ad827593bbbd44dfb141680e9bb33331f" title="django.core.cache.backends.base.\lBaseCache.incr_version" alt="" coords="289,160,513,201"/>
+<area shape="rect" id="node9" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html#a92606ebc133dd62838add8f7bae1bccd" title="django.core.cache.backends.base.\lBaseCache.set_many" alt="" coords="289,225,513,267"/>
+<area shape="rect" id="node3" href="$d8/dc4/classdjango_1_1db_1_1models_1_1deletion_1_1_collector.html#aa833242b8a2ad3d97c7d4f4dc05cb683" title="django.db.models.deletion.\lCollector.collect" alt="" coords="595,29,773,71"/>
+<area shape="rect" id="node4" href="$d8/dc4/classdjango_1_1db_1_1models_1_1deletion_1_1_collector.html#ab4dbf8db9780fdf1f3d68fede8116f33" title="django.db.models.deletion.\lCollector.can_fast_delete" alt="" coords="844,29,1021,71"/>
+<area shape="rect" id="node6" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html#a31f0987045c83ade6f5a6be86de9a172" title="django.core.cache.backends.base.\lBaseCache.decr" alt="" coords="572,95,796,136"/>
+<area shape="rect" id="node8" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html#a7ddd39e3c58ef9ad81b3be5a1b7aa812" title="django.core.cache.backends.base.\lBaseCache.decr_version" alt="" coords="572,160,796,201"/>
+</map>

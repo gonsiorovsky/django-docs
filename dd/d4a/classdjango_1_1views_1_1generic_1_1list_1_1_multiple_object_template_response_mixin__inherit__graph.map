@@ -1,0 +1,10 @@
+<map id="django.views.generic.list.MultipleObjectTemplateResponseMixin" name="django.views.generic.list.MultipleObjectTemplateResponseMixin">
+<area shape="rect" id="node4" href="$dc/d79/classdjango_1_1views_1_1generic_1_1dates_1_1_archive_index_view.html" title="django.views.generic.dates.\lArchiveIndexView" alt="" coords="631,5,812,47"/>
+<area shape="rect" id="node5" href="$d6/dfc/classdjango_1_1views_1_1generic_1_1dates_1_1_day_archive_view.html" title="django.views.generic.dates.\lDayArchiveView" alt="" coords="631,71,812,112"/>
+<area shape="rect" id="node6" href="$de/d69/classdjango_1_1views_1_1generic_1_1dates_1_1_month_archive_view.html" title="django.views.generic.dates.\lMonthArchiveView" alt="" coords="631,136,812,177"/>
+<area shape="rect" id="node7" href="$df/db1/classdjango_1_1views_1_1generic_1_1dates_1_1_today_archive_view.html" title="django.views.generic.dates.\lTodayArchiveView" alt="" coords="631,201,812,243"/>
+<area shape="rect" id="node8" href="$d6/d28/classdjango_1_1views_1_1generic_1_1dates_1_1_week_archive_view.html" title="django.views.generic.dates.\lWeekArchiveView" alt="" coords="631,267,812,308"/>
+<area shape="rect" id="node9" href="$dd/dc0/classdjango_1_1views_1_1generic_1_1dates_1_1_year_archive_view.html" title="django.views.generic.dates.\lYearArchiveView" alt="" coords="631,332,812,373"/>
+<area shape="rect" id="node10" href="$d8/d5c/classdjango_1_1views_1_1generic_1_1list_1_1_list_view.html" title="django.views.generic.list.\lListView" alt="" coords="638,397,805,439"/>
+<area shape="rect" id="node2" href="$d8/d0b/classdjango_1_1views_1_1generic_1_1base_1_1_template_response_mixin.html" title="django.views.generic.base.\lTemplateResponseMixin" alt="" coords="111,201,288,243"/>
+</map>

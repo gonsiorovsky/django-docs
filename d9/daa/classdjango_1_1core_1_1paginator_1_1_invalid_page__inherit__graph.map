@@ -1,0 +1,4 @@
+<map id="django.core.paginator.InvalidPage" name="django.core.paginator.InvalidPage">
+<area shape="rect" id="node3" href="$d5/d1f/classdjango_1_1core_1_1paginator_1_1_empty_page.html" title="django.core.paginator.EmptyPage" alt="" coords="5,162,224,189"/>
+<area shape="rect" id="node4" href="$d4/d7e/classdjango_1_1core_1_1paginator_1_1_page_not_an_integer.html" title="django.core.paginator.Page\lNotAnInteger" alt="" coords="249,155,429,196"/>
+</map>

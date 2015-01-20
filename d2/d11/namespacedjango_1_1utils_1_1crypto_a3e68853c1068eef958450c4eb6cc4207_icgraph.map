@@ -1,0 +1,13 @@
+<map id="django.utils.crypto.salted_hmac" name="django.utils.crypto.salted_hmac">
+<area shape="rect" id="node2" href="$d7/d32/namespacedjango_1_1core_1_1signing.html#a3724f93f8e982f935ee247b1289c74d3" title="django.core.signing.base64_hmac" alt="" coords="292,31,511,57"/>
+<area shape="rect" id="node6" href="$d5/d04/classdjango_1_1contrib_1_1auth_1_1tokens_1_1_password_reset_token_generator.html#aed5eccad265846d0931ac06a59b788f2" title="django.contrib.auth.tokens.\lPasswordResetTokenGenerator.check_token" alt="" coords="260,82,543,123"/>
+<area shape="rect" id="node7" href="$d1/d6e/classdjango_1_1contrib_1_1sessions_1_1backends_1_1base_1_1_session_base.html#a5ac24128be981de467d2960de5b305d5" title="django.contrib.sessions.backends.base.\lSessionBase.delete_test_cookie" alt="" coords="274,147,529,189"/>
+<area shape="rect" id="node8" href="$d9/dfa/namespacedjango_1_1contrib_1_1formtools_1_1utils.html#ab5eddcc7cdfc1c30aaec7aa06a5581c3" title="django.contrib.formtools.utils.form_hmac" alt="" coords="273,213,529,240"/>
+<area shape="rect" id="node9" href="$df/d66/classdjango_1_1contrib_1_1comments_1_1forms_1_1_comment_security_form.html#a7afccadd8bdcf4145b5febe37a731545" title="django.contrib.comments.forms.\lCommentSecurityForm.generate\l_security_hash" alt="" coords="296,264,507,320"/>
+<area shape="rect" id="node3" href="$d0/da9/classdjango_1_1core_1_1signing_1_1_signer.html#a542e859ccb00af55852b825da2a6422a" title="django.core.signing.Signer.signature" alt="" coords="591,31,823,57"/>
+<area shape="rect" id="node4" href="$d0/da9/classdjango_1_1core_1_1signing_1_1_signer.html#abbe8a17742d227cc61e42d941eac635f" title="django.core.signing.Signer.sign" alt="" coords="878,5,1081,32"/>
+<area shape="rect" id="node5" href="$d0/da9/classdjango_1_1core_1_1signing_1_1_signer.html#a1abfc2246f86f7596bd89a6234c3d8d1" title="django.core.signing.Signer.unsign" alt="" coords="871,56,1088,83"/>
+<area shape="rect" id="node10" href="$df/d66/classdjango_1_1contrib_1_1comments_1_1forms_1_1_comment_security_form.html#a31f882fc3ab348126221d545cb9c150a" title="django.contrib.comments.forms.\lCommentSecurityForm.clean\l_security_hash" alt="" coords="603,224,811,280"/>
+<area shape="rect" id="node11" href="$df/d66/classdjango_1_1contrib_1_1comments_1_1forms_1_1_comment_security_form.html#a2972748c00d73d65280981849a5d9175" title="django.contrib.comments.forms.\lCommentSecurityForm.initial\l_security_hash" alt="" coords="603,304,811,360"/>
+<area shape="rect" id="node12" href="$df/d66/classdjango_1_1contrib_1_1comments_1_1forms_1_1_comment_security_form.html#a4ede6596eb86c40341c5929cf7506188" title="django.contrib.comments.forms.\lCommentSecurityForm.generate\l_security_data" alt="" coords="874,304,1085,360"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="django.utils.unittest.case.skipIf" name="django.utils.unittest.case.skipIf">
+<area shape="rect" id="node2" href="$d6/dfc/namespacedjango_1_1contrib_1_1auth_1_1tests_1_1utils.html#ab0143c2ec0cbcb3538fa5ed898c7035a" title="django.contrib.auth.tests.utils.skip\lIfCustomUser" alt="" coords="274,5,495,47"/>
+<area shape="rect" id="node3" href="$d0/d82/namespacedjango_1_1contrib_1_1messages_1_1tests_1_1base.html#a649e475087ed69e8df211289e0028b8d" title="django.contrib.messages.tests.base.skip\lUnlessAuthIsInstalled" alt="" coords="255,71,515,112"/>
+<area shape="rect" id="node4" href="$db/d6f/classdjango_1_1contrib_1_1humanize_1_1tests_1_1_humanize_tests.html#a518786c73a91644a9629078f2405d194" title="django.contrib.humanize.tests.\lHumanizeTests.test_naturalday_tz" alt="" coords="273,136,496,177"/>
+</map>

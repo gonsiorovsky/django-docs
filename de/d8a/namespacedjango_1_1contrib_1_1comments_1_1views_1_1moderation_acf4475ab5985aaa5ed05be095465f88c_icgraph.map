@@ -1,0 +1,6 @@
+<map id="django.contrib.comments.views.moderation.delete" name="django.contrib.comments.views.moderation.delete">
+<area shape="rect" id="node2" href="$db/dc8/classdjango_1_1contrib_1_1sites_1_1tests_1_1_sites_framework_tests.html#a5bfd21e2e03cdb6b0f49d2976363b37a" title="django.contrib.sites.tests.\lSitesFrameworkTests.test\l_delete_all_sites_clears_cache" alt="" coords="388,5,591,61"/>
+<area shape="rect" id="node3" href="$df/dbf/classdjango_1_1contrib_1_1gis_1_1tests_1_1layermap_1_1tests_1_1_layer_map_test.html#a3cdfff5ce178991539f163b72cd871fb" title="django.contrib.gis.tests.layermap.tests.\lLayerMapTest.test_layermap_strict" alt="" coords="364,85,615,126"/>
+<area shape="rect" id="node4" href="$d4/da1/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1test__http_1_1_h_t_t_p_sitemap_tests.html#ad314daada070937d1171997697f7e1fe" title="django.contrib.sitemaps.tests.test\l_http.HTTPSitemapTests.test\l_sitemap_get_urls_no_site_1" alt="" coords="380,149,599,205"/>
+<area shape="rect" id="node5" href="$df/dbf/classdjango_1_1contrib_1_1gis_1_1tests_1_1layermap_1_1tests_1_1_layer_map_test.html#acd4585f330cc78c0768d1a562a71c60a" title="django.contrib.gis.tests.layermap.tests.\lLayerMapTest.test_test_fid_range_step" alt="" coords="364,229,615,270"/>
+</map>

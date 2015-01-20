@@ -1,0 +1,5 @@
+<map id="django.core.cache.backends.db.CacheClass" name="django.core.cache.backends.db.CacheClass">
+<area shape="rect" id="node2" href="$d7/dcb/classdjango_1_1core_1_1cache_1_1backends_1_1db_1_1_database_cache.html" title="django.core.cache.backends.db.\lDatabaseCache" alt="" coords="12,259,223,300"/>
+<area shape="rect" id="node3" href="$d9/d49/classdjango_1_1core_1_1cache_1_1backends_1_1db_1_1_base_database_cache.html" title="django.core.cache.backends.db.\lBaseDatabaseCache" alt="" coords="12,169,223,211"/>
+<area shape="rect" id="node4" href="$d0/d87/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_base_cache.html" title="django.core.cache.backends.base.\lBaseCache" alt="" coords="5,80,229,121"/>
+</map>

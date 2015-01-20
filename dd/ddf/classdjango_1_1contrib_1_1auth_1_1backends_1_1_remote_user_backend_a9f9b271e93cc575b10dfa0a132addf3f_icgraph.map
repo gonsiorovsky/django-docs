@@ -1,0 +1,5 @@
+<map id="django.contrib.auth.backends.RemoteUserBackend.clean_username" name="django.contrib.auth.backends.RemoteUserBackend.clean_username">
+<area shape="rect" id="node2" href="$dd/ddf/classdjango_1_1contrib_1_1auth_1_1backends_1_1_remote_user_backend.html#a0b657afe4ebb0d166d41bc555cbf8d4f" title="django.contrib.auth.backends.\lRemoteUserBackend.authenticate" alt="" coords="317,5,537,47"/>
+<area shape="rect" id="node3" href="$d7/d11/classdjango_1_1contrib_1_1auth_1_1middleware_1_1_remote_user_middleware.html#a6dfcaf05bf8b7a0617ed19a11d35f550" title="django.contrib.auth.middleware.\lRemoteUserMiddleware.process_request" alt="" coords="297,71,556,112"/>
+<area shape="rect" id="node4" href="$dd/dd0/classdjango_1_1test_1_1testcases_1_1_stoppable_w_s_g_i_server.html#a96aa55dd4abcfae07a2236883186ca4e" title="django.test.testcases.Stoppable\lWSGIServer.handle_request" alt="" coords="604,71,813,112"/>
+</map>

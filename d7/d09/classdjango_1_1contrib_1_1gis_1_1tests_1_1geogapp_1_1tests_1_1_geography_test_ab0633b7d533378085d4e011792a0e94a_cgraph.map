@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.tests.geogapp.tests.GeographyTest.test04_invalid_operators_functions" name="django.contrib.gis.tests.geogapp.tests.GeographyTest.test04_invalid_operators_functions">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a3bc198f535da119d6a99fc72217ba6b5" title="django.utils.unittest.case.\lTestCase.assertRaises" alt="" coords="319,77,489,119"/>
+<area shape="rect" id="node6" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#ac3f15fbae74f2de4b84110a900d8450b" title="django.utils.unittest.case.skip\lUnless" alt="" coords="307,156,501,197"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6cfd970038b9d70b0a2eba27048218a9" title="django.utils.unittest.case.\lTestCase._baseAssertEqual" alt="" coords="563,5,749,47"/>
+<area shape="rect" id="node4" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="549,71,763,98"/>
+<area shape="rect" id="node5" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="567,123,745,164"/>
+<area shape="rect" id="node7" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#a9784d0588d609fcbf2fbb53c13008841" title="django.utils.unittest.case.skip" alt="" coords="559,189,753,215"/>
+</map>

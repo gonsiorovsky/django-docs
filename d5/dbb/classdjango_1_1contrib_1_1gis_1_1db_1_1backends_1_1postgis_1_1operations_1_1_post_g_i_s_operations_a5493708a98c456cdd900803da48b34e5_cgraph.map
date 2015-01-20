@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.db.backends.postgis.operations.PostGISOperations.postgis_version_tuple" name="django.contrib.gis.db.backends.postgis.operations.PostGISOperations.postgis_version_tuple">
+<area shape="rect" id="node2" href="$d5/dbb/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_operations.html#a0fb403cfdc8054cbbff6bf2543b58cd6" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISOperations.postgis_lib_version" alt="" coords="369,5,685,47"/>
+<area shape="rect" id="node3" href="$d5/dbb/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_operations.html#a251d1c58a601a3fb56030ca971ca3c3e" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISOperations._get_postgis_func" alt="" coords="733,5,1049,47"/>
+</map>

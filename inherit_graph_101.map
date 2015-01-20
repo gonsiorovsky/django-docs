@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$db/dd2/classdjango_1_1forms_1_1util_1_1_error_dict.html" title="django.forms.util.ErrorDict" alt="" coords="99,5,271,32"/>
+<area shape="rect" id="node3" href="$d2/d61/classdjango_1_1utils_1_1datastructures_1_1_dict_wrapper.html" title="django.utils.datastructures.\lDictWrapper" alt="" coords="96,57,275,98"/>
+<area shape="rect" id="node4" href="$d5/d02/classdjango_1_1utils_1_1datastructures_1_1_multi_value_dict.html" title="django.utils.datastructures.\lMultiValueDict" alt="" coords="96,122,275,163"/>
+<area shape="rect" id="node6" href="$d7/d5e/classdjango_1_1utils_1_1datastructures_1_1_sorted_dict.html" title="django.utils.datastructures.\lSortedDict" alt="" coords="96,187,275,229"/>
+<area shape="rect" id="node7" href="$d8/db0/classdjango_1_1utils_1_1dictconfig_1_1_converting_dict.html" title="django.utils.dictconfig.\lConvertingDict" alt="" coords="110,253,261,294"/>
+<area shape="rect" id="node5" href="$d3/dd6/classdjango_1_1http_1_1request_1_1_query_dict.html" title="django.http.request.QueryDict" alt="" coords="323,129,517,156"/>
+</map>

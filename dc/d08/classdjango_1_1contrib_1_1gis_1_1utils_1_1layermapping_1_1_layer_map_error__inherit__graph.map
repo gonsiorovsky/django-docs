@@ -1,0 +1,6 @@
+<map id="django.contrib.gis.utils.layermapping.LayerMapError" name="django.contrib.gis.utils.layermapping.LayerMapError">
+<area shape="rect" id="node3" href="$d7/d1e/classdjango_1_1contrib_1_1gis_1_1utils_1_1layermapping_1_1_invalid_decimal.html" title="django.contrib.gis.utils.layermapping.\lInvalidDecimal" alt="" coords="419,5,656,47"/>
+<area shape="rect" id="node4" href="$d8/dfe/classdjango_1_1contrib_1_1gis_1_1utils_1_1layermapping_1_1_invalid_integer.html" title="django.contrib.gis.utils.layermapping.\lInvalidInteger" alt="" coords="419,71,656,112"/>
+<area shape="rect" id="node5" href="$d8/dde/classdjango_1_1contrib_1_1gis_1_1utils_1_1layermapping_1_1_invalid_string.html" title="django.contrib.gis.utils.layermapping.\lInvalidString" alt="" coords="419,136,656,177"/>
+<area shape="rect" id="node6" href="$d7/d87/classdjango_1_1contrib_1_1gis_1_1utils_1_1layermapping_1_1_missing_foreign_key.html" title="django.contrib.gis.utils.layermapping.\lMissingForeignKey" alt="" coords="419,201,656,243"/>
+</map>

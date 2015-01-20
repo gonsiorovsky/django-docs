@@ -1,0 +1,4 @@
+var namespacedjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1adapter =
+[
+    [ "SpatiaLiteAdapter", "dd/d7f/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1adapter_1_1_spatia_lite_adapter.html", "dd/d7f/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1adapter_1_1_spatia_lite_adapter" ]
+];

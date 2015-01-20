@@ -1,0 +1,8 @@
+<map id="django.views.generic.dates.BaseYearArchiveView" name="django.views.generic.dates.BaseYearArchiveView">
+<area shape="rect" id="node2" href="$d6/ddf/classdjango_1_1views_1_1generic_1_1dates_1_1_year_mixin.html" title="django.views.generic.dates.\lYearMixin" alt="" coords="543,13,724,54"/>
+<area shape="rect" id="node7" href="$d1/d6a/classdjango_1_1views_1_1generic_1_1base_1_1_context_mixin.html" title="django.views.generic.base.\lContextMixin" alt="" coords="112,193,289,234"/>
+<area shape="rect" id="node8" href="$d7/d82/classdjango_1_1views_1_1generic_1_1dates_1_1_date_mixin.html" title="django.views.generic.dates.\lDateMixin" alt="" coords="325,251,507,293"/>
+<area shape="rect" id="node9" href="$d0/ddc/classdjango_1_1views_1_1generic_1_1base_1_1_view.html" title="django.views.generic.base.View" alt="" coords="313,309,519,336"/>
+<area shape="rect" id="node5" href="$d7/d86/classdjango_1_1views_1_1generic_1_1dates_1_1_base_date_list_view.html" title="django.views.generic.dates.\lBaseDateListView" alt="" coords="868,193,1049,234"/>
+<area shape="rect" id="node6" href="$dc/db8/classdjango_1_1views_1_1generic_1_1list_1_1_multiple_object_mixin.html" title="django.views.generic.list.\lMultipleObjectMixin" alt="" coords="550,193,717,234"/>
+</map>

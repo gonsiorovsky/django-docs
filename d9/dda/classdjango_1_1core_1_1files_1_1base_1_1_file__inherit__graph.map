@@ -1,0 +1,10 @@
+<map id="django.core.files.base.File" name="django.core.files.base.File">
+<area shape="rect" id="node4" href="$d5/d94/classdjango_1_1core_1_1files_1_1base_1_1_content_file.html" title="django.core.files.base.ContentFile" alt="" coords="528,19,747,46"/>
+<area shape="rect" id="node5" href="$dc/dd1/classdjango_1_1core_1_1files_1_1uploadedfile_1_1_uploaded_file.html" title="django.core.files.uploadedfile.\lUploadedFile" alt="" coords="541,71,733,112"/>
+<area shape="rect" id="node9" href="$d8/d02/classdjango_1_1db_1_1models_1_1fields_1_1files_1_1_field_file.html" title="django.db.models.fields.files.\lFieldFile" alt="" coords="543,136,732,177"/>
+<area shape="rect" id="node2" href="$de/dc9/classdjango_1_1core_1_1files_1_1utils_1_1_file_proxy_mixin.html" title="django.core.files.utils.\lFileProxyMixin" alt="" coords="111,71,259,112"/>
+<area shape="rect" id="node6" href="$d6/d50/classdjango_1_1core_1_1files_1_1uploadedfile_1_1_in_memory_uploaded_file.html" title="django.core.files.uploadedfile.\lInMemoryUploadedFile" alt="" coords="795,5,987,47"/>
+<area shape="rect" id="node8" href="$da/d6e/classdjango_1_1core_1_1files_1_1uploadedfile_1_1_temporary_uploaded_file.html" title="django.core.files.uploadedfile.\lTemporaryUploadedFile" alt="" coords="795,71,987,112"/>
+<area shape="rect" id="node7" href="$d1/dd1/classdjango_1_1core_1_1files_1_1uploadedfile_1_1_simple_uploaded_file.html" title="django.core.files.uploadedfile.\lSimpleUploadedFile" alt="" coords="1035,5,1227,47"/>
+<area shape="rect" id="node10" href="$d3/d78/classdjango_1_1db_1_1models_1_1fields_1_1files_1_1_image_field_file.html" title="django.db.models.fields.files.\lImageFieldFile" alt="" coords="796,136,985,177"/>
+</map>

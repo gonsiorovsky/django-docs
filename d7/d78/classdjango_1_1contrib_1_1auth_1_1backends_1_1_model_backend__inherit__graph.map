@@ -1,0 +1,6 @@
+<map id="django.contrib.auth.backends.ModelBackend" name="django.contrib.auth.backends.ModelBackend">
+<area shape="rect" id="node3" href="$dd/ddf/classdjango_1_1contrib_1_1auth_1_1backends_1_1_remote_user_backend.html" title="django.contrib.auth.backends.\lRemoteUserBackend" alt="" coords="373,37,569,79"/>
+<area shape="rect" id="node6" href="$d8/d34/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__auth__backends_1_1_new_model_backend.html" title="django.contrib.auth.tests.test\l_auth_backends.NewModelBackend" alt="" coords="355,103,587,144"/>
+<area shape="rect" id="node4" href="$de/db4/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__remote__user_1_1_custom_remote_user_backend.html" title="django.contrib.auth.tests.test\l_remote_user.CustomRemoteUserBackend" alt="" coords="639,5,913,47"/>
+<area shape="rect" id="node5" href="$dc/db9/classdjango_1_1contrib_1_1auth_1_1tests_1_1test__remote__user_1_1_remote_user_no_create_backend.html" title="django.contrib.auth.tests.test\l_remote_user.RemoteUserNoCreateBackend" alt="" coords="635,71,917,112"/>
+</map>

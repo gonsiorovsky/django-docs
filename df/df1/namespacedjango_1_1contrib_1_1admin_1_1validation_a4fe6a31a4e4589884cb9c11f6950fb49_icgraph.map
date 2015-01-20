@@ -1,0 +1,5 @@
+<map id="django.contrib.admin.validation.check_isdict" name="django.contrib.admin.validation.check_isdict">
+<area shape="rect" id="node2" href="$d7/d98/classdjango_1_1contrib_1_1admin_1_1validation_1_1_base_validator.html#a23ecafed0f9313e9d8e73e775163f55e" title="django.contrib.admin.validation.\lBaseValidator.validate_fieldsets" alt="" coords="323,5,529,47"/>
+<area shape="rect" id="node3" href="$d7/d98/classdjango_1_1contrib_1_1admin_1_1validation_1_1_base_validator.html#a61fd1e93edf1c8e2979120e8f6ed8299" title="django.contrib.admin.validation.\lBaseValidator.validate_prepopulated_fields" alt="" coords="292,71,560,112"/>
+<area shape="rect" id="node4" href="$d7/d98/classdjango_1_1contrib_1_1admin_1_1validation_1_1_base_validator.html#a0afbdfd1ba2d765c810151830b1ffdb8" title="django.contrib.admin.validation.\lBaseValidator.validate_radio_fields" alt="" coords="315,136,537,177"/>
+</map>

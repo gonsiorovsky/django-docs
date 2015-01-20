@@ -1,0 +1,10 @@
+<map id="django.contrib.sitemaps.tests.test_https.HTTPSDetectionSitemapTests.test_sitemap_index_with_https_request" name="django.contrib.sitemaps.tests.test_https.HTTPSDetectionSitemapTests.test_sitemap_index_with_https_request">
+<area shape="rect" id="node2" href="$d4/d6b/classdjango_1_1test_1_1testcases_1_1_simple_test_case.html#aefb95589dc8190842ee51804b3b7cb12" title="django.test.testcases.Simple\lTestCase.assertXMLEqual" alt="" coords="317,119,508,161"/>
+<area shape="rect" id="node3" href="$da/d7d/namespacedjango_1_1test_1_1utils.html#a9914415ddc2b1abe0424eab97da4da4b" title="django.test.utils.compare_xml" alt="" coords="565,35,761,61"/>
+<area shape="rect" id="node7" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="577,86,748,127"/>
+<area shape="rect" id="node8" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="574,151,751,193"/>
+<area shape="rect" id="node9" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="556,217,769,244"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="817,5,1028,32"/>
+<area shape="rect" id="node6" href="$da/d7d/namespacedjango_1_1test_1_1utils.html#a0b3faa52aac98d5cee4619ffaa25b31c" title="django.test.utils.strip\l_quotes" alt="" coords="851,57,994,98"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1076,5,1288,32"/>
+</map>

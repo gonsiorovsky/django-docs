@@ -1,0 +1,9 @@
+<map id="django.contrib.gis.db.backends.postgis.operations.PostGISFunction" name="django.contrib.gis.db.backends.postgis.operations.PostGISFunction">
+<area shape="rect" id="node5" href="$d8/d8b/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_distance.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISDistance" alt="" coords="1024,5,1340,47"/>
+<area shape="rect" id="node7" href="$d8/de1/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_function_param.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISFunctionParam" alt="" coords="1024,71,1340,112"/>
+<area shape="rect" id="node9" href="$d2/df0/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_spheroid_distance.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISSpheroidDistance" alt="" coords="1024,136,1340,177"/>
+<area shape="rect" id="node2" href="$de/db0/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_function.html" title="django.contrib.gis.db.backends.util.\lSpatialFunction" alt="" coords="385,71,612,112"/>
+<area shape="rect" id="node3" href="$d7/d0e/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1util_1_1_spatial_operation.html" title="django.contrib.gis.db.backends.util.\lSpatialOperation" alt="" coords="111,71,337,112"/>
+<area shape="rect" id="node6" href="$d1/da3/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_sphere_distance.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISSphereDistance" alt="" coords="1388,5,1704,47"/>
+<area shape="rect" id="node8" href="$d2/d35/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1postgis_1_1operations_1_1_post_g_i_s_relate.html" title="django.contrib.gis.db.backends.postgis.operations.\lPostGISRelate" alt="" coords="1388,71,1704,112"/>
+</map>

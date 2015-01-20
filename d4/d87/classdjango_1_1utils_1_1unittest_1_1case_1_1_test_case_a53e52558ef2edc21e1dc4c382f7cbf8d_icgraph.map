@@ -1,0 +1,5 @@
+<map id="django.utils.unittest.case.TestCase.doCleanups" name="django.utils.unittest.case.TestCase.doCleanups">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a8aae38c2c3e4d3c1b3e03b74bff6ee9f" title="django.utils.unittest.case.\lTestCase.run" alt="" coords="224,39,395,80"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6960e9dd7337821e62e063f783976088" title="django.utils.unittest.case.\lTestCase.__call__" alt="" coords="443,5,613,47"/>
+<area shape="rect" id="node4" href="$df/df9/classdjango_1_1utils_1_1unittest_1_1suite_1_1_base_test_suite.html#a97e47830fa01bf6c982bfa9263d2fe38" title="django.utils.unittest.suite.\lBaseTestSuite.__call__" alt="" coords="443,71,613,112"/>
+</map>

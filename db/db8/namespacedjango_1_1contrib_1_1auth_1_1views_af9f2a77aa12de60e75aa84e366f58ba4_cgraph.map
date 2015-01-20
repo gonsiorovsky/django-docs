@@ -1,0 +1,12 @@
+<map id="django.contrib.auth.views.redirect_to_login" name="django.contrib.auth.views.redirect_to_login">
+<area shape="rect" id="node2" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#adf52eebfbd6647c47487eb462713b7e4" title="django.contrib.auth.views.password\l_reset" alt="" coords="268,151,495,192"/>
+<area shape="rect" id="node10" href="$db/d8c/namespacedjango_1_1shortcuts.html#a05715aed50be12c240df8205fd6ed76b" title="django.shortcuts.resolve_url" alt="" coords="1119,166,1301,193"/>
+<area shape="rect" id="node3" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#a7951cc117661a0a09918779ec1712406" title="django.contrib.auth.views.password\l_reset_done" alt="" coords="543,100,769,141"/>
+<area shape="rect" id="node4" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#ae7c2039092e8fa36cf8cbea851ed5e9b" title="django.contrib.auth.views.password\l_reset_confirm" alt="" coords="831,35,1057,76"/>
+<area shape="rect" id="node11" href="$d3/d2b/namespacedjango_1_1views_1_1decorators_1_1debug.html#a6811b59767dbb2a8b631bceb4d951d4f" title="django.views.decorators.debug.sensitive\l_post_parameters" alt="" coords="817,100,1071,141"/>
+<area shape="rect" id="node5" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ad11b72f71e98c7df642a60b4fd267680" title="django.contrib.auth.get\l_user_model" alt="" coords="1133,35,1287,76"/>
+<area shape="rect" id="node6" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a5fd6967d8d2e7b45ce2fd930730ac412" title="django.contrib.comments.get\l_model" alt="" coords="1349,35,1540,76"/>
+<area shape="rect" id="node7" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a60881c6f7b8b1d51a2b28d9961b4233c" title="django.contrib.comments.get\l_comment_app_name" alt="" coords="1827,5,2017,47"/>
+<area shape="rect" id="node8" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a2a0159dc7a5e9946976f1161dd085850" title="django.contrib.comments.get\l_comment_app" alt="" coords="1588,64,1779,105"/>
+<area shape="rect" id="node9" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1831,71,2013,112"/>
+</map>

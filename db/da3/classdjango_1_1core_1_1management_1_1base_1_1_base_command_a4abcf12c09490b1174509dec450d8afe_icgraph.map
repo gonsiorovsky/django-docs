@@ -1,0 +1,10 @@
+<map id="django.core.management.base.BaseCommand.get_version" name="django.core.management.base.BaseCommand.get_version">
+<area shape="rect" id="node2" href="$d6/d9c/classdjango_1_1core_1_1management_1_1commands_1_1test_1_1_command.html#a15bf689c07fe1cf3a126a224194a27af" title="django.core.management.commands.test.\lCommand.create_parser" alt="" coords="272,5,539,47"/>
+<area shape="rect" id="node3" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a830c42b2d0ec9695e355310c5bb50aef" title="django.core.management.base.\lBaseCommand.create_parser" alt="" coords="303,71,507,112"/>
+<area shape="rect" id="node6" href="$d7/de0/classdjango_1_1core_1_1management_1_1commands_1_1runserver_1_1_command.html#a06bfab39f715abe69733f093702b0711" title="django.core.management.commands.runserver.\lCommand.inner_run" alt="" coords="257,136,553,177"/>
+<area shape="rect" id="node4" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a6215bea942013c5a060e5a21c0c40e95" title="django.core.management.base.\lBaseCommand.print_help" alt="" coords="647,5,851,47"/>
+<area shape="rect" id="node5" href="$db/da3/classdjango_1_1core_1_1management_1_1base_1_1_base_command.html#a101b82321848e3c6056974fceb4ca635" title="django.core.management.base.\lBaseCommand.run_from_argv" alt="" coords="647,71,851,112"/>
+<area shape="rect" id="node7" href="$d7/de0/classdjango_1_1core_1_1management_1_1commands_1_1runserver_1_1_command.html#a4f70d3b5ec1d63b3330323e097ab1106" title="django.core.management.commands.runserver.\lCommand.run" alt="" coords="601,136,897,177"/>
+<area shape="rect" id="node8" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6960e9dd7337821e62e063f783976088" title="django.utils.unittest.case.\lTestCase.__call__" alt="" coords="945,103,1116,144"/>
+<area shape="rect" id="node9" href="$df/df9/classdjango_1_1utils_1_1unittest_1_1suite_1_1_base_test_suite.html#a97e47830fa01bf6c982bfa9263d2fe38" title="django.utils.unittest.suite.\lBaseTestSuite.__call__" alt="" coords="945,168,1116,209"/>
+</map>

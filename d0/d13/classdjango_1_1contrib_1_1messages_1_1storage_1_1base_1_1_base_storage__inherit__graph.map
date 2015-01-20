@@ -1,0 +1,5 @@
+<map id="django.contrib.messages.storage.base.BaseStorage" name="django.contrib.messages.storage.base.BaseStorage">
+<area shape="rect" id="node3" href="$d2/dd6/classdjango_1_1contrib_1_1messages_1_1storage_1_1cookie_1_1_cookie_storage.html" title="django.contrib.messages.storage.cookie.\lCookieStorage" alt="" coords="413,5,673,47"/>
+<area shape="rect" id="node4" href="$d4/dcf/classdjango_1_1contrib_1_1messages_1_1storage_1_1fallback_1_1_fallback_storage.html" title="django.contrib.messages.storage.fallback.\lFallbackStorage" alt="" coords="409,71,676,112"/>
+<area shape="rect" id="node5" href="$db/d1e/classdjango_1_1contrib_1_1messages_1_1storage_1_1session_1_1_session_storage.html" title="django.contrib.messages.storage.session.\lSessionStorage" alt="" coords="409,136,676,177"/>
+</map>

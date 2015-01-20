@@ -1,0 +1,6 @@
+<map id="django.contrib.admin.util.NestedObjects.collect" name="django.contrib.admin.util.NestedObjects.collect">
+<area shape="rect" id="node2" href="$d8/dc4/classdjango_1_1db_1_1models_1_1deletion_1_1_collector.html#aa833242b8a2ad3d97c7d4f4dc05cb683" title="django.db.models.deletion.\lCollector.collect" alt="" coords="325,29,502,71"/>
+<area shape="rect" id="node4" href="$d8/df6/classdjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1collectstatic_1_1_command.html#a59df23b3803f411e3ada3f4751ab5453" title="django.contrib.staticfiles.management.commands.collectstatic.\lCommand.handle_noargs" alt="" coords="220,95,607,136"/>
+<area shape="rect" id="node3" href="$d8/dc4/classdjango_1_1db_1_1models_1_1deletion_1_1_collector.html#ab4dbf8db9780fdf1f3d68fede8116f33" title="django.db.models.deletion.\lCollector.can_fast_delete" alt="" coords="668,29,845,71"/>
+<area shape="rect" id="node5" href="$d5/dd2/classdjango_1_1core_1_1management_1_1base_1_1_no_args_command.html#ab36d38656c8e0790ce73bc650a1c9dc4" title="django.core.management.base.\lNoArgsCommand.handle" alt="" coords="655,95,859,136"/>
+</map>

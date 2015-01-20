@@ -1,0 +1,10 @@
+<map id="django.contrib.auth.views.password_reset_done" name="django.contrib.auth.views.password_reset_done">
+<area shape="rect" id="node2" href="$db/db8/namespacedjango_1_1contrib_1_1auth_1_1views.html#ae7c2039092e8fa36cf8cbea851ed5e9b" title="django.contrib.auth.views.password\l_reset_confirm" alt="" coords="293,64,520,105"/>
+<area shape="rect" id="node9" href="$d3/d2b/namespacedjango_1_1views_1_1decorators_1_1debug.html#a6811b59767dbb2a8b631bceb4d951d4f" title="django.views.decorators.debug.sensitive\l_post_parameters" alt="" coords="280,129,533,171"/>
+<area shape="rect" id="node3" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ad11b72f71e98c7df642a60b4fd267680" title="django.contrib.auth.get\l_user_model" alt="" coords="595,35,750,76"/>
+<area shape="rect" id="node8" href="$db/d8c/namespacedjango_1_1shortcuts.html#a05715aed50be12c240df8205fd6ed76b" title="django.shortcuts.resolve_url" alt="" coords="581,101,764,127"/>
+<area shape="rect" id="node4" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a5fd6967d8d2e7b45ce2fd930730ac412" title="django.contrib.comments.get\l_model" alt="" coords="812,35,1003,76"/>
+<area shape="rect" id="node5" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a60881c6f7b8b1d51a2b28d9961b4233c" title="django.contrib.comments.get\l_comment_app_name" alt="" coords="1289,5,1480,47"/>
+<area shape="rect" id="node6" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a2a0159dc7a5e9946976f1161dd085850" title="django.contrib.comments.get\l_comment_app" alt="" coords="1051,64,1241,105"/>
+<area shape="rect" id="node7" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1294,71,1475,112"/>
+</map>

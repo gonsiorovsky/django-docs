@@ -1,0 +1,4 @@
+<map id="django.contrib.auth.management.get_system_username" name="django.contrib.auth.management.get_system_username">
+<area shape="rect" id="node2" href="$d9/dd8/namespacedjango_1_1contrib_1_1auth_1_1management.html#ae2f61a47af2cff0112647306979415d4" title="django.contrib.auth.management.get\l_default_username" alt="" coords="287,5,520,47"/>
+<area shape="rect" id="node3" href="$d7/d51/classdjango_1_1contrib_1_1auth_1_1management_1_1commands_1_1createsuperuser_1_1_command.html#af23a7c0891ebd6371417b3cd74d414c2" title="django.contrib.auth.management.commands.createsuperuser.\lCommand.handle" alt="" coords="568,5,948,47"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="django.utils.formats.get_format" name="django.utils.formats.get_format">
+<area shape="rect" id="node2" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a99a27302f37571282626cad2ce50b6b0" title="django.utils.formats.date\l_format" alt="" coords="225,227,389,268"/>
+<area shape="rect" id="node4" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#a0c3752209c67213179f347b235b01762" title="django.views.i18n.get\l_formats" alt="" coords="234,41,379,83"/>
+<area shape="rect" id="node11" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a24f95bf10faaff6006e877c8ff0a6a11" title="django.utils.formats.localize\l_input" alt="" coords="541,104,723,145"/>
+<area shape="rect" id="node12" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a922c6905a9e98f5406d79f2b02bd8f2d" title="django.utils.formats.number\l_format" alt="" coords="215,161,398,203"/>
+<area shape="rect" id="node14" href="$de/d9b/classdjango_1_1forms_1_1extras_1_1widgets_1_1_select_date_widget.html#a6a50595feaaa4527cc03e6e711af4f45" title="django.forms.extras.widgets.\lSelectDateWidget.render" alt="" coords="213,423,401,464"/>
+<area shape="rect" id="node20" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a9705792d24f9a68127af4f3b8a6c3b84" title="django.utils.formats.sanitize\l_separators" alt="" coords="215,357,399,399"/>
+<area shape="rect" id="node21" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a3e355fed8e357abc4f5877d7bb2b8ea9" title="django.utils.formats.time\l_format" alt="" coords="225,292,389,333"/>
+<area shape="rect" id="node22" href="$de/d9b/classdjango_1_1forms_1_1extras_1_1widgets_1_1_select_date_widget.html#ab28304c622c950f4bfbbe108ff49ab15" title="django.forms.extras.widgets.\lSelectDateWidget.value_from\l_datadict" alt="" coords="211,487,403,543"/>
+<area shape="rect" id="node3" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#ac4d51a78b2b2f34dbf6f774f1d0e5a98" title="django.utils.formats.localize" alt="" coords="541,227,723,254"/>
+<area shape="rect" id="node5" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#a5fc0f01ea145724ba5e0b7a89019ab66" title="django.views.i18n.render\l_javascript_catalog" alt="" coords="551,39,713,80"/>
+<area shape="rect" id="node6" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#ade6e12f47778c098b1dc2afeea1856de" title="django.views.i18n.null\l_javascript_catalog" alt="" coords="879,5,1025,47"/>
+<area shape="rect" id="node7" href="$d0/d40/namespacedjango_1_1views_1_1i18n.html#adadd9acdccc3343b9a9c2e41c8099b2e" title="django.views.i18n.javascript\l_catalog" alt="" coords="861,71,1043,112"/>
+<area shape="rect" id="node8" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a76db84703f9a473e4469376ed8e2bd2f" title="django.contrib.admin.sites.\lAdminSite.i18n_javascript" alt="" coords="1091,71,1269,112"/>
+<area shape="rect" id="node9" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a8da6fce50427f7e2f99ed13dc21c14e3" title="django.contrib.admin.sites.\lAdminSite.get_urls" alt="" coords="1317,71,1496,112"/>
+<area shape="rect" id="node10" href="$df/dba/classdjango_1_1contrib_1_1admin_1_1sites_1_1_admin_site.html#a9e2b3157bb62860bdd7708bdd64719df" title="django.contrib.admin.sites.\lAdminSite.urls" alt="" coords="1544,71,1723,112"/>
+<area shape="rect" id="node13" href="$d4/d6a/namespacedjango_1_1contrib_1_1humanize_1_1templatetags_1_1humanize.html#a94f82e1fa1b755562eed711c319d370e" title="django.contrib.humanize.templatetags.humanize.intcomma" alt="" coords="451,170,813,197"/>
+<area shape="rect" id="node15" href="$d8/d46/classdjango_1_1forms_1_1widgets_1_1_media.html#a0e4a19dea13251e926d6e295c1c0f8c3" title="django.forms.widgets.Media.\l__str__" alt="" coords="539,564,725,605"/>
+<area shape="rect" id="node16" href="$d1/d2a/classdjango_1_1forms_1_1widgets_1_1_choice_input.html#aec772adb8aeaa64fe0cb02769154f8a5" title="django.forms.widgets.Choice\lInput.__str__" alt="" coords="538,279,726,320"/>
+<area shape="rect" id="node17" href="$d7/d97/classdjango_1_1forms_1_1widgets_1_1_choice_field_renderer.html#aeaa481910bbfed17e545ee9b9a55922d" title="django.forms.widgets.Choice\lFieldRenderer.__str__" alt="" coords="538,344,726,385"/>
+<area shape="rect" id="node18" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="543,433,721,475"/>
+<area shape="rect" id="node19" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="553,499,711,540"/>
+</map>

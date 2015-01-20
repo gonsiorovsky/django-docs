@@ -1,0 +1,6 @@
+<map id="django.contrib.comments.admin.CommentsAdmin.flag_comments" name="django.contrib.comments.admin.CommentsAdmin.flag_comments">
+<area shape="rect" id="node2" href="$df/d23/classdjango_1_1contrib_1_1comments_1_1admin_1_1_comments_admin.html#a123513f890f6ea19921b9bd098f6b089" title="django.contrib.comments.admin.\lCommentsAdmin._bulk_flag" alt="" coords="283,5,494,47"/>
+<area shape="rect" id="node3" href="$d4/dd9/namespacedjango_1_1utils_1_1translation.html#a0bd1a493933c14e9241bdbcae6234c69" title="django.utils.translation.ungettext_lazy" alt="" coords="268,71,509,98"/>
+<area shape="rect" id="node4" href="$d4/dd9/namespacedjango_1_1utils_1_1translation.html#a594cec885a57a3afef2d5c63e2ccdf17" title="django.utils.translation.lazy\l_number" alt="" coords="557,64,737,105"/>
+<area shape="rect" id="node5" href="$d3/ddf/namespacedjango_1_1utils_1_1functional.html#ace4bf04a0b3f68c6a6d65df05a3520de" title="django.utils.functional.lazy" alt="" coords="785,71,960,98"/>
+</map>

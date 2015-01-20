@@ -1,0 +1,24 @@
+<map id="django.db.transaction.get_connection" name="django.db.transaction.get_connection">
+<area shape="rect" id="node2" href="$d4/de8/classdjango_1_1db_1_1transaction_1_1_atomic.html#a3d10d3fbbe6a3f024cb3fd2557d00967" title="django.db.transaction.Atomic.\l__enter__" alt="" coords="226,5,421,47"/>
+<area shape="rect" id="node3" href="$d4/de8/classdjango_1_1db_1_1transaction_1_1_atomic.html#a30d69804cf5b229fc8b1d4dde4802bae" title="django.db.transaction.Atomic.\l__exit__" alt="" coords="226,71,421,112"/>
+<area shape="rect" id="node4" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a9df33568910a73c8b6a5badf7a3e14b9" title="Deprecated private APIs #. " alt="" coords="234,137,413,163"/>
+<area shape="rect" id="node5" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#aaed5a1a54c9f062634258697c5e2aa6c" title="django.db.transaction.clean\l_savepoints" alt="" coords="233,188,414,229"/>
+<area shape="rect" id="node6" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a58014798ebf9842d5ca3c6dbb19b9a38" title="django.db.transaction.commit" alt="" coords="227,254,420,281"/>
+<area shape="rect" id="node8" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a6b7c49052b8a5077634e08566124cd70" title="django.db.transaction.commit\l_on_success_unless_managed" alt="" coords="221,553,425,595"/>
+<area shape="rect" id="node9" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#ab76687bf52117a085f54fb42b45baa9e" title="django.db.transaction.enter\l_transaction_management" alt="" coords="234,488,413,529"/>
+<area shape="rect" id="node12" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a8d37e22428e6dd8ab34204db24dbf54d" title="Public APIs #. " alt="" coords="239,619,407,660"/>
+<area shape="rect" id="node13" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a16e99c434dd141ded5e6a98b3893deb3" title="django.db.transaction.get\l_rollback" alt="" coords="239,684,407,725"/>
+<area shape="rect" id="node14" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a4e858360371f7dbe3552e9e30dba0ebb" title="django.db.transaction.is\l_dirty" alt="" coords="243,305,403,347"/>
+<area shape="rect" id="node15" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a0c090e95e5d18c573867ffdbcdd2c20a" title="django.db.transaction.leave\l_transaction_management" alt="" coords="234,423,413,464"/>
+<area shape="rect" id="node16" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a222a39343315dea0c2afa259f8c30b31" title="django.db.transaction.rollback" alt="" coords="226,371,421,398"/>
+<area shape="rect" id="node17" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a1574dfc762ad984a4bb9f577ce758410" title="django.db.transaction.savepoint" alt="" coords="221,750,425,777"/>
+<area shape="rect" id="node18" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a55e9e3ab78464779dec3a8c032928df0" title="django.db.transaction.savepoint\l_commit" alt="" coords="221,801,425,843"/>
+<area shape="rect" id="node19" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a71d66af80b511583a31de4c32ad04660" title="django.db.transaction.savepoint\l_rollback" alt="" coords="221,867,425,908"/>
+<area shape="rect" id="node20" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a2b314299947edc54d8343eb70bba5fb2" title="django.db.transaction.set\l_autocommit" alt="" coords="239,932,407,973"/>
+<area shape="rect" id="node21" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#ac8d941761090527f4dc3fc71c62e397b" title="django.db.transaction.set\l_clean" alt="" coords="239,997,407,1039"/>
+<area shape="rect" id="node22" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a65be7f2f49dd416aaeb50c2b635bdd63" title="django.db.transaction.set\l_dirty" alt="" coords="239,1063,407,1104"/>
+<area shape="rect" id="node23" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a614f6141933a40948ba3100b1485c782" title="django.db.transaction.set\l_rollback" alt="" coords="239,1128,407,1169"/>
+<area shape="rect" id="node7" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a0a433fb3c1fba91b738cde2c3f1aed0e" title="django.db.transaction.commit\l_on_success" alt="" coords="486,364,679,405"/>
+<area shape="rect" id="node10" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#ac765eb3094e0c7bf56f79ae0f506a2cc" title="django.db.transaction.autocommit" alt="" coords="473,495,692,522"/>
+<area shape="rect" id="node11" href="$db/d51/namespacedjango_1_1db_1_1transaction.html#a7c9d2ff2f38903a88f786c203f8b0c33" title="django.db.transaction.commit\l_manually" alt="" coords="486,429,679,471"/>
+</map>

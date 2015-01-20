@@ -1,0 +1,9 @@
+<map id="django.views.generic.detail.SingleObjectMixin.get_context_data" name="django.views.generic.detail.SingleObjectMixin.get_context_data">
+<area shape="rect" id="node2" href="$d1/d13/classdjango_1_1views_1_1generic_1_1edit_1_1_process_form_view.html#a4f5cf8247169f4792593edfe2c9c20d3" title="django.views.generic.edit.\lProcessFormView.get" alt="" coords="284,183,455,225"/>
+<area shape="rect" id="node3" href="$d2/dad/classdjango_1_1contrib_1_1auth_1_1models_1_1_permission_manager.html#a6efe7e59f2efe8e65ac6de26b2992f15" title="django.contrib.auth.models.\lPermissionManager.get_by\l_natural_key" alt="" coords="543,5,725,61"/>
+<area shape="rect" id="node4" href="$d8/dc6/classdjango_1_1contrib_1_1auth_1_1models_1_1_group_manager.html#ac5aa0a9d1d7a47a17c63690b16aa9bdb" title="django.contrib.auth.models.\lGroupManager.get_by_natural_key" alt="" coords="522,85,746,126"/>
+<area shape="rect" id="node5" href="$db/d3d/classdjango_1_1contrib_1_1auth_1_1models_1_1_base_user_manager.html#a5c85b51714c1700b2981e7f8bd745c19" title="django.contrib.auth.models.\lBaseUserManager.get_by_natural_key" alt="" coords="511,150,757,191"/>
+<area shape="rect" id="node6" href="$d0/dbc/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type_manager.html#ad441204452d12dc6932ed82679c8b373" title="django.contrib.contenttypes.models.\lContentTypeManager.get_by_natural_key" alt="" coords="503,215,765,257"/>
+<area shape="rect" id="node7" href="$d0/dbc/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type_manager.html#a77e45a678787e583675e13f9a4d05b31" title="django.contrib.contenttypes.models.\lContentTypeManager.get_for_id" alt="" coords="518,281,750,322"/>
+<area shape="rect" id="node8" href="$d9/d9e/classdjango_1_1contrib_1_1sites_1_1models_1_1_site_manager.html#a8837088e50ef3b4879f1600dec6af2b9" title="django.contrib.sites.models.\lSiteManager.get_current" alt="" coords="541,346,727,387"/>
+</map>

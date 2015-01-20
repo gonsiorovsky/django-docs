@@ -1,0 +1,11 @@
+<map id="django.db.models.sql.query.Query.__deepcopy__" name="django.db.models.sql.query.Query.__deepcopy__">
+<area shape="rect" id="node2" href="$d2/de5/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1query_1_1_geo_query.html#a29ae01547149c137b1dd12c2dc9f2ff6" title="django.contrib.gis.db.models.sql.query.\lGeoQuery.clone" alt="" coords="239,5,488,47"/>
+<area shape="rect" id="node3" href="$db/dfa/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_raw_query.html#a41e402ece12880e64e595a71991cd8bb" title="django.db.models.sql.query.\lRawQuery.clone" alt="" coords="271,71,456,112"/>
+<area shape="rect" id="node4" href="$d9/dcc/classdjango_1_1db_1_1models_1_1query__utils_1_1_q.html#ab29ab5dd6d17ef2ffed8930e679f33c9" title="django.db.models.query\l_utils.Q.clone" alt="" coords="283,136,443,177"/>
+<area shape="rect" id="node5" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#aa6bb2cfdaa60bf19cc387c4ab5747e79" title="Other Methods ###. " alt="" coords="255,201,472,243"/>
+<area shape="rect" id="node7" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#ab518a573c006e7fd51d3c611f1e3d5d1" title="django.contrib.gis.gdal.srs.\lSpatialReference.clone" alt="" coords="274,267,453,308"/>
+<area shape="rect" id="node8" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a99cfcd26acf497e8ea67928507510155" title="django.db.models.sql.query.\lQuery.clone" alt="" coords="271,332,456,373"/>
+<area shape="rect" id="node9" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#aa632a5e07e0facf26b59c993c332b863" title="Geometry Methods ####. " alt="" coords="251,397,475,439"/>
+<area shape="rect" id="node10" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a391607a18e26cffba429cba08dc4e8a0" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.clone" alt="" coords="254,463,473,504"/>
+<area shape="rect" id="node6" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#ad1c79576c2c64486cc16bc9739d04fde" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.hasz" alt="" coords="536,201,753,243"/>
+</map>

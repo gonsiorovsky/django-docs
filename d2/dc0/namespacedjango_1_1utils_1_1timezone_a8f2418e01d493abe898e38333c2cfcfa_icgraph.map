@@ -1,0 +1,15 @@
+<map id="django.utils.timezone.is_aware" name="django.utils.timezone.is_aware">
+<area shape="rect" id="node2" href="$d5/d4a/classdjango_1_1core_1_1serializers_1_1json_1_1_django_j_s_o_n_encoder.html#af8357b876eafa2bceaa034dfe19a4243" title="django.core.serializers.json.\lDjangoJSONEncoder.default" alt="" coords="304,23,491,65"/>
+<area shape="rect" id="node3" href="$d4/d6a/namespacedjango_1_1contrib_1_1humanize_1_1templatetags_1_1humanize.html#a984b6b1ffa35ee38d231120a117186f2" title="django.contrib.humanize.templatetags.humanize.naturaltime" alt="" coords="212,89,583,116"/>
+<area shape="rect" id="node4" href="$d6/df0/namespacedjango_1_1utils_1_1feedgenerator.html#aba89e96ad157504d1b113216118bd490" title="django.utils.feedgenerator.rfc2822_date" alt="" coords="273,140,521,167"/>
+<area shape="rect" id="node7" href="$d6/df0/namespacedjango_1_1utils_1_1feedgenerator.html#a29df28c45474108c592853e86d84011b" title="django.utils.feedgenerator.rfc3339_date" alt="" coords="273,191,521,217"/>
+<area shape="rect" id="node10" href="$d0/d05/namespacedjango_1_1utils_1_1timesince.html#a134f8c37673566d75f82538112d79af7" title="django.utils.timesince.timesince" alt="" coords="293,265,501,292"/>
+<area shape="rect" id="node14" href="$d9/dc6/classdjango_1_1utils_1_1dateformat_1_1_date_format.html#add5345b16f30eb932f17b35d23d3c348" title="django.utils.dateformat.\lDateFormat.U" alt="" coords="319,317,476,358"/>
+<area shape="rect" id="node5" href="$d7/d02/classdjango_1_1utils_1_1feedgenerator_1_1_rss201rev2_feed.html#aa0dfa5e0ca72596cd7d2e19e34ce08ac" title="django.utils.feedgenerator.\lRss201rev2Feed.add_item\l_elements" alt="" coords="667,5,841,61"/>
+<area shape="rect" id="node6" href="$d7/db3/classdjango_1_1utils_1_1feedgenerator_1_1_rss_feed.html#a2695fd8d27ef5dd19127fffcd3796b08" title="django.utils.feedgenerator.\lRssFeed.add_root_elements" alt="" coords="660,85,848,126"/>
+<area shape="rect" id="node8" href="$d2/dc8/classdjango_1_1utils_1_1feedgenerator_1_1_atom1_feed.html#a088dd3cf3c90498f17907de109eca16f" title="django.utils.feedgenerator.\lAtom1Feed.add_item_elements" alt="" coords="651,150,857,191"/>
+<area shape="rect" id="node9" href="$d2/dc8/classdjango_1_1utils_1_1feedgenerator_1_1_atom1_feed.html#a3fb3c960923723e1eb0769332f4b7f17" title="django.utils.feedgenerator.\lAtom1Feed.add_root_elements" alt="" coords="653,215,855,257"/>
+<area shape="rect" id="node11" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ae3a4551550cc9921744db200978a8112" title="django.template.defaultfilters.timesince\l_filter" alt="" coords="631,281,877,322"/>
+<area shape="rect" id="node12" href="$d0/d05/namespacedjango_1_1utils_1_1timesince.html#a47929be3e82e2e4335b0e8dd0f9d17ca" title="django.utils.timesince.timeuntil" alt="" coords="653,347,855,373"/>
+<area shape="rect" id="node13" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#ab8b2768e12ddd4e5169c4749feb0b9d2" title="django.template.defaultfilters.timeuntil\l_filter" alt="" coords="925,339,1165,381"/>
+</map>

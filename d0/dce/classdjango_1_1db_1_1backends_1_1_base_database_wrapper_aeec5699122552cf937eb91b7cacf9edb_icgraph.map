@@ -1,0 +1,4 @@
+<map id="django.db.backends.BaseDatabaseWrapper.rollback" name="django.db.backends.BaseDatabaseWrapper.rollback">
+<area shape="rect" id="node2" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#a3dee1144b5e04acbf3568ecbcc14e188" title="django.db.backends.BaseDatabase\lWrapper.abort" alt="" coords="555,5,781,47"/>
+<area shape="rect" id="node3" href="$d0/dce/classdjango_1_1db_1_1backends_1_1_base_database_wrapper.html#aa80c932a49616d49ba50f190b2532d43" title="django.db.backends.BaseDatabase\lWrapper.leave_transaction\l_management" alt="" coords="280,30,507,86"/>
+</map>

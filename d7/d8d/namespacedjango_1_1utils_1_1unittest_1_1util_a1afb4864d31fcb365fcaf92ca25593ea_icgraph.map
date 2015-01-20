@@ -1,0 +1,10 @@
+<map id="django.utils.unittest.util.strclass" name="django.utils.unittest.util.strclass">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a4ae5d31d6260f72e09fd12f0f34867a4" title="django.utils.unittest.case.\lTestCase.__repr__" alt="" coords="265,5,436,47"/>
+<area shape="rect" id="node3" href="$db/d6a/classdjango_1_1utils_1_1unittest_1_1case_1_1_function_test_case.html#ae57ff12341cdaa4c19b9c798de3980f9" title="django.utils.unittest.case.\lFunctionTestCase.__repr__" alt="" coords="260,71,441,112"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a6d235d439acf89d591d4fb444d19b448" title="django.utils.unittest.case.\lTestCase.__str__" alt="" coords="265,136,436,177"/>
+<area shape="rect" id="node5" href="$db/d6a/classdjango_1_1utils_1_1unittest_1_1case_1_1_function_test_case.html#a44674a68c94da060c87a1c896014467e" title="django.utils.unittest.case.\lFunctionTestCase.__str__" alt="" coords="263,201,438,243"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ac2470900791d638a697fb317ae1f7cf8" title="django.utils.unittest.case.\lTestCase.id" alt="" coords="265,267,436,308"/>
+<area shape="rect" id="node7" href="$db/da8/classdjango_1_1utils_1_1unittest_1_1suite_1_1___error_holder.html#aeae5b5ec7f4966b6ab217eed7de2571f" title="django.utils.unittest.suite.\l_ErrorHolder.__str__" alt="" coords="519,201,689,243"/>
+<area shape="rect" id="node8" href="$dd/d91/classdjango_1_1contrib_1_1sitemaps_1_1tests_1_1base_1_1_test_model.html#a6f320acea39496650160136996455131" title="django.contrib.sitemaps.tests.base.\lTestModel.get_absolute_url" alt="" coords="489,267,719,308"/>
+<area shape="rect" id="node9" href="$dc/db0/classdjango_1_1contrib_1_1auth_1_1models_1_1_abstract_user.html#a4eea92addbb28b562d768d3590615a1e" title="django.contrib.auth.models.\lAbstractUser.get_profile" alt="" coords="513,332,695,373"/>
+</map>

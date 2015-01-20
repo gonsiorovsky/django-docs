@@ -1,0 +1,9 @@
+<map id="django.core.serializers.xml_serializer.Deserializer.__next__" name="django.core.serializers.xml_serializer.Deserializer.__next__">
+<area shape="rect" id="node2" href="$d1/de2/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_deserializer.html#a250a396836120fead866222c30932d3a" title="django.core.serializers.xml\l_serializer.Deserializer.\l_get_model_from_node" alt="" coords="231,5,408,61"/>
+<area shape="rect" id="node3" href="$d1/de2/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_deserializer.html#a33ff99392e682a0aca1e10e7cf2bdbf5" title="django.core.serializers.xml\l_serializer.Deserializer.\l_handle_fk_field_node" alt="" coords="231,85,408,141"/>
+<area shape="rect" id="node4" href="$d1/de2/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_deserializer.html#a5e1f6b0154d614255bb33d5e62b83d8a" title="django.core.serializers.xml\l_serializer.Deserializer.\l_handle_m2m_field_node" alt="" coords="231,165,408,221"/>
+<area shape="rect" id="node5" href="$d1/de2/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_deserializer.html#ac4a713637036f76647fe36059cb09d82" title="django.core.serializers.xml\l_serializer.Deserializer.\l_handle_object" alt="" coords="231,245,408,301"/>
+<area shape="rect" id="node6" href="$d3/db7/namespacedjango_1_1core_1_1serializers_1_1xml__serializer.html#a1a868e4e3f7a7bdf53e9faace721c05a" title="django.core.serializers.xml\l_serializer.getInnerText" alt="" coords="231,325,408,366"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="456,332,667,359"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="715,332,927,359"/>
+</map>

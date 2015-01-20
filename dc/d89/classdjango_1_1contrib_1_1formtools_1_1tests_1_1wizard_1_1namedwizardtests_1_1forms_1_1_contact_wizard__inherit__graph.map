@@ -1,0 +1,6 @@
+<map id="django.contrib.formtools.tests.wizard.namedwizardtests.forms.ContactWizard" name="django.contrib.formtools.tests.wizard.namedwizardtests.forms.ContactWizard">
+<area shape="rect" id="node5" href="$db/d0e/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1namedwizardtests_1_1forms_1_1_cookie_contact_wizard.html" title="django.contrib.formtools.tests.wizard.namedwizardtests.forms.\lCookieContactWizard" alt="" coords="1163,5,1545,47"/>
+<area shape="rect" id="node6" href="$d7/da6/classdjango_1_1contrib_1_1formtools_1_1tests_1_1wizard_1_1namedwizardtests_1_1forms_1_1_session_contact_wizard.html" title="django.contrib.formtools.tests.wizard.namedwizardtests.forms.\lSessionContactWizard" alt="" coords="1163,71,1545,112"/>
+<area shape="rect" id="node2" href="$d1/dd4/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_named_url_wizard_view.html" title="django.contrib.formtools.wizard.views.\lNamedUrlWizardView" alt="" coords="444,39,684,80"/>
+<area shape="rect" id="node3" href="$d4/dce/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1views_1_1_wizard_view.html" title="django.contrib.formtools.wizard.views.\lWizardView" alt="" coords="156,39,396,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.db.models.sql.compiler.SQLCompiler.get_default_columns" name="django.db.models.sql.compiler.SQLCompiler.get_default_columns">
+<area shape="rect" id="node2" href="$df/de2/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_compiler.html#a33e4c4250a0217b7aa137761361e4158" title="django.db.models.sql.compiler.\lSQLCompiler.deferred_to_columns" alt="" coords="291,5,514,47"/>
+<area shape="rect" id="node3" href="$df/de2/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_compiler.html#aba033fead7fde3b393482f7d70701bf3" title="django.db.models.sql.compiler.\lSQLCompiler.quote_name_unless_alias" alt="" coords="276,71,529,112"/>
+</map>

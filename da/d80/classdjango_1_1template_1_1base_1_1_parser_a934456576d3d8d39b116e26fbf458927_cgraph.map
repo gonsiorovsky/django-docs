@@ -1,0 +1,6 @@
+<map id="django.template.base.Parser.unclosed_block_tag" name="django.template.base.Parser.unclosed_block_tag">
+<area shape="rect" id="node2" href="$d0/df3/classdjango_1_1core_1_1management_1_1_lax_option_parser.html#a66956b32699c3f4a4c87cfc9231273ae" title="django.core.management.Lax\lOptionParser.error" alt="" coords="310,5,503,47"/>
+<area shape="rect" id="node3" href="$da/d80/classdjango_1_1template_1_1base_1_1_parser.html#ad3fe9f2107c92584e4cda2af6b139fef" title="django.template.base.Parser.error" alt="" coords="297,71,516,98"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="301,122,512,149"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="564,122,776,149"/>
+</map>

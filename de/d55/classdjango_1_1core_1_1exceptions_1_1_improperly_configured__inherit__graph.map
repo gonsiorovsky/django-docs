@@ -1,0 +1,5 @@
+<map id="django.core.exceptions.ImproperlyConfigured" name="django.core.exceptions.ImproperlyConfigured">
+<area shape="rect" id="node3" href="$d5/d9b/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1storage_1_1exceptions_1_1_missing_storage.html" title="django.contrib.formtools.wizard.storage.exceptions.\lMissingStorage" alt="" coords="401,5,720,47"/>
+<area shape="rect" id="node4" href="$d9/da9/classdjango_1_1contrib_1_1formtools_1_1wizard_1_1storage_1_1exceptions_1_1_no_file_storage_configured.html" title="django.contrib.formtools.wizard.storage.exceptions.\lNoFileStorageConfigured" alt="" coords="401,71,720,112"/>
+<area shape="rect" id="node5" href="$dd/d9f/classdjango_1_1core_1_1cache_1_1backends_1_1base_1_1_invalid_cache_backend_error.html" title="django.core.cache.backends.base.\lInvalidCacheBackendError" alt="" coords="449,136,673,177"/>
+</map>

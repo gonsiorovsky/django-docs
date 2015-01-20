@@ -1,0 +1,10 @@
+<map id="django.contrib.gis.geos.tests.test_geos.GEOSTest.test_transform_3d" name="django.contrib.gis.geos.tests.test_geos.GEOSTest.test_transform_3d">
+<area shape="rect" id="node2" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#ae3cddb6b28c855fb584a533d44167f67" title="django.utils.unittest.case.\lTestCase.assertEqual" alt="" coords="297,32,468,73"/>
+<area shape="rect" id="node4" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a81d086c6c04569a9c6dfb1652da405fd" title="django.utils.unittest.case.\lTestCase.assertIsNone" alt="" coords="297,123,468,164"/>
+<area shape="rect" id="node8" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#ac3f15fbae74f2de4b84110a900d8450b" title="django.utils.unittest.case.skip\lUnless" alt="" coords="285,217,480,259"/>
+<area shape="rect" id="node3" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#af17ff3ab5d3f7738b57d60b1dc3b3221" title="django.utils.unittest.case.\lTestCase._getAssertEqualityFunc" alt="" coords="528,5,748,47"/>
+<area shape="rect" id="node5" href="$d7/d8d/namespacedjango_1_1utils_1_1unittest_1_1util.html#a5458d1adca8e176eb60d4b1bec27f257" title="django.utils.unittest.util.safe_repr" alt="" coords="531,71,745,98"/>
+<area shape="rect" id="node6" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a29110c14097b1e7f5377c5b84b856579" title="django.utils.unittest.case.\lTestCase.fail" alt="" coords="553,123,723,164"/>
+<area shape="rect" id="node7" href="$d4/d87/classdjango_1_1utils_1_1unittest_1_1case_1_1_test_case.html#a40ccce04668f84595605e9aa450c81f8" title="django.utils.unittest.case.\lTestCase._formatMessage" alt="" coords="549,188,727,229"/>
+<area shape="rect" id="node9" href="$d6/dd5/namespacedjango_1_1utils_1_1unittest_1_1case.html#a9784d0588d609fcbf2fbb53c13008841" title="django.utils.unittest.case.skip" alt="" coords="541,254,735,281"/>
+</map>

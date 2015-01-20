@@ -1,0 +1,8 @@
+<map id="django.contrib.gis.db.backends.base.BaseSpatialOperations.get_expression_column" name="django.contrib.gis.db.backends.base.BaseSpatialOperations.get_expression_column">
+<area shape="rect" id="node2" href="$d1/d56/classdjango_1_1db_1_1backends_1_1postgresql__psycopg2_1_1operations_1_1_database_operations.html#a9de529c24a6e04630d1391a1273e09e6" title="django.db.backends.postgresql\l_psycopg2.operations.DatabaseOperations.quote_name" alt="" coords="349,5,696,47"/>
+<area shape="rect" id="node3" href="$da/dbd/classdjango_1_1db_1_1backends_1_1sqlite3_1_1base_1_1_database_operations.html#aed6b9de64ec27dbb01c4184a448ec1fa" title="django.db.backends.sqlite3.base.\lDatabaseOperations.quote_name" alt="" coords="415,71,631,112"/>
+<area shape="rect" id="node4" href="$d0/d5e/classdjango_1_1db_1_1backends_1_1mysql_1_1base_1_1_database_operations.html#a0b7131886e9da5d9bf80c2cbd41a84a4" title="django.db.backends.mysql.base.\lDatabaseOperations.quote_name" alt="" coords="415,136,630,177"/>
+<area shape="rect" id="node5" href="$d9/d74/classdjango_1_1db_1_1backends_1_1oracle_1_1base_1_1_database_operations.html#a87e4fe2dfb4d251d137f4a767cb16b56" title="django.db.backends.oracle.base.\lDatabaseOperations.quote_name" alt="" coords="415,201,630,243"/>
+<area shape="rect" id="node7" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#ae8bfb898b3b94c2f84cf75b33713fbd8" title="django.db.backends.BaseDatabase\lOperations.quote_name" alt="" coords="409,267,636,308"/>
+<area shape="rect" id="node6" href="$d5/d38/classdjango_1_1db_1_1backends_1_1_base_database_operations.html#a2f8d411c6bbe9e82c0e64044d917ad31" title="django.db.backends.BaseDatabase\lOperations.max_name_length" alt="" coords="744,201,971,243"/>
+</map>

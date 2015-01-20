@@ -1,0 +1,5 @@
+<map id="django.middleware.csrf.CsrfViewMiddleware.process_response" name="django.middleware.csrf.CsrfViewMiddleware.process_response">
+<area shape="rect" id="node2" href="$d7/d76/namespacedjango_1_1utils_1_1cache.html#a2a3ca1b9075f9cf618d5c86ab53004ef" title="django.utils.cache.patch\l_vary_headers" alt="" coords="279,5,441,47"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="489,13,700,39"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="748,13,960,39"/>
+</map>

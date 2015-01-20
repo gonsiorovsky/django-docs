@@ -1,0 +1,11 @@
+<map id="django.core.management.commands.compilemessages.Command.handle" name="django.core.management.commands.compilemessages.Command.handle">
+<area shape="rect" id="node2" href="$da/d68/namespacedjango_1_1core_1_1management_1_1commands_1_1compilemessages.html#a187b2dd87c5a63eee1aa0f6985bb7cbc" title="django.core.management.commands.compilemessages.compile\l_messages" alt="" coords="403,89,797,131"/>
+<area shape="rect" id="node3" href="$de/d60/namespacedjango_1_1core_1_1management_1_1utils.html#ada58a3f7823c1a70401aad887474ccde" title="django.core.management.utils.find\l_command" alt="" coords="937,5,1157,47"/>
+<area shape="rect" id="node4" href="$da/d68/namespacedjango_1_1core_1_1management_1_1commands_1_1compilemessages.html#aac9260a00f53000c3ad9b22c86bebdb3" title="django.core.management.commands.compilemessages.has_bom" alt="" coords="845,71,1248,98"/>
+<area shape="rect" id="node5" href="$d4/d9b/namespacedjango_1_1utils_1_1__os.html#ade3ec98df728e34e001dfcf5c769d1d1" title="django.utils._os.npath" alt="" coords="972,122,1121,149"/>
+<area shape="rect" id="node6" href="$de/d60/namespacedjango_1_1core_1_1management_1_1utils.html#a21602dc506f3aa4d163cc3f87fda9686" title="django.core.management.utils.popen\l_wrapper" alt="" coords="929,173,1164,215"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="1296,181,1501,207"/>
+<area shape="rect" id="node8" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1575,144,1734,185"/>
+<area shape="rect" id="node9" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1549,210,1760,237"/>
+<area shape="rect" id="node10" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1808,210,2020,237"/>
+</map>

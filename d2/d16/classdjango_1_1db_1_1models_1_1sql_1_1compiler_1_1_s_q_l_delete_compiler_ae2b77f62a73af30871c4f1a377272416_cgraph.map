@@ -1,0 +1,5 @@
+<map id="django.db.models.sql.compiler.SQLDeleteCompiler.as_sql" name="django.db.models.sql.compiler.SQLDeleteCompiler.as_sql">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="277,5,488,32"/>
+<area shape="rect" id="node4" href="$df/de2/classdjango_1_1db_1_1models_1_1sql_1_1compiler_1_1_s_q_l_compiler.html#aba033fead7fde3b393482f7d70701bf3" title="django.db.models.sql.compiler.\lSQLCompiler.quote_name_unless_alias" alt="" coords="256,57,509,98"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="557,5,769,32"/>
+</map>

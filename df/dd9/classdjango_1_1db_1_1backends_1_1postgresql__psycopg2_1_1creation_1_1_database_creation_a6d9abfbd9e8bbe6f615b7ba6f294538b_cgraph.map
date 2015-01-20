@@ -1,0 +1,6 @@
+<map id="django.db.backends.postgresql_psycopg2.creation.DatabaseCreation.sql_indexes_for_field" name="django.db.backends.postgresql_psycopg2.creation.DatabaseCreation.sql_indexes_for_field">
+<area shape="rect" id="node2" href="$d9/d72/namespacedjango_1_1db_1_1backends_1_1util.html#a1b0512e0c711f8be09ed6b6b9e893df4" title="django.db.backends.util.truncate_name" alt="" coords="316,20,565,47"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="613,13,789,54"/>
+<area shape="rect" id="node4" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="837,20,1048,47"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1096,20,1308,47"/>
+</map>

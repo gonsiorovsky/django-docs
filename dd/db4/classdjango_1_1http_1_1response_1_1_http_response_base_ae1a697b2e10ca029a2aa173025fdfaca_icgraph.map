@@ -1,0 +1,6 @@
+<map id="django.http.response.HttpResponseBase.make_bytes" name="django.http.response.HttpResponseBase.make_bytes">
+<area shape="rect" id="node2" href="$dd/db4/classdjango_1_1http_1_1response_1_1_http_response_base.html#ab59eccf226452eb3710571f46db8f9d6" title="django.http.response.Http\lResponseBase.__next__" alt="" coords="261,5,431,47"/>
+<area shape="rect" id="node3" href="$d9/d55/classdjango_1_1http_1_1response_1_1_http_response.html#a6a6105112fddbe2e45c018df20a4f902" title="django.http.response.Http\lResponse.content" alt="" coords="261,71,431,112"/>
+<area shape="rect" id="node4" href="$d9/d55/classdjango_1_1http_1_1response_1_1_http_response.html#a69ad40ab858898a75eca0c36aa98bddb" title="django.http.response.Http\lResponse.serialize" alt="" coords="261,136,431,177"/>
+<area shape="rect" id="node5" href="$d7/d35/classdjango_1_1http_1_1response_1_1_streaming_http_response.html#a10d5afdd540d1ab8bf46b71b7d9a4e6d" title="django.http.response.Streaming\lHttpResponse.streaming_content" alt="" coords="239,201,453,243"/>
+</map>

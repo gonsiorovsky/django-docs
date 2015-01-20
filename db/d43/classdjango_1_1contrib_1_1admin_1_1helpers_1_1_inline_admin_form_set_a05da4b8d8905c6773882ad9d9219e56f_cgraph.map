@@ -1,0 +1,11 @@
+<map id="django.contrib.admin.helpers.InlineAdminFormSet.fields" name="django.contrib.admin.helpers.InlineAdminFormSet.fields">
+<area shape="rect" id="node2" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#aa7577b0379cd92249ba88d88cf2a4f96" title="django.contrib.admin.util.flatten\l_fieldsets" alt="" coords="245,5,448,47"/>
+<area shape="rect" id="node3" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#af4886324a819c35c432c8a743a53c47a" title="django.contrib.admin.util.help\l_text_for_field" alt="" coords="251,71,442,112"/>
+<area shape="rect" id="node9" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a3c91bf70434ef45ef7694fe381b620f7" title="django.contrib.admin.util.label\l_for_field" alt="" coords="249,136,444,177"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a70be6b2e09019403d3e88524ec6992c2" title="django.utils.encoding.smart_text" alt="" coords="518,78,729,105"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="799,103,1004,130"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1078,67,1237,108"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1052,133,1263,159"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1311,133,1523,159"/>
+<area shape="rect" id="node10" href="$dc/d54/namespacedjango_1_1contrib_1_1gis_1_1measure.html#aa4fb89c2a12a967d6a8396876a363551" title="django.contrib.gis.measure.pretty_name" alt="" coords="496,179,751,206"/>
+</map>

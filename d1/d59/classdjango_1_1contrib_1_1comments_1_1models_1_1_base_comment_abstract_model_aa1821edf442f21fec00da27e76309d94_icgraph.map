@@ -1,0 +1,4 @@
+<map id="django.contrib.comments.models.BaseCommentAbstractModel.get_content_object_url" name="django.contrib.comments.models.BaseCommentAbstractModel.get_content_object_url">
+<area shape="rect" id="node2" href="$db/d61/classdjango_1_1contrib_1_1comments_1_1models_1_1_comment.html#a25bd446c9e887073383e289eb3238114" title="django.contrib.comments.models.\lComment.get_absolute_url" alt="" coords="272,13,491,54"/>
+<area shape="rect" id="node3" href="$db/d61/classdjango_1_1contrib_1_1comments_1_1models_1_1_comment.html#a0e31c4360251ef8872bcb0be6d9845cd" title="django.contrib.comments.models.\lComment.get_as_text" alt="" coords="539,13,757,54"/>
+</map>

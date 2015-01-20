@@ -1,0 +1,8 @@
+<map id="django.db.models.sql.query.Query" name="django.db.models.sql.query.Query">
+<area shape="rect" id="node3" href="$d0/d32/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_aggregate_query.html" title="django.db.models.sql.subqueries.\lAggregateQuery" alt="" coords="344,5,560,47"/>
+<area shape="rect" id="node4" href="$da/d26/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_date_query.html" title="django.db.models.sql.subqueries.\lDateQuery" alt="" coords="344,71,560,112"/>
+<area shape="rect" id="node6" href="$d2/df9/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_delete_query.html" title="django.db.models.sql.subqueries.\lDeleteQuery" alt="" coords="344,136,560,177"/>
+<area shape="rect" id="node7" href="$dc/db2/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_insert_query.html" title="django.db.models.sql.subqueries.\lInsertQuery" alt="" coords="344,201,560,243"/>
+<area shape="rect" id="node8" href="$d5/de4/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_update_query.html" title="django.db.models.sql.subqueries.\lUpdateQuery" alt="" coords="344,267,560,308"/>
+<area shape="rect" id="node5" href="$d8/dbf/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_date_time_query.html" title="django.db.models.sql.subqueries.\lDateTimeQuery" alt="" coords="608,71,824,112"/>
+</map>

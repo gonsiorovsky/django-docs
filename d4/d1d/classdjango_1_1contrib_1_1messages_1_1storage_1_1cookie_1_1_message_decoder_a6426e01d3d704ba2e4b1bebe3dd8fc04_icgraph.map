@@ -1,0 +1,5 @@
+<map id="django.contrib.messages.storage.cookie.MessageDecoder.decode" name="django.contrib.messages.storage.cookie.MessageDecoder.decode">
+<area shape="rect" id="node2" href="$d2/d1a/classdjango_1_1contrib_1_1sessions_1_1backends_1_1db_1_1_session_store.html#acf69a521dd775ace6dfb33295f52424a" title="django.contrib.sessions.backends.db.\lSessionStore.load" alt="" coords="325,5,567,47"/>
+<area shape="rect" id="node3" href="$d9/dd2/classdjango_1_1contrib_1_1sessions_1_1backends_1_1cached__db_1_1_session_store.html#a9351ddf17d9557507b07575e8cbafa66" title="django.contrib.sessions.backends.cached\l_db.SessionStore.load" alt="" coords="313,71,579,112"/>
+<area shape="rect" id="node4" href="$dc/dba/classdjango_1_1contrib_1_1sessions_1_1backends_1_1file_1_1_session_store.html#ae9d0410b8f413875b25556b8dc5b1ed1" title="django.contrib.sessions.backends.file.\lSessionStore.load" alt="" coords="325,136,567,177"/>
+</map>

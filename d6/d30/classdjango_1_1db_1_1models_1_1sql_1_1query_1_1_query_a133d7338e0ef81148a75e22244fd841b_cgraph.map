@@ -1,0 +1,5 @@
+<map id="django.db.models.sql.query.Query.reset_refcounts" name="django.db.models.sql.query.Query.reset_refcounts">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ac520983e4ee5db5d4bde9da569e24438" title="django.db.models.sql.query.\lQuery.promote_disjunction" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node4" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a686a5180497c9d1de7d92b1c2e0b4115" title="django.db.models.sql.query.\lQuery.unref_alias" alt="" coords="239,71,424,112"/>
+<area shape="rect" id="node3" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ac7820285fde97545728e77e864d8c295" title="django.db.models.sql.query.\lQuery.promote_joins" alt="" coords="472,5,657,47"/>
+</map>

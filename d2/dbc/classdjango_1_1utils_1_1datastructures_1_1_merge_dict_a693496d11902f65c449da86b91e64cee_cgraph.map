@@ -1,0 +1,14 @@
+<map id="django.utils.datastructures.MergeDict.copy" name="django.utils.datastructures.MergeDict.copy">
+<area shape="rect" id="node2" href="$d9/da5/classdjango_1_1template_1_1context_1_1_base_context.html#a8be8692b35a381305ac02307b66085d3" title="django.template.context.\lBaseContext.__copy__" alt="" coords="259,5,424,47"/>
+<area shape="rect" id="node3" href="$d2/dbc/classdjango_1_1utils_1_1datastructures_1_1_merge_dict.html#ac1bec6bf1a53811b33d0084da27f84d6" title="django.utils.datastructures.\lMergeDict.__copy__" alt="" coords="252,71,431,112"/>
+<area shape="rect" id="node4" href="$da/d63/classdjango_1_1template_1_1context_1_1_context.html#a8216ea3dbc71e0c600d6511cf3758959" title="django.template.context.\lContext.__copy__" alt="" coords="259,136,424,177"/>
+<area shape="rect" id="node5" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a1f10ca516e0c558c8ea0f7708312a34f" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.__copy__" alt="" coords="232,201,451,243"/>
+<area shape="rect" id="node12" href="$db/d75/classdjango_1_1db_1_1models_1_1fields_1_1_field.html#aeb596c630dd7273754a85a78f96e2180" title="django.db.models.fields.\lField.__copy__" alt="" coords="260,267,423,308"/>
+<area shape="rect" id="node13" href="$d3/dd6/classdjango_1_1http_1_1request_1_1_query_dict.html#ad0b0ecdeb383ad3fcbae7941ac389a50" title="django.http.request.Query\lDict.__copy__" alt="" coords="255,332,427,373"/>
+<area shape="rect" id="node6" href="$d2/de5/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1sql_1_1query_1_1_geo_query.html#a29ae01547149c137b1dd12c2dc9f2ff6" title="django.contrib.gis.db.models.sql.query.\lGeoQuery.clone" alt="" coords="499,71,748,112"/>
+<area shape="rect" id="node7" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#aa6bb2cfdaa60bf19cc387c4ab5747e79" title="Other Methods ###. " alt="" coords="515,136,732,177"/>
+<area shape="rect" id="node9" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#ab518a573c006e7fd51d3c611f1e3d5d1" title="django.contrib.gis.gdal.srs.\lSpatialReference.clone" alt="" coords="534,201,713,243"/>
+<area shape="rect" id="node10" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#aa632a5e07e0facf26b59c993c332b863" title="Geometry Methods ####. " alt="" coords="511,267,735,308"/>
+<area shape="rect" id="node11" href="$d1/d67/classdjango_1_1contrib_1_1gis_1_1geos_1_1geometry_1_1_g_e_o_s_geometry.html#a391607a18e26cffba429cba08dc4e8a0" title="django.contrib.gis.geos.geometry.\lGEOSGeometry.clone" alt="" coords="514,332,733,373"/>
+<area shape="rect" id="node8" href="$d5/d0c/classdjango_1_1contrib_1_1gis_1_1geos_1_1coordseq_1_1_g_e_o_s_coord_seq.html#ad1c79576c2c64486cc16bc9739d04fde" title="django.contrib.gis.geos.coordseq.\lGEOSCoordSeq.hasz" alt="" coords="796,136,1013,177"/>
+</map>

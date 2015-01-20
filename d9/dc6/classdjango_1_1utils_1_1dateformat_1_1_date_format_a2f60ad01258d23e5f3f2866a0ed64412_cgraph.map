@@ -1,0 +1,7 @@
+<map id="django.utils.dateformat.DateFormat.r" name="django.utils.dateformat.DateFormat.r">
+<area shape="rect" id="node2" href="$df/dec/classdjango_1_1utils_1_1dateformat_1_1_formatter.html#a38e26a1608eccfb1b5612c4048c5a25b" title="django.utils.dateformat.\lFormatter.format" alt="" coords="211,39,368,80"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="416,21,621,47"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="669,71,880,98"/>
+<area shape="rect" id="node4" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="695,5,854,47"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="928,71,1140,98"/>
+</map>

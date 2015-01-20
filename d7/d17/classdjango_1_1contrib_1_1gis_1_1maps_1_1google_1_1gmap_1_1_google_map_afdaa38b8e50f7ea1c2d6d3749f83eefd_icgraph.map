@@ -1,0 +1,11 @@
+<map id="django.contrib.gis.maps.google.gmap.GoogleMap.icons" name="django.contrib.gis.maps.google.gmap.GoogleMap.icons">
+<area shape="rect" id="node2" href="$d7/d17/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map.html#aba74616667dd0e595fcd74ebfa155c3c" title="django.contrib.gis.maps.google.gmap.\lGoogleMap.render" alt="" coords="296,201,539,243"/>
+<area shape="rect" id="node10" href="$df/db8/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map_set.html#a24b57bfd2305d101bbd8d85f7deb197f" title="django.contrib.gis.maps.google.gmap.\lGoogleMapSet.render" alt="" coords="296,136,539,177"/>
+<area shape="rect" id="node3" href="$d9/d04/classdjango_1_1templatetags_1_1i18n_1_1_block_translate_node.html#ae2a5dbe10c4413fbd2686d9e41c531c3" title="django.templatetags.i18n.\lBlockTranslateNode.render" alt="" coords="619,291,797,332"/>
+<area shape="rect" id="node4" href="$d8/d46/classdjango_1_1forms_1_1widgets_1_1_media.html#a0e4a19dea13251e926d6e295c1c0f8c3" title="django.forms.widgets.Media.\l__str__" alt="" coords="615,5,801,47"/>
+<area shape="rect" id="node5" href="$d1/d2a/classdjango_1_1forms_1_1widgets_1_1_choice_input.html#aec772adb8aeaa64fe0cb02769154f8a5" title="django.forms.widgets.Choice\lInput.__str__" alt="" coords="614,71,802,112"/>
+<area shape="rect" id="node6" href="$d7/d97/classdjango_1_1forms_1_1widgets_1_1_choice_field_renderer.html#aeaa481910bbfed17e545ee9b9a55922d" title="django.forms.widgets.Choice\lFieldRenderer.__str__" alt="" coords="614,136,802,177"/>
+<area shape="rect" id="node7" href="$d7/d17/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map.html#a747b0e81bfe2ea9ae993ce2cb7a0fe64" title="django.contrib.gis.maps.google.gmap.\lGoogleMap.js" alt="" coords="587,356,829,397"/>
+<area shape="rect" id="node9" href="$d5/dfa/classdjango_1_1template_1_1loader__tags_1_1_block_node.html#acfbfda3e2377ce3cd1562a35f9413628" title="django.template.loader\l_tags.BlockNode.super" alt="" coords="629,201,787,243"/>
+<area shape="rect" id="node8" href="$d7/d17/classdjango_1_1contrib_1_1gis_1_1maps_1_1google_1_1gmap_1_1_google_map.html#a412ec1b7d8216629b14ce6a5f37c131c" title="django.contrib.gis.maps.google.gmap.\lGoogleMap.scripts" alt="" coords="877,356,1120,397"/>
+</map>

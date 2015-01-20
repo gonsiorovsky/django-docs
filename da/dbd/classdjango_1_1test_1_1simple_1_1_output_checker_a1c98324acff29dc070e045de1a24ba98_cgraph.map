@@ -1,0 +1,10 @@
+<map id="django.test.simple.OutputChecker.check_output" name="django.test.simple.OutputChecker.check_output">
+<area shape="rect" id="node2" href="$da/dbd/classdjango_1_1test_1_1simple_1_1_output_checker.html#a84b5fc6db44db99227afa20ad471ca9e" title="django.test.simple.Output\lChecker.check_output_default" alt="" coords="228,5,425,47"/>
+<area shape="rect" id="node3" href="$da/dbd/classdjango_1_1test_1_1simple_1_1_output_checker.html#a1983fbb33060ab9428d3341edd6feeb2" title="django.test.simple.Output\lChecker.check_output_json" alt="" coords="484,73,667,115"/>
+<area shape="rect" id="node5" href="$da/dbd/classdjango_1_1test_1_1simple_1_1_output_checker.html#ad4b4e4190defd02226b45baa7ef88ea0" title="django.test.simple.Output\lChecker.check_output_numeric" alt="" coords="224,123,429,164"/>
+<area shape="rect" id="node6" href="$da/dbd/classdjango_1_1test_1_1simple_1_1_output_checker.html#ad1cf4686564bec2678beae29e0c413c0" title="django.test.simple.Output\lChecker.check_output_xml" alt="" coords="237,188,417,229"/>
+<area shape="rect" id="node4" href="$da/d7d/namespacedjango_1_1test_1_1utils.html#a0b3faa52aac98d5cee4619ffaa25b31c" title="django.test.utils.strip\l_quotes" alt="" coords="755,89,898,131"/>
+<area shape="rect" id="node7" href="$da/d7d/namespacedjango_1_1test_1_1utils.html#a9914415ddc2b1abe0424eab97da4da4b" title="django.test.utils.compare_xml" alt="" coords="477,163,673,190"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="721,163,932,190"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="980,163,1192,190"/>
+</map>

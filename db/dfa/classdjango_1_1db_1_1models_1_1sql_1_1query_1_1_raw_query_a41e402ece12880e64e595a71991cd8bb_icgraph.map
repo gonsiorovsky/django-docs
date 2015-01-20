@@ -1,0 +1,8 @@
+<map id="django.db.models.sql.query.RawQuery.clone" name="django.db.models.sql.query.RawQuery.clone">
+<area shape="rect" id="node2" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a47d0b39c5cf5d7f03c4ce7f394792e9e" title="django.db.models.sql.query.\lQuery.__deepcopy__" alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node5" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#aaad89f08acaf20db55f5ff9abb64017e" title="django.db.models.sql.query.\lQuery.get_aggregation" alt="" coords="239,71,424,112"/>
+<area shape="rect" id="node6" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#ac79609ff8cae523450ee522120f71f02" title="django.db.models.sql.query.\lQuery.get_count" alt="" coords="239,136,424,177"/>
+<area shape="rect" id="node7" href="$d6/d30/classdjango_1_1db_1_1models_1_1sql_1_1query_1_1_query.html#a21494e4c235f7fe535ede4df5da6ad07" title="django.db.models.sql.query.\lQuery.has_results" alt="" coords="239,201,424,243"/>
+<area shape="rect" id="node3" href="$d3/dd6/classdjango_1_1http_1_1request_1_1_query_dict.html#ae0e3cea351ea34f0e9139f73870da81e" title="django.http.request.Query\lDict.copy" alt="" coords="472,5,644,47"/>
+<area shape="rect" id="node4" href="$d7/d5e/classdjango_1_1utils_1_1datastructures_1_1_sorted_dict.html#aad5c29aa2af987dc59cb0f877ffc6892" title="django.utils.datastructures.\lSortedDict.__copy__" alt="" coords="692,5,871,47"/>
+</map>

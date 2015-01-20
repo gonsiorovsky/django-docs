@@ -1,0 +1,5 @@
+<map id="django.contrib.sessions.backends.cache.SessionStore.create" name="django.contrib.sessions.backends.cache.SessionStore.create">
+<area shape="rect" id="node2" href="$d9/dd2/classdjango_1_1contrib_1_1sessions_1_1backends_1_1cached__db_1_1_session_store.html#a689a0a07d929dd4e1dd252d82104a655" title="django.contrib.sessions.backends.cached\l_db.SessionStore.flush" alt="" coords="316,5,581,47"/>
+<area shape="rect" id="node3" href="$d0/dbc/classdjango_1_1contrib_1_1contenttypes_1_1models_1_1_content_type_manager.html#a27e6f0dfe59e5b0f868a79aa1b2117d8" title="django.contrib.contenttypes.models.\lContentTypeManager.get_for_models" alt="" coords="330,71,567,112"/>
+<area shape="rect" id="node4" href="$d9/dd2/classdjango_1_1contrib_1_1sessions_1_1backends_1_1cached__db_1_1_session_store.html#a9351ddf17d9557507b07575e8cbafa66" title="django.contrib.sessions.backends.cached\l_db.SessionStore.load" alt="" coords="316,136,581,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.db.backends.creation.BaseDatabaseCreation.sql_destroy_indexes_for_fields" name="django.db.backends.creation.BaseDatabaseCreation.sql_destroy_indexes_for_fields">
+<area shape="rect" id="node2" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html#a46b4eaeab502a7c9619b3c783b4fc54d" title="django.db.backends.creation.\lBaseDatabaseCreation.sql\l_destroy_indexes_for_field" alt="" coords="245,5,437,61"/>
+<area shape="rect" id="node3" href="$da/d5a/classdjango_1_1db_1_1backends_1_1creation_1_1_base_database_creation.html#aca27f3181a29cefbf7cfdb818b863a9a" title="django.db.backends.creation.\lBaseDatabaseCreation.sql\l_destroy_indexes_for_model" alt="" coords="485,39,677,95"/>
+</map>

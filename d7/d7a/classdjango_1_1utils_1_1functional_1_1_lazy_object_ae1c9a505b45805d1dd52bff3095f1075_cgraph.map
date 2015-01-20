@@ -1,0 +1,6 @@
+<map id="django.utils.functional.LazyObject.__setattr__" name="django.utils.functional.LazyObject.__setattr__">
+<area shape="rect" id="node2" href="$dc/d44/classdjango_1_1conf_1_1_lazy_settings.html#aa3fcf9321600ac9a0f4a88c7a99e463f" title="django.conf.LazySettings.\l_setup" alt="" coords="231,5,403,47"/>
+<area shape="rect" id="node3" href="$d7/d7a/classdjango_1_1utils_1_1functional_1_1_lazy_object.html#a16ef0843ad966768d3b511f2bc04d126" title="django.utils.functional.\lLazyObject._setup" alt="" coords="242,71,393,112"/>
+<area shape="rect" id="node4" href="$d6/d94/classdjango_1_1core_1_1files_1_1storage_1_1_default_storage.html#adec12cae7d96383960f2b4a89cef313a" title="django.core.files.storage.\lDefaultStorage._setup" alt="" coords="234,136,401,177"/>
+<area shape="rect" id="node5" href="$d8/d03/classdjango_1_1contrib_1_1staticfiles_1_1storage_1_1_configured_storage.html#a6a69ea64de2f1e41a281a601a10228fb" title="django.contrib.staticfiles.storage.\lConfiguredStorage._setup" alt="" coords="211,201,424,243"/>
+</map>

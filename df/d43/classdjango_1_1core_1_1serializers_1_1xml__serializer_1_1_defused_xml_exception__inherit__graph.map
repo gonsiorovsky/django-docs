@@ -1,0 +1,5 @@
+<map id="django.core.serializers.xml_serializer.DefusedXmlException" name="django.core.serializers.xml_serializer.DefusedXmlException">
+<area shape="rect" id="node3" href="$d0/d00/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_d_t_d_forbidden.html" title="django.core.serializers.xml\l_serializer.DTDForbidden" alt="" coords="430,5,607,47"/>
+<area shape="rect" id="node4" href="$d5/dc9/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_entities_forbidden.html" title="django.core.serializers.xml\l_serializer.EntitiesForbidden" alt="" coords="425,71,612,112"/>
+<area shape="rect" id="node5" href="$db/d76/classdjango_1_1core_1_1serializers_1_1xml__serializer_1_1_external_reference_forbidden.html" title="django.core.serializers.xml\l_serializer.ExternalReferenceForbidden" alt="" coords="395,136,643,177"/>
+</map>

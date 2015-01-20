@@ -1,0 +1,5 @@
+<map id="django.template.loader_tags.BaseIncludeNode" name="django.template.loader_tags.BaseIncludeNode">
+<area shape="rect" id="node4" href="$d6/da8/classdjango_1_1template_1_1loader__tags_1_1_constant_include_node.html" title="django.template.loader\l_tags.ConstantIncludeNode" alt="" coords="545,5,727,47"/>
+<area shape="rect" id="node5" href="$de/dd4/classdjango_1_1template_1_1loader__tags_1_1_include_node.html" title="django.template.loader\l_tags.IncludeNode" alt="" coords="559,71,713,112"/>
+<area shape="rect" id="node2" href="$d9/d54/classdjango_1_1template_1_1base_1_1_node.html" title="django.template.base.Node" alt="" coords="111,46,291,73"/>
+</map>

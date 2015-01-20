@@ -1,0 +1,6 @@
+<map id="django.db.models.sql.subqueries.UpdateQuery.__init__" name="django.db.models.sql.subqueries.UpdateQuery.__init__">
+<area shape="rect" id="node2" href="$d5/de4/classdjango_1_1db_1_1models_1_1sql_1_1subqueries_1_1_update_query.html#a21d2fc05ccf452926e8f453266227e4d" title="django.db.models.sql.subqueries.\lUpdateQuery._setup_query" alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node3" href="$d6/d19/classdjango_1_1db_1_1models_1_1query_1_1_values_query_set.html#a2843a63c7a35a2fc81359d1726203489" title="django.db.models.query.Values\lQuerySet._setup_query" alt="" coords="275,71,479,112"/>
+<area shape="rect" id="node4" href="$d3/d5b/classdjango_1_1db_1_1models_1_1query_1_1_date_query_set.html#a3dfeb8f7c7c6d8775f9046d167e0d135" title="django.db.models.query.Date\lQuerySet._setup_query" alt="" coords="282,136,473,177"/>
+<area shape="rect" id="node5" href="$da/d08/classdjango_1_1db_1_1models_1_1query_1_1_date_time_query_set.html#ac89fc6d36bb903b597be0f34b67f4a0a" title="django.db.models.query.Date\lTimeQuerySet._setup_query" alt="" coords="282,201,473,243"/>
+</map>

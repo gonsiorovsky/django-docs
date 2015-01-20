@@ -1,0 +1,10 @@
+<map id="django.contrib.messages.tests.urls.ContactFormViewWithMsg" name="django.contrib.messages.tests.urls.ContactFormViewWithMsg">
+<area shape="rect" id="node2" href="$d5/dc2/classdjango_1_1contrib_1_1messages_1_1views_1_1_success_message_mixin.html" title="django.contrib.messages.views.\lSuccessMessageMixin" alt="" coords="589,5,796,47"/>
+<area shape="rect" id="node5" href="$d8/d0b/classdjango_1_1views_1_1generic_1_1base_1_1_template_response_mixin.html" title="django.views.generic.base.\lTemplateResponseMixin" alt="" coords="364,64,541,105"/>
+<area shape="rect" id="node8" href="$d1/d6a/classdjango_1_1views_1_1generic_1_1base_1_1_context_mixin.html" title="django.views.generic.base.\lContextMixin" alt="" coords="125,128,302,169"/>
+<area shape="rect" id="node10" href="$d0/ddc/classdjango_1_1views_1_1generic_1_1base_1_1_view.html" title="django.views.generic.base.View" alt="" coords="111,197,316,223"/>
+<area shape="rect" id="node4" href="$dc/d7e/classdjango_1_1views_1_1generic_1_1edit_1_1_form_view.html" title="django.views.generic.edit.\lFormView" alt="" coords="844,64,1015,105"/>
+<area shape="rect" id="node6" href="$dc/dd4/classdjango_1_1views_1_1generic_1_1edit_1_1_base_form_view.html" title="django.views.generic.edit.\lBaseFormView" alt="" coords="607,129,778,171"/>
+<area shape="rect" id="node7" href="$df/d6a/classdjango_1_1views_1_1generic_1_1edit_1_1_form_mixin.html" title="django.views.generic.edit.\lFormMixin" alt="" coords="367,129,538,171"/>
+<area shape="rect" id="node9" href="$d1/d13/classdjango_1_1views_1_1generic_1_1edit_1_1_process_form_view.html" title="django.views.generic.edit.\lProcessFormView" alt="" coords="367,195,538,236"/>
+</map>

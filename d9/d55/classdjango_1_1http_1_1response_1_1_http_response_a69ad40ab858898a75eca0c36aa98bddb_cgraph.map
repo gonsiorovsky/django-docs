@@ -1,0 +1,8 @@
+<map id="django.http.response.HttpResponse.serialize" name="django.http.response.HttpResponse.serialize">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="687,113,897,140"/>
+<area shape="rect" id="node4" href="$dd/db4/classdjango_1_1http_1_1response_1_1_http_response_base.html#ae1a697b2e10ca029a2aa173025fdfaca" title="django.http.response.Http\lResponseBase.make_bytes" alt="" coords="224,54,409,95"/>
+<area shape="rect" id="node7" href="$dd/db4/classdjango_1_1http_1_1response_1_1_http_response_base.html#a0c5179d2df9cd27112b9710d83a578ed" title="django.http.response.Http\lResponseBase.serialize\l_headers" alt="" coords="231,144,402,200"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="945,113,1157,140"/>
+<area shape="rect" id="node5" href="$dd/db4/classdjango_1_1http_1_1response_1_1_http_response_base.html#acf385698b0f2f2532781288e0b0c24a8" title="django.http.response.Http\lResponseBase.has_header" alt="" coords="457,40,639,82"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="460,106,636,147"/>
+</map>

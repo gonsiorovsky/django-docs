@@ -1,0 +1,4 @@
+<map id="django.db.backends.sqlite3.introspection.DatabaseIntrospection" name="django.db.backends.sqlite3.introspection.DatabaseIntrospection">
+<area shape="rect" id="node4" href="$db/d7b/classdjango_1_1contrib_1_1gis_1_1db_1_1backends_1_1spatialite_1_1introspection_1_1_spatia_lite_introspection.html" title="django.contrib.gis.db.backends.spatialite.introspection.\lSpatiaLiteIntrospection" alt="" coords="5,259,345,300"/>
+<area shape="rect" id="node2" href="$d6/d2a/classdjango_1_1db_1_1backends_1_1_base_database_introspection.html" title="django.db.backends.BaseDatabase\lIntrospection" alt="" coords="62,80,289,121"/>
+</map>

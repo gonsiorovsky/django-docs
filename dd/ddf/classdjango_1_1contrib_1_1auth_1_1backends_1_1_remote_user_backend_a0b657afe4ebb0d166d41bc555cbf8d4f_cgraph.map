@@ -1,0 +1,9 @@
+<map id="django.contrib.auth.backends.RemoteUserBackend.authenticate" name="django.contrib.auth.backends.RemoteUserBackend.authenticate">
+<area shape="rect" id="node2" href="$dd/ddf/classdjango_1_1contrib_1_1auth_1_1backends_1_1_remote_user_backend.html#a9f9b271e93cc575b10dfa0a132addf3f" title="django.contrib.auth.backends.\lRemoteUserBackend.clean_username" alt="" coords="273,5,517,47"/>
+<area shape="rect" id="node3" href="$dd/ddf/classdjango_1_1contrib_1_1auth_1_1backends_1_1_remote_user_backend.html#a510c1101bacdfbd232704add825de866" title="django.contrib.auth.backends.\lRemoteUserBackend.configure_user" alt="" coords="279,71,512,112"/>
+<area shape="rect" id="node4" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ad11b72f71e98c7df642a60b4fd267680" title="django.contrib.auth.get\l_user_model" alt="" coords="318,136,473,177"/>
+<area shape="rect" id="node5" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a5fd6967d8d2e7b45ce2fd930730ac412" title="django.contrib.comments.get\l_model" alt="" coords="565,136,756,177"/>
+<area shape="rect" id="node6" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a60881c6f7b8b1d51a2b28d9961b4233c" title="django.contrib.comments.get\l_comment_app_name" alt="" coords="1043,107,1233,148"/>
+<area shape="rect" id="node7" href="$db/db4/namespacedjango_1_1contrib_1_1comments.html#a2a0159dc7a5e9946976f1161dd085850" title="django.contrib.comments.get\l_comment_app" alt="" coords="804,165,995,207"/>
+<area shape="rect" id="node8" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1047,172,1229,213"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="django.contrib.gis.gdal.envelope.Envelope.wkt" name="django.contrib.gis.gdal.envelope.Envelope.wkt">
+<area shape="rect" id="node2" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#ac59ea15dbeab8f305eb57502a02b9aac" title="django.contrib.gis.gdal.geometries.\lOGRGeometry.__str__" alt="" coords="264,5,488,47"/>
+<area shape="rect" id="node3" href="$dd/d78/classdjango_1_1contrib_1_1gis_1_1gdal_1_1geometries_1_1_o_g_r_geometry.html#a1883d82e7f5a4c5393811b67dacf2ee0" title="django.contrib.gis.gdal.geometries.\lOGRGeometry.ewkt" alt="" coords="264,71,488,112"/>
+</map>

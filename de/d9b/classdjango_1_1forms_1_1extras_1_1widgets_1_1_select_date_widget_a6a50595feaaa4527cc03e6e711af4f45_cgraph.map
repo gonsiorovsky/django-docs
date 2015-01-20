@@ -1,0 +1,12 @@
+<map id="django.forms.extras.widgets.SelectDateWidget.render" name="django.forms.extras.widgets.SelectDateWidget.render">
+<area shape="rect" id="node2" href="$de/d9b/classdjango_1_1forms_1_1extras_1_1widgets_1_1_select_date_widget.html#a41885ddc3a72cd910cebcf72f2fb8b9b" title="django.forms.extras.widgets.\lSelectDateWidget.create_select" alt="" coords="242,71,451,112"/>
+<area shape="rect" id="node5" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a57f6e7d4923ab64f397326dad6d95d4a" title="django.utils.formats.get\l_format" alt="" coords="268,136,425,177"/>
+<area shape="rect" id="node10" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="241,202,452,229"/>
+<area shape="rect" id="node11" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="518,227,730,254"/>
+<area shape="rect" id="node3" href="$d4/d5e/classdjango_1_1forms_1_1widgets_1_1_widget.html#a7dcb73bb3840f3f087b44b422d352470" title="django.forms.widgets.Widget.build\l_attrs" alt="" coords="514,5,734,47"/>
+<area shape="rect" id="node4" href="$d0/df0/classdjango_1_1contrib_1_1admin_1_1widgets_1_1_related_field_widget_wrapper.html#ac61e5ea088c35d3ce5c9812ed808ad74" title="django.contrib.admin.widgets.\lRelatedFieldWidgetWrapper.build_attrs" alt="" coords="500,71,748,112"/>
+<area shape="rect" id="node6" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#a0b07dd01ac13e64133e61daae47d5fdc" title="django.utils.formats.get\l_format_modules" alt="" coords="545,136,703,177"/>
+<area shape="rect" id="node7" href="$d1/dc8/namespacedjango_1_1utils_1_1formats.html#afb21c168301f96cb0bc7872d812188a6" title="django.utils.formats.iter\l_format_modules" alt="" coords="796,136,953,177"/>
+<area shape="rect" id="node8" href="$d4/dd9/namespacedjango_1_1utils_1_1translation.html#aad019bee05041d9f143049c5939441c7" title="django.utils.translation.to\l_locale" alt="" coords="1009,103,1175,144"/>
+<area shape="rect" id="node9" href="$d7/d89/namespacedjango_1_1utils_1_1importlib.html#a4a3bf0d66e970f1bca5c594519934056" title="django.utils.importlib.import\l_module" alt="" coords="1001,168,1183,209"/>
+</map>

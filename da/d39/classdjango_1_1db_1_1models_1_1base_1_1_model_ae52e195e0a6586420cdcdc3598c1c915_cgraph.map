@@ -1,0 +1,11 @@
+<map id="django.db.models.base.Model.serializable_value" name="django.db.models.base.Model.serializable_value">
+<area shape="rect" id="node2" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#adac0ebe2b44f9ae9e29b8bf0e1707123" title="django.db.models.base.Model.save" alt="" coords="317,103,543,129"/>
+<area shape="rect" id="node3" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="615,43,826,69"/>
+<area shape="rect" id="node5" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a141d2b131855e2ab1357903338143eaa" title="django.db.models.base.Model.save_base" alt="" coords="591,163,851,189"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="899,5,1111,32"/>
+<area shape="rect" id="node6" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a4fa5aaf5e69a546a40a455f782ad3174" title="django.db.models.base.Model.\l_do_insert" alt="" coords="905,57,1104,98"/>
+<area shape="rect" id="node7" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#ad08b19056308dc3525849f3ae8aa5ae4" title="django.db.models.base.Model.\l_do_update" alt="" coords="905,122,1104,163"/>
+<area shape="rect" id="node8" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a90498d07894016693425e6aac56d29dc" title="django.db.models.base.Model.\l_get_pk_val" alt="" coords="905,187,1104,229"/>
+<area shape="rect" id="node9" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#a1f0111872baa460f37e45c14ac958a66" title="django.db.models.base.Model.\l_save_parents" alt="" coords="905,253,1104,294"/>
+<area shape="rect" id="node10" href="$da/d39/classdjango_1_1db_1_1models_1_1base_1_1_model.html#aa9502cc0f69d3a742c9ad340497c87d2" title="django.db.models.base.Model.\l_save_table" alt="" coords="905,318,1104,359"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="django.contrib.comments.templatetags.comments.BaseCommentNode" name="django.contrib.comments.templatetags.comments.BaseCommentNode">
+<area shape="rect" id="node7" href="$d5/dab/classdjango_1_1contrib_1_1comments_1_1templatetags_1_1comments_1_1_comment_count_node.html" title="django.contrib.comments.templatetags.comments.\lCommentCountNode" alt="" coords="1039,5,1355,47"/>
+<area shape="rect" id="node8" href="$d4/d07/classdjango_1_1contrib_1_1comments_1_1templatetags_1_1comments_1_1_comment_form_node.html" title="django.contrib.comments.templatetags.comments.\lCommentFormNode" alt="" coords="1039,71,1355,112"/>
+<area shape="rect" id="node10" href="$d3/dba/classdjango_1_1contrib_1_1comments_1_1templatetags_1_1comments_1_1_comment_list_node.html" title="django.contrib.comments.templatetags.comments.\lCommentListNode" alt="" coords="1039,136,1355,177"/>
+<area shape="rect" id="node3" href="$d3/d96/classdjango_1_1contrib_1_1comments_1_1templatetags_1_1comments_1_1_rename_base_comment_node_methods.html" title="django.contrib.comments.templatetags.comments.\lRenameBaseCommentNodeMethods" alt="" coords="311,71,627,112"/>
+<area shape="rect" id="node4" href="$d8/d97/classdjango_1_1utils_1_1deprecation_1_1_rename_methods_base.html" title="django.utils.deprecation.\lRenameMethodsBase" alt="" coords="100,71,263,112"/>
+<area shape="rect" id="node9" href="$d2/dc5/classdjango_1_1contrib_1_1comments_1_1templatetags_1_1comments_1_1_render_comment_form_node.html" title="django.contrib.comments.templatetags.comments.\lRenderCommentFormNode" alt="" coords="1403,71,1719,112"/>
+<area shape="rect" id="node11" href="$d9/d14/classdjango_1_1contrib_1_1comments_1_1templatetags_1_1comments_1_1_render_comment_list_node.html" title="django.contrib.comments.templatetags.comments.\lRenderCommentListNode" alt="" coords="1403,136,1719,177"/>
+</map>

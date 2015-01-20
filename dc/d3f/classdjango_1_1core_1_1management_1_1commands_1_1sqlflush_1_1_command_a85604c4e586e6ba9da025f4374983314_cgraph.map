@@ -1,0 +1,5 @@
+<map id="django.core.management.commands.sqlflush.Command.handle_noargs" name="django.core.management.commands.sqlflush.Command.handle_noargs">
+<area shape="rect" id="node2" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="341,5,552,32"/>
+<area shape="rect" id="node4" href="$db/d61/namespacedjango_1_1core_1_1management_1_1sql.html#a7411e622bba9db4e29d54e21623f3d85" title="django.core.management.sql.sql\l_flush" alt="" coords="341,57,552,98"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="600,5,812,32"/>
+</map>

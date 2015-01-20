@@ -1,0 +1,12 @@
+<map id="django.contrib.admin.templatetags.admin_list.result_headers" name="django.contrib.admin.templatetags.admin_list.result_headers">
+<area shape="rect" id="node2" href="$d4/d5b/namespacedjango_1_1utils_1_1dateformat.html#ace6e8327610305c4f8914e01dfcfa68c" title="django.utils.dateformat.format" alt="" coords="342,5,535,32"/>
+<area shape="rect" id="node3" href="$df/d4d/namespacedjango_1_1contrib_1_1gis_1_1sitemaps_1_1views.html#a059313ff46f790c4daab0bdf6ce27a01" title="django.contrib.gis.sitemaps.views.index" alt="" coords="313,56,564,83"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="915,124,1125,151"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1173,192,1385,219"/>
+<area shape="rect" id="node7" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#a3c91bf70434ef45ef7694fe381b620f7" title="django.contrib.admin.util.label\l_for_field" alt="" coords="341,158,536,199"/>
+<area shape="rect" id="node11" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#aaaefde7859fe1bf353ac71952c024eb9" title="django.template.defaultfilters.lower" alt="" coords="328,309,549,336"/>
+<area shape="rect" id="node4" href="$dd/dc1/namespacedjango_1_1contrib_1_1sites_1_1models.html#ac860a722ec59d77bb079240f60831a7f" title="django.contrib.sites.models.get\l_current_site" alt="" coords="638,41,841,82"/>
+<area shape="rect" id="node8" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="637,157,842,184"/>
+<area shape="rect" id="node10" href="$dc/d54/namespacedjango_1_1contrib_1_1gis_1_1measure.html#aa4fb89c2a12a967d6a8396876a363551" title="django.contrib.gis.measure.pretty_name" alt="" coords="612,208,867,235"/>
+<area shape="rect" id="node9" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="941,175,1099,217"/>
+</map>

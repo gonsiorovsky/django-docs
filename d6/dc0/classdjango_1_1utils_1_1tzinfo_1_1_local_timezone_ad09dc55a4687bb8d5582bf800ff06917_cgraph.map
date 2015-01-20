@@ -1,0 +1,9 @@
+<map id="django.utils.tzinfo.LocalTimezone.tzname" name="django.utils.tzinfo.LocalTimezone.tzname">
+<area shape="rect" id="node2" href="$d6/dc0/classdjango_1_1utils_1_1tzinfo_1_1_local_timezone.html#a79b886edb62dba77ce37b5490537364a" title="django.utils.tzinfo.Local\lTimezone._isdst" alt="" coords="236,5,395,47"/>
+<area shape="rect" id="node3" href="$de/dcd/classdjango_1_1utils_1_1timezone_1_1_reference_local_timezone.html#afe50a0a4e1520765825f874ec65e4882" title="django.utils.timezone.Reference\lLocalTimezone._isdst" alt="" coords="212,71,419,112"/>
+<area shape="rect" id="node4" href="$d4/de1/classdjango_1_1utils_1_1timezone_1_1_local_timezone.html#a96334f4d41c07cb3d398f9f7adfb7418" title="django.utils.timezone.Local\lTimezone._isdst" alt="" coords="225,136,405,177"/>
+<area shape="rect" id="node5" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="213,202,418,229"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="493,165,651,207"/>
+<area shape="rect" id="node7" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="467,231,677,258"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="725,231,937,258"/>
+</map>

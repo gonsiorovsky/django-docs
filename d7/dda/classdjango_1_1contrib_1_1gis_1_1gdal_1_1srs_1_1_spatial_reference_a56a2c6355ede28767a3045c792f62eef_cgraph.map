@@ -1,0 +1,5 @@
+<map id="django.contrib.gis.gdal.srs.SpatialReference.ellipsoid" name="django.contrib.gis.gdal.srs.SpatialReference.ellipsoid">
+<area shape="rect" id="node2" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#aa1cb86018cf35976adec40d2b60afbab" title="django.contrib.gis.gdal.srs.\lSpatialReference.inverse\l_flattening" alt="" coords="238,5,417,61"/>
+<area shape="rect" id="node3" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#aad42de6e331177a2571de2d769cfd8f4" title="django.contrib.gis.gdal.srs.\lSpatialReference.semi_major" alt="" coords="232,85,423,126"/>
+<area shape="rect" id="node4" href="$d7/dda/classdjango_1_1contrib_1_1gis_1_1gdal_1_1srs_1_1_spatial_reference.html#a854c78f2abe2545a955d36953ca1f837" title="django.contrib.gis.gdal.srs.\lSpatialReference.semi_minor" alt="" coords="232,150,423,191"/>
+</map>

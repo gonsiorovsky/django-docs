@@ -1,0 +1,9 @@
+<map id="django.dispatch.dispatcher.receiver" name="django.dispatch.dispatcher.receiver">
+<area shape="rect" id="node2" href="$d9/dd0/namespacedjango_1_1test_1_1signals.html#a8d1fae0d6e844c1465adfbd396b939f1" title="django.test.signals.clear\l_context_processors_cache" alt="" coords="279,5,465,47"/>
+<area shape="rect" id="node3" href="$d9/dd0/namespacedjango_1_1test_1_1signals.html#a4e7a2cc06c4d4ab71cf95dd9ae3b429d" title="django.test.signals.clear\l_serializers_cache" alt="" coords="291,71,453,112"/>
+<area shape="rect" id="node4" href="$d9/dd0/namespacedjango_1_1test_1_1signals.html#a0e8135e3a266f2bca2c9cd0d8679b8e3" title="django.test.signals.clear\l_template_loaders_cache" alt="" coords="287,136,457,177"/>
+<area shape="rect" id="node5" href="$d9/dd0/namespacedjango_1_1test_1_1signals.html#aee685e427d04965123b216154b7bc59b" title="django.test.signals.language\l_changed" alt="" coords="279,201,465,243"/>
+<area shape="rect" id="node6" href="$d0/d86/classdjango_1_1dispatch_1_1dispatcher_1_1_signal.html#ac9743452a80fd6a1fd5143c4ae6e0789" title="django.dispatch.dispatcher.\lSignal.send" alt="" coords="281,267,463,308"/>
+<area shape="rect" id="node7" href="$d0/d86/classdjango_1_1dispatch_1_1dispatcher_1_1_signal.html#aef56258be58b29f5d4986cd4c89bdc82" title="django.dispatch.dispatcher.\lSignal.send_robust" alt="" coords="281,332,463,373"/>
+<area shape="rect" id="node8" href="$d9/dd0/namespacedjango_1_1test_1_1signals.html#ab8ddc4c8359d498a5826a747d19fc168" title="django.test.signals.update\l_connections_time_zone" alt="" coords="285,397,459,439"/>
+</map>

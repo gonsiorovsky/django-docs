@@ -1,0 +1,5 @@
+<map id="django.test.simple.get_tests" name="django.test.simple.get_tests">
+<area shape="rect" id="node2" href="$d2/d40/namespacedjango_1_1test_1_1simple.html#ae16809931d02ec10463b2056b537849d" title="django.test.simple.build\l_suite" alt="" coords="219,5,377,47"/>
+<area shape="rect" id="node3" href="$d2/d40/namespacedjango_1_1test_1_1simple.html#ac03aaee7d02674c874336a67ef3196f3" title="django.test.simple.build_test" alt="" coords="204,71,392,98"/>
+<area shape="rect" id="node4" href="$d7/ddc/classdjango_1_1test_1_1simple_1_1_django_test_suite_runner.html#a017ae70ae225c5374beddf5a3f316795" title="django.test.simple.Django\lTestSuiteRunner.build_suite" alt="" coords="440,64,624,105"/>
+</map>

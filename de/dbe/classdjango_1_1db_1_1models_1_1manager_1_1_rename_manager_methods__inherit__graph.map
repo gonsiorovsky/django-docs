@@ -1,0 +1,6 @@
+<map id="django.db.models.manager.RenameManagerMethods" name="django.db.models.manager.RenameManagerMethods">
+<area shape="rect" id="node4" href="$de/d37/classdjango_1_1db_1_1models_1_1manager_1_1_manager.html" title="django.db.models.manager.\lManager" alt="" coords="541,39,724,80"/>
+<area shape="rect" id="node2" href="$d8/d97/classdjango_1_1utils_1_1deprecation_1_1_rename_methods_base.html" title="django.utils.deprecation.\lRenameMethodsBase" alt="" coords="100,39,263,80"/>
+<area shape="rect" id="node5" href="$d7/da3/classdjango_1_1contrib_1_1gis_1_1db_1_1models_1_1manager_1_1_geo_manager.html" title="django.contrib.gis.db.models.manager.\lGeoManager" alt="" coords="772,5,1019,47"/>
+<area shape="rect" id="node6" href="$d6/da8/classdjango_1_1db_1_1models_1_1manager_1_1_empty_manager.html" title="django.db.models.manager.\lEmptyManager" alt="" coords="804,71,987,112"/>
+</map>

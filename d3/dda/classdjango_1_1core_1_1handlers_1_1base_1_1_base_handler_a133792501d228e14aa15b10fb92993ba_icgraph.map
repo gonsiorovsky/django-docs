@@ -1,0 +1,4 @@
+<map id="django.core.handlers.base.BaseHandler.get_response" name="django.core.handlers.base.BaseHandler.get_response">
+<area shape="rect" id="node2" href="$d0/dc5/classdjango_1_1test_1_1client_1_1_client_handler.html#aa721c18797af53ba99536a1199cdaed1" title="django.test.client.Client\lHandler.__call__" alt="" coords="241,5,399,47"/>
+<area shape="rect" id="node3" href="$dc/d50/classdjango_1_1core_1_1handlers_1_1wsgi_1_1_w_s_g_i_handler.html#a584d12563ff745eaaf93c899487f83a6" title="django.core.handlers.wsgi.\lWSGIHandler.__call__" alt="" coords="232,71,408,112"/>
+</map>

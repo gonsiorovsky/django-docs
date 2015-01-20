@@ -1,0 +1,12 @@
+<map id="django.contrib.admin.options.ModelAdmin.get_fieldsets" name="django.contrib.admin.options.ModelAdmin.get_fieldsets">
+<area shape="rect" id="node2" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a63c9f27aef10b23595c4e8739035d7fb" title="django.contrib.admin.options.\lModelAdmin.get_form" alt="" coords="245,123,437,164"/>
+<area shape="rect" id="node4" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a47173b0caea93e6d12edbf8d67c7d3e9" title="django.contrib.admin.options.\lBaseModelAdmin.get_readonly_fields" alt="" coords="485,5,724,47"/>
+<area shape="rect" id="node3" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#aa7577b0379cd92249ba88d88cf2a4f96" title="django.contrib.admin.util.flatten\l_fieldsets" alt="" coords="503,71,706,112"/>
+<area shape="rect" id="node5" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a69c1e22a27136493ee0644406e10d2e1" title="django.contrib.admin.options.\lBaseModelAdmin.formfield\l_for_dbfield" alt="" coords="509,135,701,191"/>
+<area shape="rect" id="node10" href="$d3/d88/namespacedjango_1_1forms_1_1models.html#a9c113de19864d7286be76480d67f6ed6" title="django.forms.models.modelform\l_defines_fields" alt="" coords="501,215,708,256"/>
+<area shape="rect" id="node11" href="$d3/d88/namespacedjango_1_1forms_1_1models.html#a9c176f9df863127d7f0860aa0d281faf" title="django.forms.models.modelform\l_factory" alt="" coords="501,280,708,321"/>
+<area shape="rect" id="node6" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a939b71834c38360bbdc946292266ff67" title="django.contrib.admin.options.\lBaseModelAdmin.formfield\l_for_choice_field" alt="" coords="772,55,964,111"/>
+<area shape="rect" id="node7" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a8c1b22ec934cb28a9db530bc8052aa03" title="django.contrib.admin.options.\lBaseModelAdmin.formfield\l_for_foreignkey" alt="" coords="772,135,964,191"/>
+<area shape="rect" id="node9" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#ab05636fffc6d583e3951b912b075fbc7" title="django.contrib.admin.options.\lBaseModelAdmin.formfield\l_for_manytomany" alt="" coords="772,215,964,271"/>
+<area shape="rect" id="node8" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a022685398b82b425b5eba4d3d115ce05" title="django.contrib.admin.options.\lBaseModelAdmin.get_field\l_queryset" alt="" coords="1012,175,1204,231"/>
+</map>

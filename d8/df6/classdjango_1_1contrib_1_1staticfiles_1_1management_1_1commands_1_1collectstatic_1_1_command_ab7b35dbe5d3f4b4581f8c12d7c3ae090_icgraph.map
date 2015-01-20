@@ -1,0 +1,4 @@
+<map id="django.contrib.staticfiles.management.commands.collectstatic.Command.set_options" name="django.contrib.staticfiles.management.commands.collectstatic.Command.set_options">
+<area shape="rect" id="node2" href="$d8/df6/classdjango_1_1contrib_1_1staticfiles_1_1management_1_1commands_1_1collectstatic_1_1_command.html#a59df23b3803f411e3ada3f4751ab5453" title="django.contrib.staticfiles.management.commands.collectstatic.\lCommand.handle_noargs" alt="" coords="440,5,827,47"/>
+<area shape="rect" id="node3" href="$d5/dd2/classdjango_1_1core_1_1management_1_1base_1_1_no_args_command.html#ab36d38656c8e0790ce73bc650a1c9dc4" title="django.core.management.base.\lNoArgsCommand.handle" alt="" coords="875,5,1079,47"/>
+</map>

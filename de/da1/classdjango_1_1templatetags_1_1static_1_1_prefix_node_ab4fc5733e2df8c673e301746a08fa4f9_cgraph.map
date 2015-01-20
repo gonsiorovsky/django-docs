@@ -1,0 +1,8 @@
+<map id="django.templatetags.static.PrefixNode.render" name="django.templatetags.static.PrefixNode.render">
+<area shape="rect" id="node2" href="$de/da1/classdjango_1_1templatetags_1_1static_1_1_prefix_node.html#a79eef23a99a2b7220bc6fcb29e11610e" title="django.templatetags.static.\lPrefixNode.handle_simple" alt="" coords="232,27,411,69"/>
+<area shape="rect" id="node3" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#adedd59fca095fd910d91ba3317749c7a" title="django.utils.encoding.iri\l_to_uri" alt="" coords="459,27,617,69"/>
+<area shape="rect" id="node4" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#aa6ea7c1ad8c36a98e14e6745750bc77f" title="django.contrib.admin.util.quote" alt="" coords="665,5,864,32"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#ab8e33e2e18a6c5b83ef3baf3808adabb" title="django.utils.encoding.force\l_bytes" alt="" coords="677,57,853,98"/>
+<area shape="rect" id="node5" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="912,35,1123,61"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1171,35,1383,61"/>
+</map>

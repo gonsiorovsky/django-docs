@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$df/d61/classdjango_1_1core_1_1mail_1_1message_1_1_safe_m_i_m_e_multipart.html" title="django.core.mail.message.\lSafeMIMEMultipart" alt="" coords="232,11,411,53"/>
+<area shape="rect" id="node4" href="$d4/dbd/classdjango_1_1core_1_1mail_1_1message_1_1_safe_m_i_m_e_text.html" title="django.core.mail.message.\lSafeMIMEText" alt="" coords="232,90,411,131"/>
+<area shape="rect" id="node5" href="$d4/d2e/classdjango_1_1core_1_1mail_1_1message_1_1_m_i_m_e_mixin.html" title="django.core.mail.message.\lMIMEMixin" alt="" coords="5,57,184,98"/>
+</map>

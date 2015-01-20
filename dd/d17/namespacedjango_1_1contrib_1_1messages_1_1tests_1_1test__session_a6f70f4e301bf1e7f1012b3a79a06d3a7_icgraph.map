@@ -1,0 +1,7 @@
+<map id="django.contrib.messages.tests.test_session.set_session_data" name="django.contrib.messages.tests.test_session.set_session_data">
+<area shape="rect" id="node2" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#aa448386a69e8af7d70bd706191f81b4b" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.test\l_flush_used_backends" alt="" coords="283,5,509,61"/>
+<area shape="rect" id="node3" href="$dd/daf/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__session_1_1_session_test.html#a7b15fb26a82ea74b9e95b36e968a30da" title="django.contrib.messages.tests.test\l_session.SessionTest.test_get" alt="" coords="283,85,509,126"/>
+<area shape="rect" id="node4" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#a1451ed02c4c1d6a33007ff01fd45d56d" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.test\l_get_fallback" alt="" coords="283,149,509,205"/>
+<area shape="rect" id="node5" href="$d8/d5b/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__fallback_1_1_fallback_test.html#a61941016db65c56cebeb16e56ea249c0" title="django.contrib.messages.tests.test\l_fallback.FallbackTest.test\l_get_fallback_only" alt="" coords="283,229,509,285"/>
+<area shape="rect" id="node6" href="$dd/daf/classdjango_1_1contrib_1_1messages_1_1tests_1_1test__session_1_1_session_test.html#a5930dfccc803efc499932f8b4103ca6d" title="django.contrib.messages.tests.test\l_session.SessionTest.test_safedata" alt="" coords="280,309,512,350"/>
+</map>

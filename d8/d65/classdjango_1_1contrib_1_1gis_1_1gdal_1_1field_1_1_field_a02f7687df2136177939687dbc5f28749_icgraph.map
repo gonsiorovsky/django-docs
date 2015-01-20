@@ -1,0 +1,12 @@
+<map id="django.contrib.gis.gdal.field.Field.as_double" name="django.contrib.gis.gdal.field.Field.as_double">
+<area shape="rect" id="node2" href="$d9/d05/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_integer.html#aab710e64a331594d8a101975de5ec256" title="django.contrib.gis.gdal.field.\lOFTInteger.value" alt="" coords="236,112,419,153"/>
+<area shape="rect" id="node11" href="$d8/d01/classdjango_1_1contrib_1_1gis_1_1gdal_1_1field_1_1_o_f_t_real.html#aba0c175b636a19f53ad54bc76a20df8b" title="django.contrib.gis.gdal.field.\lOFTReal.value" alt="" coords="236,177,419,219"/>
+<area shape="rect" id="node3" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#ab46d1927696ab3dfc67cac9b5c5eea04" title="django.forms.forms.Bound\lField.__iter__" alt="" coords="467,80,640,121"/>
+<area shape="rect" id="node6" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#abf40803e2dbccc3522deebd0a8c23b52" title="django.forms.forms.Bound\lField.as_widget" alt="" coords="467,193,640,235"/>
+<area shape="rect" id="node4" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a51c097fed64a889d6b3585cb847fd061" title="django.forms.forms.Bound\lField.__len__" alt="" coords="688,5,861,47"/>
+<area shape="rect" id="node5" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#af70be3e86cf9812f14778f199f011d36" title="django.forms.forms.Bound\lField.__getitem__" alt="" coords="688,71,861,112"/>
+<area shape="rect" id="node7" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a8bb60ec8dcb2d7a1a5b34b65dae107e7" title="django.forms.forms.Bound\lField.__str__" alt="" coords="909,289,1083,331"/>
+<area shape="rect" id="node8" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a10214d6042e957f8434a07b554c3b741" title="django.forms.forms.Bound\lField.as_text" alt="" coords="688,136,861,177"/>
+<area shape="rect" id="node9" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a453a89e3905e8ff6eccd82a7b2012c90" title="django.forms.forms.Bound\lField.as_textarea" alt="" coords="688,201,861,243"/>
+<area shape="rect" id="node10" href="$d1/d09/classdjango_1_1forms_1_1forms_1_1_bound_field.html#a3c96a2635514c51b52d6b559b580317d" title="django.forms.forms.Bound\lField.as_hidden" alt="" coords="688,319,861,360"/>
+</map>

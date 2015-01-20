@@ -1,0 +1,17 @@
+<map id="django.contrib.auth.admin.UserAdmin.get_urls" name="django.contrib.auth.admin.UserAdmin.get_urls">
+<area shape="rect" id="node2" href="$de/de2/namespacedjango_1_1conf_1_1urls.html#a42b1f901fc3427e211174178cb7cef17" title="django.conf.urls.patterns" alt="" coords="259,45,423,72"/>
+<area shape="rect" id="node4" href="$de/d3c/classdjango_1_1contrib_1_1auth_1_1admin_1_1_user_admin.html#adaa390acc3ce76b85865d281eefeb669" title="django.contrib.auth.admin.\lUserAdmin.user_change_password" alt="" coords="228,169,455,210"/>
+<area shape="rect" id="node3" href="$de/de2/namespacedjango_1_1conf_1_1urls.html#a0d929b2688e11cbe53318d9dcf100dd9" title="django.conf.urls.url" alt="" coords="539,5,669,32"/>
+<area shape="rect" id="node5" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a214a26c013e36e7da387390535895595" title="django.contrib.admin.options.\lBaseModelAdmin.has_change\l_permission" alt="" coords="505,56,703,112"/>
+<area shape="rect" id="node7" href="$db/d8c/namespacedjango_1_1shortcuts.html#a40c5bc475dc5d6110ffb3d334ef5c610" title="django.shortcuts.get\l_object_or_404" alt="" coords="534,135,674,177"/>
+<area shape="rect" id="node8" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a9dc124c9d075b1782f0338dd500ec940" title="django.contrib.admin.options.\lBaseModelAdmin.get_queryset" alt="" coords="503,201,705,242"/>
+<area shape="rect" id="node10" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#aa2f30d63aeb719863f6ede3fe38e1c53" title="django.contrib.admin.options.\lModelAdmin.construct_change\l_message" alt="" coords="503,331,705,387"/>
+<area shape="rect" id="node16" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#ae75e8f5048939e928e649d9d1f35c9c0" title="django.contrib.admin.options.\lModelAdmin.log_change" alt="" coords="508,266,700,307"/>
+<area shape="rect" id="node6" href="$d6/dc4/namespacedjango_1_1contrib_1_1auth.html#ac05c6c9aa6bf502e9c586d221ce294d3" title="django.contrib.auth.get\l_permission_codename" alt="" coords="777,63,935,105"/>
+<area shape="rect" id="node9" href="$d3/dd6/classdjango_1_1contrib_1_1admin_1_1options_1_1_base_model_admin.html#a3f9fee45b98ad708a112a28d526b6560" title="django.contrib.admin.options.\lBaseModelAdmin.get_ordering" alt="" coords="757,201,955,242"/>
+<area shape="rect" id="node11" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="753,284,959,311"/>
+<area shape="rect" id="node13" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1007,341,1217,368"/>
+<area shape="rect" id="node15" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a444ecfee3dd9a66a3f041eedf698f6aa" title="django.contrib.admin.options.\lModelAdmin.message_user" alt="" coords="760,390,952,431"/>
+<area shape="rect" id="node12" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1033,275,1191,317"/>
+<area shape="rect" id="node14" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1265,341,1477,368"/>
+</map>

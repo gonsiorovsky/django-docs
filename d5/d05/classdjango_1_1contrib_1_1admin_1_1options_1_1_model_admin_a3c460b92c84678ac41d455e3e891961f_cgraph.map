@@ -1,0 +1,11 @@
+<map id="django.contrib.admin.options.ModelAdmin.response_action" name="django.contrib.admin.options.ModelAdmin.response_action">
+<area shape="rect" id="node2" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#abe304366181aa3c68f336155e5656bd5" title="django.contrib.admin.options.\lModelAdmin.get_action_choices" alt="" coords="247,64,457,105"/>
+<area shape="rect" id="node3" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a18360f20a3d210ded48ea4643a05093f" title="django.contrib.admin.options.\lModelAdmin.get_actions" alt="" coords="511,5,703,47"/>
+<area shape="rect" id="node10" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a444ecfee3dd9a66a3f041eedf698f6aa" title="django.contrib.admin.options.\lModelAdmin.message_user" alt="" coords="256,129,448,171"/>
+<area shape="rect" id="node5" href="$d8/db3/namespacedjango_1_1contrib_1_1admin_1_1util.html#ac8f980aebe0fe07d039e4d613e242025" title="django.contrib.admin.util.model\l_format_dict" alt="" coords="505,71,708,112"/>
+<area shape="rect" id="node4" href="$d5/d05/classdjango_1_1contrib_1_1admin_1_1options_1_1_model_admin.html#a05404ec2d84db4077177ae2b774e14f7" title="django.contrib.admin.options.\lModelAdmin.get_action" alt="" coords="763,5,955,47"/>
+<area shape="rect" id="node6" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#a35821115f8612b0f3c714cd3d2d73ff8" title="django.utils.encoding.force_text" alt="" coords="756,78,961,105"/>
+<area shape="rect" id="node7" href="$d0/d43/namespacedjango_1_1utils_1_1encoding.html#abfe89dc37a9c4bf78157ed7900b20b7a" title="django.utils.encoding.is\l_protected_type" alt="" coords="1035,71,1194,112"/>
+<area shape="rect" id="node8" href="$d8/d1a/namespacedjango_1_1template_1_1defaultfilters.html#a4989a617ab4381f1c4495a43a781cd14" title="django.template.defaultfilters.join" alt="" coords="1009,137,1220,163"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespacedjango_1_1utils_1_1safestring.html#ad619fcdb2667e8e30d2bfe5e0f062869" title="django.utils.safestring.mark_safe" alt="" coords="1268,137,1480,163"/>
+</map>
